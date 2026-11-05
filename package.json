@@ -1,0 +1,14 @@
+{
+  "name": "cet4-offline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "CET-4 offline papers, audio and single-page PDF generator",
+  "scripts": {
+    "rebuild": "node rebuild.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^23.11.1"
+  }
+}

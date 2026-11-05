@@ -8,3 +8,9 @@ Thumbs.db
 
 # Node
 node_modules/
+
+# 只保留新版单页 / 两页合订 PDF；忽略旧版多页 A4 PDF 及被占用残留
+pdfs/*.pdf
+!pdfs/*_原卷.pdf
+!pdfs/*_听力原文.pdf
+!pdfs/*_完整.pdf
