@@ -1,0 +1,686 @@
+{
+  "id": 37,
+  "exam": 37,
+  "exam_details": {
+    "id": 37,
+    "title": "2020年12月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2020,
+    "month": 12,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-27T12:07:22.920000+08:00",
+    "updated_at": "2025-04-27T12:07:22.920000+08:00",
+    "exam_id": 37,
+    "submission_count": 0,
+    "cet_content_id": 37,
+    "has_draft": true
+  },
+  "created_at": "2025-04-27T12:32:07.311000+08:00",
+  "updated_at": "2025-04-27T12:34:37.358000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. Many people have been attacked by Devil Firefish.",
+              "B. The Mediterranean is a natural habitat of Devil Firefish.",
+              "C. Invasive species are driving away certain native species.",
+              "D. A deadly fish has been spotted in the Mediterranean waters."
+            ],
+            "question": "What is reported in the news?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. It could badly pollute the surrounding waters.",
+              "B. It could pose a threat to other marine species.",
+              "C. It could disrupt the food chains there.",
+              "D. It could add to greenhouse emissions."
+            ],
+            "question": "What is the environmentalist concern about the spread of devil firefish in the Mediterranean?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Cars will not be allowed to enter the city.",
+              "B. Pedestrians will have free access to the city.",
+              "C. About half of its city center will be closed to cars.",
+              "D. Buses will be the only vehicles allowed on its streets."
+            ],
+            "question": "What will happen on World Car Free Day in Paris?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. The unbearable traffic noise.",
+              "B. The worsening global warming.",
+              "C. The ever-growing cost of petrol.",
+              "D. The rising air pollution in Paris."
+            ],
+            "question": "What motivated the mayor of Paris to promote the first World Car-Free Day in her city?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. His house was burnt down in a fire.",
+              "B. Many of his possessions were stolen.",
+              "C. His good luck charm sank into the sea.",
+              "D. His fishing boat got wrecked on a rock."
+            ],
+            "question": "What happened to the Philippine fishermen one day?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. Change his fishing locations.",
+              "B. Find a job in a travel agency.",
+              "C. Sell the pearl he had kept for years.",
+              "D. Spend a few nights on a small island."
+            ],
+            "question": "What was the fisherman forced to do?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. His pearl could be displayed in a museum.",
+              "B. His monstrous pearl was extremely valuable.",
+              "C. The largest pearl in the world weighs 14 pounds.",
+              "D. A New York museum has the world’s biggest pearl."
+            ],
+            "question": "What did the fishermen learn from the tourist agent?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. It boasts a fairly long history.",
+              "B. It has over 50 business partners.",
+              "C. It has 75 offices around the world.",
+              "D. It produces construction materials."
+            ],
+            "question": "What do we learn about the women's company?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. It was started by his father.",
+              "B. It has about 50 employees.",
+              "C. It is over 100 years old.",
+              "D. It is a family business."
+            ],
+            "question": "What does the man say about his own company?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. Outdated product design.",
+              "B. Loss of competitive edge.",
+              "C. Shortage of raw material supply.",
+              "D. Legal disputes in many countries."
+            ],
+            "question": "What is the main problem with the man's company?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Introducing innovative marketing strategies.",
+              "B. Seeking new ways to increase its exports.",
+              "C. Providing training for its staff members.",
+              "D. Conducting a financial analysis for it."
+            ],
+            "question": "What is the woman suggest doing to help them?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. She is a real expert at house decorations.",
+              "B. She is really impressed by the man’s house.",
+              "C. She is well informed about the design business.",
+              "D. She is attracted by the color of the sitting room."
+            ],
+            "question": "What do we learn about the woman from the conversation?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. From a construction businessman.",
+              "B. From his younger brother Greg.",
+              "C. From home design magazines.",
+              "D. From a professional interior designer."
+            ],
+            "question": "Where did the man get his ideas for the project?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. The cost was affordable.",
+              "B. The style was fashionable.",
+              "C. The effort was worthwhile.",
+              "D. The effect was unexpected."
+            ],
+            "question": "What did the man say about the project he recently completed?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. She’d like him to talk with Jonathan about a new project.",
+              "B. She’d like to show him around her newly-renovated house.",
+              "C. She wants to discuss the house decoration budget with him.",
+              "D. She wants him to share his renovation experience with her."
+            ],
+            "question": "Why does the woman invite the man to her house next week?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Paying hospital bills for emergency cases.",
+              "B. Doing research on ear, nose and throat diseases.",
+              "C. Removing objects from patients’ noses and ears.",
+              "D. Providing routine care for small children."
+            ],
+            "question": "What does England spend an annual £3 million on?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Children aged one to four are often more curious than older children.",
+              "B. Five- to nine-year-olds are the most likely to put things in their ears.",
+              "C. Many children like to put foreign objects in their mouths.",
+              "D. Many children like to smell things they find or play with."
+            ],
+            "question": "What do we learn from England's hospital episodes statistics?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. They want to attract attention.",
+              "B. They tend to act out of impulse.",
+              "C. They are unaware of the potential risks.",
+              "D. They are curious about these body parts."
+            ],
+            "question": "What is generally believed to account for children putting things in their [noses and ears]?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. It gave her a used bicycle.",
+              "B. It paid for her English lessons.",
+              "C. It delivered her daily necessities.",
+              "D. It provided her with physical therapy."
+            ],
+            "question": "What did Rebicycle do to help Leyla Rahimi?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Expanding bike-riding lessons.",
+              "B. Providing free public transport.",
+              "C. Offering walking tours to visitors.",
+              "D. Asking local people for donations."
+            ],
+            "question": "What is rebiicycle doing to help those in need?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. It is a sports club.",
+              "B. It is a language school.",
+              "C. It is a counseling center.",
+              "D. It is a charity organization."
+            ],
+            "question": "What do we learn from the passage about Rebicycle?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. How animals deal with lack of gravity.",
+              "B. How mice interact in a new environment.",
+              "C. How low gravity affects the human body.",
+              "D. How mice imitate human behavior in space."
+            ],
+            "question": "What do NASA scientists want to learn about?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. They found the space in the cage too small to stay in.",
+              "B. They found it difficult to figure out where they were.",
+              "C. They were not used to the low-gravity environment.",
+              "D. They were not sensitive to the changed environment."
+            ],
+            "question": "What does the passage say about the mice at the beginning of the experiment?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. They continued to behave as they did in the beginning.",
+              "B. They already felt at home in the new environment.",
+              "C. They had found a lot more activities to engage in.",
+              "D. They tried everything possible to escape from the cage."
+            ],
+            "question": "What was observed about the mice on the 11th day of the experiment?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. They changed their routines in space.",
+              "B. They began to eat less after some time.",
+              "C. They behaved as if they were on Earth.",
+              "D. They repeated their activities every day."
+            ],
+            "question": "What did the scientists find about the mice from the experiment?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Trust is fundamental to life. If you can’t trust anything, life becomes intolerable. You can’t have relationships without trust, let alone good ones.\nIn the workplace, too, trust is __26__. An organization without trust will be full of fear and __27__. If you work for a boss who doesn’t trust their employees to do things right, you’ll have a __28__ time. They’ll be checking up on you all the time, correcting “mistakes” and __29__ reminding you to do this or that. Colleagues who don’t trust one another will need to spend more time __30__ their backs than doing any useful work.\nOrganizations are always trying to cut costs. Think of all the additional tasks caused by lack of trust. Audit (审计) departments only exist because of it. Companies keep large volumes of __31__ because they don’t trust their suppliers, their contractors or their customers. Probably more than half of all administrative work is only there because of an ever-existing sense that “you can’t trust anyone these days.” If even a small part of such valueless work could be __32__, the savings would run into millions of dollars.\nAll this is extra work we __33__ onto ourselves because we don’t trust people—the checking, following through, doing things ourselves because we don’t believe others will do them __34__—or at all. If we took all that away, how much extra time would we suddenly find in our life? How much of our work __35__ would disappear?",
+        "word_bank": [
+          "constantly",
+          "credible",
+          "essential",
+          "exploring",
+          "gather",
+          "load",
+          "miserable",
+          "pressure",
+          "properly",
+          "records",
+          "removed",
+          "stacks",
+          "suspicion",
+          "tracked",
+          "watching"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "According to some people living in San Jose, it has become much harder for the poor to get ahead due to the increased inequality."
+          },
+          {
+            "id": 37,
+            "content": "In American history, immigrants used to have a good chance to move upward in society."
+          },
+          {
+            "id": 38,
+            "content": "If the problems of San Jose can’t be solved, one of America’s fundamental beliefs about itself can be challenged."
+          },
+          {
+            "id": 39,
+            "content": "San Jose was among the best cities in America for poor kids to move up the social ladder."
+          },
+          {
+            "id": 40,
+            "content": "Whether poor kids in San Jose today still have the chance to move upward is questionable."
+          },
+          {
+            "id": 41,
+            "content": "San Jose’s officials are resolved to give poor kids access to the resources necessary for success in life."
+          },
+          {
+            "id": 42,
+            "content": "San Jose appears to manifest some of the best features of America."
+          },
+          {
+            "id": 43,
+            "content": "As far as social mobility is concerned, San Jose beat many other progressive cities in America."
+          },
+          {
+            "id": 44,
+            "content": "Due to some changes like increases in housing prices in San Jose, the prospects for its poor people have dimmed."
+          },
+          {
+            "id": 45,
+            "content": "Researchers do not have a clear idea why poor children in San Jose achieved such great success several decades ago."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "This is the land of opportunity. If that weren’t already implied by the landscape—rolling green hills, palm trees, sun-kissed flowers—then it’s evident in the many stories of people who grew up poor in these sleepy neighborhoods and rose to enormous success. People like Tri Tran, who fled Vietnam on a boat in 1986, showed up in San Jose with nothing, made it to MIT, and then founded the food-deliverystart-up Munchery, which is valued at $ 300 million."
+          },
+          {
+            "id": "B",
+            "content": "Indeed, data suggests that this is one of the best places to grow up poor in America. A child born in the early 1980s into a low-income family in San Jose had a 12.9 percent chance of becoming a high earner as an adult, according to a landmark study released in 2014 by the economist Raj Chetty and his colleagues from Harvard and Berkeley. That number—12.9 percent—may not seem remarkable, but it was: Kids in San Jose whose families fell in the bottom quintile (五分位数) of income nationally had the best shot in the country at reaching the top quintile."
+          },
+          {
+            "id": "C",
+            "content": "By contrast, just 4. 4 percent of poor kids in Charlotte moved up to the top; in Detroit the figure was 5.5 percent. San Jose had social mobility comparable to Denmark’s and Canada’s and higher than other progressive cities such as Boston and Minneapolis."
+          },
+          {
+            "id": "D",
+            "content": "The reasons kids in San. Jose performed so well might seem obvious. Some of the world’s most innovative companies are located here, providing opportunities such as the one seized by a 12-year-old Mountain View resident named Steve Jobs when he called William Hewlett to ask for spare parts and subsequently received a summer job. This is a city of immigrants—38 percent of the city’s population today is foreign-born—and immigrants and their children have historically experienced significant upward mobility in America. The city has long had a large foreign-born population (26. 5 percent in 1990), leading to broader diversity, which, the Harvard and Berkeley economists say, is a good predictor of mobility."
+          },
+          {
+            "id": "E",
+            "content": "Indeed, the streets of San Jose seem, in some ways, to embody the best of America. It’s possible to drive in a matter of minutes from sleek (光亮的) office towers near the airport where people pitch ideas to investors, to single-family homes with orange trees in their yards, or to a Vietnamese mall. The libraries here offer programs in 17 languages, and there are areas filled with small businesses owned by Vietnamese immigrants, Mexican immigrants, Korean immigrants, and Filipino immigrants, to name a few."
+          },
+          {
+            "id": "F",
+            "content": "But researchers aren’t sure exactly why poor kids in San Jose did so well. The city has a low prevalence of children growing up in single-parent families, and a low level of concentrated poverty, both factors that usually mean a city allows for good intergenerational mobility. But San Jose also performs poorly on some of the measures correlated with good mobility. It is one of the most unequal places out of the 741 that the researchers measured, and it has high degrees of racial and economic segregation (隔离). Its schools underperform based on how much money there is in the area, said Ben Scuderi, a predoctoral fellow at the Equality of Opportunity Project at Harvard, which uses big data to study how to improve economic opportunities for low-income children.” There’s a lot going on here which we don’t totally understand,” he said. “It’s interesting, because it kind of defies our expectations.”"
+          },
+          {
+            "id": "G",
+            "content": "The Chetty data shows that neighborhoods and places mattered for children born in the San Jose area of the 1980s. Whether the city still allows for upward mobility of poor kids today, though, is up for debate. Some of the indicators such as income inequality; measured by the Equality of Opportunity Project for the year 2000, have only worsened in the past 16 years."
+          },
+          {
+            "id": "H",
+            "content": "Some San Jose residents say that as inequality has grown in recent years, upward mobility has become much more difficult to achieve. As Silicon Valley has become home to more successful companies, the flood of people to the area has caused housing prices to skyrocket. By most measures, San Jose is no longer a place where low. income, or even middle-income families, can afford to live. Rents in San Jose grew 42. 6 percent between 2006 and 2014, which was the largest increase in the country during that time period. The city has a growing homelessness problem, which it tried to address by shutting down “The Jungle,” one of the largest homeless encampments (临时住地) in the nation, in 2014. Inequality is extreme. The Human Development Index—a measure of life expectancy, education and per capita (人均的) income—gives East San Jose a score of 4.85 out of 10, while nearby Cupertino, where Apple’s headquarters sits, receives a 9.26. San Jose used to have a happy mix of factors—cheap housing, closeness to a rapidly developing industry, tightly—knit immigrant communities—that together opened up the possibility of prosperity for even its poorest residents. But in recent years, housing prices have skyrocketed, the region’s rich and poor have segregated, and middle-class jobs have disappeared. Given this, the future for the region’s poor doesn’t look nearly as bright as it once did."
+          },
+          {
+            "id": "I",
+            "content": "Leaders in San Jose are determined to make sure that the city regains its status as a place where even poor kids can access the resources to succeed. With Silicon Valley in its backyard, it certainly has the chance to do so. “I think there is a broad consciousness in the Valley that we can do better than to leave thousands of our neighbors behind through a period of extraordinary success,” San Jose Mayor Sam Liccardo said."
+          },
+          {
+            "id": "J",
+            "content": "But in today’s America—a land of rising inequality, increasing segregation, and stagnating (不增长的) middle-class wages—can the San Jose region really once again become a place of opportunity?"
+          },
+          {
+            "id": "K",
+            "content": "The idea that those at the bottom can rise to the top is central to America’s ideas about itself. That such mobility has become more difficult in San Jose raises questions about the endurance of that foundational belief. After all, if the one-time land of opportunity can’t be fixed, what does that say for the rest of America?"
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Three children in every classroom have a diagnosable mental health condition. Half of these are behavioural disorders, while one third are emotional disorders such as stress, anxiety and depression, which often become outwardly apparent through self-harm. There was an astonishing 52 percent jump in hospital admissions for children and young people who had harmed themselves between 2009 and 2015.\nSchools and teachers have consistently reported the scale of the problem since 2009. Last year, over half of teachers reported that more of their pupils experience mental health problems than in the past. But teachers also consistently report how ill-equipped they feel to meet pupils’ mental health needs, and often cite a lack of training, expertise and support from the National Health Service(荚国国家医疗服务体系).\nPart of the reason for the increased pressure on schools is that there are now fewer ‘early intervention (干预)’ and low-level mental health services based in the community. Cuts to local authority budgets since 2010 have resulted in a significant decline of these services, despite strong evidence of their effectiveness in preventing crises further down the line.\nThe only way to break the pressures on both mental health services and schools is to reinvest in early intervention services inside schools.\nThere are strong arguments for why schools are best placed to provide mental health services. Schools see young people more than any other service, which gives them a unique ability to get to hard-to-reach children and young people and build meaningful relationships with them over time. Recent studies have shown that children and young people largely prefer to see a counsellor in school rather than in an outside environment. Young people have reported that for low-level conditions such as stress and anxiety, a clinical setting can sometimes be daunting (令人却步的).\nThere are already, examples of innovative schools which combine mental health and wellbeing provision with a strong academic curriculum. This will, though, require a huge cultural shift. Politicians, policymakers, commissioners and school leaders must be brave enough to make the leap towards reimagining schools as providers of health as well as education services.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. There are too many students requiring special attention.",
+                  "B. They are under too much stress counselling needy students.",
+                  "C. Schools are inadequately equipped to implement any intervention.",
+                  "D. They lack the necessary resources to address pupils’ mental problems."
+                ],
+                "question": "What are teachers complaining about?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. They have deteriorated due to budget cuts.",
+                  "B. They facilitate local residents’ everyday lives.",
+                  "C. They prove ineffective in helping mental patients.",
+                  "D. They cover preventative care for the local residents."
+                ],
+                "question": "What do we learn from the passage about community health services in Britain?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. At home.",
+                  "B. At school.",
+                  "C. In hospitals.",
+                  "D. In communities."
+                ],
+                "question": "Where does the author suggest mental health services be placed?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. Students prefer to rely on peers to relieve stress and anxiety.",
+                  "B. Young people are keen on building meaningful relationships.",
+                  "C. Students are more comfortable seeking counselling in school.",
+                  "D. Young people benefit from various kinds of outdoor activities."
+                ],
+                "question": "What do we learn from the recent studies?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Simplification of school’ academic curriculums.",
+                  "B. Parents’ involvement in schools’ policy-making.",
+                  "C. A change in teachers’ attitudes to mental health.",
+                  "D. A change in the conception of what schools are."
+                ],
+                "question": "What does the author mean by a cultural shift (Line 2, Para. 6)?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Picture this: You’re at a movie theater food stand loading up on snacks. You have a choice of a small, medium or large soda. The small is $3.50 and the large is $ 5.50. It’s a tough decision: The small size may not last you through the whole movie, but $ 5.50 for some sugary drink seems ridiculous. But there’s a third option, a medium soda for $ 5.25. Medium may be the perfect amount of soda for you, but the large is only a quarter more. If you’re like most people, you end up buying the large (and taking a bathroom break mid-show).\nIf you’re wondering who would buy the medium soda, the answer is almost no one. In fact, there’s a good chance the marketing department purposely priced the medium soda as a decoy (诱饵), making you more likely to buy the large soda rather than the small.\nI have written about this peculiarity in human nature before with my friend Dan Ariely, who studied this phenomenon extensively after noticing pricing for subscriptions (订阅) to The Economist. The digital subscription was $ 59, the print subscription was $ 125, and the print plus digital subscription was also $125. No one in their right mind would buy the print subscription when you could get digital as well for the same price, so why was it even an option? Ariely ran an experiment and found that when only the two “real” choices were offered, more people chose the less expensive digital subscription. But the addition of the bad option made people much more likely to choose the more expensive print plus digital option.\nBrain scientists call this effect “asymmetric dominance” and it means people gravitate toward the choice nearest a clearly inferior option. Marketing professors call it the decoy effect, which is certainly easier to remember.\nThe decoy effect works because of the way our brains assign value when making choices. Value is almost never absolute; rather, we decide an object’s value relative to our other choices. If more options are introduced, the value equation changes.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. To illustrate people’s peculiar shopping behavior.",
+                  "B. To illustrate the increasing variety of snacks there.",
+                  "C. To show how hard it can be to choose a drink there.",
+                  "D. To show how popular snacks are among movie fans."
+                ],
+                "question": "Why does the author ask us to imagine buying food in the movie theater?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. To attract more customers to buy it.",
+                  "B. To show the price matches the amount.",
+                  "C. To ensure customers drink the right amount of soda.",
+                  "D. To make customers believe they are getting a bargain."
+                ],
+                "question": "Why is the medium soda priced the way it is?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. Lower-priced goods attract more customers.",
+                  "B. The Economist’s promotional strategy works.",
+                  "C. The Economist’s print edition turns out to sell the best.",
+                  "D. More readers choose the digital over the print edition."
+                ],
+                "question": "What do we learn from Dan Ariely’s experiment?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. To cater to the peculiar needs of some customers.",
+                  "B. To help customers to make more rational choices.",
+                  "C. To trap customers into buying the more pricey item.",
+                  "D. To provide customers with a greater variety of goods."
+                ],
+                "question": "For what purpose is “the bad option” (Line 7, Para. 3) added?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. By considering its usefulness.",
+                  "B. By comparing it with other choices.",
+                  "C. By taking its quality into account.",
+                  "D. By examining its value equation"
+                ],
+                "question": "How do we assess the value of a commodity, according to the passage?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Education. You should write at least 120 words but not more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "生活在中国不同地区的人们饮食多种多样。 北方人主要吃面食， 南方人大多吃米饭。 在沿海地区， 海鲜和淡水水产品在人们饮食中占有相当大的比例， 而在其他地区人们的饮食中， 肉类和奶制品更为常见。 四川、 湖南等省份的居民普遍爱吃辛辣食物， 而江苏和浙江人更喜欢甜食。 然而， 因为烹饪方式各异， 同类食物的味道可能会有所不同。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_RCEUpV9.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_1_PdWfJmu.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_2_4l1ldU8.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:06,620\r\nCollege English Test, Band 4, Part 2, Listening Comprehension\r\n\r\n2\r\n00:00:06,620 --> 00:00:09,680\r\nSection A, Directions\r\n\r\n3\r\n00:00:09,680 --> 00:00:18,240\r\nIn this section you will hear three news reports. At the end of each news report you will hear two or three questions.\r\n\r\n4\r\n00:00:18,960 --> 00:00:26,820\r\nBoth the news report and the questions will be spoken only once. After you hear a question you must choose the best answer.\r\n\r\n5\r\n00:00:26,820 --> 00:00:31,320\r\nFrom the four choices marked A, B, C, and D,\r\n\r\n6\r\n00:00:32,119 --> 00:00:34,760\r\nthen marked the corresponding letter on the answer sheet 1\r\n\r\n7\r\n00:00:34,760 --> 00:00:37,060\r\nwith a single line through the center.\r\n\r\n8\r\n00:00:38,320 --> 00:00:39,800\r\nNews report 1.\r\n\r\n9\r\n00:00:40,220 --> 00:00:44,240\r\nA place-nose fish, which has a sting, strong enough to kill a human,\r\n\r\n10\r\n00:00:44,620 --> 00:00:47,240\r\nis invading the Mediterranean, warm scientists.\r\n\r\n11\r\n00:00:48,600 --> 00:00:52,660\r\nThe International Union for the conservation of nature has raised concerns\r\n\r\n12\r\n00:00:52,660 --> 00:00:58,220\r\nAfter the poisonous fish was spotted in the waters around Turkey, Cyprus and the East\r\n\r\n13\r\n00:00:58,220 --> 00:00:59,180\r\nand Mediterranean.\r\n\r\n14\r\n00:01:00,380 --> 00:01:05,940\r\nNaked to the South Pacific and Indian Ocean, the potentially deadly fish has poisonous\r\n\r\n15\r\n00:01:05,940 --> 00:01:09,920\r\nhooks and a painful sting capable of killing people.\r\n\r\n16\r\n00:01:11,060 --> 00:01:16,960\r\nAlthough fatalities are rare, the stings can cause extreme pain and stop people breathing.\r\n\r\n17\r\n00:01:16,960 --> 00:01:25,440\r\nThe fish often known as devil-far-fish is a highly invasive species, and environmentalist fear\r\n\r\n18\r\n00:01:25,440 --> 00:01:31,880\r\nits arrival could endanger other types of marine life. After being spotted in the Mediterranean,\r\n\r\n19\r\n00:01:32,380 --> 00:01:37,780\r\na marine scientist says, the fish is spreading, and that's a cause for concern.\r\n\r\n20\r\n00:01:39,000 --> 00:01:43,240\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n21\r\n00:01:43,240 --> 00:01:47,760\r\nQuestion 1. What is reported in the news?\r\n\r\n22\r\n00:02:02,440 --> 00:02:10,020\r\nQuestion 2. What is the environmentalist concern about the spread of devil firefish in the Mediterranean?\r\n\r\n23\r\n00:02:25,260 --> 00:02:32,600\r\nNews Report 2 Almost half the center of Paris will be accessible only by foot or bicycle\r\n\r\n24\r\n00:02:32,600 --> 00:02:36,420\r\nthis Sunday to mark World Car Free Day.\r\n\r\n25\r\n00:02:37,200 --> 00:02:42,080\r\nThis is in response to rising air pollution that made Paris the most polluted city in the\r\n\r\n26\r\n00:02:42,080 --> 00:02:53,140\r\nfor a brief time. Mayor Anne Ivolgo promoted the first World Car Free Day last year. Ivolgo also has supported a\r\n\r\n27\r\n00:02:53,140 --> 00:03:01,060\r\nParis-Breeve Day. On the first Sunday of every month, Paris clears traffic from eight lanes of the main road.\r\n\r\n28\r\n00:03:02,280 --> 00:03:10,120\r\nAbout 400 miles of streets will be closed to cars. It is expected to bring significant reduction in pollution levels.\r\n\r\n29\r\n00:03:11,220 --> 00:03:18,220\r\nLast year's Car Free Day showed a 40% drop in pollution levels in some parts of the city,\r\n\r\n30\r\n00:03:18,700 --> 00:03:24,260\r\naccording to an independent air pollution monitor, reports the Guardian, and sound levels\r\n\r\n31\r\n00:03:24,260 --> 00:03:27,280\r\ndropped by 50% in the city's center.\r\n\r\n32\r\n00:03:28,580 --> 00:03:33,040\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n33\r\n00:03:33,820 --> 00:03:34,940\r\nQuestion 3.\r\n\r\n34\r\n00:03:35,440 --> 00:03:38,860\r\nWhat will happen on World Car Free Day in Paris?\r\n\r\n35\r\n00:03:53,880 --> 00:04:00,580\r\nQuestion 4. What motivated the mayor of Paris to promote the first World Car-Free Day in\r\n\r\n36\r\n00:04:00,580 --> 00:04:01,120\r\nher city?\r\n\r\n37\r\n00:04:16,179 --> 00:04:23,180\r\nNews Report 3. A Philippine fisherman was feeling down on his luck when a house fire forced him\r\n\r\n38\r\n00:04:23,180 --> 00:04:29,620\r\nto clear out his possessions and change locations. Then, a good luck charm that he had kept\r\n\r\n39\r\n00:04:29,620 --> 00:04:36,680\r\nunder his bed changed his life. The unidentified man had fished out a giant pearl from\r\n\r\n40\r\n00:04:36,680 --> 00:04:42,500\r\nocean when his anchor got stuck on the rock while sailing off a coastal island in the Philippines\r\n\r\n41\r\n00:04:42,500 --> 00:04:48,920\r\nten years ago. When he was forced to sell it, the shocked tourist agent at Puerto\r\n\r\n42\r\n00:04:48,920 --> 00:04:55,500\r\nPrinsesca told him that the 77-pound giant pearl that he'd kept hidden in his rundown wooden\r\n\r\n43\r\n00:04:55,500 --> 00:05:01,680\r\nhouse was the biggest pearl in the world, which was valued at 76 million pounds.\r\n\r\n44\r\n00:05:01,680 --> 00:05:07,780\r\nThe Pearl of Aller, which is currently on display in a New York museum, only weighs\r\n\r\n45\r\n00:05:07,780 --> 00:05:14,200\r\n14 pounds. That is five times smaller than the Pearl that the fishermen just handed in.\r\n\r\n46\r\n00:05:14,880 --> 00:05:21,660\r\nThe monstrous Pearl measured at one foot wide and 2.2 feet long is going to be verified\r\n\r\n47\r\n00:05:21,660 --> 00:05:28,100\r\nby local experts and international authorities before hopefully going on display to attract\r\n\r\n48\r\n00:05:28,100 --> 00:05:30,600\r\nMortarist in the little town.\r\n\r\n49\r\n00:05:31,500 --> 00:05:35,540\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n50\r\n00:05:36,140 --> 00:05:40,800\r\nQuestion 5. What happened to the Philippine fishermen one day?\r\n\r\n51\r\n00:05:55,400 --> 00:06:00,000\r\nQuestion 6. What was the fisherman forced to do?\r\n\r\n52\r\n00:06:14,940 --> 00:06:19,840\r\nQuestion 7. What did the fishermen learn from the tourist agent?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:00,000 --> 00:00:11,580\r\nSection B, Directions. In this section, you'll hear two long conversations. At the end of each conversation, you will hear four questions.\r\n\r\n2\r\n00:00:12,340 --> 00:00:16,180\r\nBoth the conversation and the questions will be spoken only once.\r\n\r\n3\r\n00:00:16,180 --> 00:00:22,340\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n4\r\n00:00:22,340 --> 00:00:30,020\r\nA, B, C and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n5\r\n00:00:30,020 --> 00:00:30,940\r\nthrough the center.\r\n\r\n6\r\n00:00:32,540 --> 00:00:33,740\r\nConversation 1.\r\n\r\n7\r\n00:00:34,080 --> 00:00:36,580\r\nMr Smith, it's a pleasure meeting you.\r\n\r\n8\r\n00:00:36,880 --> 00:00:38,220\r\nNice to meet you too.\r\n\r\n9\r\n00:00:38,520 --> 00:00:39,620\r\nWhat can I do for you?\r\n\r\n10\r\n00:00:39,840 --> 00:00:43,200\r\nWell, I'm here to show you what our firm can do for you.\r\n\r\n11\r\n00:00:43,200 --> 00:00:49,880\r\nAstro Consultants has branches in over 50 countries, offering different business services.\r\n\r\n12\r\n00:00:50,820 --> 00:00:56,780\r\nWe are a global company with 75 years of history, and our clients include some of the world's\r\n\r\n13\r\n00:00:56,780 --> 00:00:57,940\r\nlargest companies.\r\n\r\n14\r\n00:00:58,840 --> 00:00:59,800\r\nThank you, Mrs. Houston.\r\n\r\n15\r\n00:01:00,180 --> 00:01:05,440\r\nI know Astro Consultants is a famous company, but you said you would show me what you could\r\n\r\n16\r\n00:01:05,440 --> 00:01:06,220\r\ndo for me.\r\n\r\n17\r\n00:01:06,640 --> 00:01:10,580\r\nWell, what exactly can your firm do for my company?\r\n\r\n18\r\n00:01:10,580 --> 00:01:16,680\r\nWe advise businesses on all matters from market analysis to legal issues.\r\n\r\n19\r\n00:01:17,140 --> 00:01:21,620\r\nAnything a business like yours could need are firm offers expert advice.\r\n\r\n20\r\n00:01:22,420 --> 00:01:26,600\r\nCould I ask you, Mr. Smith, to tell me a little about your company and the challenges\r\n\r\n21\r\n00:01:26,600 --> 00:01:27,480\r\nyou face?\r\n\r\n22\r\n00:01:27,920 --> 00:01:30,840\r\nThat way, I could better respond as to how we can help you.\r\n\r\n23\r\n00:01:31,360 --> 00:01:32,120\r\nOK, sure.\r\n\r\n24\r\n00:01:32,600 --> 00:01:36,720\r\nThis is a family business started by my grandfather in 1950.\r\n\r\n25\r\n00:01:36,720 --> 00:01:44,720\r\nWe employ just over 100 people. We manufacture and export stone for buildings and other constructions.\r\n\r\n26\r\n00:01:45,660 --> 00:01:50,460\r\nOur clients usually want a special kind of stone cut in a special design.\r\n\r\n27\r\n00:01:51,020 --> 00:01:57,140\r\nAnd that's what we do in our factory. Our main challenge is that our national currency is rising\r\n\r\n28\r\n00:01:57,140 --> 00:02:01,240\r\nand we're losing competitive advantage to stone producers in India.\r\n\r\n29\r\n00:02:01,240 --> 00:02:03,580\r\nI see, that's very interesting.\r\n\r\n30\r\n00:02:04,420 --> 00:02:08,860\r\nI would suggest that you let us first conduct a financial analysis of your company,\r\n\r\n31\r\n00:02:09,360 --> 00:02:12,220\r\ntogether with an analysis of your competitors in India.\r\n\r\n32\r\n00:02:12,980 --> 00:02:17,060\r\nThat way we could offer the best advice on different ways forward for you.\r\n\r\n33\r\n00:02:17,720 --> 00:02:21,840\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n34\r\n00:02:22,880 --> 00:02:26,220\r\nQuestion 8, what do we learn about the woman's company?\r\n\r\n35\r\n00:02:41,200 --> 00:02:45,700\r\nQuestion 9. What does the man say about his own company?\r\n\r\n36\r\n00:03:00,799 --> 00:03:05,560\r\nQuestion 10. What is the main problem with the man's company?\r\n\r\n37\r\n00:03:20,620 --> 00:03:26,040\r\nQuestion 11. What is the woman suggest doing to help the man's company?\r\n\r\n38\r\n00:03:43,360 --> 00:03:49,720\r\nWow, congratulations Simon. The place looks absolutely amazing. Really? You think so?\r\n\r\n39\r\n00:03:50,020 --> 00:03:55,260\r\nOf course, I love it. It looks like you had a professional interior designer, but you\r\n\r\n40\r\n00:03:55,260 --> 00:04:01,860\r\ndidn't did you? No, I did it all by myself, with a little help from my brother Greg.\r\n\r\n41\r\n00:04:02,360 --> 00:04:05,760\r\nHe's actually in the construction business, which was really helpful.\r\n\r\n42\r\n00:04:06,480 --> 00:04:11,940\r\nI honestly am impressed. I know I could probably repaint the walls in my house over a weekend\r\n\r\n43\r\n00:04:11,940 --> 00:04:18,000\r\nor something, but not a full renovation. Where did you get your ideas? I wouldn't know where\r\n\r\n44\r\n00:04:18,000 --> 00:04:23,780\r\nto start. Well, for a while now, I've been regularly buying home design magazines.\r\n\r\n45\r\n00:04:23,780 --> 00:04:27,500\r\nEveryone, every now and then, at save a picture I liked.\r\n\r\n46\r\n00:04:28,180 --> 00:04:32,060\r\nBelieve it or not, I had a full notebook of magazine pages.\r\n\r\n47\r\n00:04:33,040 --> 00:04:39,340\r\nSince my overall style was quite minimal, I thought, and hoped a whole renovation wouldn't\r\n\r\n48\r\n00:04:39,340 --> 00:04:44,400\r\nbe too difficult, and sure enough, with Greg's help, it was very achievable.\r\n\r\n49\r\n00:04:44,940 --> 00:04:46,080\r\nWas it very expensive?\r\n\r\n50\r\n00:04:46,680 --> 00:04:48,960\r\nI imagine a project like this could be.\r\n\r\n51\r\n00:04:49,440 --> 00:04:51,740\r\nActually, it was surprisingly affordable.\r\n\r\n52\r\n00:04:52,260 --> 00:04:58,900\r\nI managed to sell a lot of my old furniture and put that extra money towards the new material.\r\n\r\n53\r\n00:04:59,600 --> 00:05:05,360\r\nGreg was also able to get some discount of materials from a recent project he was working on as well.\r\n\r\n54\r\n00:05:05,920 --> 00:05:09,200\r\nGreat. If you don't mind, I'd like to pick your brain a bit more.\r\n\r\n55\r\n00:05:09,640 --> 00:05:15,100\r\nJonathan and I are thinking of renovating our sitting room. Not the whole house, not yet anyway.\r\n\r\n56\r\n00:05:15,580 --> 00:05:17,910\r\nAnd we'd love to get some inspiration from your experience.\r\n\r\n57\r\n00:05:18,710 --> 00:05:21,990\r\nAre you free to come over for a coffee early next week?\r\n\r\n58\r\n00:05:48,390 --> 00:05:54,150\r\nQuestion 13 Where did the man get his ideas for the project?\r\n\r\n59\r\n00:06:08,990 --> 00:06:15,670\r\nQuestion 14. What did the man say about the project he recently completed?\r\n\r\n60\r\n00:06:31,090 --> 00:06:35,970\r\nQuestion 15. Why does the woman invite the man to her house next?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:00,000 --> 00:00:11,640\r\nSection C. Directions. In this section, you'll hear three passages. At the end of each passage, you'll hear three or four questions.\r\n\r\n2\r\n00:00:12,340 --> 00:00:24,840\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.\r\n\r\n3\r\n00:00:24,840 --> 00:00:30,960\r\nThen lock the corresponding letter on Answersheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:31,900 --> 00:00:42,140\r\nPassage 1 Removing for an object from ears and noses costs England almost £3 million a year, a steady suggest.\r\n\r\n5\r\n00:00:43,720 --> 00:00:53,480\r\nChildren were responsible for the vast majority of cases, 95% of objects removed from noses, and 85% from ears.\r\n\r\n6\r\n00:00:53,480 --> 00:01:08,100\r\nEvery year, an average of 1,218 nos and 2,479 ear removals took place between 2010 and 2016.\r\n\r\n7\r\n00:01:09,840 --> 00:01:19,920\r\nAccording to England's hospital episodes statistics, children aged 1 to 4 were the most likely to need help from doctors for a foreign object in their nose.\r\n\r\n8\r\n00:01:19,920 --> 00:01:25,520\r\n5 to 9 year olds come to the hospital with something in their ears the most.\r\n\r\n9\r\n00:01:26,160 --> 00:01:31,620\r\nJewelry items accounted for up to 40% of cases in both the ears and noses of children.\r\n\r\n10\r\n00:01:32,720 --> 00:01:37,140\r\nPaper and plastic toys were the items removed next most from noses.\r\n\r\n11\r\n00:01:37,920 --> 00:01:41,060\r\nCotton beds and pencils were also found in ears.\r\n\r\n12\r\n00:01:42,340 --> 00:01:47,440\r\nAccording to the study, the occurrence of foreign objects in children is generally attributed\r\n\r\n13\r\n00:01:47,440 --> 00:01:48,300\r\nto curiosity.\r\n\r\n14\r\n00:01:49,000 --> 00:01:52,840\r\nChildren have an impulse to explore their noses and ears.\r\n\r\n15\r\n00:01:53,700 --> 00:01:56,660\r\nThis results in the accidental entry of foreign objects.\r\n\r\n16\r\n00:01:57,900 --> 00:02:03,660\r\nAny ear, nose, and throat surgeon, has many weird stories about wonderful objects found\r\n\r\n17\r\n00:02:03,660 --> 00:02:06,400\r\nin the noses and ears of children and adults.\r\n\r\n18\r\n00:02:07,620 --> 00:02:09,680\r\nBatteries can pose a particular danger.\r\n\r\n19\r\n00:02:10,840 --> 00:02:13,600\r\nIn all cases, prevention is better than cure.\r\n\r\n20\r\n00:02:13,600 --> 00:02:20,880\r\nThis is why many toys contain warnings about small parts. Recognizing problems early\r\n\r\n21\r\n00:02:20,880 --> 00:02:23,860\r\nand seeking medical attention is important.\r\n\r\n22\r\n00:02:24,940 --> 00:02:29,900\r\nQuestion 16-18 A based on the passage you have just heard.\r\n\r\n23\r\n00:02:30,880 --> 00:02:36,520\r\nQuestion 16 What does England spend an annual £3 million on?\r\n\r\n24\r\n00:02:51,140 --> 00:02:57,320\r\nQuestion 17. What do we learn from England's hospital episodes statistics?\r\n\r\n25\r\n00:03:12,780 --> 00:03:26,980\r\nQuestion 18. What is generally believed to account for children putting things in their\r\n\r\n26\r\n00:03:35,220 --> 00:03:43,380\r\nPassage 2. Good morning. Today I would like to talk to you about my charity Rebicycle,\r\n\r\n27\r\n00:03:43,980 --> 00:03:52,580\r\nbut before that let me introduce someone. This is Layla Rahini. She was so scared when\r\n\r\n28\r\n00:03:52,580 --> 00:03:57,920\r\nshe first moved to New Zealand that she struggled to leave the house and would spend\r\n\r\n29\r\n00:03:57,920 --> 00:04:03,040\r\ndays working up the courage to walk to the supermarket for basic supplies.\r\n\r\n30\r\n00:04:04,380 --> 00:04:10,800\r\nAfter a few months have been quite down and unhappy, she was invited to join a local bike\r\n\r\n31\r\n00:04:10,800 --> 00:04:17,500\r\nclub. At this time, Rebicycle got involved and gave Layla a second hand bicycle.\r\n\r\n32\r\n00:04:17,500 --> 00:04:22,480\r\nher. Within weeks, her depression had begun to ease as she's\r\n\r\n33\r\n00:04:22,480 --> 00:04:29,440\r\npsychalled. The bicycle totally changed her life, giving her hope and a true feeling\r\n\r\n34\r\n00:04:29,440 --> 00:04:35,820\r\nof freedom. To date, Rebicycle has donated more than 200 bikes to those\r\n\r\n35\r\n00:04:35,820 --> 00:04:40,460\r\nneed, and is now expanding bike riding lessons as demand\r\n\r\n36\r\n00:04:40,460 --> 00:04:48,640\r\nsource. With a bike newcomers here can travel farther but for almost no cost. The three hours\r\n\r\n37\r\n00:04:48,640 --> 00:04:54,800\r\na day that used to spend walking two and from English language lessons has been reduced to just\r\n\r\n38\r\n00:04:54,800 --> 00:05:01,920\r\none hour. Our bike riding lessons are so successful that we are urgently looking for more\r\n\r\n39\r\n00:05:01,920 --> 00:05:09,820\r\nvolunteers. Learning to ride a bike is almost always more difficult for an adult and this can take\r\n\r\n40\r\n00:05:09,820 --> 00:05:17,920\r\ndays and weeks rather than hours. So, if any of you have some free time during the weekend,\r\n\r\n41\r\n00:05:18,520 --> 00:05:23,460\r\nplease come join us at ReBicycle and make a difference in someone's life.\r\n\r\n42\r\n00:05:24,420 --> 00:05:28,760\r\nQuestions 19 to 21 are based on the passage you have just heard.\r\n\r\n43\r\n00:05:29,920 --> 00:05:35,140\r\nQuestion 19. What did ReBicycle do to help Leyla Rahimi?\r\n\r\n44\r\n00:05:50,240 --> 00:05:55,500\r\nQuestion 20. What is rebiicycle doing to help those in need?\r\n\r\n45\r\n00:06:10,320 --> 00:06:16,200\r\nQuestion 21. What do we learn from the passage about Rebicycle?\r\n\r\n46\r\n00:06:31,220 --> 00:06:35,860\r\nPassage 3. Thanks to the International Space Station,\r\n\r\n47\r\n00:06:35,860 --> 00:06:43,900\r\nWe know quite a bit about the effects of low gravity on the human body, but NASA scientists want to learn more.\r\n\r\n48\r\n00:06:44,660 --> 00:06:51,820\r\nTo that end, they have been studying how other species deal with low gravity, specifically focusing on mice.\r\n\r\n49\r\n00:06:52,660 --> 00:06:56,120\r\nThe results are both interesting and humorous.\r\n\r\n50\r\n00:06:57,160 --> 00:07:03,700\r\nThe scientists first sent some mice and especially designed cage to the international space station.\r\n\r\n51\r\n00:07:04,380 --> 00:07:10,300\r\nThe cage allowed them to study the behavior of the mice remotely from Earth via video.\r\n\r\n52\r\n00:07:11,560 --> 00:07:16,900\r\nAs you'll notice in the video, the mice definitely seem uncomfortable at the beginning of the experiment.\r\n\r\n53\r\n00:07:17,640 --> 00:07:27,020\r\nThey move around clumsily, drifting within the small confines of the cage, and do their best to figure out which way is up, but without success.\r\n\r\n54\r\n00:07:27,820 --> 00:07:31,240\r\nHowever, it's not long before the mice begin to catch on.\r\n\r\n55\r\n00:07:31,240 --> 00:07:40,120\r\nThey adapt remarkably well to their new environment, and even use the lack of gravity to their advantage, as they push themselves around the cage.\r\n\r\n56\r\n00:07:41,440 --> 00:07:43,180\r\nThat's when things really get wild.\r\n\r\n57\r\n00:07:44,020 --> 00:07:52,080\r\nThe 11th day of the experiment shows the mice are not just dealing with the gravity change, but actually seem to be enjoying it.\r\n\r\n58\r\n00:07:52,720 --> 00:07:55,960\r\nSeveral of the mice are observed running around the cage walls.\r\n\r\n59\r\n00:07:56,680 --> 00:08:01,720\r\nThe scientists wanted to see whether the mice would continue doing the same kinds of activities\r\n\r\n60\r\n00:08:01,720 --> 00:08:07,380\r\nthey were observed doing on Earth. The study showed that the mice kept much of the routines\r\n\r\n61\r\n00:08:07,380 --> 00:08:12,000\r\nintact, including cleaning themselves and eating win hungry.\r\n\r\n62\r\n00:08:13,380 --> 00:08:19,620\r\nQuestions 22-25 are based on the passage you have just heard. Question 22.\r\n\r\n63\r\n00:08:20,740 --> 00:08:23,760\r\nWhat do NASA scientists want to learn about?\r\n\r\n64\r\n00:08:38,720 --> 00:08:45,060\r\nQuestion 23. What does the passage say about the mice at the beginning of the experiment?\r\n\r\n65\r\n00:09:00,320 --> 00:09:07,260\r\nQuestion 24. What was observed about the mice on the 11th day of the experiment?\r\n\r\n66\r\n00:09:22,140 --> 00:09:25,940\r\nQuestion 25. What did the scientists find in the\r\n\r\n67\r\n00:09:25,940 --> 00:09:28,240\r\nabout the mice from the experiment.\r\n\r\n68\r\n00:09:43,240 --> 00:09:45,640\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

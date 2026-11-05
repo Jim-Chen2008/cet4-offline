@@ -1,0 +1,686 @@
+{
+  "id": 19,
+  "exam": 19,
+  "exam_details": {
+    "id": 19,
+    "title": "2022年06月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2022,
+    "month": 6,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T17:30:20.017000+08:00",
+    "updated_at": "2025-04-26T17:30:20.017000+08:00",
+    "exam_id": 19,
+    "submission_count": 0,
+    "cet_content_id": 19,
+    "has_draft": false
+  },
+  "created_at": "2025-04-26T18:06:55.884000+08:00",
+  "updated_at": "2025-04-26T18:07:30.297000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. It studied the effects of exercise on sleep.",
+              "B. Its participants came from various walks of life.",
+              "C. Its findings confirmed those of previous studies.",
+              "D. It ran for as long as some thirty years."
+            ],
+            "question": "What do we learn about the news study from the news report?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Eating more vegetables instead of meats.",
+              "B. Drinking water instead of beverages with added sugar.",
+              "C. Consuming more energy drinks and sports drinks.",
+              "D. Forming the habit of exercising regularly."
+            ],
+            "question": "What is the scientist's recommendation?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. He asked them about his lost paintings.",
+              "B. He knew the owner of two missing paintings.",
+              "C. He left his paintings at a highway rest stop.",
+              "D. He found two 17th-century oil paintings."
+            ],
+            "question": "What do we learn about the 64-year-old man?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. They are imitations.",
+              "B. They are originals.",
+              "C. They were stolen by an Italian boy.",
+              "D. They came from the same artist."
+            ],
+            "question": "What is the art expert's conclusion about the two framed paintings?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. Look after her grandfather.",
+              "B. Leave the remote cold region.",
+              "C. Save her sick grandmother.",
+              "D. Flee from the threat of bears."
+            ],
+            "question": "What did the four-year-old girl attempt to do?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. She has to face a criminal charge.",
+              "B. She was found lying motionless in the snow.",
+              "C. She searched for her daughter in freezing cold.",
+              "D. She works in childcare services."
+            ],
+            "question": "What do we learn from the news report about the girl's mother?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. She was found in a forest after three days.",
+              "B. She lay totally unconscious for three days.",
+              "C. She suffered from the effects of severe cold.",
+              "D. She was finally rescued by her relatives."
+            ],
+            "question": "What happened to the little girl according to the news report?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. She shows a real passion for taking photos.",
+              "B. She has just returned from her hometown.",
+              "C. She comes from the city of Cape Town.",
+              "D. She has a truly amazing appearance."
+            ],
+            "question": "What does the woman say about her new friend Susan?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. It is as famous as Cape Town.",
+              "B. It has a flat surface at the top.",
+              "C. It is green and free from pollution.",
+              "D. It was named by European settlers."
+            ],
+            "question": "What does the woman say about table mountain?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. She has British ancestors.",
+              "B. She is of mixed blood.",
+              "C. She grew up in India.",
+              "D. She speaks several languages."
+            ],
+            "question": "What do we learn from the conversation about the woman's friend Susan?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. It is an extremely violent sport.",
+              "B. It is becoming a national sport.",
+              "C. It is originated in New Zealand.",
+              "D. It is more popular than football."
+            ],
+            "question": "What does the woman say about rugby in South Africa?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. Prepare a study guide.",
+              "B. Consult his advisors.",
+              "C. Go over his notes regularly.",
+              "D. Take stress-relief sessions."
+            ],
+            "question": "What does the woman advise the man do?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. His worksheets are terribly messy.",
+              "B. He finds the workload too heavy.",
+              "C. His study folder is badly disorganized.",
+              "D. He has difficulty taking notes quickly."
+            ],
+            "question": "What is the biggest problem the man has with his studies?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. A visual learner.",
+              "B. An emotional learner.",
+              "C. An organized learner.",
+              "D. A logical learner."
+            ],
+            "question": "What kind of learner does the woman say she is?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. Arrange them using color and pictures.",
+              "B. Restructure them in a logical way.",
+              "C. Commit them to memory after class.",
+              "D. Organize them into a well-connected story."
+            ],
+            "question": "What does the woman think the man can do with his notes?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. It is mainly based on a society's religion.",
+              "B. It is interpreted differently in different times.",
+              "C. It is a code of conduct based on laws and ethics.",
+              "D. It is a moral principle to guide people's behavior."
+            ],
+            "question": "What do we learn from the passage about the Golden Rule?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. It may lead to misunderstanding despite good intentions.",
+              "B. It assumes that human beings are all good-natured.",
+              "C. It may sometimes produce undesirable outcomes.",
+              "D. It fails to consider the complexity of human relationships."
+            ],
+            "question": "What is a notable criticism of the Golden Rule?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. The golden rule is often in conflict with certain laws and ethical principles.",
+              "B. The golden rule must sometimes give way to more important principles.",
+              "C. Failure to follow the golden rule may lead to violation of laws and ethics.",
+              "D. Observing the golden rule is the first step to becoming a responsible citizen."
+            ],
+            "question": "What does the example of someone breaking the law serve to show?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Many of them find it rather difficult to manage.",
+              "B. They have not seen as much diversity as desired.",
+              "C. Many of them have an increasingly diversified staff.",
+              "D. They have not quite grasped the concept of diversity."
+            ],
+            "question": "What do we learn from the current statistics about diversity in large corporations?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Initiatives to achieve diversity in large corporations.",
+              "B. Advantages and disadvantages of a diversified team.",
+              "C. People's attitudes towards diversity at the workplace.",
+              "D. Innovative ideas and solutions resulting from diversity."
+            ],
+            "question": "What is the newly published study focused on?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. People prefer to work with team members similar to themselves.",
+              "B. Employers attach great importance to their corporations 9 diversity.",
+              "C. Employers differ, from employees in their perspectives on diversity.",
+              "D. Doubts about the practicability of diversity are gradually disappearing."
+            ],
+            "question": "What do the findings of the new study show?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Choosing the best time for signing a business contract.",
+              "B. Changing one's form of communication from time to time.",
+              "C. Laying equal stress on written and spoken communication.",
+              "D. Using different forms of communication appropriately."
+            ],
+            "question": "What is a major key to success in international business according to the passage?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. They are regarded as seriously binding.",
+              "B. They are seldom honored by business partners.",
+              "C. They are taken as memos of understanding.",
+              "D. They are to be confirmed in written form."
+            ],
+            "question": "What does the passage say about spoken word agreements in some Middle East countries?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. It has reached the highest level of evolution.",
+              "B. It places a high value on written contracts.",
+              "C. It regards written contracts as unalterable.",
+              "D. It has seen a decline in verbal agreements."
+            ],
+            "question": "What do we learn about the Western working culture?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Its details cannot be renegotiated.",
+              "B. It has to be carried out to the letter.",
+              "C. It strengthens business partnerships.",
+              "D. Its terms may not be strictly binding."
+            ],
+            "question": "How does a Japanese firm tend to view a written contract?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "If you've ever looked at the ingredients list while grocery shopping, chances are you've seen the term \"natural flavors\". But have you taken a __26__ to consider what these natural flavors actually are?\n\nMost of us might think that \"natural flavors\" are, well, naturally good for us. A recent study in the journal Appetite found that when the word \"natural“ appears on packaging, people __27__ that the food within is indeed healthier. In truth, natural flavors do not __28__ much, at least chemically speaking, from their flavor-boosting __29__: artificial flavors. Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a __30__ smell or taste.\n\nNatural flavors come from plant or animal __31__ like fruit, vegetable, meat, fish or milk that is then processed or refined in some way. In short, natural flavors are __32__ from plants and animals to create specific flavors for processed foods. But that does not __33__ make it easier to tell what is really in your food. Because the Food and Drug Administration (FDA) has not __34__ the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors can also include a variety of chemical additives, such as preservatives.\n\nThe FDA doesn't require companies to reveal what additional chemicals a specific item __35__.\n\nSo if you want to know for certain what you're getting with your groceries, you might want to stick to the farmer^ market.",
+        "word_bank": [
+          "acknowledge",
+          "chance",
+          "contains",
+          "counterparts",
+          "defined",
+          "differ",
+          "especially",
+          "extracted",
+          "implies",
+          "necessarily",
+          "particular",
+          "perceive",
+          "second",
+          "sources",
+          "strange"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Fraudsters often steal villa-booking information from authentic holiday websites."
+          },
+          {
+            "id": 37,
+            "content": "Fraudsters keep changing their bank accounts to avoid being tracked."
+          },
+          {
+            "id": 38,
+            "content": "It is suggested that people not going on the holiday might help detect website frauds."
+          },
+          {
+            "id": 39,
+            "content": "More and more British holidaymakers find the seaside villas they booked online actually nonexistent."
+          },
+          {
+            "id": 40,
+            "content": "By checking an agent's name online before booking a villa,holidaymakers can avoid falling into traps."
+          },
+          {
+            "id": 41,
+            "content": "Fraudsters are difficult to identify, according to an online safety expert."
+          },
+          {
+            "id": 42,
+            "content": "Holidaymakers have been alerted to the frequent occurrence of online villa-booking frauds."
+          },
+          {
+            "id": 43,
+            "content": "It is holidaymakers that can protect themselves from falling victim to frauds."
+          },
+          {
+            "id": 44,
+            "content": "Holidaymakers are advised not to make payments by bank transfer."
+          },
+          {
+            "id": 45,
+            "content": "Fraudsters advertise their villas at reasonable prices so as not to be suspected."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "During the British winter, the thought of two weeks in a coastal villa ( 别墅 ) with soul-stirring views of the sea and a huge pool to enjoy is enough to offset (抵消)the labor until the holidays start. For a growing number of people, however, their yearly break is turning into a nightmare as they find that the property they have paid thousands for does not exist and the website through which they booked it has disappeared."
+          },
+          {
+            "id": "B",
+            "content": "Consumers have been warned to be aware of the potential for deception in this market,which is far from uncommon. In 2017 there were 1,632 cases of reported \"\"villa fraud ( 诈 骗 )“，with victims losing an average of ￡ 2,052, according to Action Fraud, the national center for reporting such frauds. \"'Millions of pounds are lost each year by defrauded holidaym akers,says Sean Tipton of the Association of British Travel Agents (ABTA)."
+          },
+          {
+            "id": "C",
+            "content": "The problem has ballooned in the last 10 years, with frauds becoming more and more sophisticated. The fake websites have authentic-sounding names involving a mix of keywords, typically including the place name,summer,villas or rentals. Details of legitimate (合法的)villas are often stolen from other sites. When the fraudsters first started it was unsophisticated一 the websites looked amateur and there wasn't a lot of effort says Tipton. Now they are clever. They extensively rip off legitimate websites and use a different website name. They’II have pictures of a sales team and it might be a poor actor in New York that is down as their head of sales.”"
+          },
+          {
+            "id": "D",
+            "content": "Fraudsters target popular seaside destinations for British tourists visiting Spain where prices can soar if demand exceeds supply. Prices are kept within reasonable ranges to avoid arousing suspicion.“A villa might cost ￡ 5,000 elsewhere and they will offer it at say ￡ 3,500. But a bit of a giveaway is that the villa will be cheaper than on other websites and there；‘s unlimited availability,says Tipton. Fraudsters also invest in pay-per-click advertising to feature at the top of search engines when people type in phrases such as “Spanish seaside villas”."
+          },
+          {
+            "id": "E",
+            "content": "With such a degree of professionalism, how can consumers find out if the website they're looking to book with is trustworthy? ”When people book holiday villas they are doing so through rose-colored glasses， ”says Tony Neate, chief executive of Get Safe Online, “They should be Googling the property, and looking on websites like Google Maps and StreetView to see if it's there. Also, speak to the person you're booking the villa with on a landline phone, as fraudsters tend to only use mobiles.^^ He also suggests asking someone not going on the holiday to have a look at the website.“They might spot problems you don't spot.Another potential red flag is being asked to pay by bank transfer.The problem is that when the money leaves your account it's in theirs straightaway and it's very hard to track it,\" says Barclays Bank head of digital safety, Jodie Gilbert. \"We generally recommend other forms of payment, like credit card."
+          },
+          {
+            "id": "F",
+            "content": "Little seems to be known about these fraudsters,“There is no way to definitely know who they are, says Neate.”It could be anyone. It could be your next-door neighbor or organized crime in Russia.Action Fraud says people should ensure the company renting the villa is a member of a recognized trade body such as ABTA."
+          },
+          {
+            "id": "G",
+            "content": "“By working with industry partners such as ABTA and Get Safe Online, we are able to issue alerts about the latest threats they should be aware of. If you believe you have fallen victim to fraud or cyber-crime, please report it to Action Fraud,it adds. ABTA says it is trying to combat the issue by running public awareness campaigns. \"It's a growing problem and people can't stop fraudsters being dishonest，”says Tipton.“They're still going to do it. It's not impossible to stop but as it's internet-based it's harder to pursue."
+          },
+          {
+            "id": "H",
+            "content": "Nick Cooper, the founder and co-owner of villa booking company Villa Plus, estimates his company has uncovered more than 200 fake villa websites over the past two years, and doesn't believe enough is being done. \"It is hopeless to report fake villa websites to the internet giants who host them,he says. \"I found it impossible to speak to anyone.Also, once one bank account gets reported, they simply use another."
+          },
+          {
+            "id": "I",
+            "content": "For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer. \"When people book their holidays they get so emotionally involved, and when they find that villa at a good price with availability in peak season, they are an easy target，”says Cooper.“The public has to learn to be far more aware they are a target for these sort of frauds.^^ But it's not just the financial cost. \"A family will turn up at a villa and find out it doesn't exist or the owner doesn't know who you are, says Tipton. \"The problem then is you have to find accommodation at short notice. It can be incredibly expensive but it's the emotional cost, too.”"
+          },
+          {
+            "id": "J",
+            "content": "Carla O9Shaughnessy from Sydenham was searching last year for a good deal to book a villa in Majorca for a summer break for the family. was comparing prices online and found one that came in a bit cheaper than others,says O9Shaughnessy. She emailed the company via its website, asking how far the villa was from the airport and about local restaurants. \"They came back with believable answers; it was all very friendly and professional,she says. Happy with the responses, O9Shaughnessy paid the full amount of ￡ 3,000 via bank transfer into the travel agent's account and then forgot about it until a month before the booking."
+          },
+          {
+            "id": "K",
+            "content": " I tried logging on to the website and couldn't, she recalls. I Googled the agent's name and there were lots ofcomplaints about him being a fraudster. Ifonly I'd Googled before butI neverthought ofit. Although she found another villa in time for their holiday, she admits she was much more cautious. I paidthrough a secure third-party site and had phone conversations with the agent. But I wasn't able to relax until we turned up and I had the keys."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Social media can be a powerful communication tool for employees, helping them to collaborate, share ideas and solve problems. Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. These beliefs contribute to a majority of workers connecting with colleagues on social media, even during work hours.\n\nEmployers typically worry that social media is a productivity killer; more than half of U.S. employers reportedly block access to social media at work. In my research with 277 employees of a healthcare organization I found these concerns to be misguided. Social media doesn't reduce productivity nearly as much as it kills employee retention.\n\nIn the first part of the study I surveyed the employees about why and how they used platforms like Facebook, Twitter, or Linkedln. Respondents were then asked about their work behaviors, including whether they felt motivated in their jobs and showed initiative at work. I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less motivated and show less initiative.\n\nIn the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activities including researching new organizations and making new work connections.\n\nThese findings present a dilemma for managers: employees using social media at work are more engaged and more productive, but they are also more likely to leave your company.\n\nManagers should implement solutions that neutralize the retention risk caused by social media. They can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities. Managers can also use social media to directly reduce turnover (跳 槽 ) intentions, by recognizing employees’accomplishments and giving visibility to employees’success stories.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Most employees think positively of it.",
+                  "B. It improves employees’work efficiency.",
+                  "C. It enables employees to form connections.",
+                  "D. Employees spend much of their work time on it."
+                ],
+                "question": "What does previous research about social media reveal?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. It influences employees’work negatively.",
+                  "B. It does much harm to employee loyalty.",
+                  "C. It kills employees’motivation for work.",
+                  "D. It affects employers’ decision-making."
+                ],
+                "question": "What did the author's own research find about social media?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. It differs from employee to employee.",
+                  "B. It tends to vary with the platform used.",
+                  "C. It has much to do with whom employees interact with.",
+                  "D. It is hard to measure when employees interact with outsiders."
+                ],
+                "question": "What did the author find in his study about the effect of online social interactions?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. They seldom expressed their inner thoughts.",
+                  "B. Most of them explored new job opportunities.",
+                  "C. They were reluctant to collaborate with others.",
+                  "D. Many of them ended with lower productivity."
+                ],
+                "question": "What problem was found with employees using social media for work?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Give promotions to employees for their accomplishments.",
+                  "B. Create opportunities for employees to share success stories.",
+                  "C. Acknowledge employees’ achievements through social media.",
+                  "D. Encourage employees to increase their visibility on social media."
+                ],
+                "question": "What does the author suggest managers do to neutralize the retention risk?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "In the coming era of budget cuts to education, distance learning could become the norm.The temptation for those in charge of education budgets to trade teachers fortechnology could be so strong that they ignore the disadvantages of distance learning.\n\nSchool facilities are expensive to build and maintain, and teachers are expensive to employ.Online classes do not require buildings and each class can host hundreds of people simultaneously, resulting in greater savings, thus increasing the temptation of distance education for those concerned more about budgets than learning. But moving away from a traditional classroom in which a living, breathing human being teaches and interacts with students daily would be a disaster. Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people. Moreover, schools should be more than simple institutions of traditional learning. They are now places that provide meals. They are places where students receive counseling and other support.\n\nThose policy-makers are often fascinated by the latest technology in education and its potential to “transform“ education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. Educational videos may deliver academic content, but they are unable to make eye contact or assess a student's level of engagement. Distance education will never match the personal teaching in a traditional classroom. In their first 18 years of life, American children spend only 9% of their time in school. Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market.\n\nGiven these expectations, schools should not become permanently “remote”.\n\nThe power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. Personal teaching is about teachers showing students a higher path, and about young people going through the process together. Technology, no matter how advanced, should simply be a tool of a good teacher.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. Advances in education technology.",
+                  "B. Shrinking financial resources.",
+                  "C. Shortage of school facilities.",
+                  "D. Lack of qualified teachers."
+                ],
+                "question": "What mainly accounts for the possibility that distance learning could become the norm?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. Developing the habit of getting up early.",
+                  "B. Eating nutritionally well-balanced meals.",
+                  "C. Growing into living and breathing human beings.",
+                  "D. Cultivating relationships with peers and teachers."
+                ],
+                "question": "What does the author say is one possible benefit of students attending school physically?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. It may have potential disadvantages.",
+                  "B. It may render many teachers jobless.",
+                  "C. It may add to students’financial burden.",
+                  "D. It may revolutionize classroom teaching."
+                ],
+                "question": "What does the author think of the latest technology in education?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Enhance students’leadership capacity.",
+                  "B. Elevate students to managerial positions.",
+                  "C. Enable students to adapt to the changes in life.",
+                  "D. Prepare students to be competitive in the future."
+                ],
+                "question": "What does the author say teachers are expected to do?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. It lacks humanity.",
+                  "B. It is still immature.",
+                  "C. It cannot track students’ growth.",
+                  "D. It cannot cater to personal needs."
+                ],
+                "question": "Why couldn't technology replace a good teacher?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose you are going to write a proposal to your student union for enriching students' extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "　　从前有个人养了一群羊。一天早上他准备出去放羊，发现少了一只。他仔细一看，看到羊 栏 (sheepfold )上有个窟窿。显然，夜间有狼钻进羊圈叼走了羊。\n　　邻居劝他修羊栏，可是他不听。第二天，他发现狼又通过窟窿叼走一只羊。他想起邻居的话，就赶快堵上窟窿，把羊栏补好 。此后，他的羊再也没有被狼叼走。故事告诉我们:出了问题及时补救，可以防止蒙受更大损失。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_XmZzUzF.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_RbSVsyF.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_hXj0DKD.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:06,280\r\nCollege English Test and 4. Part 2. Listening Comprehension\r\n\r\n2\r\n00:00:07,000 --> 00:00:15,040\r\nSection A. Directions. In this section you will hear 3 news reports. At the end of each news\r\n\r\n3\r\n00:00:15,040 --> 00:00:21,300\r\nreport you will hear 2 or 3 questions. Both the news reports and the questions will be spoken\r\n\r\n4\r\n00:00:21,300 --> 00:00:27,860\r\nonly once. After you hear a question you must choose the best answer from the 4 choices\r\n\r\n5\r\n00:00:27,860 --> 00:00:36,120\r\nmarked A, B, C, and D. Then marked the corresponding letter on Ancestsheet 1 with a single\r\n\r\n6\r\n00:00:36,120 --> 00:00:37,460\r\nline through the center.\r\n\r\n7\r\n00:00:39,180 --> 00:00:46,240\r\nNews report 1. A new study finds that beverages containing added sugar might be harmful.\r\n\r\n8\r\n00:00:46,960 --> 00:00:55,580\r\nIn the study, researchers analyzed information from over 80,000 women and 37,000 men. Participants\r\n\r\n9\r\n00:00:55,580 --> 00:01:00,780\r\nworked in the health profession. They were followed for approximately three decades.\r\n\r\n10\r\n00:01:01,520 --> 00:01:07,560\r\nThey completed surveys about their diet every four years. They also answered questions\r\n\r\n11\r\n00:01:07,560 --> 00:01:14,740\r\nabout sleep and exercise and health every two years. The more beverages containing added\r\n\r\n12\r\n00:01:14,740 --> 00:01:21,040\r\nsugar that people drank, the greater the risk of death was during the study period. These\r\n\r\n13\r\n00:01:21,040 --> 00:01:25,600\r\nbeverages included soda, energy drinks, and sports drinks.\r\n\r\n14\r\n00:01:26,360 --> 00:01:31,540\r\nBeverage is like pure fruit juice, which are sweet but do not contain added sugar,\r\n\r\n15\r\n00:01:32,120 --> 00:01:33,500\r\nwere not part of the study.\r\n\r\n16\r\n00:01:34,440 --> 00:01:39,840\r\nThe findings held even after the researchers considered other factors that could affect\r\n\r\n17\r\n00:01:39,840 --> 00:01:40,700\r\npeople's health.\r\n\r\n18\r\n00:01:41,400 --> 00:01:46,360\r\nThese factors included lack of exercise and not eating enough vegetables.\r\n\r\n19\r\n00:01:46,360 --> 00:01:50,560\r\nThey also included consuming too much meat.\r\n\r\n20\r\n00:01:51,600 --> 00:01:56,520\r\nThe scientists say that their results support limiting beverages with added sugar.\r\n\r\n21\r\n00:01:57,180 --> 00:02:02,560\r\nThey argue we should replace them with other drinks, with water being the best choice.\r\n\r\n22\r\n00:02:03,160 --> 00:02:06,980\r\nHowever, the researchers admit this is simply their recommendation.\r\n\r\n23\r\n00:02:07,820 --> 00:02:10,180\r\nThe study found only an association.\r\n\r\n24\r\n00:02:11,060 --> 00:02:15,020\r\nIt did not prove that drinks with added sugar cause early death.\r\n\r\n25\r\n00:02:15,980 --> 00:02:21,480\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n26\r\n00:02:22,320 --> 00:02:23,400\r\nQuestion 1.\r\n\r\n27\r\n00:02:24,120 --> 00:02:27,240\r\nWhat do we learn about the new study from the news report?\r\n\r\n28\r\n00:02:40,640 --> 00:02:42,080\r\nQuestion 2.\r\n\r\n29\r\n00:02:42,080 --> 00:02:45,480\r\nWhat is the scientists' recommendation?\r\n\r\n30\r\n00:02:58,560 --> 00:03:00,080\r\nNews report 2\r\n\r\n31\r\n00:03:00,780 --> 00:03:08,580\r\nGerman police appealed Friday for information about the possible owners of two 17th century oil paintings.\r\n\r\n32\r\n00:03:09,720 --> 00:03:16,820\r\nPolice said, a 64-year-old man found the paintings in a garbage pile at a highway rest stop\r\n\r\n33\r\n00:03:16,820 --> 00:03:24,800\r\nlast month. He later handed them in to the Colone Police. An initial assessment by an art expert\r\n\r\n34\r\n00:03:24,800 --> 00:03:31,540\r\nconcluded the two framed paintings were originals, police said. One is a landscape painted\r\n\r\n35\r\n00:03:31,540 --> 00:03:36,180\r\nby the Italian artist Pietro Bellotti dating to 1665.\r\n\r\n36\r\n00:03:37,440 --> 00:03:44,060\r\nThe other is a painting of a boy by the 17th century Dutch artist Samuel Van Hoogstraden,\r\n\r\n37\r\n00:03:44,360 --> 00:03:44,940\r\ndate unknown.\r\n\r\n38\r\n00:03:45,980 --> 00:03:49,720\r\nTheir combined worth is estimated to be around 1 million euros.\r\n\r\n39\r\n00:03:50,720 --> 00:03:55,300\r\nAuthorities have not yet confirmed what will happen if the rightful owner is not found.\r\n\r\n40\r\n00:03:56,200 --> 00:04:01,340\r\nNevertheless, it is speculated that they could either be handed over to the National Art\r\n\r\n41\r\n00:04:01,340 --> 00:04:05,340\r\nMuseum of Colone, or sold to the public by the local government.\r\n\r\n42\r\n00:04:07,420 --> 00:04:12,000\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n43\r\n00:04:13,160 --> 00:04:13,820\r\nQuestion 3\r\n\r\n44\r\n00:04:14,360 --> 00:04:18,920\r\nWhat did German police say about a 64-year-old man?\r\n\r\n45\r\n00:04:32,219 --> 00:04:39,040\r\nQuestion 4. What is the art experts conclusion about the two framed paintings?\r\n\r\n46\r\n00:04:52,380 --> 00:05:00,980\r\nNews report 3. A four-year-old girl has walked eight kilometers through a snowy forest\r\n\r\n47\r\n00:05:00,980 --> 00:05:07,080\r\nto seek help for her sick grandmother, who later died of a heart attack. The young girl\r\n\r\n48\r\n00:05:07,080 --> 00:05:13,800\r\nbraved the threat of bears, wolves, and temperatures far below freezing. She made the journey\r\n\r\n49\r\n00:05:13,800 --> 00:05:20,120\r\nthrough a remote region in Siberia after waking up to find her grandmother motionless.\r\n\r\n50\r\n00:05:20,900 --> 00:05:27,840\r\nNamed locally as Carla, she lives alone with her elderly grandmother and her blind grandfather.\r\n\r\n51\r\n00:05:27,840 --> 00:05:32,800\r\nAs a result, the girl's mother is facing a criminal case.\r\n\r\n52\r\n00:05:33,340 --> 00:05:38,620\r\nShe stands accused of leaving a minor in danger in the care of the elderly.\r\n\r\n53\r\n00:05:39,440 --> 00:05:46,280\r\nShe also faces investigation from child care services, who will also be asking why Carla\r\n\r\n54\r\n00:05:46,280 --> 00:05:49,040\r\nwas left alone with her vulnerable relatives.\r\n\r\n55\r\n00:05:50,140 --> 00:05:56,500\r\nThe journey took place in February when temperatures average negative 26 degrees Celsius.\r\n\r\n56\r\n00:05:56,500 --> 00:06:03,900\r\nRussian reports on social media suggest the forced may have been as cold as negative 34\r\n\r\n57\r\n00:06:03,900 --> 00:06:10,280\r\ndegrees Celsius. The journey was only recently confirmed by authorities. But though she\r\n\r\n58\r\n00:06:10,280 --> 00:06:16,160\r\nwas suffering from the effects of extreme cold, the child reportedly suffered no life\r\n\r\n59\r\n00:06:16,160 --> 00:06:23,240\r\nthreatening effects. Last year, a three-year-old boy survived alone for three days in a remote\r\n\r\n60\r\n00:06:23,240 --> 00:06:25,320\r\nforest in the same region.\r\n\r\n61\r\n00:06:26,600 --> 00:06:31,340\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n62\r\n00:06:32,120 --> 00:06:33,220\r\nQuestion 5.\r\n\r\n63\r\n00:06:34,040 --> 00:06:37,660\r\nWhat did the four-year-old girl attempt to do?\r\n\r\n64\r\n00:06:50,420 --> 00:06:51,380\r\nQuestion 6.\r\n\r\n65\r\n00:06:51,380 --> 00:06:56,600\r\nWhat do we learn from the news report about the girl's mother?\r\n\r\n66\r\n00:07:09,520 --> 00:07:10,800\r\nQuestion 7.\r\n\r\n67\r\n00:07:11,860 --> 00:07:15,360\r\nWhat happened to the little girl according to the news report?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:02,060 --> 00:00:09,300\r\nSection B Directions In this section, you will hear two long conversations.\r\n\r\n2\r\n00:00:10,300 --> 00:00:14,380\r\nAt the end of each conversation, you will hear four questions.\r\n\r\n3\r\n00:00:15,260 --> 00:00:19,880\r\nBoth the conversation and the questions will be spoken only once.\r\n\r\n4\r\n00:00:20,860 --> 00:00:25,860\r\nAfter you hear a question, you must choose the best answer from the four choices,\r\n\r\n5\r\n00:00:25,860 --> 00:00:36,240\r\nMarked A, B, C, and D. Then marked the corresponding letter on answer sheet 1, with a single line through the center.\r\n\r\n6\r\n00:00:38,940 --> 00:00:40,020\r\nConversation 1\r\n\r\n7\r\n00:00:40,380 --> 00:00:46,020\r\nI've made a new friend recently. Her name is Susan and she's from South Africa.\r\n\r\n8\r\n00:00:46,920 --> 00:00:53,180\r\nHow did you meet her? We met over WeChat. She has very cool photos on her social media.\r\n\r\n9\r\n00:00:53,180 --> 00:00:56,620\r\nThe photos of her hometown look amazing.\r\n\r\n10\r\n00:00:57,540 --> 00:00:59,280\r\nWhat's her hometown called?\r\n\r\n11\r\n00:00:59,600 --> 00:01:01,440\r\nIt's called Cape Town.\r\n\r\n12\r\n00:01:01,860 --> 00:01:04,599\r\nIt's in the southwest of South Africa.\r\n\r\n13\r\n00:01:05,220 --> 00:01:08,020\r\nShe says it's very green and windy.\r\n\r\n14\r\n00:01:08,680 --> 00:01:11,440\r\nThe city was built by European settlers.\r\n\r\n15\r\n00:01:12,060 --> 00:01:15,300\r\nAnd there's a big mountain that overlooks the city.\r\n\r\n16\r\n00:01:15,740 --> 00:01:21,220\r\nThe mountain is called Table Mountain because it's flat at the top.\r\n\r\n17\r\n00:01:21,220 --> 00:01:25,440\r\nThat sounds interesting. What are the people there like?\r\n\r\n18\r\n00:01:26,020 --> 00:01:34,580\r\nWell Susan says South Africa is very mixed. There are black people and white people and Indian\r\n\r\n19\r\n00:01:34,580 --> 00:01:42,040\r\npeople. Susan is white. She says her ancestors were from Britain. Many languages are spoken\r\n\r\n20\r\n00:01:42,040 --> 00:01:45,480\r\nin South Africa, but she only speaks English.\r\n\r\n21\r\n00:01:45,480 --> 00:01:50,220\r\nDidn't South Africa host the football world cup a few years ago.\r\n\r\n22\r\n00:01:50,800 --> 00:01:53,040\r\nThey must play football a lot then, right?\r\n\r\n23\r\n00:01:53,780 --> 00:01:57,680\r\nI think they play football, but it's not as popular as rugby.\r\n\r\n24\r\n00:01:58,580 --> 00:01:58,800\r\nRugby?\r\n\r\n25\r\n00:01:59,480 --> 00:02:00,120\r\nWhat's rugby?\r\n\r\n26\r\n00:02:00,980 --> 00:02:07,180\r\nRugby is a sport with two teams and the players carry the ball in their arms and throw\r\n\r\n27\r\n00:02:07,180 --> 00:02:08,180\r\nit at each other.\r\n\r\n28\r\n00:02:08,560 --> 00:02:12,240\r\nThe ball is not round, and the players push each other.\r\n\r\n29\r\n00:02:12,240 --> 00:02:17,120\r\nI don't really understand the rules. I think it's very complicated.\r\n\r\n30\r\n00:02:18,120 --> 00:02:24,120\r\nThat sounds like a very strange sport, indeed. Is it only South Africa that plays it?\r\n\r\n31\r\n00:02:24,680 --> 00:02:32,260\r\nNo, it's also popular in Britain and in other former British colonies like Australia and New Zealand.\r\n\r\n32\r\n00:02:34,020 --> 00:02:38,780\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n33\r\n00:02:38,780 --> 00:02:45,400\r\nQuestion 8. What does the woman say about her new friend Susan?\r\n\r\n34\r\n00:02:58,000 --> 00:03:03,880\r\nQuestion 9. What does the woman say about table mountain?\r\n\r\n35\r\n00:03:17,160 --> 00:03:24,700\r\nQuestion 10. What do we learn from the conversation about the woman's friend Susan?\r\n\r\n36\r\n00:03:37,739 --> 00:03:43,880\r\nQuestion 11. What does the woman say about rugby in South Africa?\r\n\r\n37\r\n00:03:58,980 --> 00:04:05,340\r\nConversation 2 Hi Jennifer, I'm really struggling with this semester's workload.\r\n\r\n38\r\n00:04:06,140 --> 00:04:07,620\r\nDo you have any advice?\r\n\r\n39\r\n00:04:08,400 --> 00:04:11,000\r\nHave you considered making a study guide?\r\n\r\n40\r\n00:04:11,560 --> 00:04:15,900\r\nIt's a tool you can make yourself to take the stress out of studying.\r\n\r\n41\r\n00:04:16,720 --> 00:04:22,580\r\nI've been using one since the start of last semester and it has really helped relieve\r\n\r\n42\r\n00:04:22,580 --> 00:04:25,060\r\na lot of study pressure.\r\n\r\n43\r\n00:04:25,840 --> 00:04:27,560\r\nSounds like just what I need.\r\n\r\n44\r\n00:04:28,200 --> 00:04:36,180\r\nMy main problem is that my study folder is full of notes and worksheets and is badly disorganized.\r\n\r\n45\r\n00:04:36,900 --> 00:04:38,360\r\nI don't know where to start.\r\n\r\n46\r\n00:04:39,100 --> 00:04:44,800\r\nOkay, well, the main thing is to have everything in the right place.\r\n\r\n47\r\n00:04:45,480 --> 00:04:50,540\r\nWhatever you're reviewing, it's important that it's arranged for your particular needs\r\n\r\n48\r\n00:04:50,540 --> 00:04:51,620\r\nof that subject.\r\n\r\n49\r\n00:04:51,620 --> 00:04:58,040\r\nAnd in the most user-friendly way you can, what kind of learner are you?\r\n\r\n50\r\n00:04:58,280 --> 00:05:00,380\r\nHmm, I'm not sure.\r\n\r\n51\r\n00:05:01,660 --> 00:05:09,000\r\nWell, visual learners prefer using images, pictures, colors, and maps to organize information.\r\n\r\n52\r\n00:05:09,900 --> 00:05:16,600\r\nLogical learners have a linear mind, and would rather use logic, reasoning, and systems.\r\n\r\n53\r\n00:05:16,600 --> 00:05:24,560\r\nI'm an emotional learner, which means I need to connect to information emotionally to understand it.\r\n\r\n54\r\n00:05:24,900 --> 00:05:30,300\r\nOh, I'm very much dependent on vision as a way of taking in information.\r\n\r\n55\r\n00:05:31,540 --> 00:05:37,920\r\nWell, I suggest reorganizing your notes using color coded sections in your study guides,\r\n\r\n56\r\n00:05:38,440 --> 00:05:44,400\r\nor using idea mapping to lay out the information and make it more quickly accessible.\r\n\r\n57\r\n00:05:44,400 --> 00:05:51,540\r\nSo you think I should arrange my notes using colour and pictures in place of text?\r\n\r\n58\r\n00:05:52,180 --> 00:05:58,520\r\nYes, you'll probably start to grasp information a lot quicker that way. As an emotional\r\n\r\n59\r\n00:05:58,520 --> 00:06:05,380\r\nlearner, I organize my notes into a story that I can connect to and recite to myself.\r\n\r\n60\r\n00:06:05,980 --> 00:06:11,140\r\nThat's amazing. I didn't know there were so many different ways to learn.\r\n\r\n61\r\n00:06:11,140 --> 00:06:18,080\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n62\r\n00:06:19,280 --> 00:06:20,120\r\nQuestion 12.\r\n\r\n63\r\n00:06:21,220 --> 00:06:23,780\r\nWhat does the woman advise the man do?\r\n\r\n64\r\n00:06:36,680 --> 00:06:38,500\r\nQuestion 13.\r\n\r\n65\r\n00:06:38,500 --> 00:06:44,400\r\nWhat is the biggest problem the man has with his studies?\r\n\r\n66\r\n00:06:57,460 --> 00:06:59,020\r\nQuestion 14.\r\n\r\n67\r\n00:07:00,280 --> 00:07:03,980\r\nWhat kind of learner does the woman say she is?\r\n\r\n68\r\n00:07:17,699 --> 00:07:19,020\r\nQuestion 15.\r\n\r\n69\r\n00:07:20,120 --> 00:07:24,200\r\nWhat does the woman think the man can do with his notes?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:02,200 --> 00:00:11,240\r\nSection C. Directions. In this section, you will hear three passages. At the end of each passage,\r\n\r\n2\r\n00:00:11,700 --> 00:00:19,260\r\nyou will hear three or four questions. Both the passage and the questions will be spoken only\r\n\r\n3\r\n00:00:19,260 --> 00:00:26,800\r\nonce. After you hear a question, you must choose the best answer from the four choices marked\r\n\r\n4\r\n00:00:26,800 --> 00:00:35,440\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n5\r\n00:00:35,440 --> 00:00:36,600\r\nthrough the center.\r\n\r\n6\r\n00:00:38,300 --> 00:00:46,420\r\nPassage 1. The golden rule is a moral principle, which states that you should treat others\r\n\r\n7\r\n00:00:46,420 --> 00:00:53,780\r\nthe way you want to be treated yourself. For example, if you want people to treat you\r\n\r\n8\r\n00:00:53,780 --> 00:01:01,700\r\nrespect, you should treat them with respect. Different people tend to be exposed to different\r\n\r\n9\r\n00:01:01,700 --> 00:01:08,780\r\nforms of the golden rule, based on factors such as the religion in their society. However,\r\n\r\n10\r\n00:01:09,300 --> 00:01:16,280\r\nall forms of the golden rule revolve around the same concept. Namely, they help you treat\r\n\r\n11\r\n00:01:16,280 --> 00:01:22,880\r\nothers better, by using the way you yourself would want to be treated as a guide of how\r\n\r\n12\r\n00:01:22,880 --> 00:01:30,620\r\nto behave. A notable criticism of the Golden Rule is that its application can lead to undesirable\r\n\r\n13\r\n00:01:30,620 --> 00:01:38,840\r\noutcomes when it conflicts with laws and ethical principles. For example, if someone breaks\r\n\r\n14\r\n00:01:38,840 --> 00:01:45,720\r\nthe law, the Golden Rule would suggest that we should let them go because we would not want\r\n\r\n15\r\n00:01:45,720 --> 00:01:52,500\r\nto be punished ourselves. However, this issue with the Golden Rule can be dealt with in\r\n\r\n16\r\n00:01:52,500 --> 00:01:59,580\r\ngeneral manner. By viewing this principle as one of several principles that we use to guide\r\n\r\n17\r\n00:01:59,580 --> 00:02:07,340\r\nour behavior as individuals and as a society. Specifically, in the example described above,\r\n\r\n18\r\n00:02:07,740 --> 00:02:14,800\r\nmost individuals and societies choose to place laws and ethical principles above the golden\r\n\r\n19\r\n00:02:14,800 --> 00:02:21,740\r\nrule. This means that they strive to implement the golden rule whenever possible, as long\r\n\r\n20\r\n00:02:21,740 --> 00:02:25,880\r\nas it doesn't clash with a more important concept.\r\n\r\n21\r\n00:02:27,360 --> 00:02:32,220\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n\r\n22\r\n00:02:33,080 --> 00:02:34,120\r\nQuestion 16.\r\n\r\n23\r\n00:02:35,360 --> 00:02:38,560\r\nWhat do we learn from the passage about the Golden Rule?\r\n\r\n24\r\n00:02:51,740 --> 00:02:58,940\r\nQuestion 17. What is a notable criticism of the Golden Rule?\r\n\r\n25\r\n00:03:11,720 --> 00:03:19,880\r\nQuestion 18. What does the example of someone breaking the law served to show?\r\n\r\n26\r\n00:03:33,400 --> 00:03:35,520\r\nPassage 2\r\n\r\n27\r\n00:03:35,520 --> 00:03:42,540\r\nToday, many large corporations stress the importance of diversity on their websites.\r\n\r\n28\r\n00:03:43,320 --> 00:03:51,100\r\nBut current statistics show that the typical manager in America still tends to be white and male.\r\n\r\n29\r\n00:03:51,100 --> 00:03:58,860\r\nObviously, the desire to bring about diversity has not translated into corporate reality.\r\n\r\n30\r\n00:03:59,880 --> 00:04:07,220\r\nWhy is this? A team of researchers from the University of Basel published their new study\r\n\r\n31\r\n00:04:07,220 --> 00:04:11,580\r\nabout people's attitudes towards diversity at work.\r\n\r\n32\r\n00:04:12,520 --> 00:04:17,899\r\nThey found that people have a wide range of opinions concerning diversity.\r\n\r\n33\r\n00:04:17,899 --> 00:04:25,820\r\nOn the one hand, many see value in diversity, which can contribute a variety of perspectives,\r\n\r\n34\r\n00:04:26,560 --> 00:04:31,100\r\nencourage new ideas, and generate innovative solutions.\r\n\r\n35\r\n00:04:32,180 --> 00:04:38,720\r\nOn the other hand, they assume that it might be difficult to work with someone who has\r\n\r\n36\r\n00:04:38,720 --> 00:04:40,580\r\ncompletely different views.\r\n\r\n37\r\n00:04:41,480 --> 00:04:46,060\r\nSpeak a different language, or has a different style of work.\r\n\r\n38\r\n00:04:46,060 --> 00:04:53,360\r\nThe actual value they attribute to diversity depends on the decision making perspective.\r\n\r\n39\r\n00:04:54,200 --> 00:05:01,160\r\nDoubts about the practical ability of diversity have a greater weight if a person is\r\n\r\n40\r\n00:05:01,160 --> 00:05:02,200\r\ndirectly affected.\r\n\r\n41\r\n00:05:02,840 --> 00:05:09,260\r\nIn other words, when a person's own work group is involved, they tend to prefer teen members\r\n\r\n42\r\n00:05:09,260 --> 00:05:11,300\r\nwho are similar to themselves.\r\n\r\n43\r\n00:05:11,300 --> 00:05:17,820\r\nBut, when people make decisions for others, they typically put together a more diverse\r\n\r\n44\r\n00:05:17,820 --> 00:05:18,440\r\nteam.\r\n\r\n45\r\n00:05:19,200 --> 00:05:23,580\r\nThese findings could help organizations become more diverse.\r\n\r\n46\r\n00:05:24,420 --> 00:05:29,440\r\nCompanies need to pay attention to who makes hiring and team decisions.\r\n\r\n47\r\n00:05:30,300 --> 00:05:35,160\r\nThese decisions should not only be made by those directly affected.\r\n\r\n48\r\n00:05:35,160 --> 00:05:42,420\r\nPeople who are not directly involved in the group's daily work should also take part.\r\n\r\n49\r\n00:05:44,140 --> 00:05:49,760\r\nQuestions 19-21 are based on the passage you have just heard.\r\n\r\n50\r\n00:05:50,880 --> 00:05:51,780\r\nQuestion 19.\r\n\r\n51\r\n00:05:52,980 --> 00:05:58,700\r\nWhat do we learn from the current statistics about diversity in large corporations?\r\n\r\n52\r\n00:06:11,860 --> 00:06:18,620\r\nQuestion 20. What is the newly published study focused on?\r\n\r\n53\r\n00:06:31,140 --> 00:06:36,840\r\nQuestion 21. What do the findings of the new study show?\r\n\r\n54\r\n00:06:50,400 --> 00:06:52,320\r\nPassage 3.\r\n\r\n55\r\n00:06:53,060 --> 00:06:57,440\r\nCommunication can essentially be divided into two categories.\r\n\r\n56\r\n00:06:58,420 --> 00:07:00,160\r\nThe written and the spoken.\r\n\r\n57\r\n00:07:01,340 --> 00:07:07,220\r\nHow the balance is struck between these two forms of communication, the point at which one\r\n\r\n58\r\n00:07:07,220 --> 00:07:12,540\r\nneeds to be exchanged for another really depends on individual cultures.\r\n\r\n59\r\n00:07:12,540 --> 00:07:21,080\r\nUnderstanding when it's appropriate to exchange one form for another can be a major key to\r\n\r\n60\r\n00:07:21,080 --> 00:07:29,500\r\nsuccess in international business. Many cultures place a much greater value on the spoken word\r\n\r\n61\r\n00:07:29,500 --> 00:07:37,120\r\nthan the American working culture does. In parts of the Middle East, your find spoken word\r\n\r\n62\r\n00:07:37,120 --> 00:07:45,020\r\nagreements are seen as seriously binding. A person's word is linked to their honor. So\r\n\r\n63\r\n00:07:45,020 --> 00:07:52,140\r\nverbal agreements are seen as important, whereas written contracts are taken as memos\r\n\r\n64\r\n00:07:52,140 --> 00:07:58,620\r\nof understanding. Western working culture tends to place a high value on the written\r\n\r\n65\r\n00:07:58,620 --> 00:08:06,700\r\nword, and this reaches its highest level of intensity when it comes to contracts. In the\r\n\r\n66\r\n00:08:06,700 --> 00:08:14,080\r\nU.S,France and Germany, written contracts tend to be seen as something that must be strictly\r\n\r\n67\r\n00:08:14,080 --> 00:08:21,860\r\ncarried out. By contrast, other cultures may not see written contracts as quite so binding.\r\n\r\n68\r\n00:08:22,860 --> 00:08:29,300\r\nIt can prove a challenge to Western businesses if your business partner wants to renegotiate\r\n\r\n69\r\n00:08:29,300 --> 00:08:36,780\r\nterms that you thought were already agreed on. For example, a Japanese firm may have signed\r\n\r\n70\r\n00:08:36,780 --> 00:08:45,220\r\na contract, but they may not feel bound by every detail of it. Particularly if circumstances\r\n\r\n71\r\n00:08:45,220 --> 00:08:53,240\r\nlater change. Such differences in value that different working cultures place on the written word\r\n\r\n72\r\n00:08:53,240 --> 00:08:58,220\r\ntend to cause many problems when it comes to business relationships.\r\n\r\n73\r\n00:09:00,300 --> 00:09:05,500\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n74\r\n00:09:06,520 --> 00:09:15,180\r\nQuestion 22. What is a major key to success in international business according to the passage?\r\n\r\n75\r\n00:09:28,100 --> 00:09:37,980\r\nQuestion 23 What does the passage say about spoken word agreements in some Middle East countries?\r\n\r\n76\r\n00:09:50,620 --> 00:09:52,700\r\nQuestion 24\r\n\r\n77\r\n00:09:52,700 --> 00:09:57,980\r\nWhat do we learn about the Western working culture?\r\n\r\n78\r\n00:10:11,040 --> 00:10:19,520\r\nQuestion 25. How does a Japanese firm tend to view a written contract?\r\n\r\n79\r\n00:10:33,180 --> 00:10:35,660\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

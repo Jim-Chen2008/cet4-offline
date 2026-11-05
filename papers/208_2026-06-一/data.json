@@ -1,0 +1,690 @@
+{
+  "id": 89,
+  "exam": 208,
+  "exam_details": {
+    "id": 208,
+    "title": "2026年6月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2026,
+    "month": 6,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2026-06-13T20:17:00.278034+08:00",
+    "updated_at": "2026-06-13T20:17:00.278048+08:00",
+    "exam_id": 208,
+    "submission_count": 0,
+    "cet_content_id": 89,
+    "has_draft": false
+  },
+  "created_at": "2026-06-13T20:17:41.435044+08:00",
+  "updated_at": "2026-10-25T18:35:18.939027+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A) He had bought meals with his online food ordering account.",
+              "B) His son had used his cell phone to pay for playing a game.",
+              "C) His son had ordered food from several restaurants.",
+              "D) He had dined out at a famous five-star restaurant."
+            ],
+            "question": "Why was Keith Stonehouse left with a $1,000 bill?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A) Teach his son a lesson.",
+              "B) Change his password.",
+              "C) Ask his neighbors for help.",
+              "D) Buy a bigger refrigerator."
+            ],
+            "question": "What does the news report say Keith Stonehouse is planning to do?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A) They examined how visitors affected animal behaviour in zoos.",
+              "B) They studied when the best time to feed animals in public was.",
+              "C) They studied how animals adapted themselves to life in zoos.",
+              "D) They examined what behaviours indicated animal boredom."
+            ],
+            "question": "What did animal behaviour experts do according to the news report?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A) They socialise with zookeepers as well as with each other.",
+              "B) They show good adaptability to living with humans.",
+              "C) They have been kept as pets by humans.",
+              "D) They have been born and raised in zoos."
+            ],
+            "question": "Why have some animal species likely become used to the presence of humans?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A) Adjusting it.",
+              "B) Suspending it.",
+              "C) Reevaluating it.",
+              "D) Expanding it."
+            ],
+            "question": "What is Denver doing with its popular electric bike incentive program."
+          },
+          {
+            "id": 6,
+            "options": [
+              "A) They could buy an electric bike for $400 in April.",
+              "B) They could buy their first electric bike at a discount.",
+              "C) They could enjoy free after-sale service for their purchase.",
+              "D) They could get $1,200 from government funds if they qualified."
+            ],
+            "question": "How do the electric bike incentive program benefit residents?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A) Put 400 more electric bikes on its streets.",
+              "B) Increase the program funding by 8 percent.",
+              "C) Resume its electric bike incentive program.",
+              "D) Invest millions of dollars into the local economy."
+            ],
+            "question": "What does the city of Denver expect to do early next year?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A) The coin collection.",
+              "B) The primitive tools.",
+              "C) The ancient ornaments.",
+              "D) The 2,000-year-old clothes."
+            ],
+            "question": "What exhibit does the man like best in the museum he visited?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A) It is charming with narrow but beautiful streets.",
+              "B) It attracts visitors from every corner of the world.",
+              "C) It has flowers displayed around the Trevi Fountain.",
+              "D) It is more attractive than the pictures in guidebooks."
+            ],
+            "question": "What does the woman say about the old city centre?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A) It is covered with wild grass.",
+              "B) It is very famous and pretty.",
+              "C) It is located away from an old church.",
+              "D) It is surrounded by Spanish-style houses."
+            ],
+            "question": "What does the man say about the square with the Spanish steps?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A) Ask Kathy what her plan is.",
+              "B) Tell Kathy Mike will join them.",
+              "C) Ask Kathy if she'd like to see the square.",
+              "D) Tell Kathy Mike would like to have a change."
+            ],
+            "question": "What does the woman say she is going to do first?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A) How to fit into the bigger picture.",
+              "B) How to get on with colleagues.",
+              "C) How to create a solid first impression.",
+              "D) How to succeed in a new job."
+            ],
+            "question": "What advice does the man want to get from the woman?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A) Get familiar with all the details of his job description.",
+              "B) Learn about the relations within the organization.",
+              "C) Recognize his own limitations and weaknesses.",
+              "D) Understand his role from various perspectives."
+            ],
+            "question": "What does the woman say is the most important thing for the man to do at first?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A) Learning history.",
+              "B) Meeting his boss.",
+              "C) Creating reports for other departments to use.",
+              "D) Leaving his coworkers in the present company."
+            ],
+            "question": "What does the man say he is feeling a bit uneasy about?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A) Get to know the decision-makers.",
+              "B) Acquire decision-making authority.",
+              "C) Promote its products and services.",
+              "D) Observe its overall management."
+            ],
+            "question": "What does the woman suggest the man do to gain insight about the running of the business?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A) They do not tell marketers their feeling about a product.",
+              "B) They do not compare competing brands and prices.",
+              "C) They are not hesitant to contradict themselves.",
+              "D) They are not sure what they really like to buy."
+            ],
+            "question": "What does research indicate about many consumers when they evaluate a purchase?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A) Consumers are often attracted by new products.",
+              "B) Consumers tend to make decisions on the spot.",
+              "C) Consumers find it hard to resist temptation.",
+              "D) Consumers are actually driven by emotion."
+            ],
+            "question": "What do good marketers keep in mind all the time?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A) Draw consumers' attention to the luxury goods symbolizing quality life.",
+              "B) Leave consumers the impression they are doing nothing manipulative.",
+              "C) Highlight the emotional response it will trigger in the consumer.",
+              "D) Remind consumers of the wide connections it can help to build."
+            ],
+            "question": "What should marketers do besides stressing the features of a product?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A) They are taking in a lot of plastic.",
+              "B) They are polluting the environment.",
+              "C) They consume much processed food.",
+              "D) They make everything with plastics."
+            ],
+            "question": "What does the passage say about Americans?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A) Beer, salts and added sugars.",
+              "B) Tap water and take-away food.",
+              "C) Food packages and plastic bags.",
+              "D) Air, bottled water and seafood."
+            ],
+            "question": "What counted as the biggest sources for Americans breathing in or consuming microplastics?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A) How much plastic there is in the remaining 85% of Americans' typical diet.",
+              "B) What measures can be taken to prevent plastic objects from fragmenting.",
+              "C) What harm microplastics may actually do to the average Americans.",
+              "D) How many ways there are for microplastics to get into food and air."
+            ],
+            "question": "What does the passage say is still unknown?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A) They planned to adopt a pet animal.",
+              "B) They kept not only a dog but a cat.",
+              "C) They had at least one pet.",
+              "D) They liked cats more than dogs."
+            ],
+            "question": "What did over half of the respondents say in the survey?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A) A sense of pride.",
+              "B) A sense of duty.",
+              "C) A sense of purpose.",
+              "D) A sense of security."
+            ],
+            "question": "What did most older pet owners in the survey say their pets provided?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A) A few problems with keeping big animals.",
+              "B) Some disadvantages related to pet ownership.",
+              "C) A few cases of getting attacked by pet animals.",
+              "D) Some conflicts with neighbors due to pet keeping."
+            ],
+            "question": "What does the passage say people did report in the survey?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A) Reduce as many symptoms of depression as medical help.",
+              "B) Improve people's health as much as physical activities.",
+              "C) Lower older people's stress as effectively as exercising.",
+              "D) Bring many of the same benefits as human social support."
+            ],
+            "question": "What does research show interacting with pets can do?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "One of the biggest controversies over the Industrial Revolution is how it affected the working class. The\noldest debates were over whether the standards of living rose or fell. Those that believed they fell claimed\nthat the capitalists ___26___ every ounce of surplus they could from the working class. Those that believed\nthe standards of living rose claimed that the environment was consumer-friendly, with more and more goods\n___27___ to the working class every year.\nToday's historians agree that overall, the standards of living ___28___. They do not agree, however, on\nwhen this improvement ___29___.\nIn an effort to solve this controversy, historians have attempted to define ___30___ what \"standard of living\"\nmeans. They all seem to agree that it should mean happiness, but happiness is impossible to measure.\nInstead, historians ___31___ use \"real income\" as the measure for the standards of living. Real income is\nmoney ___32___ and then adjusted according to the cost of living. However, it does not take into account\nunemployment, pollution, health, life expectancy, or free time.\nAfter ___33___ debate and analysis of the average income, historians have agreed to disagree on whether\nthere was rapid or slow economic growth during the Industrial Revolution. Instead, they have decided to\n___34___ how the Industrial Revolution was affected by other events. They have determined that the\nIndustrial Revolution had an overall positive ___35___, but it quite possibly was neutralized by negative\nevents such as wars, high taxes, and rapid population growth.",
+        "word_bank": [
+          "available",
+          "deteriorating",
+          "earned",
+          "effect",
+          "enhance",
+          "exactly",
+          "exhausting",
+          "experience",
+          "increased",
+          "interpret",
+          "occurred",
+          "peculiar",
+          "probably",
+          "squeezed",
+          "typically"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "The author's daughter slept throughout the last leg of their flight to Great Barrier Island."
+          },
+          {
+            "id": 37,
+            "content": "The lodge where the author stayed provided very delicious food."
+          },
+          {
+            "id": 38,
+            "content": "Many people are attracted to Great Barrier Island because of the incredible fishing sites around it."
+          },
+          {
+            "id": 39,
+            "content": "A well-known artist failed to purchase a house on Great Barrier Island."
+          },
+          {
+            "id": 40,
+            "content": "Unable to fall asleep after a long flight, the author was pleased to enjoy the most gorgeous view of the night sky in his life."
+          },
+          {
+            "id": 41,
+            "content": "Great Barrier Island is compared to another island which attracted a lot of artists and people who wished to stay away from city life half a century ago."
+          },
+          {
+            "id": 42,
+            "content": "One most memorable part of the author's visit to Great Barrier Island was a one-hour walk to its centre's hot springs."
+          },
+          {
+            "id": 43,
+            "content": "Great Barrier Island has officially been recognized for its extraordinary starry nights."
+          },
+          {
+            "id": 44,
+            "content": "Great Barrier Island is not connected to any public power supply lines."
+          },
+          {
+            "id": 45,
+            "content": "It is strange that light pollution on Great Barrier Island mainly comes from a faraway island to the north."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "I was glad I had such terrible jetlag. Wide awake at 3:30am with our nine-year-old daughter on our lodge balcony, I stared for hours at the most incredible night sky I've ever seen before the dawn slowly started to rub out the stars on the horizon and the multiple shooting stars faded away."
+          },
+          {
+            "id": "B",
+            "content": "We were going to my wife's big family reunion in Auckland, New Zealand, but when we found out that Great Barrier Island, just off the coast, had been recently awarded Dark Sky Sanctuary status-a typically remote area that has an \"exceptional or distinguished quality of starry nights\"-we thought it would be the perfect place to relax before our busy schedule. It's the first island and only the fourth location in the world to achieve this status."
+          },
+          {
+            "id": "C",
+            "content": "After a 28-hour flight with two travel-sick children, our hearts sank when we saw the tiny twin engine 10- seater that was to take us the 90km across the Hauraki Gulf to Great Barrier Island. But we needn't have worried. Whether it was the gravity force of the plane climbing or the noise of the engine, it put our three-year-old daughter instantly to sleep until we bumped down on the grass at Claris Airport. Our first empty sick bag against all the odds...Things were looking up."
+          },
+          {
+            "id": "D",
+            "content": "Great Barrier Island has no public facilities and the 950 people living there (though only about half permanently) rely on solar and wind energy, and bottled gas for cooking. There are no streetlights. There are no cash machines or banks. The police force comprises a husband and wife, and there's one postman. It's not just the lack of light but the lack of noise that's so delightful on this unique and gorgeous scene. It was first discovered by East Polynesians about 700 years ago and the Maori name for the island is Aotea. Captain Cook gave the island its European name, because it acts as a barrier between the Pacific and the Hauraki Gulf."
+          },
+          {
+            "id": "E",
+            "content": "The climate here is subtropical (亚热带的) like Auckland's. The island boasts a beautiful wilderness with dense forests, glorious, unspoilt sandy beaches and plenty of bays and a few mountainous areas where there are good walking tracks among the wetlands and valleys. You can birdwatch, dive, surf and boat. The best beaches are on the eastern side of the island where the surf is better, too. The sheltered western side is where you'll find the best diving and boating. Lots of people come here for the fantastic fishing spots around the island. Like a lot of spots in New Zealand, there are whale-watching trips and you might just catch sight of sharks."
+          },
+          {
+            "id": "F",
+            "content": "It's rare to find an island that really does feel undiscovered-but this is it. When one of my wife's relations, who comes here regularly, found out that we'd been there, he whispered to us, only half- joking: \"Shh-don't tell anyone!\" The locals are a relaxed and friendly bunch-a lot of them told us that it's like what Waiheke Island (now in effect a suburb of Auckland) was in the 1970s when it was a commune of artists and people wanting to escape the city."
+          },
+          {
+            "id": "G",
+            "content": "Our guide for some of our stay was the inestimable Hilde Hoven, a Dark Sky ambassador who runs Good Heavens with Deborah Kilgallon and Orla Cumisky. They bring their Dobsonian telescope and beanbags (it's hard work staring up wide-eyed in wonder without neck support), and, our elder daughter was glad to hear, hot chocolate to wherever you are on the island. \"It's odd but when the light readings were done,\" said Hilde, explaining how the island was awarded its special status, \"they found there was more light pollution on the northern side coming from Fiji, which is about 3,000km away, than Auckland to the south. It's pretty dark!\""
+          },
+          {
+            "id": "H",
+            "content": "Beginning their astronomical PowerPoint demonstration using a green laser pointer, Hilde and Orla showed us the Messier 4 spherical cluster (星团) with white dwarf stars (白矮星), Saturn and its rings, the Southern Cross and the Milky Way, which stretched across the sky. Our daughter was especially taken with Hilde's narrating of the Maori myth of Māui's fish hook to explain the shape of Scorpius. In the fable, Māui hauled the North Island of New Zealand from the bottom of the ocean with his hook."
+          },
+          {
+            "id": "I",
+            "content": "We stayed at Mount St Paul's Estate, a luxurious lodge run by the friendly Chris and Teara, both from Canada. Teara used to be a chef at the Langham in Auckland and so dinner, eaten around a huge circular table (made of one of the most ancient trees in the world), was every bit as mouth-watering as you'd expect. Eating pancakes on the balcony overlooking the unspoilt white sandy beach was a great way to start the day."
+          },
+          {
+            "id": "J",
+            "content": "Another highlight was an hour-long walk to Kaitoke hot pools in the centre of the island, through wetlands and a forest, where we whiled away a good hour sitting in the pools shaded from the heat by layers of delicate umbrella-like plants."
+          },
+          {
+            "id": "K",
+            "content": "We also loved visiting the potter (陶艺家) Sarah Harrison, who showed us round her studio at Shoal Bay harbour, and her many pots and jugs, plates and bowls and colourful mosaics (马赛克). In her work, she also uses a lot of materials found on the beach. Our elder daughter loved the gorgeous hidden pool at Medlands beach where the water is separated from the sea in a private rock pool. Other high points were the ancient pōhutukawa trees and the incredible views of Okiwi Basin and Whangapoua beach from the top of Windy Canyon, just a 10-minute hike through a narrow valley up some steep wooden steps on the eastern side of the island."
+          },
+          {
+            "id": "L",
+            "content": "Apparently the island council turned down famous musician Paul McCartney's application to buy a property at Great Barrier Island because of the unwelcome attention he would have brought. You can see why he wanted to come here; equally, the island knows exactly what kind of star watching it prefers."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage 1",
+            "content": "Is organic food worth the higher price? It's the classic grocery store dilemma. On the one hand, your family dinner table deserves only the best. On the other hand, your wallet can only stretch so far. Whether or not to buy organic is a personal decision, said Mike von Massow, professor of Food Agriculture. Science won't give a clear-cut answer to the question of whether organic food is \"better.\" There are often trade-offs (权衡) and answers become less definitive depending on the product under consideration. One thing is definitive: Organic and conventionally grown food are equally nutritious. From a nutrition point of view, there is no difference between organic and traditionally grown products. Organic products don't necessarily have fewer pesticides (杀虫剂)-in fact, they may have more. There is also no big difference between organic and non-organic products from a food-safety perspective. Even organic growers use pesticides.  Testing shows little if any pesticide  remains on conventionally grown products. In fact, organic farmers often use larger quantities of pesticide because they can only use the natural variety of insect-killers. Chemical pesticides generally kill a much wider range of  pests ( 害虫) than any single natural pesticide. The use of animal waste in organic agriculture can also be a factor in the spread of bacteria like E. coli and salmonella.  Over  the  past  10  years,  Canada  has  seen  more  food-safety  recalls  for  organic  products, proportionally, than for conventional products. On the whole, organic agriculture may have a smaller environmental footprint. That's mostly because the risk of groundwater contamination from organic farming is lower. Organic farmers never used neonics, the controversial pesticides that have been linked to shrinking bee populations worldwide. Traditional agriculture has been making \"dramatic improvements\" to reduce its impact on the environment. It isn't a black-and-white picture, though. Organic  farming  is  much  less efficient  when  it  comes  to  land  use,  although  yields  vary considerably depending on the crop. On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Whether or not one should eat organic food.",
+                  "B. Whether or not one can stretch their wallet far.",
+                  "C. Organic food costs more but it certainly tastes better.",
+                  "D. One wants the best food but their budget is limited."
+                ],
+                "question": "What is the classic grocery store dilemma?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Whether it is any better remains uncertain.",
+                  "B. Whether it is healthier is under consideration.",
+                  "C. Whether it is more nutritious than conventional food is arguable.",
+                  "D. Whether it is going to replace conventional food is still unclear."
+                ],
+                "question": "What do we learn about organic food from science?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Their difference is the conventions used to test them.",
+                  "B. They differ in how much pesticide remains on them.",
+                  "C. One relies on pesticides whereas the other does not.",
+                  "D. There is no substantial difference between the two."
+                ],
+                "question": "What does the passage say about organic and non-organic products as far as food safety is concerned?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It may be blamed for the shrinking bee populations in the world.",
+                  "B. It minimizes the use of controversial pesticides in its operations.",
+                  "C. It may impact the environment less than conventional farming.",
+                  "D. It contaminates groundwater as much as conventional farming."
+                ],
+                "question": "What does the author say about organic farming?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. They would increase quickly with the emergence of new technologies.",
+                  "B. They would improve remarkably with more research and investment.",
+                  "C. They would be achieved along with enormous health benefits.",
+                  "D. They would considerably lower the cost to the environment."
+                ],
+                "question": "What do advocates of organic farming argue about its yields and efficiency?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage 2",
+            "content": "It is still controversial whether we are fundamentally generous or selfish and whether these tendencies are shaped by our genes or environment. Some evidence points to humans being born cooperative. At later stages in life we routinely work together to reach goals and help out in times of need. Yet instances of selfish behavior are also plenty. One recent study tested people's willingness to set aside selfish interests to reach a greater good. It found that being selfish was more advantageous than cooperating. The benefit may be short-lived, however. Another study showed that players who cooperated did better in the long run. It seems that human nature supports both pro-social and selfish traits ( 特征). Genetic studies have made some progress toward identifying their biological roots. By comparing identical twins, who share nearly 100 percent of their genes, and non-identical twins, who share about half, researchers have found overwhelming evidence for genetic effects on behaviors. In these twin studies, identical and non-identical twins are asked, for example, to split a sum of money with a peer. Such studies often also rely on careful psychological assessments and DNA analysis. Other work highlights specific genes as key players. My colleagues and I recently identified a gene linked to altruistic ( 利他的 ) behavior and found that a particular variant of it was associated with more selfish behavior in preschoolers. According  to  evolutionary  scientists,  cooperative  behavior  may  have  evolved  first  among  relatives  to promote the continuation of their genetic line. As communities diversified, mutual support could have broadened to include individuals not linked by blood. Another possibility is that humans cooperate to gain some advantage, such as boosting reputation. Finally, evolutionary processes take place at the group level. Groups of highly cooperative individuals have higher chances of survival because they can work together to reach goals that are unattainable to less cooperative groups. Yet almost no behavior is entirely genetic, even among identical twins. Culture, schooling and parenting are important determinants of cooperation. Thus, the degree to which we act cooperatively or selfishly is unique to each individual and depends on a variety of genetic and environmental influences.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It may bring certain benefits in the short term.",
+                  "B. It usually yields more disadvantages than advantages.",
+                  "C. It serves individual interest rather than a collective’s.",
+                  "D. It may give way to cooperating in the long run."
+                ],
+                "question": "What is the finding of one recent study about being selfish?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. They are overwhelmingly different in the amounts of genes.",
+                  "B. One’s behavior is largely determined by their genetic traits.",
+                  "C. One’s biological roots can be identified by their genes.",
+                  "D. They differ from each other in their behavior patterns."
+                ],
+                "question": "What have researchers found by studying identical and non-identical twins?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. A gene-related selfish behavior in preschool children.",
+                  "B. Key factors that determine one’s altruistic behavior.",
+                  "C. A specific gene associated with altruistic behavior.",
+                  "D. Roles played by genes in shaping one’s character."
+                ],
+                "question": "What did the author and colleagues identify in their recent research?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. It may have initially originated in individuals linked by blood.",
+                  "B. It may have caused the diversification of communities.",
+                  "C. It helps to build relationships among blood-related people.",
+                  "D. It guarantees the achievement of goals otherwise unattainable."
+                ],
+                "question": "What do we learn from evolutionary scientists about cooperative behavior?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Cooperative behavior is evident among identical twins.",
+                  "B. One is born either cooperative or non-cooperative.",
+                  "C. Genes determine one’s tendency to cooperate.",
+                  "D. Cooperative behavior may be cultivated."
+                ],
+                "question": "What can we infer from the last paragraph?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Suppose your university newspaper is inviting submissions from the students for its coming edition on future applications of robots on campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but not more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "\" \"中国有句老话：一日为师，终身为父。在中国人的观念里，老师不仅传授知识，更教给学生做人\n的道理。在古代，学生初次见老师时要举行隆重的仪式，足见老师地位之高。为弘扬尊师的优良传\n统，中国从1985 年开始将每年的9 月10 日定为教师节。在这一天，学生以各种方式表达对老师的\n敬意。尊师是中华民族的传统美德，在当今社会得到了发扬光大。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/2026/cet4_1_sectionA.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/2026/cet4_1_sectionB.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/2026/cet4_1_sectionC.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\r\n00:00:00,000 --> 00:00:07,000\r\nCollege English Test, Band 4, Part 2, Listening Comprehension.\r\n大学英语四级考试，第二部分，听力理解。\r\n\r\n2\r\n00:00:07,000 --> 00:00:10,000\r\nSection A, Directions.\r\nA节，答题说明。\r\n\r\n3\r\n00:00:10,000 --> 00:00:14,000\r\nIn this section, you will hear three news reports.\r\n在本节中，你将听到三篇新闻报道。\r\n\r\n4\r\n00:00:14,000 --> 00:00:19,000\r\nAt the end of each news report, you will hear two or three questions.\r\n每篇新闻报道结束后，你将听到两到三个问题。\r\n\r\n5\r\n00:00:19,000 --> 00:00:24,000\r\nBoth the news report and the questions will be spoken only once.\r\n新闻报道和问题都只读一遍。\r\n\r\n6\r\n00:00:24,000 --> 00:00:29,000\r\nAfter you hear a question, you must choose the best answer from the four choices\r\n听完问题后，你必须从四个选项中选出最佳答案，\r\n\r\n7\r\n00:00:29,000 --> 00:00:32,000\r\nmarked A, B, C, and D.\r\n选项标记为A、B、C和D。\r\n\r\n8\r\n00:00:32,000 --> 00:00:39,000\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n然后在答题卡1上，用一条横线划掉对应的字母。\r\n\r\n9\r\n00:00:39,000 --> 00:00:41,000\r\nNews report 1.\r\n新闻报道一。\r\n\r\n10\r\n00:00:41,000 --> 00:00:51,000\r\nA man was left with a $1,000 bill after his 6-year-old son ordered a virtual buffet of food from several restaurants last weekend.\r\n上周六，他6岁的儿子通过手机从多家餐厅订购了虚拟自助餐，结果留下了一张1000美元的账单。\r\n\r\n11\r\n00:00:51,000 --> 00:00:55,000\r\nThis led to a string of unexpected deliveries.\r\n这引发了一系列意想不到的外卖送达。\r\n\r\n12\r\n00:00:55,000 --> 00:00:59,000\r\nAnd maybe a starring role in an advertisement campaign.\r\n也许还能在广告活动中担任主角。\r\n\r\n13\r\n00:00:59,000 --> 00:01:09,000\r\nKeith Stonehouse said the food piled up quickly at his home Saturday night after he let his son use his cell phone to play a game before bed.\r\n基思·斯通豪斯说，周六晚上，他让儿子睡前用手机玩了一会儿游戏，结果食物很快就堆满了他家。\r\n\r\n14\r\n00:01:09,000 --> 00:01:18,000\r\nHe said the youngster instead used his father's online food ordering account to order food from one restaurant after another.\r\n他说，孩子没有玩游戏，而是用父亲的在线订餐账号，从一家餐厅接着另一家餐厅地点餐。\r\n\r\n15\r\n00:01:18,000 --> 00:01:29,000\r\nThe boy's mother, Kristin Stonehouse, said that the online food app has reached out to the family and offered them a $1,000 gift card.\r\n男孩的母亲克里斯汀·斯通豪斯说，该在线订餐应用已经联系了他们家，并提供了一张1000美元的礼品卡。\r\n\r\n16\r\n00:01:29,000 --> 00:01:36,000\r\nThe company also is considering using the family in an online promotional campaign.\r\n该公司还在考虑让这家人参与一项在线推广活动。\r\n\r\n17\r\n00:01:36,000 --> 00:01:40,000\r\nMost of the food went into the family's refrigerators.\r\n大部分食物都塞进了家里的冰箱。\r\n\r\n18\r\n00:01:40,000 --> 00:01:44,000\r\nThey also invited some neighbors over to eat some of it.\r\n他们还邀请了一些邻居来家里一起吃了一些。\r\n\r\n19\r\n00:01:44,000 --> 00:01:47,000\r\nThe father is planning to change his password.\r\n这位父亲打算修改他的密码。\r\n\r\n20\r\n00:01:47,000 --> 00:01:52,000\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n问题1和问题2基于你刚才听到的新闻报道。\r\n\r\n21\r\n00:01:52,000 --> 00:01:54,000\r\nQuestion 1.\r\n问题一。\r\n\r\n22\r\n00:01:54,000 --> 00:02:13,000\r\nWhy was Keith Stonehouse left with a $1,000 bill?\r\n为什么基思·斯通豪斯留下了一张一千美元的账单？\r\n\r\n23\r\n00:02:13,000 --> 00:02:15,000\r\nQuestion 2.\r\n问题二。\r\n\r\n24\r\n00:02:15,000 --> 00:02:34,000\r\nWhat does the news report say Keith Stonehouse is planning to do?\r\n新闻报道说基思·斯通豪斯计划做什么？\r\n\r\n25\r\n00:02:34,000 --> 00:02:36,000\r\nNews Report 2.\r\n新闻报道二。\r\n\r\n26\r\n00:02:36,000 --> 00:02:42,000\r\nAnimal behavior experts looked at more than 100 research papers.\r\n动物行为专家查阅了100多篇研究论文。\r\n\r\n27\r\n00:02:42,000 --> 00:02:48,000\r\nThey examined how visitors affected the behavior of more than 250 species in zoos.\r\n他们考察了游客对动物园里250多个物种行为的影响。\r\n\r\n28\r\n00:02:48,000 --> 00:02:54,000\r\nThey found that elephants socialized more with each other during public feeding times.\r\n他们发现，在公众喂食期间，大象之间的社交互动更多了。\r\n\r\n29\r\n00:02:54,000 --> 00:03:01,000\r\nAfter public feeding times, they were more likely to search for food and less likely to be inactive.\r\n在公众喂食结束后，它们更有可能去觅食，而无所事事的可能性则降低了。\r\n\r\n30\r\n00:03:01,000 --> 00:03:09,000\r\nIn the presence of many visitors, elephants were less likely to use repetitive behaviors which often indicate boredom.\r\n在有大量游客在场时，大象出现重复性行为（这通常表明感到无聊）的可能性降低了。\r\n\r\n31\r\n00:03:09,000 --> 00:03:19,000\r\nVisitors had a similar effect on some other species too, including polar bears, certain jungle cats, and black-tailed plain dogs.\r\n游客对其他一些物种也有类似的影响，包括北极熊、某些丛林猫和黑尾平原犬。\r\n\r\n32\r\n00:03:19,000 --> 00:03:27,000\r\nSome animal species have been born and raised in zoos, and so have likely become used to the presence of humans.\r\n有些动物物种在动物园出生并长大，因此可能已经习惯了人类的存在。\r\n\r\n33\r\n00:03:27,000 --> 00:03:35,000\r\nZoo visitors are often aspects of zoo animals' environment that animals cannot control and as such can be stressful.\r\n动物园游客往往是动物园动物环境中它们无法控制的一部分，因此可能会带来压力。\r\n\r\n34\r\n00:03:36,000 --> 00:03:43,000\r\nAlthough some species appear to show good adaptability to the changing conditions of visitors.\r\n尽管有些物种似乎对游客带来的环境变化表现出了良好的适应能力。\r\n\r\n35\r\n00:03:43,000 --> 00:03:48,000\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n问题三和问题四基于你刚才听到的新闻报道。\r\n\r\n36\r\n00:03:48,000 --> 00:03:50,000\r\nQuestion 3.\r\n问题三。\r\n\r\n37\r\n00:03:50,000 --> 00:03:55,000\r\nWhat did animal behavior experts do according to the news report?\r\n根据新闻报道，动物行为专家做了什么？\r\n\r\n38\r\n00:04:05,000 --> 00:04:11,000\r\nQuestion 4.\r\n问题四。\r\n\r\n39\r\n00:04:11,000 --> 00:04:17,000\r\nWhy have some animal species likely become used to the presence of humans?\r\n为什么有些动物物种可能已经习惯了人类的存在？\r\n\r\n40\r\n00:04:31,000 --> 00:04:34,000\r\nNews report 3.\r\n新闻报道三。\r\n\r\n41\r\n00:04:34,000 --> 00:04:39,000\r\nDenver is suspending its popular electric bike incentive program.\r\n丹佛市暂停了其广受欢迎的电动自行车激励计划。\r\n\r\n42\r\n00:04:39,000 --> 00:04:42,000\r\nThe program was launched in April.\r\n该计划于四月启动。\r\n\r\n43\r\n00:04:42,000 --> 00:04:52,000\r\nIt allowed Denver residents to apply for $400 in government funds before buying an electric bike from a participating shop.\r\n它允许丹佛居民在购买参与计划的商店的电动自行车之前，申请400美元的政府资金。\r\n\r\n44\r\n00:04:52,000 --> 00:04:59,000\r\nResidents who met certain income qualifications could qualify for $1,200.\r\n符合一定收入条件的居民可获得1200美元的资助。\r\n\r\n45\r\n00:05:00,000 --> 00:05:06,000\r\nMore than 3,000 Denver residents applied for incentives within the first three weeks.\r\n在最初的三周内，超过3000名丹佛居民申请了激励计划。\r\n\r\n46\r\n00:05:06,000 --> 00:05:11,000\r\nThe city then changed the program to limit the number of applications each month.\r\n随后，该市修改了计划，限制了每月的申请数量。\r\n\r\n47\r\n00:05:11,000 --> 00:05:15,000\r\nOn Monday, the city announced the pause.\r\n周一，市政府宣布暂停该计划。\r\n\r\n48\r\n00:05:15,000 --> 00:05:24,000\r\nWe're honored to be a part of transforming the way Denver wants to move around, said Grace Rink, Denver's chief climate officer.\r\n丹佛市首席气候官员格蕾丝·林克表示：“我们很荣幸能成为改变丹佛出行方式的一部分。”\r\n\r\n49\r\n00:05:24,000 --> 00:05:28,000\r\nWe exhausted three years' worth of funding in six months.\r\n我们在六个月内耗尽了原本计划使用三年的资金。\r\n\r\n50\r\n00:05:28,000 --> 00:05:39,000\r\nThe city said the program has put 4,400 electric bikes on the streets of Denver and invested $8.6 million into the local economy.\r\n市政府表示，该计划已在丹佛街头投放了4400辆电动自行车，并向当地经济投资了860万美元。\r\n\r\n51\r\n00:05:39,000 --> 00:05:45,000\r\nThe city has provided 2,200 incentives to lower-income residents.\r\n该市已向低收入居民提供了2200份激励资助。\r\n\r\n52\r\n00:05:45,000 --> 00:05:49,000\r\nThat represents 68% of the program funding.\r\n这占到了计划资金的68%。\r\n\r\n53\r\n00:05:49,000 --> 00:05:54,000\r\nThe city expects to resume the program early next year.\r\n市政府预计将于明年年初恢复该计划。\r\n\r\n54\r\n00:05:54,000 --> 00:06:02,000\r\nIt also plans design changes to make participation easier and increase access to the program.\r\n它还计划进行设计上的调整，使参与更加便捷，并扩大该计划的覆盖面。\r\n\r\n55\r\n00:06:24,000 --> 00:06:35,000\r\nQuestion 6. How did the Electric Bike Incentive Program benefit residents?\r\n问题6：电动自行车激励计划给居民带来了哪些好处？\r\n\r\n56\r\n00:06:35,000 --> 00:06:56,000\r\nQuestion 7. What does the City of Denver expect to do early next year?\r\n问题7：丹佛市政府预计明年年初将做什么？\r\n\r\n57\r\n00:07:06,000 --> 00:07:15,000\r\nQuestion 8. What does the City of Denver expect to do early next year?\r\n问题8：丹佛市政府预计明年年初将做什么？",
+  "conversations_transcript": "1\r\n00:00:00,000 --> 00:00:07,080\r\nSection B, Directions. In this section you will hear two long conversations. At\r\nB部分，说明。在这一部分，你将听到两段长对话。\r\n\r\n2\r\n00:00:07,080 --> 00:00:12,320\r\nthe end of each conversation you will hear four questions. Both the\r\n每段对话结束后，你将听到四个问题。\r\n\r\n3\r\n00:00:12,320 --> 00:00:17,600\r\nconversation and the questions will be spoken only once. After you hear a\r\n对话和问题都只播放一遍。\r\n\r\n4\r\n00:00:17,600 --> 00:00:24,320\r\nquestion you must choose the best answer from the four choices marked A, B, C, and\r\n听完问题后，你必须从标有A、B、C和D的四个选项中选出最佳答案。\r\n\r\n5\r\n00:00:24,320 --> 00:00:27,480\r\nD. Then mark the corresponding letter on\r\n然后在答题卡一的相应字母上画一条横线。\r\n\r\n6\r\n00:00:27,480 --> 00:00:34,460\r\nanswer sheet one with a single line through the center. Conversation one. Hey\r\n对话一。嘿，迈克，你觉得你今天参观的博物馆怎么样？\r\n\r\n7\r\n00:00:34,460 --> 00:00:39,660\r\nMike, what do you think of the museum you visited today? Hey Sue, the museum is\r\n嘿，苏，博物馆很棒，非常有趣。那里展出了很多东西。\r\n\r\n8\r\n00:00:39,660 --> 00:00:45,520\r\ngreat, very interesting. They have loads of stuff there on display. The primitive\r\n早期人类使用的原始工具能告诉我们很多关于他们生活的信息，但我最喜欢的是硬币收藏。\r\n\r\n9\r\n00:00:45,520 --> 00:00:50,520\r\ntools early humans used to tell a lot about their life, but my favorite is the\r\n他们有一些超过2000年历史的硬币。\r\n\r\n10\r\n00:00:50,520 --> 00:00:55,920\r\ncoin collection. They have some coins that are over 2,000 years old. That sounds\r\n听起来很酷。\r\n\r\n11\r\n00:00:55,920 --> 00:01:01,680\r\ncool. Yeah, what did you do today? Kathy and I just wandered through the old city\r\n是啊，你今天做了什么？我和凯茜只是在老城区闲逛。\r\n\r\n12\r\n00:01:01,680 --> 00:01:06,920\r\ncenter. The streets are narrow but beautiful with plenty of charm. We saw\r\n街道很窄，但很美，充满了魅力。\r\n\r\n13\r\n00:01:06,920 --> 00:01:11,680\r\nthe Trevi Fountain which is in all the guidebooks. How do you like it? It's very\r\n我们看到了特莱维喷泉，就是那些旅游指南里都有的那个。你觉得怎么样？\r\n\r\n14\r\n00:01:11,680 --> 00:01:17,320\r\npretty, but it was overcrowded with tourists. Yeah, well it's crowded\r\n很漂亮，但游客太多了，挤爆了。\r\n\r\n15\r\n00:01:17,320 --> 00:01:22,400\r\neverywhere. It is August after all, the busiest month of the year. Yes, it's\r\n是啊，到处都很挤。毕竟八月是一年中最繁忙的月份。\r\n\r\n16\r\n00:01:22,400 --> 00:01:27,280\r\nlike the whole world is here on holiday, including us. What will you do tomorrow? I\r\n是的，感觉全世界的人都来度假了，包括我们。\r\n\r\n17\r\n00:01:27,280 --> 00:01:32,920\r\nhaven't decided yet. I was thinking of doing what you did today, wandering the\r\n你明天打算做什么？\r\n\r\n18\r\n00:01:32,920 --> 00:01:37,400\r\nold streets and taking pictures. I was also thinking of visiting the square\r\n我还没决定呢。我在想，要不要像你今天那样，在老街上闲逛、拍拍照。\r\n\r\n19\r\n00:01:37,400 --> 00:01:42,320\r\nwith the Spanish steps. What is that? I haven't heard of it. It's a square where\r\n我还打算去参观那个有西班牙台阶的广场。\r\n\r\n20\r\n00:01:42,320 --> 00:01:47,320\r\non one side there are some very wide steps with flowers that go up to a\r\n那是哪里？我没听说过。那是一个广场，其中一侧有非常宽阔的台阶，台阶上种满了花，一直通向一座\r\n\r\n21\r\n00:01:47,320 --> 00:01:52,320\r\nchurch. It's also in all the tourist guidebooks. It's very famous and pretty.\r\n教堂。它也在所有的旅游指南里。非常有名，而且很漂亮。\r\n\r\n22\r\n00:01:52,320 --> 00:01:57,480\r\nI was also thinking of seeing that tomorrow. It sounds very nice. Do you mind\r\n我明天也打算去看看。听起来很不错。你介意\r\n\r\n23\r\n00:01:57,480 --> 00:02:02,440\r\nif Kathy and I join you tomorrow? Not at all. I spent the whole day today pretty\r\n我和凯西明天加入你们吗？完全不介意。我今天几乎一整天都\r\n\r\n24\r\n00:02:02,440 --> 00:02:07,240\r\nmuch alone. Doing tourist stuff with others would be a welcome change. Let me\r\n一个人待着。和别人一起做些游客活动，会是种令人愉快的改变。让我\r\n\r\n25\r\n00:02:07,240 --> 00:02:13,880\r\nask her first, but I'm sure she'll be up for it. Questions 8 to 11 are based\r\n先问问她，但我肯定她会愿意的。第8到11题基于\r\n\r\n26\r\n00:02:13,880 --> 00:02:19,360\r\non the conversation you have just heard. Question 8. What exhibit does the man\r\n你刚才听到的对话。第8题。那个男人\r\n\r\n27\r\n00:02:19,360 --> 00:02:23,760\r\nlike best in the museum he visited?\r\n在他参观的博物馆里最喜欢哪个展览？\r\n\r\n28\r\n00:02:36,680 --> 00:02:43,320\r\nQuestion 9. What does the woman say about the old city center?\r\n第9题。那个女人关于老城区中心说了什么？\r\n\r\n29\r\n00:02:43,880 --> 00:03:03,400\r\nQuestion 10. What does the man say about the square with the Spanish steps?\r\n第10题。那个男人关于有西班牙台阶的广场说了什么？\r\n\r\n30\r\n00:03:14,680 --> 00:03:23,000\r\nQuestion 11. What does the woman say she is going to do first?\r\n第11题。那个女人说她打算先做什么？\r\n\r\n31\r\n00:03:36,520 --> 00:03:42,800\r\nConversation 2. Can you give me advice about being successful at a new job?\r\n对话二。你能给我一些关于在新工作中取得成功的建议吗？\r\n\r\n32\r\n00:03:42,800 --> 00:03:47,480\r\nI start mine next week. Sure, it's important not to undermine the\r\n我下周开始新工作。当然，重要的是不要削弱\r\n\r\n33\r\n00:03:47,480 --> 00:03:52,480\r\nsignificance of the first few days of your job since this is the best time to\r\n工作头几天的意义，因为这是留下坚实第一印象的最佳时机。这点很好。我需要与\r\n\r\n34\r\n00:03:52,480 --> 00:03:57,440\r\ncreate a solid first impression. That's a good point. I'll need to collaborate\r\n同事合作，我也非常清楚其他人对我的\r\n\r\n35\r\n00:03:57,440 --> 00:04:02,200\r\nwith my co-workers and I'm very aware of just how important others are for my\r\n工作成功有多重要。全面了解你的角色以获取\r\n\r\n36\r\n00:04:02,200 --> 00:04:07,480\r\nsuccess at work. It's also important to understand your role thoroughly to gain\r\n对你工作的整体画面也很重要。你最初要做的最重要的事情是\r\n\r\n37\r\n00:04:07,480 --> 00:04:12,120\r\na comprehensive picture of your job. The most important thing for you to do at\r\n从多个角度理解你的角色。为什么？嗯，\r\n\r\n38\r\n00:04:12,120 --> 00:04:17,880\r\nfirst is to understand your role from multiple perspectives. Why is that? Well,\r\n你在工作中所做的并不仅仅局限于你的职位描述。你需要\r\n\r\n39\r\n00:04:17,880 --> 00:04:22,840\r\nwhat you do at work is not just limited to your job description. You need to\r\n考虑你的工作如何与组织内的其他人相关联。哦，对。\r\n\r\n40\r\n00:04:22,840 --> 00:04:27,640\r\nconsider how your work relates to other people within the organization. Oh, right.\r\n哦，对。\r\n\r\n41\r\n00:04:27,640 --> 00:04:33,360\r\nSo, for example, certain reports that I create at the end of the month may be\r\n所以，比如，我月底生成的一些报告\r\n\r\n42\r\n00:04:33,360 --> 00:04:38,200\r\nused by a team in another department. That's right, and in that respect, it's\r\n可能会被其他部门的团队使用。没错，在这方面，\r\n\r\n43\r\n00:04:38,200 --> 00:04:43,000\r\nalso important to learn about the business to see the big picture. You mean\r\n了解业务以把握全局也很重要。你的意思是\r\n\r\n44\r\n00:04:43,000 --> 00:04:47,800\r\nlike knowing about the history of the company? Kind of, but more like knowing\r\n比如了解公司的历史？差不多，但更像是了解\r\n\r\n45\r\n00:04:47,800 --> 00:04:52,680\r\nthe details of the products and services that the company exists to deliver.\r\n公司赖以生存的产品和服务的细节。\r\n\r\n46\r\n00:04:52,680 --> 00:04:57,120\r\nLearning about the business will give you a chance to understand how your role\r\n了解业务能让你有机会理解你的角色\r\n\r\n47\r\n00:04:57,120 --> 00:05:02,800\r\nfits into the bigger picture. Okay, I'm feeling a bit uneasy about meeting my\r\n如何融入更大的全局。好的，我对见老板这件事也感到有点不安。\r\n\r\n48\r\n00:05:02,800 --> 00:05:07,400\r\nboss as well. That's to be expected. However, it's crucial that you get to\r\n这很正常。不过，你务必\r\n\r\n49\r\n00:05:07,400 --> 00:05:12,240\r\nknow the people who have decision-making authority to gain insight regarding how\r\n去认识那些拥有决策权的人，以便深入了解\r\n\r\n50\r\n00:05:12,240 --> 00:05:17,720\r\nthe business is run and decisions are made. Great advice. Thanks.\r\n公司的运营方式和决策过程。很好的建议，谢谢。\r\n\r\n51\r\n00:05:17,720 --> 00:05:22,800\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n第12至15题基于你刚才听到的对话。\r\n\r\n52\r\n00:05:22,800 --> 00:05:29,480\r\nQuestion 12. What advice does the man want to get from the woman?\r\n第12题。男士想从女士那里得到什么建议？\r\n\r\n53\r\n00:05:37,400 --> 00:05:49,560\r\nQuestion 13. What does the woman say is the most important thing for the man to do at first?\r\n第13题。女士说男士最初最重要的是做什么？\r\n\r\n54\r\n00:05:49,560 --> 00:06:10,200\r\nQuestion 14. What does the man say he is feeling a bit uneasy about?\r\n第14题。男士说他感到有点不安的是什么？\r\n\r\n55\r\n00:06:19,560 --> 00:06:40,200\r\nQuestion 15. What does the woman suggest the man do to gain insight about the running of the business?\r\n第15题。女士建议男士做什么以深入了解公司的运营情况？",
+  "passages_transcript": "1\r\n00:00:00,000 --> 00:00:22,760\r\nsection C directions in this section you will hear three passages at the end of each passage\r\nC 部分 说明：在本部分中，你将听到三篇短文，每篇短文结束后\r\n\r\n2\r\n00:00:22,760 --> 00:00:27,960\r\nyou will hear three or four questions both the passage and the questions will be spoken\r\n你会听到三到四个问题。短文和问题都只读一遍。\r\n\r\n3\r\n00:00:27,960 --> 00:00:32,940\r\nonly once after you hear a question you must choose the best answer from the\r\n听到问题后，你必须从标有 A、B、C 和 D 的四个选项中选出最佳答案，\r\n\r\n4\r\n00:00:32,940 --> 00:00:39,800\r\nfour choices marked A B C and D then mark the corresponding letter on answer\r\n然后在答题卡上划掉对应字母的方框，\r\n\r\n5\r\n00:00:39,800 --> 00:00:43,760\r\nsheet one with a single line through the center\r\n用一条横线穿过中心。\r\n\r\n6\r\n00:00:43,760 --> 00:00:50,520\r\npassage one contrary to popular belief consumers aren't as smart as they like to\r\n短文一 与普遍看法相反，消费者并不像他们自以为的那样聪明。许多消费者声称，在评估购买行为时，他们会比较多个竞争品牌和价格，\r\n\r\n7\r\n00:00:50,520 --> 00:00:56,400\r\nbelieve many consumers report comparing multiple competing brands and prices when\r\n然而，研究表明事实并非如此。消费者实际的想法或感受往往与他们所说的话相矛盾。\r\n\r\n8\r\n00:00:56,400 --> 00:01:02,600\r\nevaluating a purchase however research indicates that this is not actually the\r\n一个主要原因是他们受到无意识冲动的驱使，其中最大的冲动就是情绪。\r\n\r\n9\r\n00:01:02,600 --> 00:01:09,600\r\ncase what consumers really think or feel often contradicts what they say a big\r\n情绪才是真正驱动购买行为以及一般决策的因素。优秀的营销人员始终牢记这一重要事实，\r\n\r\n10\r\n00:01:09,600 --> 00:01:14,440\r\nreason is that they are driven by unconscious urges the biggest of which\r\n基于情感的营销活动案例随处可见。想一想，大多数营销活动中真正销售的是什么？\r\n\r\n11\r\n00:01:14,440 --> 00:01:20,360\r\nis emotion emotion is what really drives the purchasing behaviors and also\r\n奢侈品针对的是我们的自我价值感、被接纳感以及在世间的地位感；\r\n\r\n12\r\n00:01:20,360 --> 00:01:26,320\r\ndecision-making in general good marketers keep in mind this important fact all\r\n通讯设备通过提供与朋友、家人以及更广泛人际网络的连接来激发我们的兴奋感；\r\n\r\n13\r\n00:01:26,320 --> 00:01:32,480\r\nthe time and examples of emotion-based campaigns are everywhere think for a\r\n许多其他产品，如戒指，则针对与爱情和关系相关的情感。作为营销人员，我们\r\n\r\n14\r\n00:01:32,480 --> 00:01:38,200\r\nmoment what is actually being sold in most marketing campaigns luxury goods\r\n应该关注产品的功能，但也必须销售生活方式和\r\n\r\n15\r\n00:01:38,200 --> 00:01:42,680\r\ntarget our feelings of self-worth acceptance and status in the world\r\n感觉。关键在于突出消费者将产生的情感反应。\r\n\r\n16\r\n00:01:42,680 --> 00:01:49,040\r\ncommunication devices excite us by offering a connection to friends family\r\n（注：原文此处无新句意，为上一句延续，但按编号拆分处理）\r\n\r\n17\r\n00:01:49,040 --> 00:01:55,000\r\nand a broader network of people and many other products such as rings target\r\n（注：原文此处无新句意，为上一句延续，但按编号拆分处理）\r\n\r\n18\r\n00:01:55,000 --> 00:02:00,400\r\nemotions related to love and relationships as marketers we should\r\n（注：原文此处无新句意，为上一句延续，但按编号拆分处理）\r\n\r\n19\r\n00:02:00,400 --> 00:02:06,140\r\nfocus on the features of the product but we must also sell the lifestyle and the\r\n（注：原文此处无新句意，为上一句延续，但按编号拆分处理）\r\n\r\n20\r\n00:02:06,140 --> 00:02:11,480\r\nfeeling the key is to highlight the emotional response a consumer will have\r\n（注：原文此处无新句意，为上一句延续，但按编号拆分处理）\r\n\r\n21\r\n00:02:11,480 --> 00:02:17,240\r\nby using the product to achieve the highest emotional response we should\r\n通过使用产品来获得最高的情感反应，我们应该\r\n\r\n22\r\n00:02:17,240 --> 00:02:22,040\r\ntarget our consumer through many different senses a lot of what drives\r\n通过多种不同的感官来针对我们的消费者。很多驱动\r\n\r\n23\r\n00:02:22,040 --> 00:02:28,200\r\nconsumers is subconscious behavior but this isn't a bad thing there's nothing\r\n消费者的因素是潜意识行为，但这并不是坏事。帮助消费者\r\n\r\n24\r\n00:02:28,200 --> 00:02:34,320\r\nmanipulative about helping consumers achieve desired states of emotion\r\n达到理想的情感状态，并不存在什么操纵性。\r\n\r\n25\r\n00:02:34,320 --> 00:02:41,320\r\nquestion 16 to 18 are based on the passage you have just heard question 16\r\n第16到18题基于你刚才听到的文章。第16题\r\n\r\n26\r\n00:02:41,320 --> 00:02:49,000\r\nwhat does research indicates about many consumers when they evaluate a purchase\r\n研究表明，许多消费者在评估购买行为时会有什么表现？\r\n\r\n27\r\n00:02:52,040 --> 00:03:09,200\r\nquestion 17 what do good marketers keep in mind all the time\r\n优秀的营销人员一直牢记什么？\r\n\r\n28\r\n00:03:22,120 --> 00:03:27,960\r\nquestion 18 what should marketers do besides stressing the features of a\r\n除了强调产品的特性外，营销人员还应该做什么？\r\n\r\n29\r\n00:03:27,960 --> 00:03:30,400\r\nproduct\r\n产品\r\n\r\n30\r\n00:03:43,360 --> 00:03:49,760\r\npassage 2 plastics have for years been used to make nearly everything that\r\n文章二：多年来，塑料一直被用来制造我们周围几乎所有的东西，但在这个过程中，它们突破了包装和\r\n\r\n31\r\n00:03:49,760 --> 00:03:54,840\r\nsurrounds us but along the way they escaped the confines of packaging and\r\n物品的限制，进入了环境。我们吃的食物和呼吸的空气\r\n\r\n32\r\n00:03:54,840 --> 00:04:00,600\r\nobjects and settled in the environment the food we eat and the air we breathe\r\n美国人正在摄入和吸入大量的塑料。根据现有数据，\r\n\r\n33\r\n00:04:00,600 --> 00:04:06,800\r\nAmericans are consuming and breathing in a lot of plastic based on available data\r\n美国人每年估计摄入74,000到121,000个\r\n\r\n34\r\n00:04:06,800 --> 00:04:12,720\r\nAmericans take in an estimated 74,000 to a hundred and twenty one thousand\r\n微塑料颗粒。然而，科学家认为，真正的\r\n\r\n35\r\n00:04:12,720 --> 00:04:18,440\r\nmicroplastic particles every year however scientists believe the true\r\n数字可能要高得多，因为对于一些可能的微塑料来源，\r\n\r\n36\r\n00:04:18,440 --> 00:04:23,360\r\nnumber is probably much higher because for some likely sources of microplastics\r\n没有强有力的数据支持。微塑料通过\r\n\r\n37\r\n00:04:23,360 --> 00:04:29,280\r\nthere was no strong data available microplastics get into food and air in\r\n几种方式进入食物和空气中。许多微塑料最初是较大塑料物体的一部分，随着时间的推移\r\n\r\n38\r\n00:04:29,280 --> 00:04:35,600\r\nseveral ways many start off as part of larger plastic objects which over time\r\n碎裂成越来越小的碎片，直到它们变成直径5毫米或\r\n\r\n39\r\n00:04:35,600 --> 00:04:41,720\r\nfragment into smaller and smaller pieces until they become tiny 5 millimeters or\r\n更小的微粒。它们被吸入或被动物食用，然后这些动物\r\n\r\n40\r\n00:04:41,720 --> 00:04:47,440\r\nless in diameter they are breathed in or consumed by animals that then become\r\n成为\r\n\r\n41\r\n00:04:47,440 --> 00:04:53,680\r\nour food the particles float through the air until people breathe them in they\r\n我们的食物中，微粒在空气中漂浮，直到被人吸入。\r\n\r\n42\r\n00:04:53,680 --> 00:04:59,440\r\nalso settle on the food that people eat data shows that for Americans air\r\n它们也会沉降到人们吃的食物上。数据显示，对于美国人来说，空气、\r\n\r\n43\r\n00:04:59,440 --> 00:05:04,360\r\nbottled water and seafood were the biggest sources for breathed in or\r\n瓶装水和海鲜是吸入或\r\n\r\n44\r\n00:05:04,360 --> 00:05:10,840\r\nconsumed microplastics added sugars accounted for less and salts tap water\r\n摄入微塑料的最大来源。添加糖所占比例较小，而自来水\r\n\r\n45\r\n00:05:10,840 --> 00:05:17,920\r\nand beer contributed minimal amounts these estimates are conservative the\r\n和啤酒的贡献微乎其微。这些估计是保守的。\r\n\r\n46\r\n00:05:17,920 --> 00:05:24,000\r\nincluded foods only make up about 15% of the average American diet it's not yet\r\n纳入统计的食物仅占美国人平均饮食的约15%。目前尚不清楚\r\n\r\n47\r\n00:05:24,000 --> 00:05:30,480\r\nknown how much plastic is contained in remaining 85% of the typical diet\r\n典型饮食中剩余85%部分含有多少塑料。\r\n\r\n48\r\n00:05:30,480 --> 00:05:37,200\r\nquestions 19 to 21 are based on the passage you have just heard question 19\r\n第19至21题基于你刚才听到的文章。第19题\r\n\r\n49\r\n00:05:37,560 --> 00:05:41,960\r\nwhat does the passage say about Americans\r\n文章关于美国人说了什么？\r\n\r\n50\r\n00:05:55,480 --> 00:06:02,080\r\nquestion 20 what counted as the biggest sources for Americans breathing in or\r\n第20题，什么被认为是美国人吸入或\r\n\r\n51\r\n00:06:02,080 --> 00:06:05,960\r\nconsuming microplastics\r\n摄入微塑料的最大来源？\r\n\r\n52\r\n00:06:07,200 --> 00:06:24,040\r\nquestion 21 what does the passage say is still unknown\r\n第21题，文章说仍然未知的是什么？\r\n\r\n53\r\n00:06:37,200 --> 00:06:46,320\r\npassage 3 people looking to stay well as they age may want to adopt a pet animal\r\n第三篇：人们若想随着年龄增长保持健康，或许可以考虑养一只宠物动物。\r\n\r\n54\r\n00:06:46,320 --> 00:06:51,080\r\naccording to new data from the University of Michigan national poll on\r\n根据密歇根大学全国健康老龄化调查的最新数据，\r\n\r\n55\r\n00:06:51,080 --> 00:06:57,960\r\nhealthy aging for the survey researchers polled about 2,000 US adults\r\n在调查中，研究人员对约2,000名美国成年人进行了民意调查，\r\n\r\n56\r\n00:06:57,960 --> 00:07:06,280\r\nfrom ages 50 to 80 55% said they owned at least one pet dogs were the most\r\n年龄介于50至80岁之间。55%的人表示他们至少养了一只宠物。狗是最常见的宠物，其次是猫，但无论是什么类型的动物，绝大多数主人表示他们的宠物提升了他们的精神和身体健康。\r\n\r\n57\r\n00:07:06,280 --> 00:07:11,320\r\ncommon pet followed by cats but whatever the type of animal the vast\r\n近90%的老年宠物主人表示，他们的动物帮助他们享受生活并感到被爱。大约80%的人表示他们的宠物减轻了压力，几乎\r\n\r\n58\r\n00:07:11,320 --> 00:07:15,720\r\nmajority of owners said their pets boosted their mental and physical\r\n大多数主人表示，他们的宠物提升了他们的心理健康和身体素质。\r\n\r\n59\r\n00:07:15,720 --> 00:07:22,120\r\nhealth nearly 90% of older pet owners said their animals helped them enjoy\r\n在健康方面，近90%的老年宠物主人表示，他们的宠物帮助他们享受\r\n\r\n60\r\n00:07:22,120 --> 00:07:29,080\r\nlife and feel loved roughly 80% said their pets reduced stress and almost\r\n约80%的人表示他们的宠物减轻了压力，并让他们感到被爱。\r\n\r\n61\r\n00:07:29,080 --> 00:07:34,840\r\nthree-quarters said their pets provided a sense of purpose however people did\r\n四分之三的人表示，他们的宠物让他们感到生活有了目标，不过人们也\r\n\r\n62\r\n00:07:34,840 --> 00:07:39,920\r\nreport a few disadvantages to pet ownership these included difficulty\r\n报告了养宠物的一些不便之处，包括出行困难\r\n\r\n63\r\n00:07:39,920 --> 00:07:46,320\r\ntraveling and financial strains 6% of pet owners said they'd fallen or injured\r\n和经济压力。6%的宠物主人表示，因为养宠物而摔倒或受伤。\r\n\r\n64\r\n00:07:46,320 --> 00:07:52,120\r\nthemselves as a result of having a pet still plenty of research has shown that\r\n尽管如此，大量研究表明，\r\n\r\n65\r\n00:07:52,120 --> 00:07:56,800\r\njust about anyone can benefit from their pet since animals can lower stress\r\n几乎任何人都能从宠物身上获益，因为动物可以降低压力，\r\n\r\n66\r\n00:07:56,800 --> 00:08:02,520\r\nreduce symptoms of depression and anxiety and encourage physical activity\r\n减轻抑郁和焦虑的症状，并鼓励人们进行体育锻炼。\r\n\r\n67\r\n00:08:02,520 --> 00:08:08,600\r\nthe new poll suggests that pet ownership may be especially beneficial for older\r\n这项新民意调查表明，养宠物对老年人可能尤为有益，\r\n\r\n68\r\n00:08:08,600 --> 00:08:14,160\r\nadults given how common loneliness and social isolation are within this age\r\n考虑到孤独和社会隔离在这个年龄段\r\n\r\n69\r\n00:08:14,160 --> 00:08:20,880\r\ngroup human social support comes with a host of health benefits less stress\r\n群体中非常普遍。人类的社会支持能带来一系列健康益处，比如压力更小，\r\n\r\n70\r\n00:08:20,880 --> 00:08:27,160\r\nlower rates of long-term disease and more and research shows that interacting\r\n长期疾病的发病率更低，以及更多。研究表明，与宠物互动\r\n\r\n71\r\n00:08:27,160 --> 00:08:34,760\r\nwith pets can bring many of the same benefits questions 22 to 25 are based on\r\n能带来许多同样的好处。第22至25题基于\r\n\r\n72\r\n00:08:34,760 --> 00:08:40,400\r\nthe passage you have just heard question 22 what did over half of the\r\n你刚才听到的文章。第22题，调查中超过一半的受访者说了什么？\r\n\r\n73\r\n00:08:40,400 --> 00:08:44,240\r\nrespondents say in the survey\r\n第23题，调查中大多数老年宠物主人说他们的宠物提供了什么？\r\n\r\n74\r\n00:08:57,240 --> 00:09:03,160\r\nquestion 23 what did most older pet owners in the survey say their pets\r\n第24题，文章说人们在调查中报告了什么？\r\n\r\n75\r\n00:09:03,160 --> 00:09:05,840\r\nprovided\r\n第25题，研究表明与宠物互动能做什么？\r\n\r\n76\r\n00:09:18,880 --> 00:09:26,440\r\nquestion 24 what does the passage say people did report in the survey\r\n听力理解部分到此结束。\r\n\r\n77\r\n00:09:27,160 --> 00:09:46,680\r\nquestion 25 what does research show interacting with pets can do\r\n第25题：研究表明，与宠物互动能带来什么好处？\r\n\r\n78\r\n00:09:57,160 --> 00:10:04,760\r\nthat's the end of listening comprehension\r\n听力理解部分到此结束。",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "",
+  "passages_transcript_zh": ""
+}

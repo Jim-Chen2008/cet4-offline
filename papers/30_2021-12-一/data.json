@@ -1,0 +1,691 @@
+{
+  "id": 30,
+  "exam": 30,
+  "exam_details": {
+    "id": 30,
+    "title": "2021年12月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2021,
+    "month": 12,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-27T09:16:51.454000+08:00",
+    "updated_at": "2025-04-27T09:16:51.454000+08:00",
+    "exam_id": 30,
+    "submission_count": 0,
+    "cet_content_id": 30,
+    "has_draft": false
+  },
+  "created_at": "2025-04-27T09:35:12.023000+08:00",
+  "updated_at": "2026-04-18T23:42:51.588493+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. It found a pet dog onboard a plane to a city in Texas.",
+              "B. It had one of its cargo planes land at a wrong airport.",
+              "C. It sent two dogs to the wrong destinations.",
+              "D. It had two of its domestic flights mixed up."
+            ],
+            "question": "What do we learn about United Airlines from News Report 1?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Correct their mistake as soon as possible.",
+              "B. Give the two pets a physical checkup.",
+              "C. Hire a charter jet to bring the pets back",
+              "D. Send another plane to continue the flight."
+            ],
+            "question": "What did the spokesperson for United Airlines say they would do after the incident?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. She weighs 130 kilograms.",
+              "B. She has had babies before.",
+              "C. She was brought from Africa.",
+              "D. She has a big family of six."
+            ],
+            "question": "What do we learn about the mother elephant's?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It took 22 hours.",
+              "B. It had some complications.",
+              "C. It was smooth.",
+              "D. It was monitored by Dr. Sue Tygielski."
+            ],
+            "question": "What do we learn about the elephant's birth from the news report?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. It enjoyed great popularity.",
+              "B. It started business three years ago.",
+              "C. It was frequented by newly-weds.",
+              "D. It was built above the sea-water"
+            ],
+            "question": "What do we learn about the restaurant?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. Expand his business on the beach.",
+              "B. Replace the restaurant's wooden deck.",
+              "C. Post a picture of his restaurant online.",
+              "D. Celebrate his silver wedding anniversary."
+            ],
+            "question": "What did the restaurant manager decide to do recently?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. She sold it for two thousand dollars.",
+              "B. She took it to the restaurant manager.",
+              "C. She posted its picture on Facebook.",
+              "D. She returned it to its owner right away"
+            ],
+            "question": "What did the waitress do about the recovered ring?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. The number of ducks has declined sharply in recent years.",
+              "B. Climate change has little effect on the lives of wild ducks.",
+              "C. Duck meat is not eaten in Australia. Canada and the U.S.",
+              "D. Duck hunting remains legal in many parts of the world."
+            ],
+            "question": "What does the woman find unbelievable?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. Droughts.",
+              "B. Bushfires.",
+              "C. Farming.",
+              "D. Hunting."
+            ],
+            "question": "What does the woman say has caused the shrinking of ducks habitats in Australia?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. They are not easy to domesticate.",
+              "B. Their meat is not that popular.",
+              "C. It is not environmentally friendly.",
+              "D. It is not considered cost-effective."
+            ],
+            "question": "Why is there no commercial farming of ducks and geese in western countries?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. They hunted ducks as a traditional sport.",
+              "B. They killed wild ducks and geese for food.",
+              "C. They raised ducks and geese for their eggs.",
+              "D. They poisoned wild ducks in large numbers."
+            ],
+            "question": "What does the woman say about farmers in her grandfather's time?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. Have her house repainted.",
+              "B. Replace some of her old furniture.",
+              "C. Move into a newly-painted house.",
+              "D. Calculate the cost of the paint job."
+            ],
+            "question": "What is the woman planning to do?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. How long the work will take.",
+              "B. How much the work will cost.",
+              "C. How the paint job is to be done.",
+              "D. How many workers are needed."
+            ],
+            "question": "What is the woman's chief concern?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. Cover up her furniture.",
+              "B. Ask some friends for help.",
+              "C. Stay somewhere else.",
+              "D. Oversee the work herself."
+            ],
+            "question": "What does the woman have to do while the paint job is being done?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. She could have asked a friend for help with the paint iob.",
+              "B. Painting a house involves more trouble than she thought.",
+              "C. She should have repainted her house much earlier.",
+              "D. Moving her furniture is harder than the paint iob."
+            ],
+            "question": "What has the woman come to realize at the end of the conversation?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. To cultivate good habits.",
+              "B. To prepare for secondary school.",
+              "C. To review what is learned in class.",
+              "D. To stimulate interest in learning."
+            ],
+            "question": "What is the main aim of homework for primary school kids?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Discuss their academic achievements with them.",
+              "B. Create an ideal study environment for them.",
+              "C. Allow them to learn independently.",
+              "D. Check their homework promptly."
+            ],
+            "question": "What does the passage suggest parents do to help their children?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. Finish them before they get tired.",
+              "B. Tackle the most difficult task first.",
+              "C. Start with something they enjoy.",
+              "D. Focus on the most important ones."
+            ],
+            "question": "What should children do to deal with multiple assignments?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Workers who meet its body weight standards.",
+              "B. Workers who can lose 30 pounds in a year.",
+              "C. Workers who try the hardest to lose weight.",
+              "D. Workers who are in the top 10% of the slimmest."
+            ],
+            "question": "Who will qualify for the bonus in Mexican oil company?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Impractical.",
+              "B. Inconsistent.",
+              "C. Unmanageable.",
+              "D. Unfair"
+            ],
+            "question": "What do critics think of Mexican oil companies bonus policy?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Offer them much fatter bonuses.",
+              "B. Improve working environment.",
+              "C. Encourage healthy behaviors.",
+              "D. Provide free lunch and snacks."
+            ],
+            "question": "What do experts propose companies do about workers well-being?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. It has not done enough to help left-handed children.",
+              "B. It has treated left-handed children as being disabled.",
+              "C. It has not built facilities specially for the left-handed.",
+              "D. It has ignored campaigns on behalf of the left-handed."
+            ],
+            "question": "Why are some people criticizing the British government?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. They areas intelligent as other children.",
+              "B. They have a distinctive style of handwriting.",
+              "C. They sometimes have psychological problems.",
+              "D. They tend to have more difficulties in learning"
+            ],
+            "question": "What do studies in recent years show about left-handed children?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. Punish teachers discriminating against left-handed students.",
+              "B. Lay more emphasis on improving children's mental health.",
+              "C. Encourage students to develop various professional skills.",
+              "D. Keep track of left-handed children's school performance."
+            ],
+            "question": "What do the candidates for the next year? The Department of Education do."
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. How they can be reduced in number.",
+              "B. Why their numbers are so high.",
+              "C. What percentage they account for.",
+              "D. If their percentage keeps increasing."
+            ],
+            "question": "What do the campaigners want to know about left-handed prisoners?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Many people believe that passion and commitment are the foundations of strong romantic relationships. But a relationship is made of two __26__ individuals. And the personality traits（特性）these individuals __27__ or lack can often make a relationship more-or less-likely to __28__. Recent research has found that one trait in particular-humility（谦逊）-is an important indicator of successful relationships.\n\nHumility can sometimes be __29__ with a lack of confidence. But researchers have come to realize that being humble generally indicates the __30__ of deeply admirable personal qualities. Being humble means you have the ability to accurately __31__ your deficiencies without denying your skills and strengths. For example ，you might recognize that you are intelligent ，but realize that you are not a __32__. Thus ，humility leads to an honest view of one's own advantages and shortcomings. Humble people do not ignore, avoid, or try to deny their limits or deficiencies. They can __33__ mistakes, see value in things that are far from perfect and identify areas for improvement.\n\nPerhaps it is not __34__ , then, that humility appears to be a huge asset to relationships. One study found that people tend to rate this quality __35__ in their spouse. The study also found that someone who is humble is more likely to initiate a romantic relationship, perhaps because they are less likely\n\nto see themselves as \"too good\"for someone else. Thus,a humble partner might be your ideal partner.",
+        "word_bank": [
+          "acknowledge",
+          "assess",
+          "confused",
+          "endure",
+          "extremely",
+          "genius",
+          "highly",
+          "permanent",
+          "possess",
+          "presence",
+          "puzzled",
+          "status",
+          "surprising",
+          "thoroughly",
+          "unique"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Some career women who aim high tend to feel guilty if they fail to achieve their goals."
+          },
+          {
+            "id": 37,
+            "content": "The unpaid housework done by women is triple that done by men."
+          },
+          {
+            "id": 38,
+            "content": "It is reported that women consistently suffer more from severe stress than men."
+          },
+          {
+            "id": 39,
+            "content": "Women are advised to identify the specific causes of their stress so that steps can be taken to deal with it."
+          },
+          {
+            "id": 40,
+            "content": "One study showed that women managers often expressed positive emotions that they didn't really feel."
+          },
+          {
+            "id": 41,
+            "content": "Women tend to mistake signs of heart attacks for symptoms of stress."
+          },
+          {
+            "id": 42,
+            "content": "For a time an app developer in America was so busy attending to work and family that she suffered from sleeplessness"
+          },
+          {
+            "id": 43,
+            "content": "The emotional labor women do is noticed only when it is not done."
+          },
+          {
+            "id": 44,
+            "content": "Dr. Joyce suggests that apart from self-care, women should seek professional support if they experience severe stress"
+          },
+          {
+            "id": 45,
+            "content": "Some people believe that there may not exist a stress gap between men and women."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "“I used to work very hard. I love to create things, grow them and solve problems, ”said Meng Li, a successful app developer in San Francisco. “I didn't really care about my mind and my body until they decided togo on strike. ”"
+          },
+          {
+            "id": "B",
+            "content": "Ms. Li said her stress led to sleeplessness. When she did sleep, she experienced “problem-solving dreams, ”which left her feeling unrested when she woke up. “After I became a first-time mother, I quickly realized I was so busy caring for other people and work that I felt like I'd lost myself, ”she said."
+          },
+          {
+            "id": "C",
+            "content": "It's a common story--one we frequently ridicule and readily dismiss, for example, by claiming that women tend to complain more than men, despite the growing sum of research that underlines the problem. Women are twice as likely to suffer from severe stress and anxiety as men, according to a 2016 study published in The Journal of Brain & Behavior. The American Psychological Association reports a gender gap year after year showing that women consistently report higher stress levels. Clearly, a stress gap exists."
+          },
+          {
+            "id": "D",
+            "content": "\"The difference is not really news to me, as a clinical psychologist,\"said Erin Joyce, a women and couples therapist in Los Angeles. \"It's been well documented in extensive research over the years that prevalence rates for the majority of the anxiety disorders are higher in women than men.\"Some people may argue that this is merely reported data, and they say many men feel the same pressures as women in terms of fulfilling responsibilities at work and home. In other words, we're all really, really stressed."
+          },
+          {
+            "id": "E",
+            "content": "“The difference, however, is in the nature and scope of these responsibilities in the home environment in particular, ”Dr. Joyce said. For example, the United Nations reported that women do nearly three times as much unpaid domestic work as men. The problem is, housework is often overlooked as work, eventhough it is often as laborious (or in some cases, more so) as any paid iob, As the scholar Silvia Federici put it in 1975, the unpaid nature of domestic work reinforces the assumption that \"housework is not work, thus preventing women from struggling against it.\""
+          },
+          {
+            "id": "F",
+            "content": "It's not just inside the home, though. Research from Nova Southeastern University found that female managers were more likely than male managers to display \"surface acting,\"or forcing emotions that are not wholly felt. \"They expressed optimism, calmness and sympathy even when these were not the motions that they were actually feeling,\"the study said."
+          },
+          {
+            "id": "G",
+            "content": "Surface acting is a prime example of \"emotional labor,\"a concept that the writer Jess Zimmerman made familiar in a 2015 essay. The essay sparked a massive thread on the internet community blog MetaFilter. Hundreds of women spoke up about their own experience with emotional labor: the duties that are expected of them, but go unnoticed. These invisible duties become apparent only when you don't do them. Like domestic labor, emotional labor is generally dismissed and not labeled work. But research shows it can be just as exhausting as paid work. Emotional labor can lead to difficulty in sleeping and family conflict. Sure, circumstantial stress, like losing a job, may lead to these same issues. But emotional labor is not circumstantial. It's an enduring responsibility based on the socialized gender role of women."
+          },
+          {
+            "id": "H",
+            "content": "Like Ms. Li, many women try to manage the added stress to reach what Dr. Jovce said was an unattainable ideal. \"Some professional women aim to do it all. They want to reach the top of the corporate ladder and fly like supermom,\"she said. When women don't reach this ideal, they feel guilty; and even more stressed. After her own struggle with this, Ms, Li took a step back and used her experience to build Sanity & Self, a self-care app and platform for overworked women. \"The realizations I had in that process helped me gain insights and ultimately got me ready to integrate self-care into my daily life.\"she said."
+          },
+          {
+            "id": "I",
+            "content": "The stress problem extends beyond mental health when vou consider the link between stress, anxiety and heart health. Worse, most of what we know about heart disease comes from studies involving men. However, \"there are many reasons to think that it's different in women,\"Harvard Medical School reported. For example, women are more likely to experience disturbed sleep, anxiety and unusual fatigue before a heart attack. Stress is so normalized that it is easy for women to shrug off those symptoms as simply the consequences of stress. Many women also do not experience chest pain before a heart attack the way men do, which leads to fewer women discovering problematic heart issues. Harvard reports that women are \"much more likely than men to die within a year of having a heart attack\"and \"many women say their physicians sometimes don't even recognize the symptoms.\""
+          },
+          {
+            "id": "J",
+            "content": "The good news is, women are more likely than men to take charge of their stress and manage it, the American Psychological Association reports. The concept of self-care, at itscore, is quite simple. \"The basics of adequate sleep, healthy diet and exercise are a good place to start,\"Dr. Joyce said. \"Support from trusted relationships is vital. This includes professional support from various health and wellness providers if stress is becoming increasingly overwhelming. \""
+          },
+          {
+            "id": "K",
+            "content": "Disconnecting from work and home responsibilities is also obviously important. But it's much easier said than done. It is important to understand what causes your stress in the first place. \"Get really specific with what's stressing you out.\"Ms. Li said. \"We often chalk up our stress to broad experiences like work. But work stress can take many different forms. Is a colleague being disrespectful of your time? Is a boss undermining your day-to-day control over decision making? These are different causes of stress and can benefit from different kinds of self-care."
+          },
+          {
+            "id": "L",
+            "content": "Ideally, your spouse or partner will be supportive, rather than dismissive, of your stress. It is important to talk through these issues before they come to ahead. \"Women working outside of the home should make an effort to have a conscious conversation with their partners about more equitable sharing of household and family responsibilities,\"Dr. Joyce said."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "　　As many office workers adapt to remote work ，cities may undergo fundamental change if offices remain under-utilized.Who will benefit if working from home becomes the norm？\n\n　　Employers argue they make considerable savings on real estate when workers shift from office to homework. However ，these savings result from passing costs on to workers.\n\n　　Unless employees are fully compensated，this could become a variant ofparasitic（寄生的） capitalism，whereby corporate profits increasingly rely on extracting value from the public-and now personal-realm ，rather than on generating new value.\n\n　　Though employers are backed by a chorus of remote work advocates ，others note the loneliness ，reduced productivity and inefficiencies of extended remote work.\n\n　　If working from home becomes permanent, employees will have to dedicate part of their private space to work. This requires purchasing desks, chairs and office equipment.\n\n　　It also means having private space dedicated to work：the space must be heated ，cleaned ， maintained and paid for. That depends on manythings, but for purposes of illustration, I have run some estimates for Montréal. The exercise is simple but important ，since it brings these costs out of the realm of speculation into the realm of meaningful discussion.\n\n　　Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home.\n\n　　What does this mean for offices in cities？One of two things may happen：Employers pass these costs onto employees.This would be a form of expropriation（侵占）， with employees absorbing production costs that have traditionally been paid by the employer. This represents a considerable transfer of value from employees to employers.\n\n　　When employees are properly compensated ，employers' real estate savings will be modest. If savings are modest ，then the many advantages of working in offices —such as lively atmosphere，rapidity of communication，team-building and acclimatization（适应环境）of new employees-will encourage employers to shelve the idea of remote work and ，like Yahoo in 2013 ，encourage employees to work most of the time from corporate office space.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. It will become the norm sooner or later.",
+                  "B. It requires employees to adapt promptly.",
+                  "C. It benefits employers at the expense of employees.",
+                  "D. It will force cities to transform their infrastructure"
+                ],
+                "question": "What does the author say about working from home？"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. It discourages team spirit.",
+                  "B. It invades employces'privacy.",
+                  "C. It undermines traditional values.",
+                  "D. It negatively impacts productivity."
+                ],
+                "question": "Why do some people oppose working from home？"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. To provide convincing data for serious discussion.",
+                  "B. To illustrate the ongoing change in working patterns.",
+                  "C. To show the impact of remote working on productivity.",
+                  "D. To exemplify how remote working affects the economy."
+                ],
+                "question": "Why did the author run the estimates for Montréal？"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. There is no point in transferring office work to working from home.",
+                  "B. Employees can benefit as much from remote working as their employers.",
+                  "C. Employers'gain from remote working should goto cmployees as compensation.",
+                  "D. Effective measures should betaken to motivate employees to setup offices at home."
+                ],
+                "question": "What can we conclude from the author's calculations？"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. It should be avoided if possible.",
+                  "B. It is only a temporary measure.",
+                  "C. It can reduce companies' real estate costs.",
+                  "D. It may affect employees' corporate loyalty."
+                ],
+                "question": "What is the author's opinion on working from home？"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "　　The human thirst for knowledge is the driving force behind our successful development as a species. But curiosity can also be dangerous ，leading to setbacks or even downfalls. Given curiosity's complexity ，scientists have found it hard to define.\n\n　　While pinning down a definition has proven tricky，the general consensus is it's some means of information gathering. Psychologists also agree curiosity is intrinsically（内在地）motivated.\n\n　　Curiosity covers such a large set of behaviors that there probably isn't any single \"curiosity gene\" that makes humans wonder about and explore their environment. That said, curiosity does have a genetic component. Genes and the environment interact in many complex ways to shape individuals and guide their behavior ，including their curiosity.\n\n　　Regardless of their genetic makeup ，infants have to learn an incredible amount of information in a short time ，and curiosity is one of the tools humans have found to accomplish that gigantic task.\n\n　　Hundreds of studies show that infants prefer novelty. It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure.\n\n　　But curiosity often comes with a cost.\n\n　　In some situations, the stakes are low and failure is a healthy part of growth. For instance, many babies are perfectly proficient crawlers, but they decide to try walking because there's more to see and do when they stand upright. But this milestone comes at a small cost. A study of 12-to 19-month-olds learning how to walk documented that these children fell down a lot. Seventeen times per hour, to be exact. But walking is faster than crawling, so this motivates expert crawlers to transition to walking.\n\n　　Sometimes, however, testing out a new idea can lead to disaster. For instance, the Inuit people of the Arctic regions have created incredible modesto deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It is too complex for non-scientists to understand.",
+                  "B. It is the force that pushes human society forward.",
+                  "C. It is a unique trait specific to the human race.",
+                  "D. It is often the major cause for human failures."
+                ],
+                "question": "What does the author say about curiosity?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It motivates people to scek information.",
+                  "B. It is destined to transform human genes.",
+                  "C. It does people more good than harm.",
+                  "D. It underlies all human behaviors."
+                ],
+                "question": "What is the general understanding of curiosity?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. They determine people's way of thinking.",
+                  "B. They account for age differences in learning.",
+                  "C. They enable people to undertake massive tasks.",
+                  "D. They work in conjunction with the environment."
+                ],
+                "question": "What do we learn about how genes shape people's behavior?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. They are far more curious than adults.",
+                  "B. They prefer to go after all that is novel.",
+                  "C. They have different interests than adults.",
+                  "D. They shownon-human animal behaviors.",
+                  "E. They show non-human animal behaviors."
+                ],
+                "question": "What do numerous studies show about infants?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. The cost of humans' curiosity to explore.",
+                  "B. The incredible harshness of cold weather.",
+                  "C. The innovative ideas stemming from curiosity.",
+                  "D. The importance of learning from past failures."
+                ],
+                "question": "What does the example of the Inuit people of the Arctic regions illustrate?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions：Suppose your school is organizing an orientation program to help the freshmen adapt to the new environment and academic studies. You are now to write a proposal ，which may include its aim, duration, participants and activities. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "大运河（Grand Canal）是世界上最长的人工河，北起北京，南至杭州。它是中国历史上最宏伟的工程之一。大运河始建于公元前4世纪， 公元13世纪末建成。修建之初是为了运输粮食，后来也用于运输其他商品。大远河沿线区域逐渐发展成为中国的工商业中心。长久以来， 大运河对中国的经济发展发挥了重要作用，有力地促进了南北地区之间的人员往来和文化交流。",
+    "directions": "Directions：For this part ，you are allowed 30 minutes to translate a passage from Chinese into English.You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_M6Y9CFc.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_2.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:09,940\r\nCollege English Test, Band 4, Part 2, Listening comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:10,700 --> 00:00:19,400\r\nIn this section, you will hear three news reports. At the end of each news report, you will hear two or three questions.\r\n\r\n3\r\n00:00:19,940 --> 00:00:29,980\r\nBoth the news reports and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four\r\n\r\n4\r\n00:00:29,980 --> 00:00:38,560\r\nchoices marked A, B, C, and D, then marked the corresponding letter on answer sheet 1 with\r\n\r\n5\r\n00:00:38,560 --> 00:00:41,100\r\na single line through the center.\r\n\r\n6\r\n00:00:41,820 --> 00:00:43,120\r\nNews report 1.\r\n\r\n7\r\n00:00:43,520 --> 00:00:49,220\r\nUnited Airlines has apologized for mistakenly shipping an American family's pet dog thousands\r\n\r\n8\r\n00:00:49,220 --> 00:00:51,900\r\nof miles in the wrong direction to Japan.\r\n\r\n9\r\n00:00:52,640 --> 00:00:59,280\r\nThe dog owners, the Lovard Tenurell dog named Buddy, took an unexpected 16-hour flight\r\n\r\n10\r\n00:00:59,280 --> 00:01:05,540\r\nto Tokyo, following a mix up by the airline. The dog owners, family, are currently in the\r\n\r\n11\r\n00:01:05,540 --> 00:01:12,620\r\nprocess of moving. They were meant to be reunited with the pet in their new home city in Texas.\r\n\r\n12\r\n00:01:13,520 --> 00:01:18,500\r\nBut, when they arrived at the United Airlines cargo facility in the southern U.S. state,\r\n\r\n13\r\n00:01:18,800 --> 00:01:29,260\r\nthey found a strangers dog waiting in Buddy's place. Both of the dogs had been sent to the\r\n\r\n14\r\n00:01:29,260 --> 00:01:37,560\r\nmistakenly being sent Japan instead. Buddy was given a physical checkup when he arrived at Tokyo's\r\n\r\n15\r\n00:01:37,560 --> 00:01:43,300\r\nInternational Airport. The dog was then sent back to the US on a private charter jet.\r\n\r\n16\r\n00:01:43,840 --> 00:01:51,240\r\nI'm so glad he's alive and coming home soon said the relieved dog owner. An error occurred during\r\n\r\n17\r\n00:01:51,240 --> 00:01:57,220\r\nthe connections in Denver. We have notified our customers that their pets arrived safely.\r\n\r\n18\r\n00:01:57,220 --> 00:02:02,740\r\nWe will arrange to return the pets to them as soon as possible, a spokesperson of United\r\n\r\n19\r\n00:02:02,740 --> 00:02:03,860\r\nAirlines said.\r\n\r\n20\r\n00:02:29,860 --> 00:02:37,200\r\nQuestion 2. What did the spokesperson for United Airlines say they would do after the incident?\r\n\r\n21\r\n00:02:52,000 --> 00:02:54,020\r\nNews Report 2.\r\n\r\n22\r\n00:02:54,460 --> 00:03:00,180\r\nOfficials that read Park Zoo in Tucson, Arizona are celebrating the birth of a baby elephant.\r\n\r\n23\r\n00:03:00,840 --> 00:03:04,100\r\nZoo officials say the baby was born on Monday.\r\n\r\n24\r\n00:03:04,100 --> 00:03:08,440\r\nIt is a female, and she weighs nearly 130 kilograms.\r\n\r\n25\r\n00:03:09,320 --> 00:03:13,180\r\nSamba, her mother, is a 30-year-old African elephant.\r\n\r\n26\r\n00:03:13,860 --> 00:03:16,320\r\nThe pregnancy lasted 22 months.\r\n\r\n27\r\n00:03:16,980 --> 00:03:21,820\r\nOfficials describe the baby elephant as healthy, standing, and nursing.\r\n\r\n28\r\n00:03:22,440 --> 00:03:24,520\r\nThe baby hasn't been given a name yet.\r\n\r\n29\r\n00:03:25,360 --> 00:03:27,020\r\nSamba has given birth before.\r\n\r\n30\r\n00:03:27,600 --> 00:03:33,480\r\nZoo officials said during this pregnancy, she was closely monitored through physical exams\r\n\r\n31\r\n00:03:33,480 --> 00:03:41,140\r\nand blood tests. Dr. Sue Tagelsky is the zoos director of zoological operations. She said\r\n\r\n32\r\n00:03:41,140 --> 00:03:47,200\r\nthe elephant's birth went smoothly and that there were no complications. The new baby\r\n\r\n33\r\n00:03:47,200 --> 00:03:53,500\r\nexpands the zoos elephant herd to six. That includes the baby's parents, a sister, a\r\n\r\n34\r\n00:03:53,500 --> 00:03:55,640\r\nbrother, and an adult female.\r\n\r\n35\r\n00:03:56,480 --> 00:04:01,300\r\nQuestion three and four are based on the news report you have just heard.\r\n\r\n36\r\n00:04:30,880 --> 00:04:31,260\r\nQuestion 3. What do we learn about the mother elephant's\r\n\r\n37\r\n00:04:42,860 --> 00:04:44,420\r\nNews Report 3\r\n\r\n38\r\n00:04:44,420 --> 00:04:48,860\r\nThree years ago, a couple was enjoying a meal at a beach restaurant.\r\n\r\n39\r\n00:04:49,540 --> 00:04:53,740\r\nThe restaurant was built on a wooden structure above the sea water.\r\n\r\n40\r\n00:04:54,580 --> 00:04:58,220\r\nDuring the meal, the man's wedding ring slipped off his finger.\r\n\r\n41\r\n00:04:58,220 --> 00:05:02,900\r\nIt fell through the wooden floorboards apparently lost forever.\r\n\r\n42\r\n00:05:03,620 --> 00:05:09,160\r\nRecently, the restaurant manager Ryan Kravoy decided to replace the wooden deck, and\r\n\r\n43\r\n00:05:09,160 --> 00:05:15,640\r\nhe found an old gold coin, some $100 bills, and a silver wedding ring while replacing\r\n\r\n44\r\n00:05:15,640 --> 00:05:16,180\r\nthe deck.\r\n\r\n45\r\n00:05:16,880 --> 00:05:22,020\r\nThe restaurant's waitress Sasha Formeca posted a picture of the ring on Facebook.\r\n\r\n46\r\n00:05:22,520 --> 00:05:25,560\r\nThe posts were shared about 5,000 times.\r\n\r\n47\r\n00:05:25,560 --> 00:05:32,700\r\nThree days later, the happy wife called to claim the ring. She even texted pictures of her\r\n\r\n48\r\n00:05:32,700 --> 00:05:39,320\r\nand her husband eating there in 2017 as proof. The restaurant mailed the ring back to the\r\n\r\n49\r\n00:05:39,320 --> 00:05:46,120\r\nhappy couple. Meanwhile, Krewoy discovered that the gold coin was very rare. It was from\r\n\r\n50\r\n00:05:46,120 --> 00:05:50,280\r\n1855 and worth as much as $2,000.\r\n\r\n51\r\n00:05:50,280 --> 00:05:56,700\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n52\r\n00:05:57,380 --> 00:05:58,380\r\nQuestion 5.\r\n\r\n53\r\n00:05:59,020 --> 00:06:00,840\r\nWhat do we learn about the restaurant?\r\n\r\n54\r\n00:06:15,840 --> 00:06:17,360\r\nQuestion 6.\r\n\r\n55\r\n00:06:17,360 --> 00:06:21,220\r\nWhat did the restaurant manager decide to do recently?\r\n\r\n56\r\n00:06:36,100 --> 00:06:40,880\r\nQuestion 7. What did the waitress do about the recovered ring?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,860 --> 00:00:18,180\r\nSection B, directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once.\r\n\r\n2\r\n00:00:18,180 --> 00:00:24,340\r\nAfter you hear a question, you must choose the best answer from the four choices,\r\n\r\n3\r\n00:00:24,680 --> 00:00:32,980\r\nMarch A, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:32,980 --> 00:00:36,020\r\nthrough the center. Conversation 1\r\n\r\n5\r\n00:00:36,020 --> 00:00:41,340\r\nI can't believe that duck hunting is still legal in so many parts of the world.\r\n\r\n6\r\n00:00:41,560 --> 00:00:47,880\r\nThe scientific evidence from countries like Australia, Canada and the USA clearly indicates\r\n\r\n7\r\n00:00:47,880 --> 00:00:50,440\r\na decline in the bird's numbers.\r\n\r\n8\r\n00:00:50,880 --> 00:00:57,380\r\nBut can anyone be sure if the decline is really caused by the Humting or by climate change?\r\n\r\n9\r\n00:00:57,840 --> 00:00:59,580\r\nIt's caused by both, in fact.\r\n\r\n10\r\n00:01:00,160 --> 00:01:02,960\r\nWe see more droughts in countries like Australia.\r\n\r\n11\r\n00:01:03,620 --> 00:01:08,860\r\nDucks are birds that feed and breed in areas where there is a lot of water.\r\n\r\n12\r\n00:01:09,340 --> 00:01:14,640\r\nBut their habitats have been shrinking in recent decades because of the droughts.\r\n\r\n13\r\n00:01:14,640 --> 00:01:20,200\r\nAnd I guess, with fewer places to inhabit, they concentrate in great numbers in few areas.\r\n\r\n14\r\n00:01:20,800 --> 00:01:23,840\r\nWhich surely makes them easier targets for the hunters.\r\n\r\n15\r\n00:01:24,500 --> 00:01:32,000\r\nIt does. My grandfather was a duck hunter. He told me hunting ducks and geese began in the 19th century.\r\n\r\n16\r\n00:01:32,520 --> 00:01:39,880\r\nThey were an easily found and politically available food source in farming areas, especially for poor immigrants.\r\n\r\n17\r\n00:01:40,540 --> 00:01:43,180\r\nWhat did they use for hunting during that period?\r\n\r\n18\r\n00:01:43,180 --> 00:01:54,360\r\nThey used new types of guns and birds could easily be shot down in flight, and in such great numbers that commercial hunting of ducks and geese became an industry.\r\n\r\n19\r\n00:01:55,200 --> 00:01:58,120\r\nYet there's no commercial farming of these birds nowadays.\r\n\r\n20\r\n00:01:58,800 --> 00:02:01,980\r\nTheir meat is hardly eaten in western countries.\r\n\r\n21\r\n00:02:02,540 --> 00:02:07,540\r\nNo, duck hunting seemingly exists as the continuation of a tradition.\r\n\r\n22\r\n00:02:08,120 --> 00:02:12,160\r\nWild ducks have never been popular with farmers like my grandfather anyway,\r\n\r\n23\r\n00:02:12,160 --> 00:02:14,640\r\nBecause they sometimes destroy crops.\r\n\r\n24\r\n00:02:15,240 --> 00:02:18,720\r\nIn fact, farmers use to poison them in large numbers.\r\n\r\n25\r\n00:02:19,320 --> 00:02:21,680\r\nThat somehow doesn't surprise me.\r\n\r\n26\r\n00:02:22,040 --> 00:02:27,560\r\nNobody places much value on the lives of these poor birds or on their meat.\r\n\r\n27\r\n00:02:28,100 --> 00:02:33,180\r\nQuestions A-211 are based on the conversation you have just heard.\r\n\r\n28\r\n00:02:33,920 --> 00:02:34,940\r\nQuestion 8.\r\n\r\n29\r\n00:02:35,360 --> 00:02:37,420\r\nWhat does the woman find unbelievable?\r\n\r\n30\r\n00:02:52,780 --> 00:02:59,960\r\nQuestion 9. What does the woman say has caused the shrinking of ducks' habitats in Australia?\r\n\r\n31\r\n00:03:14,980 --> 00:03:21,680\r\nQuestion 10. Why is there no commercial farming of ducks and geese in western countries?\r\n\r\n32\r\n00:03:36,480 --> 00:03:41,880\r\nQuestion 11. What does the woman say about farmers in her grandfather's\r\n\r\n33\r\n00:03:52,520 --> 00:03:53,360\r\ntime.\r\n\r\n34\r\n00:03:57,680 --> 00:03:59,360\r\nConversation 2\r\n\r\n35\r\n00:03:59,360 --> 00:04:02,160\r\nOk, Miss Bright, I finished calculating.\r\n\r\n36\r\n00:04:02,880 --> 00:04:09,080\r\nI estimate you have between 210 and 240 square meters of walls and ceiling.\r\n\r\n37\r\n00:04:09,080 --> 00:04:12,340\r\nSo, how much for the paint job cost?\r\n\r\n38\r\n00:04:13,000 --> 00:04:16,140\r\nThat would depend on the quality of paint you choose.\r\n\r\n39\r\n00:04:16,480 --> 00:04:18,000\r\nWe carry two brands.\r\n\r\n40\r\n00:04:18,480 --> 00:04:23,500\r\nOne cost 60 cents every square meter and the other 90 cents.\r\n\r\n41\r\n00:04:24,000 --> 00:04:27,160\r\nThe second is guaranteed to look great for about 10 years,\r\n\r\n42\r\n00:04:27,520 --> 00:04:32,520\r\nwhereas the cheaper one will start to dull after around 6 or 7 years.\r\n\r\n43\r\n00:04:32,920 --> 00:04:37,200\r\nIn that case, we would prefer the more expensive option.\r\n\r\n44\r\n00:04:37,200 --> 00:04:45,220\r\nAlright then, so including labor costs, taxes and everything, this job would come to $3,000.\r\n\r\n45\r\n00:04:46,740 --> 00:04:50,960\r\nHmm, to be perfectly honest, that's more than I expected.\r\n\r\n46\r\n00:04:51,640 --> 00:04:58,560\r\nPlease bear in mind that the price includes moving all the furniture and the whole task would take two days.\r\n\r\n47\r\n00:04:58,960 --> 00:05:00,340\r\nReally? Why?\r\n\r\n48\r\n00:05:00,960 --> 00:05:06,640\r\nWell, we can't paint the walls without clearing all the furniture first, so every time we paint a room,\r\n\r\n49\r\n00:05:06,640 --> 00:05:09,440\r\nWe first have to move the furniture to another room.\r\n\r\n50\r\n00:05:09,900 --> 00:05:11,640\r\nSo that takes more time.\r\n\r\n51\r\n00:05:12,040 --> 00:05:15,240\r\nPlus it requires two people, which works out more expensive.\r\n\r\n52\r\n00:05:16,160 --> 00:05:16,660\r\nI see.\r\n\r\n53\r\n00:05:17,060 --> 00:05:21,800\r\nBut does that mean I could not live here in my own house during those two days?\r\n\r\n54\r\n00:05:22,180 --> 00:05:23,360\r\nThat is correct.\r\n\r\n55\r\n00:05:24,000 --> 00:05:24,740\r\nOh well.\r\n\r\n56\r\n00:05:25,020 --> 00:05:27,000\r\nThat changes everything I'm afraid.\r\n\r\n57\r\n00:05:27,560 --> 00:05:30,800\r\nI would have to stay with a friend or check into a hotel.\r\n\r\n58\r\n00:05:31,280 --> 00:05:33,480\r\nI hadn't considered any of that.\r\n\r\n59\r\n00:05:33,480 --> 00:05:39,500\r\nI'm starting to realize that painting my house is far more troublesome than I had anticipated.\r\n\r\n60\r\n00:05:40,420 --> 00:05:45,080\r\nThis is usually the case. Most of our clients go through the same realization.\r\n\r\n61\r\n00:05:45,860 --> 00:05:46,660\r\nI see.\r\n\r\n62\r\n00:05:47,220 --> 00:05:52,260\r\nYou have my number. Please feel free to call me for any further questions.\r\n\r\n63\r\n00:05:52,860 --> 00:05:53,700\r\nThank you.\r\n\r\n64\r\n00:05:53,920 --> 00:05:58,620\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n\r\n65\r\n00:05:59,260 --> 00:06:02,640\r\nQuestion 12, what is the woman planning to do?\r\n\r\n66\r\n00:06:17,000 --> 00:06:21,540\r\nQuestion 13. What is the woman's chief concern?\r\n\r\n67\r\n00:06:36,560 --> 00:06:42,720\r\nQuestion 14. What does the woman have to do while the paint job is being done?\r\n\r\n68\r\n00:06:57,400 --> 00:07:02,980\r\nQuestion 15. What has the woman come to realize at the end of the conversation?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,460 --> 00:00:12,460\r\nSection C, directions. In this section, you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:12,900 --> 00:00:26,500\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices, marked A, B, C and D.\r\n\r\n3\r\n00:00:26,500 --> 00:00:33,200\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:34,120 --> 00:00:35,220\r\nPassage 1.\r\n\r\n5\r\n00:00:36,040 --> 00:00:41,680\r\nHomework is an important part of schooling, but the purposes of giving children homework\r\n\r\n6\r\n00:00:41,680 --> 00:00:44,020\r\nwill change as they grow older.\r\n\r\n7\r\n00:00:44,620 --> 00:00:50,680\r\nAt the primary level, the main aim is to cultivate good habits, like learning to plan,\r\n\r\n8\r\n00:00:51,020 --> 00:00:53,200\r\nand exercising self-discipline.\r\n\r\n9\r\n00:00:53,200 --> 00:00:59,300\r\nDuring the secondary school years, extending what is learned at school is positively related\r\n\r\n10\r\n00:00:59,300 --> 00:01:03,980\r\nto academic achievement, so the content of homework becomes more important.\r\n\r\n11\r\n00:01:04,920 --> 00:01:08,580\r\nSo how can you help your child do their best?\r\n\r\n12\r\n00:01:08,820 --> 00:01:14,080\r\nCreating an ideal working environment will make it easier for them to get down to their assignments\r\n\r\n13\r\n00:01:14,080 --> 00:01:14,820\r\nquickly.\r\n\r\n14\r\n00:01:15,420 --> 00:01:21,580\r\nMake sure it's free of distractions, and for primary school children at least, somewhere near\r\n\r\n15\r\n00:01:21,580 --> 00:01:28,180\r\nyou so you can answer questions and offer encouragement. You probably have to help young\r\n\r\n16\r\n00:01:28,180 --> 00:01:33,420\r\ngood children plan their session, but it's important that by the end of primary school\r\n\r\n17\r\n00:01:33,420 --> 00:01:39,620\r\nit's second nature. Get them to tell you everything they have to do then encourage them\r\n\r\n18\r\n00:01:39,620 --> 00:01:45,520\r\nto establish an order in which they do work. When they're several different assignments,\r\n\r\n19\r\n00:01:45,520 --> 00:01:51,900\r\nmake sure they begin with one they enjoy, so it seems easy to get started. It's best\r\n\r\n20\r\n00:01:51,900 --> 00:01:58,700\r\nto take on the most difficult task second. Once they're settled, but before they get tired.\r\n\r\n21\r\n00:01:59,540 --> 00:02:05,860\r\nIf older children have more than an hour of homework, encourage them to schedule a short break\r\n\r\n22\r\n00:02:05,860 --> 00:02:11,480\r\nto stretch. If you encourage them to tell you what they've learned, they'll absorb the\r\n\r\n23\r\n00:02:11,480 --> 00:02:14,520\r\ninformation more deeply and remember it more readily.\r\n\r\n24\r\n00:02:41,980 --> 00:02:48,480\r\nQuestion 17. What does the passage suggest parents do to help their children?\r\n\r\n25\r\n00:03:02,580 --> 00:03:08,260\r\nQuestion 18. What should children do to deal with multiple assignments?\r\n\r\n26\r\n00:03:23,340 --> 00:03:32,300\r\nPassage 2. Workers at Mexican oil company will receive a health incentive of almost $300 a year\r\n\r\n27\r\n00:03:32,300 --> 00:03:38,160\r\nif they meet certain body weight standards. To qualify for the bonus, they must maintain\r\n\r\n28\r\n00:03:38,160 --> 00:03:43,860\r\nand I healthy weight. For those who are overweight or obese, they can receive the bonus\r\n\r\n29\r\n00:03:43,860 --> 00:03:51,340\r\nif they reduce their weight by 10% during the year. Some applaud the policy as fair, because\r\n\r\n30\r\n00:03:51,340 --> 00:03:57,080\r\nit rewards both individuals who maintain a healthy weight and those who are working towards\r\n\r\n31\r\n00:03:57,080 --> 00:04:03,500\r\nachieving it. But critics say the policy contradicts recommendations by many health experts.\r\n\r\n32\r\n00:04:03,500 --> 00:04:09,560\r\nWho warn that a person's weight is influenced by genetic and environmental factors.\r\n\r\n33\r\n00:04:10,120 --> 00:04:15,920\r\nThat means weight can be hard for individuals to control, which makes the bonus unfair.\r\n\r\n34\r\n00:04:16,640 --> 00:04:23,260\r\nSome experts say the policy is inconsistent with the science of what we know about body weight\r\n\r\n35\r\n00:04:23,260 --> 00:04:23,820\r\nregulation.\r\n\r\n36\r\n00:04:24,700 --> 00:04:29,020\r\nThese experts argue that focusing on weight is the wrong approach.\r\n\r\n37\r\n00:04:29,020 --> 00:04:35,680\r\nA more productive method of encouraging health among employees is to promote healthy behaviors.\r\n\r\n38\r\n00:04:36,280 --> 00:04:44,800\r\nFor example, companies can give workers gym memberships or encourage participation in lectures on healthy eating and living.\r\n\r\n39\r\n00:04:45,440 --> 00:04:52,820\r\nThey can also reduce sweets and provide healthier stacks in the office and healthier meals at the company canteen.\r\n\r\n40\r\n00:04:53,080 --> 00:04:57,300\r\nOr they can give employees more time during their lunch break to exercise.\r\n\r\n41\r\n00:04:57,300 --> 00:05:03,400\r\nThese are much better and much more productive ways for companies to move forward on the\r\n\r\n42\r\n00:05:03,400 --> 00:05:04,880\r\nemployees well-being.\r\n\r\n43\r\n00:05:05,960 --> 00:05:10,100\r\nQuestion 19-21 A based on the passage you have just heard.\r\n\r\n44\r\n00:05:10,720 --> 00:05:15,500\r\nQuestion 19 Who will qualify for the bonus in Mexican oil company?\r\n\r\n45\r\n00:05:30,219 --> 00:05:36,760\r\nQuestion 20. What do critics think of Mexican oil companies bonus policy?\r\n\r\n46\r\n00:05:51,460 --> 00:05:58,020\r\nQuestion 21. What do experts propose companies do about workers well being?\r\n\r\n47\r\n00:06:13,200 --> 00:06:14,580\r\nPassage 3.\r\n\r\n48\r\n00:06:15,120 --> 00:06:19,780\r\nCompatuous of war that the British government is not doing enough to prevent left-handed\r\n\r\n49\r\n00:06:19,780 --> 00:06:22,700\r\npupils from falling behind their peers.\r\n\r\n50\r\n00:06:23,160 --> 00:06:28,060\r\nThey claim that thousands of children are still being penalized for being left-handed.\r\n\r\n51\r\n00:06:28,680 --> 00:06:34,400\r\nThis is due to a lack of action from ministers who failed to take any meaningful action\r\n\r\n52\r\n00:06:34,400 --> 00:06:35,320\r\nfor years.\r\n\r\n53\r\n00:06:35,320 --> 00:06:41,360\r\nIt is feared that a failure to address early year challenges such as poor handwriting\r\n\r\n54\r\n00:06:41,360 --> 00:06:48,400\r\nneeds to much more serious problems down the line with these pupils facing reduced career prospects.\r\n\r\n55\r\n00:06:49,240 --> 00:06:54,740\r\nStudies and recent years show that left had children on more likely to suffer with learning\r\n\r\n56\r\n00:06:54,740 --> 00:06:59,000\r\ndifficulties and their schools are lower on IQ tests.\r\n\r\n57\r\n00:06:59,000 --> 00:07:05,280\r\nCampaigners feel it's strange that children in British schools are penalised because\r\n\r\n58\r\n00:07:05,280 --> 00:07:10,740\r\nthey haven't been left handed. They don't understand why successive governments have\r\n\r\n59\r\n00:07:10,740 --> 00:07:16,100\r\nfailed to act on this. They want the Department of Education to record which children\r\n\r\n60\r\n00:07:16,100 --> 00:07:22,400\r\nare left handed and what their educational attainments are. Since they make up some 10% of\r\n\r\n61\r\n00:07:22,400 --> 00:07:29,340\r\npopulation. In early year education, left-handed children are struggling and making a mess\r\n\r\n62\r\n00:07:29,340 --> 00:07:36,440\r\nof their handwriting. Educators don't know how to deal with this. In many cases, there's no\r\n\r\n63\r\n00:07:36,440 --> 00:07:42,740\r\nactive help and a lack of teacher training. Campaigners point out that a high percentage of the\r\n\r\n64\r\n00:07:42,740 --> 00:07:49,320\r\nprison population is left-handed. They say that these prison numbers are unusually high and\r\n\r\n65\r\n00:07:49,320 --> 00:07:51,960\r\nask why it is the case.\r\n\r\n66\r\n00:07:52,800 --> 00:07:57,860\r\nQuestions 22 to 25 are based on the passage you have just heard.\r\n\r\n67\r\n00:07:58,520 --> 00:08:03,240\r\nQuestion 22. Why are some people criticizing the British government?\r\n\r\n68\r\n00:08:18,140 --> 00:08:24,540\r\nQuestion 23. What do studies in recent years show about left-handed children?\r\n\r\n69\r\n00:08:39,240 --> 00:08:46,260\r\nQuestion 24. What do the campaigners demand? The Department of Education do.\r\n\r\n70\r\n00:09:00,940 --> 00:09:06,820\r\nQuestion 25. What do the campaigners want to know about left-handed prisoners?\r\n\r\n71\r\n00:09:22,280 --> 00:09:24,980\r\nThat's the end of listening cobra henchium.",
+  "passages_transcript_zh": ""
+}

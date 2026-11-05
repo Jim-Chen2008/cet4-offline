@@ -1,0 +1,693 @@
+{
+  "id": 31,
+  "exam": 31,
+  "exam_details": {
+    "id": 31,
+    "title": "2021年12月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2021,
+    "month": 12,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-27T09:57:17.355000+08:00",
+    "updated_at": "2025-04-27T10:12:31.333000+08:00",
+    "exam_id": 31,
+    "submission_count": 0,
+    "cet_content_id": 31,
+    "has_draft": false
+  },
+  "created_at": "2025-04-27T10:09:57.934000+08:00",
+  "updated_at": "2025-12-08T21:03:35.521871+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. She was pierced by a chicken bone.",
+              "B. She was coughing all the time.",
+              "C. She suffered from lung cancer.",
+              "D. She suffered from shock."
+            ],
+            "question": "What was the woman's problem?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. By eating chicken soup daily.",
+              "B. Through regular exercising.",
+              "C. Through a surgical operation.",
+              "D. By using traditional Chinese medicine."
+            ],
+            "question": "How was the woman's problem eventually solved?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. It was born 13 years ago.",
+              "B. It was Alice Gray's lovely pet.",
+              "C. It got injured in a big bushfire.",
+              "D. It ran away into a nearby forest."
+            ],
+            "question": "What does the news report say about the white sheep Prickles?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. They rebuilt the fencing around their farm.",
+              "B. They spent seven years replanting their farm.",
+              "C. They claimed damages for their heavy losses.",
+              "D. They installed a camera to monitor sheep activity."
+            ],
+            "question": "What did the family do after the bush fires?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. The disappearance of some gold and diamonds.",
+              "B. The transfer of tons of precious metal by air.",
+              "C. The crash of a Russian cargo airplane.",
+              "D. The loss of gold from an airplane."
+            ],
+            "question": "What is the news report mainly about?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. It made an emergency landing.",
+              "B. It informed the local police at once.",
+              "C. It contacted the goldmine company.",
+              "D. It had a crew member fix the problem."
+            ],
+            "question": "What do the aircraft do when the incident happened?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. They will cooperate with the police.",
+              "B. They had checked the plane carefully.",
+              "C. They will be questioned by the police.",
+              "D. They took some gold bars and diamonds."
+            ],
+            "question": "What does the news reports say about the technical engineers who worked on the plane before takeoff?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. For the company's records.",
+              "B. For future training purposes.",
+              "C. To follow the company's rule.",
+              "D. To ensure information security."
+            ],
+            "question": "Why does the man have his conversation with the woman recorded?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. To check her customer reference number.",
+              "B. To inquire about the price of office chairs.",
+              "C. To get her money back for the returned chair.",
+              "D. To make complaints about its customer service."
+            ],
+            "question": "What is the woman's purpose of calling the furniture company?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. She had to update its information.",
+              "B. She forgot where she had left it.",
+              "C. She lost it about three days ago.",
+              "D. She was issued a new card."
+            ],
+            "question": "What does the woman say about her bank card?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Reconsider her options for payment methods.",
+              "B. Make a specific note on the company's system.",
+              "C. Update her bank card details on the company's website.",
+              "D. Upload her personal information to the company's website."
+            ],
+            "question": "What does the man advise the woman to do?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. He is feeling exhausted.",
+              "B. He is tired of cooking.",
+              "C. He has to work late.",
+              "D. He wants to try Asian foods."
+            ],
+            "question": "Why isn't the man going to cook?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Book a table.",
+              "B. Order a delivery.",
+              "C. Download a menu.",
+              "D. Locate a restaurant."
+            ],
+            "question": "What does the man say he'll do on his phone?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. It is not tasty.",
+              "B. It is not healthy.",
+              "C. It is too oily.",
+              "D. It is too spicy."
+            ],
+            "question": "What does the woman think of Indian food?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. She is too concerned about money.",
+              "B. She is too weight-conscious.",
+              "C. She is too picky about food.",
+              "D. She is too eager to please."
+            ],
+            "question": "What does the man think of the woman?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Owners' personalities affect their cats' behaviour and wellbeing.",
+              "B. Parents' personalities can affect the personalities of their children.",
+              "C. Parents and cat owners alike experience high levels of anxiety.",
+              "D. More and more people are treating pet cats like their children."
+            ],
+            "question": "What do we learn from the new study by the University of Lincoln?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Give their pets behavioural training.",
+              "B. Provide their pets with the best care.",
+              "C. Know their pets' feelings and desires.",
+              "D. Interact with their pets in novel ways."
+            ],
+            "question": "What does the passage say most pet owners want to do?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. More convincing explanation.",
+              "B. More extensive sampling.",
+              "C. Collection of more data.",
+              "D. Further investigation."
+            ],
+            "question": "What does the passage say is still needed to understand the effects of owners' personalities on their pets?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. People should do more running than mere walking.",
+              "B. Running is the best exercise for extending one's life.",
+              "C. People should exercise at least 60 minutes everyday.",
+              "D. Running is the easiest form of exercise for most people."
+            ],
+            "question": "What does the new review of studies claim?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Improving their brain function.",
+              "B. Regulating their breathing rate.",
+              "C. Slowing down their ageing process.",
+              "D. Accelerating their blood circulation."
+            ],
+            "question": "What is one effect that running has on people according to recent research?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. They found it easy to control their emotions.",
+              "B. They struggled to handle negative emotions.",
+              "C. They were more eager to enjoy a movie.",
+              "D. They were less affected by sad movies."
+            ],
+            "question": "What did another study find about the participants after they had a 30 minute jog?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. He is a tour guide.",
+              "B. He is a famous architect.",
+              "C. He is a local entrepreneur.",
+              "D. He is the owner of the Hill House."
+            ],
+            "question": "What do we learn about the speaker?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. He studied the blueprints of other famous buildings.",
+              "B. He inquired about his client's family background.",
+              "C. He observed his client's life and habits.",
+              "D. He took a tour of his client's old home."
+            ],
+            "question": "What did the architect do before beginning his design?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. A house made of timber and brick.",
+              "B. A house with a lot of free space.",
+              "C. A house of the current fashion.",
+              "D. A house of a unique design."
+            ],
+            "question": "What did the architect's client mainly want?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. They are well preserved and in pretty good shape.",
+              "B. They are copies built to the architect's designs.",
+              "C. They were designed by another architect.",
+              "D. They were badly damaged but restored."
+            ],
+            "question": "What do we learn about the pieces of furniture in the children's bedrooms?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Part III Reading Comprehension",
+        "blanks": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          },
+          {
+            "id": 6
+          },
+          {
+            "id": 7
+          },
+          {
+            "id": 8
+          },
+          {
+            "id": 9
+          },
+          {
+            "id": 10
+          }
+        ],
+        "content": "It is commonly believed that the great English dramatist and poet William Shakespeare was born in Stratford-on-Avon on April 23, 1564. But it is impossible to know the __1__ day on which he was born. Church records show he was baptized (施洗礼) on April 26, and three days was a customary amount of time to wait before baptizing a newly born baby. Shakespeare's date of death is __2__ known. However: it was April 23, 1616. He was 52 and had retired to Stratford three years before.\n\nAlthough few plays have been performed or analyzed as extensively as the 38 plays Shakespeare wrote, there are few surviving details about his life. This __3__ of biographical information is due primarily to his social __4__ ; he was not a noble, but the son of a leather trader.\n\nShakespeare __5__ attended the grammar school in Stratford, where he would have studied Latin and read __6__ literature. He did not go to university and at age 18 married Anne Hathaway, who was eight years his __7__ . They had four children, including the twins, Hamnet and Judith. Nothing is known of the period between the birth of the twins and Shakespeare's __8__ as a dramatist in London in the early 1590s.\n\nIn a million words written over 20 years, he __9__ the full range of human emotions and conflicts with a __10__ that remains sharp today. As his great contemporary the poet and dramatist.Ben Jonson said, \"He was not of an age, but for all time.\"",
+        "word_bank": [
+          "captured",
+          "classical",
+          "conclusively",
+          "emergence",
+          "exact",
+          "generated",
+          "particular",
+          "position",
+          "precision",
+          "probably",
+          "quality",
+          "scarcity",
+          "senior",
+          "separated",
+          "systematically"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Part III Reading Comprehension",
+        "options": [
+          {
+            "id": 1,
+            "content": "Pirson claims that some ordinary things may often prove to be miraculously interesting."
+          },
+          {
+            "id": 2,
+            "content": "To make a conversation interesting, it is important that you listen to the other party attentively."
+          },
+          {
+            "id": 3,
+            "content": "A person who is unable to stimulate others' curiosity or make their life enjoyable may appear somewhat boring"
+          },
+          {
+            "id": 4,
+            "content": "Interesting people usually possess certain unique qualities, according to aTV program producer."
+          },
+          {
+            "id": 5,
+            "content": "Be interested in others and they are sure to be interested in you."
+          },
+          {
+            "id": 6,
+            "content": "The author considers himself usually good at conducting conversations."
+          },
+          {
+            "id": 7,
+            "content": "Interesting people are always full of curiosity."
+          },
+          {
+            "id": 8,
+            "content": "Falling into a routine can turn a person into an utter bore."
+          },
+          {
+            "id": 9,
+            "content": "One strategy to be agood conversationalist is to motivate your partner to tell their own stories."
+          },
+          {
+            "id": 10,
+            "content": "Interesting as it might appear, a made-up conversation will probably turn out to be dull."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Humans are creatures of habit. We love to establish a routine and stick with it. Then we often put ourselves on auto-pilot. Routines can be incredibly useful in helping you get things done. However, too much of a routine can also make you incredibly boring. Nevertheless, many people live lives that are boringly predictable, or live a life where everything is outlined or planned."
+          },
+          {
+            "id": "B",
+            "content": "To tell the truth, interesting people are more popular among their friends. If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull. But that doesn't mean your life has ended and you can't do anything to change it. If you find yourselt scarching for something to say beyond small talk, try these tactics to find more interesting approaches to conversation."
+          },
+          {
+            "id": "C",
+            "content": "Recently, I was at a gathering of colleagues when someone turned tome and asked, \"So, what's new with you?\" Ordinarily, I think I'm a good conversationalist. After all, it's literally my job to talk to people and tell their stories or share their advice. And that's not exactly an unexpected question. Still the only \"new-to-me\" topics that came to mind were my daughter's basketball tournament（锦标赛） and my feelings about that morning's political headlines-neither amusing nor appropriate topics at that moment."
+          },
+          {
+            "id": "D",
+            "content": "Oh, no, I thought. Have I become boring? But sharing our experiences in an authentic way to connect with other people is what makes us interesting, says associate professor Michael Pirson. The hesitation I felt in not sharing the ordinary things that were happening in my life, and the wild mental search for something more interesting, may have backfired and made me seem less interesting."
+          },
+          {
+            "id": "E",
+            "content": "\"If someone is making up some conversation that might be interesting, it's probably not going to land well, \"says Pirson, whose expertise includes trust and well-being, mindfulness, and humanistic management. \"It's going to feel like a made-up conversation that people don't necessarily want to tune into.\""
+          },
+          {
+            "id": "F",
+            "content": "The most interesting people aren't those who' ve gone on some Eat, Pray, Love journey to find themselves. Instead, Pirson says, they' re those who examine the ordinary. \"Often, the 'boring things' may not be boring at all. Maybe they are actually little miracles,\" he says. Share your observations about the world around you-interesting stories you heard or things you noticed-and you maybe surprised by the universal connection they inspire."
+          },
+          {
+            "id": "G",
+            "content": "This is essentially how Jessica Hagy starts her day. The author of How to Be Interesting: An Instruction Manual, Hagy spends a lot of time thinking about what's interesting to her. People who are interesting are persistently curious, she says."
+          },
+          {
+            "id": "H",
+            "content": "Think about the everyday things around you and ask questions about them. What is that roadside monument I see on my way to work everyday? Who built that interesting building in my city? What nearby attractions haven't I visited? Why do people do things that way? Use what you find to ask more questions and learn more about the world around you. \"Having that sort of curiosity is almost like a protective gear from getting into boredom,\"she says. And when you find things that are truly interesting to you, share them."
+          },
+          {
+            "id": "I",
+            "content": "Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality. \"Having a strong point of view, signature style, or being a super-enthusiast in a particular field makes someone interesting,\"she says. That means embracing what is truly interesting or unique about yourself. \"Many people are 'not boring' in the way that they can carry a conversation or can be good at a social gathering, etc. To be interesting means that you have lived life, taken risks, traveled, sought out experience to learn for yourself and share with others,\" she says."
+          },
+          {
+            "id": "J",
+            "content": "Of course, it's possible to be a fountain of knowledge and a boring person, says public relations consultant Andrea Pass. Paying attention to the listener is an important part of having a conversation that's interesting to both parties. Talking on and on about what's interesting to you isn't going to make you an interesting person, she says."
+          },
+          {
+            "id": "K",
+            "content": "\"If the listener is not paying attention, it's your sign to shorten the story or change direction. Make sure to bring the audience into the conversation so that it is not one-sided,\" Pass says. Be a better listener yourself, and give others opportunities to participate in the conversation by inviting them with questions or requests to share their own experiences or thoughts. (e. g. , \"Now, tell me about your favorite book,\" or \"Have you ever been to that attraction?\") Questions are a powerful tool, especially when they encourage others to disclose information about themselves. A 2012 study from the University of California, Santa Barbara, found that roughly 40% of the time we are talking, we' re disclosing subjective information about our experience. And when we' re doing so, our brains are more engaged. So one strategy to leave others with the impression that you' re a sparkling conversation partner is to get others to talk about themselves."
+          },
+          {
+            "id": "L",
+            "content": "Being relatable is also essential, Morrissey says. \"The best entertainment and storytelling comes from people who are relatable-those who don't shy away from opening up but freely share who they are and what they care about. These are the pepple viewers most relate to and find interesting. Being authentic, honest, and vulnerable is always interesting.\""
+          },
+          {
+            "id": "M",
+            "content": "I have now come to realize that being boring, in actuality, is not only about who you are as a person, but also how you present yourself. No matter what, make sure vou are having fun in life. Because when you are enjoying, people around you will begin to enioyaswell. Show some interest in them and they will definitely show some in you. If you are a very reserved person, this could be a little difficult at first. But with a little effort, you can definitely improve."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Part III Reading Comprehension",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "With obesity now affecting 29% of the population in England, and expected to rise to 35% by 2030, should we now recognise it as a disease? Obesity, in which excess body fat has accumulated to such an extent that health maybe adversely affected, meets the dictionary definition of disease, argues Professor John Wilding. He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology-it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice\"should help reduce the stigma (耻辱) and discrimination experienced by many people with obesity,\" he adds.\n\nProfessor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition. He suggests that most people with obesity will eventually develop complications.\n\n“But unless we accept that obesity is a disease, we are not going to be able to tackle it,\" he concludes.But Dr. Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.\n\nIf labelling obesity as a disease was harmless then it wouldn't really matter, he writes. But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic（内在的）motivation that is such an important enabler of change.\" What's more, making obesity a discase\" may not benefit patients, but it will benefit healthcare providers and the pharmaceutical（制药的）industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\"he warns",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Its impact on socicty is expected to rise.",
+                  "B. It is now too widespread to be neglected.",
+                  "C. It should be regarded as agenetic disease.",
+                  "D. Its dictionary definition should be updated"
+                ],
+                "question": "What does Professor John Wilding argue about obesity?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. It is difficult to define.",
+                  "B. It is a modern disease.",
+                  "C. It has much to do with one's genes.",
+                  "D. It results from a lack of self-control"
+                ],
+                "question": "What is the popular view of obesity?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Obese people would not feel responsible to take any action.",
+                  "B. Obese people would not be able to afford the medical costs.",
+                  "C. Obese people would be overwhelmed with anxiety.",
+                  "D. Obese people would be discriminated against."
+                ],
+                "question": "Why are some people opposed to labelling obesity as a disease?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It is of no use in understanding obesity.",
+                  "B. It is too inclusive and thus lacks clarity.",
+                  "C. It helps little to solve patients' problems.",
+                  "D. It matters little to the debate over obesity."
+                ],
+                "question": "What does Dr. Richard Pile think of the dictionary definition of disease?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. It may affect obese people's quality of life.",
+                  "B. It may accelerate the spread of obesity.",
+                  "C. It may cause a shortage of doctors.",
+                  "D. It may do little good to patients."
+                ],
+                "question": "What is Dr. Richard Pile's concern about classifying obesity as a disease?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. Research has found that having access to diverse teachers is beneficial for children. For the youngest learners, it means they are more likely to get exposed to different varieties of play and communication. It also helps them develop healthy ideas around gender.\n\n\"In our world and our society, we have very specific stereotypes（模式化形象） of gender roles, \"said Mindi Reich-Shapiro, an assistant professor in the teacher education department of the Borough of Manhattan Community College, and one of the authors of a recent study. \"It's important for children to see other possibilities and other paths they can take.\"\n\nDespite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as carly education teachers. Some also reported that there were parents surprised or concerned that their child had a male teacher. And they had been advised by colleagues or other staff not to hug children.\n\nReich-Shapiro and fellow researchers made several recommendations to increase male representation in the field. Low pay has long been acknowledged as a major issue in the early childhood field. Over 70% of male educators who said they intended to stay in the carly education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. The report suggests paying all early childhood educators the way elementary school teachers are paid.\n\nCities and programs should establish support groups for male early childhood educators and provide mentoring and professional development advice for male educators and their program leaders.\n\nThe authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\"They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.\n\n",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It helps raise children's awareness of gender roles.",
+                  "B. It exposes children to different ways of interaction.",
+                  "C. It is negatively impacted by a lack of male teachers.",
+                  "D. It clearly aims to form children's identity through play"
+                ],
+                "question": "What do we learn from the first paragraph about early childhood education in the U.S.?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. The importance of broadening children's horizons.",
+                  "B. The responsibilities of fathers for children's growth.",
+                  "C. The urgency of creating teacher education programs.",
+                  "D. The role of teachers in motivating children to learn."
+                ],
+                "question": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. Some of them find it awkward when hugging children.",
+                  "B. They feel pressured to keep up with female colleagues.",
+                  "C. They find it hard to meet the expectations of kids'parents.",
+                  "D. Many of them feel prejudiced against socially and culturally."
+                ],
+                "question": "What do we learn about male teachers from their responses in the study?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Higher pay.",
+                  "B. Job security.",
+                  "C. Social recognition.",
+                  "D. Better working conditions."
+                ],
+                "question": "What is needed for men to commit to early childhood education?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Recruiting young men who have a passion for education young children.",
+                  "B. Taking measures to attract prospective male teachers to work in the field.",
+                  "C. Persuading prospective fathers to consider a change in their career.",
+                  "D. Providing male teachers with more opportunities for advancement."
+                ],
+                "question": "What do the authors of the study recommend to bridge the gender gap in early childhood education?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions：Suppose your university student union is planning to hold a speech contest.You are now to write a proposal for organizins the contest.The proposal may include the topic, aim, procedure and selection of contestants.You will have 30 minutes to write the proposal.You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "content": "坎儿井（Karez）是新疆干旱地区的一种水利系统， 由地下渠道将水井连接而成。该系 统将春夏季节渗入（seep into）地下的大量雨水及积雪融水收集起来，通过山体的自然坡度 引到地面，用于灌溉农田和满足人们的目常用水需求。坎儿井减少了水在地西的 蒸发 （evaporation），对地表破坏很小，因而有效地保护了自然资源与生态环境。坎儿井体现了我国人民与自然和谐共存的智慧，是对人类文明的一大贡献。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_tJ9z4OW.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_RjgxbM8.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_2_KKVJRO2.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:09,660\r\nCollege English Test, Band 4, Part 2, Listening comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:10,440 --> 00:00:19,080\r\nIn this section, you will hear three news reports. At the end of each news report, you will hear two or three questions.\r\n\r\n3\r\n00:00:19,080 --> 00:00:24,180\r\nBoth the news report and the questions will be spoken only once.\r\n\r\n4\r\n00:00:24,780 --> 00:00:30,420\r\nAfter you hear a question, you must choose the best answer from the four choices,\r\n\r\n5\r\n00:00:30,860 --> 00:00:40,420\r\nMark II, B, C, and D. Then mark the corresponding letter on Answer Sheet 1 with a single line through this enter.\r\n\r\n6\r\n00:00:40,420 --> 00:00:48,860\r\nNews report 1. A 22-year-old Chinese woman who suffered from a persistent cough was shocked\r\n\r\n7\r\n00:00:48,860 --> 00:00:54,780\r\nto learn that she had a piece of chicken bone lodged in her lung. The unnamed woman\r\n\r\n8\r\n00:00:54,780 --> 00:00:59,740\r\nfrom the province of Shandong started to have coughing problems when she was seven or eight\r\n\r\n9\r\n00:00:59,740 --> 00:01:08,000\r\nyears old. For 14 years, she made numerous hospital visits. However, no doctor could identify\r\n\r\n10\r\n00:01:08,000 --> 00:01:14,700\r\nat any problem. Her uncontrollable coughing was a mystery. Finally, the woman got a full\r\n\r\n11\r\n00:01:14,700 --> 00:01:20,360\r\nbody scan at a hospital in the city of Qingdao. This special medical procedure revealed\r\n\r\n12\r\n00:01:20,360 --> 00:01:26,480\r\nshe had a chicken bone stuck in her lung. Doctors performed surgery and removed the bone.\r\n\r\n13\r\n00:01:27,020 --> 00:01:37,600\r\nThe simple procedure went smoothly and the woman has recovered fully. With the bone,\r\n\r\n14\r\n00:01:37,600 --> 00:01:40,020\r\nfrom that annoying cough.\r\n\r\n15\r\n00:01:40,960 --> 00:01:46,040\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n16\r\n00:01:46,800 --> 00:01:47,900\r\nQuestion 1.\r\n\r\n17\r\n00:01:48,300 --> 00:01:49,920\r\nWhat was the woman's problem?\r\n\r\n18\r\n00:02:05,240 --> 00:02:06,380\r\nQuestion 2.\r\n\r\n19\r\n00:02:06,380 --> 00:02:10,220\r\nHow was the woman's problem eventually solved?\r\n\r\n20\r\n00:02:25,440 --> 00:02:27,080\r\nNews report 2\r\n\r\n21\r\n00:02:27,080 --> 00:02:29,340\r\nA white sheep named Prickles\r\n\r\n22\r\n00:02:29,340 --> 00:02:37,180\r\nThat ran away from an Australian farm during the 2013 bushfires recently returned home.\r\n\r\n23\r\n00:02:37,640 --> 00:02:42,940\r\nAccording to Farmer Alice Gray, Prickles was only a lamb when she ran away.\r\n\r\n24\r\n00:02:43,320 --> 00:02:50,320\r\nThe bushfires that hit the area back then destroyed a large part of her family's massive property.\r\n\r\n25\r\n00:02:50,920 --> 00:02:53,260\r\nThey thought Prickles had died in the fire.\r\n\r\n26\r\n00:02:53,260 --> 00:02:59,840\r\nBut instead, the young sheep escaped into a 200 acre forest near the farm.\r\n\r\n27\r\n00:03:00,520 --> 00:03:05,340\r\nOnce the fires were over, the family had to fix the damage done to the farm.\r\n\r\n28\r\n00:03:05,780 --> 00:03:12,580\r\nAs it was such a large property, this included rebuilding about 50 kilometers of fencing.\r\n\r\n29\r\n00:03:13,120 --> 00:03:18,680\r\nIt was this huge fencing that prevented prickles from finding her way back.\r\n\r\n30\r\n00:03:18,680 --> 00:03:22,680\r\nOver the years, the family spotted her a few times.\r\n\r\n31\r\n00:03:23,080 --> 00:03:27,600\r\nThey even recorded her with cameras installed to monitor deer activity.\r\n\r\n32\r\n00:03:28,180 --> 00:03:32,160\r\nBut while they knew prickles was alive, they couldn't find her.\r\n\r\n33\r\n00:03:32,500 --> 00:03:35,420\r\nAnd never expected her to return by herself.\r\n\r\n34\r\n00:03:36,140 --> 00:03:39,160\r\nSeven years later, they were proven wrong.\r\n\r\n35\r\n00:03:39,780 --> 00:03:44,060\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n36\r\n00:03:44,720 --> 00:03:45,700\r\nQuestion 3.\r\n\r\n37\r\n00:03:45,700 --> 00:03:50,280\r\nWhat does the news report say about the white sheep prickles?\r\n\r\n38\r\n00:04:04,880 --> 00:04:09,260\r\nQuestion 4. What does the family do after the bush fires?\r\n\r\n39\r\n00:04:24,360 --> 00:04:26,000\r\nNews Report 3.\r\n\r\n40\r\n00:04:26,620 --> 00:04:32,660\r\nTons of gold have fallen out the sky in Russia, after a cargo plane malfunctioned in\r\n\r\n41\r\n00:04:32,660 --> 00:04:33,660\r\nmidair this morning.\r\n\r\n42\r\n00:04:34,160 --> 00:04:41,640\r\nThe aircraft was carrying 265 million pounds worth of gold and diamonds when the door flew\r\n\r\n43\r\n00:04:41,640 --> 00:04:45,000\r\nopen, sending the precious metal back to Earth.\r\n\r\n44\r\n00:04:45,880 --> 00:04:51,620\r\nAccording to the official news agency, Russian authorities have recovered more than 170\r\n\r\n45\r\n00:04:51,620 --> 00:04:54,880\r\ngold bars weighing 20 kilograms each.\r\n\r\n46\r\n00:04:55,480 --> 00:05:01,320\r\nThe plane was travelling from Yakuza airport in a major diamond producing region to the\r\n\r\n47\r\n00:05:01,320 --> 00:05:05,040\r\ncity across Nau Yurask in Siberia.\r\n\r\n48\r\n00:05:05,380 --> 00:05:11,380\r\nHowever, the aircraft made an emergency landing in Magan, after it began losing some of\r\n\r\n49\r\n00:05:11,380 --> 00:05:18,320\r\nvaluable cargo. Reports suggest some bars of gold was scattered up to 15 miles away from\r\n\r\n50\r\n00:05:18,320 --> 00:05:26,000\r\nthe airport. Nine tons of gold on plain A N 12 belonged to a gold mine company. Please have\r\n\r\n51\r\n00:05:26,000 --> 00:05:31,160\r\nsealed off the runway and say it is unclear if it was an accident or an attempted robbery.\r\n\r\n52\r\n00:05:31,940 --> 00:05:41,360\r\nTechnical engineers who worked on the plane prior to take off are reportedly going to be\r\n\r\n53\r\n00:05:41,360 --> 00:05:43,860\r\nThe news report you have just heard.\r\n\r\n54\r\n00:05:44,500 --> 00:05:45,500\r\nQuestion 5.\r\n\r\n55\r\n00:05:46,040 --> 00:05:48,360\r\nWhat is the news report mainly about?\r\n\r\n56\r\n00:06:03,440 --> 00:06:04,730\r\nQuestion 6.\r\n\r\n57\r\n00:06:05,580 --> 00:06:08,730\r\nWhat do the aircraft do when the incident happened?\r\n\r\n58\r\n00:06:23,770 --> 00:06:30,710\r\nQuestion 7. What does the news reports say about the technical engineers who worked\r\n\r\n59\r\n00:06:30,710 --> 00:06:32,810\r\non the plane before take off.",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:00,940 --> 00:00:12,460\r\nSection B, directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions.\r\n\r\n2\r\n00:00:13,060 --> 00:00:23,260\r\nBoth the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices,\r\n\r\n3\r\n00:00:23,260 --> 00:00:28,940\r\nMarch A, B, C and D. Then mark the corresponding letter\r\n\r\n4\r\n00:00:28,940 --> 00:00:33,000\r\nI answer sheet 1 with a single line through the center.\r\n\r\n5\r\n00:00:33,540 --> 00:00:35,000\r\nConversation 1\r\n\r\n6\r\n00:00:35,000 --> 00:00:38,900\r\nHello, you're through to customer service. This is Michael speaking.\r\n\r\n7\r\n00:00:39,340 --> 00:00:43,940\r\nBefore we continue, I just want to make you aware that this call is being recorded\r\n\r\n8\r\n00:00:43,940 --> 00:00:46,840\r\nand may be used in the future for training purposes.\r\n\r\n9\r\n00:00:47,400 --> 00:00:48,960\r\nWhat can I help you with today?\r\n\r\n10\r\n00:00:49,420 --> 00:00:51,720\r\nHi, my name is Jean Seaman.\r\n\r\n11\r\n00:00:51,720 --> 00:00:57,600\r\nI recently bought an office chair from your company, but I returned it about a week ago.\r\n\r\n12\r\n00:00:57,860 --> 00:01:02,220\r\nI'm just calling to inquire when I will be able to get my money back.\r\n\r\n13\r\n00:01:02,480 --> 00:01:08,260\r\nIt says on your website that your company will pay back the money within three working\r\n\r\n14\r\n00:01:08,260 --> 00:01:11,240\r\ndays of view receiving the returned item.\r\n\r\n15\r\n00:01:11,620 --> 00:01:15,820\r\nBut it's been five working days and I haven't received anything.\r\n\r\n16\r\n00:01:16,220 --> 00:01:18,060\r\nI'm sorry to hear that, Mr. Seaman.\r\n\r\n17\r\n00:01:18,600 --> 00:01:20,580\r\nWhat's your customer reference number please?\r\n\r\n18\r\n00:01:20,580 --> 00:01:24,880\r\nIt's 389-460.\r\n\r\n19\r\n00:01:25,560 --> 00:01:27,940\r\nOkay, 389-460.\r\n\r\n20\r\n00:01:28,180 --> 00:01:33,100\r\nI'm just looking on the system here and according to our records, the chair you returned\r\n\r\n21\r\n00:01:33,100 --> 00:01:36,060\r\nwas received by our warehouse on Friday morning.\r\n\r\n22\r\n00:01:36,300 --> 00:01:42,120\r\nThe payment was made on Wednesday, but this seems to be a problem with your card number.\r\n\r\n23\r\n00:01:42,540 --> 00:01:43,820\r\nMy card number?\r\n\r\n24\r\n00:01:44,180 --> 00:01:47,580\r\nOh, maybe it has something to do with my new card.\r\n\r\n25\r\n00:01:47,820 --> 00:01:49,860\r\nIt was sent to me on Tuesday.\r\n\r\n26\r\n00:01:49,860 --> 00:01:54,060\r\nMaybe the bank cancelled my old one before you made the payment.\r\n\r\n27\r\n00:01:54,880 --> 00:01:58,580\r\nWell, you'll need to update your card details directly on our website.\r\n\r\n28\r\n00:01:58,940 --> 00:02:03,900\r\nJust make sure you logged in and then under the description of your personal information,\r\n\r\n29\r\n00:02:04,220 --> 00:02:07,640\r\nyou should see an option for updating payment methods.\r\n\r\n30\r\n00:02:08,240 --> 00:02:11,280\r\nI am logged in and I'll give that a go.\r\n\r\n31\r\n00:02:11,600 --> 00:02:16,560\r\nI'll make a note here on the system for you so that the payment will be made tomorrow morning.\r\n\r\n32\r\n00:02:16,940 --> 00:02:18,380\r\nThank you very much.\r\n\r\n33\r\n00:02:18,380 --> 00:02:24,640\r\nQuestions 8 to 11 are based on the conversation you have just heard. Question 8,\r\n\r\n34\r\n00:02:25,040 --> 00:02:28,680\r\nwhy does the man have his conversation with the woman recorded?\r\n\r\n35\r\n00:02:43,840 --> 00:02:48,860\r\nQuestion 9. What is the woman's purpose of calling the furniture company?\r\n\r\n36\r\n00:03:03,579 --> 00:03:09,100\r\nQuestion 10. What does the woman say about her bank card?\r\n\r\n37\r\n00:03:23,839 --> 00:03:28,500\r\nQuestion 11. What is the man advised the woman to do?\r\n\r\n38\r\n00:03:44,200 --> 00:03:45,480\r\nConversation 2\r\n\r\n39\r\n00:03:45,480 --> 00:03:47,100\r\nI'm getting a bit hungry\r\n\r\n40\r\n00:03:47,100 --> 00:03:52,960\r\nYes, me too. I'm starving. Are you going to prepare a meal for us?\r\n\r\n41\r\n00:03:53,360 --> 00:03:59,620\r\nNo, sorry. I'm actually pretty worn out. Let's just go out somewhere close to eat.\r\n\r\n42\r\n00:04:00,200 --> 00:04:05,740\r\nWell, I think we should stay in and save some cash. Can we get a meal delivered?\r\n\r\n43\r\n00:04:05,740 --> 00:04:12,020\r\nYeah, great. I'll use that food delivery app on my phone. What do you want?\r\n\r\n44\r\n00:04:12,740 --> 00:04:16,560\r\nFried chicken, hamburgers or fish and chips.\r\n\r\n45\r\n00:04:17,079 --> 00:04:21,180\r\nOh, can we stay away from the junk food? How about something healthy?\r\n\r\n46\r\n00:04:23,000 --> 00:04:26,120\r\nOkay. Well, there's a place that does salads.\r\n\r\n47\r\n00:04:26,760 --> 00:04:30,300\r\nLet me have a look at that. Yeah, that looks delicious.\r\n\r\n48\r\n00:04:30,300 --> 00:04:35,460\r\nBut, to be honest, I'd prefer something hot, not cold.\r\n\r\n49\r\n00:04:36,160 --> 00:04:37,520\r\nHow about Indian food?\r\n\r\n50\r\n00:04:37,980 --> 00:04:39,920\r\nThat's not the kind of hot I mean.\r\n\r\n51\r\n00:04:40,280 --> 00:04:44,100\r\nI'm just not a fan of sauces that make me sweat and cry.\r\n\r\n52\r\n00:04:44,560 --> 00:04:45,840\r\nI need something mild.\r\n\r\n53\r\n00:04:46,620 --> 00:04:50,500\r\nOkay, so would you consider Mexican?\r\n\r\n54\r\n00:04:51,220 --> 00:04:54,340\r\nOh no, sorry, there's also very hot pepper in that.\r\n\r\n55\r\n00:04:54,720 --> 00:04:57,400\r\nWould you like some Italian food, perhaps?\r\n\r\n56\r\n00:04:57,400 --> 00:05:02,560\r\nIt's a bit heavy, but it's great food for a cold night like this.\r\n\r\n57\r\n00:05:03,180 --> 00:05:05,800\r\nPizza, spaghetti with creamy sauce?\r\n\r\n58\r\n00:05:06,180 --> 00:05:11,660\r\nI know it's really tasty and great comfort food, but it's too fattening for me.\r\n\r\n59\r\n00:05:11,940 --> 00:05:14,360\r\nI'm trying to keep a slim figure, you know?\r\n\r\n60\r\n00:05:14,900 --> 00:05:17,560\r\nOh, you're really difficult to please.\r\n\r\n61\r\n00:05:18,220 --> 00:05:21,300\r\nWell, there's a nice Chinese restaurant that delivers.\r\n\r\n62\r\n00:05:21,700 --> 00:05:25,000\r\nYes, I love Chinese food. Let me see.\r\n\r\n63\r\n00:05:25,000 --> 00:05:28,440\r\nOh, it's 15 kilometers away.\r\n\r\n64\r\n00:05:28,800 --> 00:05:30,680\r\nThat's a bit too far away.\r\n\r\n65\r\n00:05:30,900 --> 00:05:33,040\r\nDo you feel like Vietnamese food then?\r\n\r\n66\r\n00:05:33,340 --> 00:05:34,260\r\nYeah, awesome.\r\n\r\n67\r\n00:05:34,640 --> 00:05:37,160\r\nIt's healthy and we can afford it.\r\n\r\n68\r\n00:05:37,440 --> 00:05:37,740\r\nGreat.\r\n\r\n69\r\n00:05:38,280 --> 00:05:40,980\r\nLet's order Vietnamese right away.\r\n\r\n70\r\n00:05:41,440 --> 00:05:46,840\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n\r\n71\r\n00:05:47,420 --> 00:05:48,400\r\nQuestion 12.\r\n\r\n72\r\n00:05:48,900 --> 00:05:50,760\r\nWhy isn't the band going to cook?\r\n\r\n73\r\n00:06:05,880 --> 00:06:11,280\r\nQuestion 13. What does the man say he'll do on his phone?\r\n\r\n74\r\n00:06:26,100 --> 00:06:31,260\r\nQuestion 14. What does the woman think of Indian food?\r\n\r\n75\r\n00:06:46,460 --> 00:06:49,980\r\nQuestion 15. What does the man think of,",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:00,000 --> 00:00:11,680\r\nSection C, directions. In this section, you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:12,140 --> 00:00:25,780\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices, marked A, B, C and D.\r\n\r\n3\r\n00:00:25,780 --> 00:00:32,400\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:33,300 --> 00:00:39,200\r\nPassage 1. A new study carried out by the University of Lincoln has found a link between\r\n\r\n5\r\n00:00:39,200 --> 00:00:44,720\r\nthe personalities of cat owners and the behaviour and well-being of their cats.\r\n\r\n6\r\n00:00:45,580 --> 00:00:55,420\r\nThe finding suggests that just as a parent's personality can affect the personality of a\r\n\r\n7\r\n00:00:55,420 --> 00:01:03,380\r\nOwners defined as individuals with high levels of anxiety, fear, anger, depression, and\r\n\r\n8\r\n00:01:03,380 --> 00:01:07,740\r\nloneliness were more likely to have cats with behavioral issues.\r\n\r\n9\r\n00:01:08,440 --> 00:01:14,460\r\nSuch cats displayed more aggressive and anxious behavioral styles as well as more stress-related\r\n\r\n10\r\n00:01:14,460 --> 00:01:15,040\r\nsickness.\r\n\r\n11\r\n00:01:15,700 --> 00:01:20,400\r\nThey were also more likely to have an ongoing medical condition and be overweight.\r\n\r\n12\r\n00:01:20,400 --> 00:01:28,160\r\nThe research also found that mentally well-adjusted owners had karma, happier and healthier\r\n\r\n13\r\n00:01:28,160 --> 00:01:34,920\r\ncats. The researchers explained that many owners regard their pets as a family member\r\n\r\n14\r\n00:01:34,920 --> 00:01:42,200\r\nand form close social bonds with them. The majority of owners want to provide the best care\r\n\r\n15\r\n00:01:42,200 --> 00:01:47,640\r\nfor their pets, and is therefore possible that pets could be affected by the way their\r\n\r\n16\r\n00:01:47,640 --> 00:01:54,280\r\nis interact with and manage them. The study highlights an important relationship between our\r\n\r\n17\r\n00:01:54,280 --> 00:02:01,740\r\npersonalities and the well-being of our pets. Further research is needed to investigate the causal\r\n\r\n18\r\n00:02:01,740 --> 00:02:08,520\r\nnature of this relationship and to look at how owners personalities are directly influencing\r\n\r\n19\r\n00:02:08,520 --> 00:02:17,620\r\ntheir pets behaviour and well-being. It is possible that the well-being of pets is driven by the\r\n\r\n20\r\n00:02:17,620 --> 00:02:21,420\r\nNot simply by their conscious decisions and behaviors.\r\n\r\n21\r\n00:02:22,540 --> 00:02:27,680\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n\r\n22\r\n00:02:28,240 --> 00:02:29,400\r\nQuestion 16.\r\n\r\n23\r\n00:02:30,140 --> 00:02:34,060\r\nWhat do we learn from the new study by the University of Lincoln?\r\n\r\n24\r\n00:02:48,980 --> 00:02:54,980\r\nQuestion 17. What does the passage say most pet owners want to do?\r\n\r\n25\r\n00:03:09,840 --> 00:03:17,060\r\nQuestion 18. What does the passage say is still needed to understand the effects of owners\r\n\r\n26\r\n00:03:17,060 --> 00:03:23,900\r\npersonalities on their pets.\r\n\r\n27\r\n00:03:34,440 --> 00:03:35,960\r\nPassaged 2.\r\n\r\n28\r\n00:03:36,420 --> 00:03:40,260\r\n160 minute run can add seven hours to your life.\r\n\r\n29\r\n00:03:40,680 --> 00:03:43,820\r\nThis was a claim made by the Times last week.\r\n\r\n30\r\n00:03:43,820 --> 00:03:48,920\r\nThe claim was based on a new review of studies about the effects of running.\r\n\r\n31\r\n00:03:49,460 --> 00:03:55,800\r\nThe review concluded that on average runners live three years longer than non-runners,\r\n\r\n32\r\n00:03:56,320 --> 00:04:01,320\r\nand that running does more to extend life than any other form of exercise.\r\n\r\n33\r\n00:04:01,980 --> 00:04:04,760\r\nBut there's more to running than its health benefits.\r\n\r\n34\r\n00:04:05,520 --> 00:04:11,220\r\nResearch published in recent years has shown that running changes your brain and mind\r\n\r\n35\r\n00:04:11,220 --> 00:04:13,060\r\nin some fascinating ways.\r\n\r\n36\r\n00:04:13,060 --> 00:04:17,700\r\nFrom increasing your brain function to regulating your emotions.\r\n\r\n37\r\n00:04:18,740 --> 00:04:27,060\r\nHowever, the precise effects vary according to whether you engage in short, fast running, or long distance running.\r\n\r\n38\r\n00:04:27,640 --> 00:04:37,280\r\nFor example, in one study, researchers compared participants' ability to learn new words after several minutes of intense running,\r\n\r\n39\r\n00:04:37,280 --> 00:04:45,420\r\nAnd after 40 minutes of gentle running, participants were able to learn 20% faster after the intense running,\r\n\r\n40\r\n00:04:45,780 --> 00:04:50,580\r\nand they showed a superior memory when tested again a week later.\r\n\r\n41\r\n00:04:51,440 --> 00:04:59,660\r\nIn another study, researchers asked volunteers to jog for 30 minutes and then showed them clips from a sad movie.\r\n\r\n42\r\n00:05:00,120 --> 00:05:07,140\r\nParticipants who usually struggled to handle negative emotions were more intensely affected by the sad clips.\r\n\r\n43\r\n00:05:07,280 --> 00:05:09,040\r\nJust as you expect.\r\n\r\n44\r\n00:05:09,700 --> 00:05:14,580\r\nBut crucially, this was less so if they had completed the 30-minute jog.\r\n\r\n45\r\n00:05:15,320 --> 00:05:22,060\r\nThe researchers said moderate exercise appears to have helped those participants to be less vulnerable\r\n\r\n46\r\n00:05:22,060 --> 00:05:24,780\r\nto the impact of the sad movie.\r\n\r\n47\r\n00:05:25,480 --> 00:05:29,920\r\nQuestion's 19-21, a base on the passage you have just heard.\r\n\r\n48\r\n00:05:30,800 --> 00:05:31,660\r\nQuestion 19.\r\n\r\n49\r\n00:05:32,540 --> 00:05:34,920\r\nWhat do the new review of studies claim?\r\n\r\n50\r\n00:05:49,840 --> 00:05:57,160\r\nQuestion 20. What is one effect that running has on people according to recent research?\r\n\r\n51\r\n00:06:12,280 --> 00:06:20,420\r\nQuestion 21. What did another study find about the participants after they had a 30 minute\r\n\r\n52\r\n00:06:22,060 --> 00:06:22,900\r\njog.\r\n\r\n53\r\n00:06:36,280 --> 00:06:37,540\r\nPassaged 3.\r\n\r\n54\r\n00:06:38,360 --> 00:06:40,880\r\nWelcome to the tour of the Hill House.\r\n\r\n55\r\n00:06:41,400 --> 00:06:48,040\r\nThis house built in 1904 is one of the most well-known works of Charles Hill, the famous\r\n\r\n56\r\n00:06:48,040 --> 00:06:48,760\r\narchitect.\r\n\r\n57\r\n00:06:48,760 --> 00:06:53,440\r\nIt was designed and built for a local entrepreneur and his family.\r\n\r\n58\r\n00:06:54,120 --> 00:07:00,040\r\nBefore starting the tour, let me give you a brief introduction about the design of this amazing\r\n\r\n59\r\n00:07:00,040 --> 00:07:00,620\r\nbuilding.\r\n\r\n60\r\n00:07:01,240 --> 00:07:07,820\r\nPrior to beginning his design, the architect spent some time in the client's old home, observing\r\n\r\n61\r\n00:07:07,820 --> 00:07:10,140\r\ntheir life and studying their habits.\r\n\r\n62\r\n00:07:10,680 --> 00:07:14,980\r\nThis meant that he could design the house according to the needs of the family.\r\n\r\n63\r\n00:07:14,980 --> 00:07:22,060\r\nThe client's main desire was to have a home with a unique design, so the architect was given\r\n\r\n64\r\n00:07:22,060 --> 00:07:23,340\r\ncomplete freedom.\r\n\r\n65\r\n00:07:24,020 --> 00:07:28,920\r\nThe building style is radically different from what was the fashion of the period.\r\n\r\n66\r\n00:07:29,680 --> 00:07:34,580\r\nAt the time, most large homes were constructed of timber and brick.\r\n\r\n67\r\n00:07:34,980 --> 00:07:40,840\r\nThis one, however, is made of concrete, a novel construction material in those days.\r\n\r\n68\r\n00:07:40,840 --> 00:07:47,040\r\nThe interior of the house, including fittings and furniture, was also designed by the same\r\n\r\n69\r\n00:07:47,040 --> 00:07:47,780\r\nperson.\r\n\r\n70\r\n00:07:48,160 --> 00:07:51,820\r\nMost of the furniture you will see is original and in good condition.\r\n\r\n71\r\n00:07:52,700 --> 00:07:58,980\r\nHowever, those pieces in the children's bedrooms are copies built to the designs of the\r\n\r\n72\r\n00:07:58,980 --> 00:07:59,540\r\narchitect.\r\n\r\n73\r\n00:08:00,320 --> 00:08:05,640\r\nFortunately, all the blueprints for both the building and its contents have been preserved,\r\n\r\n74\r\n00:08:06,220 --> 00:08:09,060\r\nso we've been able to replace badly damaged furniture.\r\n\r\n75\r\n00:08:09,060 --> 00:08:12,780\r\nLet's begin our tour starting from the rooms.\r\n\r\n76\r\n00:08:13,280 --> 00:08:18,980\r\nQuestions 22 to 25 are based on the passage you have just heard.\r\n\r\n77\r\n00:08:19,480 --> 00:08:23,140\r\nQuestion 22. What do we learn about the speaker?\r\n\r\n78\r\n00:08:37,960 --> 00:08:44,140\r\nQuestion 23. What do the architect do before beginning his design?\r\n\r\n79\r\n00:08:58,740 --> 00:09:06,020\r\nQuestion 24. What do the architects client mainly want?\r\n\r\n80\r\n00:09:19,000 --> 00:09:23,120\r\nQuestion 25. What do we learn about the\r\n\r\n81\r\n00:09:23,120 --> 00:09:26,560\r\nthe pieces of furniture in the children's bedrooms.\r\n\r\n82\r\n00:09:41,760 --> 00:09:44,160\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

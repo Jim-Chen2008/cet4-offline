@@ -1,0 +1,685 @@
+{
+  "id": 26,
+  "exam": 26,
+  "exam_details": {
+    "id": 26,
+    "title": "2022年12月四级真题第3套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2022,
+    "month": 12,
+    "version": "三",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T21:48:37.541000+08:00",
+    "updated_at": "2025-04-26T21:48:37.541000+08:00",
+    "exam_id": 26,
+    "submission_count": 0,
+    "cet_content_id": 26,
+    "has_draft": true
+  },
+  "created_at": "2025-04-26T21:50:13.203000+08:00",
+  "updated_at": "2025-04-26T22:01:21.458000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. A free car show.",
+              "B. A yearly concert.",
+              "C. A sports competition.",
+              "D. A pipe band contest."
+            ],
+            "question": "What event will take place in Glasgow?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Improve the image of Glasgow city.",
+              "B. Enrich the local culture of Glasgow.",
+              "C. Contribute a lot to the local economy.",
+              "D. Entertain people in local communities."
+            ],
+            "question": "What does Glasgow City Council say the event will do?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Surprising rise in global sea levels.",
+              "B. Dangerous ice melts in Greenland.",
+              "C. Changing weather patterns in summer.",
+              "D. Record growth of Greenland's ice sheets."
+            ],
+            "question": "What is scientists warning in the news report?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It began in late May.",
+              "B. It lasted three months.",
+              "C. It started a month earlier than usual.",
+              "D. It ended a month earlier than before."
+            ],
+            "question": "What do we learn about this year's ice melting season in Greenland?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. Bundles of £20 notes kept turning up.",
+              "B. A villager was searching for his lost cash.",
+              "C. Local policemen came across bundles of £20 notes.",
+              "D. A bundle containing thousands of pounds got stolen."
+            ],
+            "question": "What happened on the streets of Black Hall, Coloring?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. They give it to charity.",
+              "B. They return it to the finder.",
+              "C. They hand it over to the local government.",
+              "D. They place a notice in The Northern Echo."
+            ],
+            "question": "What do the local police do with the money if not claimed in two weeks?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. They cooperated well with the police.",
+              "B. They enjoyed a fairly affluent life.",
+              "C. They were puzzled by the mystery.",
+              "D. They had a strong community spirit."
+            ],
+            "question": "What did the police man John Forster say about the villagers?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. Excited.",
+              "B. Delighted.",
+              "C. Indifferent.",
+              "D. Strange"
+            ],
+            "question": "How does the man often feel on his birthday?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. Search for the meaning of their life.",
+              "B. Look back on their years at school.",
+              "C. Call on their relatives and friends.",
+              "D. Talk about future plans with friends."
+            ],
+            "question": "What does the woman say many people tend to do on their birthday?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. He prefers to have them shown on social media.",
+              "B. He loves them but does not want to make a fuss.",
+              "C. He enjoys celebrating others'birthdays rather than his own.",
+              "D. He looks forward to receiving presents from his close friends."
+            ],
+            "question": "What does the man say about receiving gifts and having a fuss made on his birthday?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Hold it on a modest scale to remove birthday anxieties.",
+              "B. View it as a chance for people to socialize and have fun.",
+              "C. Extend invitation to those he trusts most.",
+              "D. Make it an occasion to collect donations."
+            ],
+            "question": "What does the woman suggest the man do about his birthday celebration at the end of the conversation?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. It was absolutely exhausting.",
+              "B. There was a terrible smell.",
+              "C. There was too long a delay.",
+              "D. She got off at the wrong station."
+            ],
+            "question": "What does the woman say about her subway ride?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. She hasn't saved enough money.",
+              "B. She is worried about traffic jams.",
+              "C. She hasn't passed the driving test yet.",
+              "D. She is used to taking public transport."
+            ],
+            "question": "Why hasn't the woman got her own car?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. They are popular.",
+              "B. They are dangerous.",
+              "C. They are a bit expensive for her.",
+              "D. They are environmentally friendly."
+            ],
+            "question": "What does the woman say about electric motorbikes?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. By bus",
+              "B. By jogging",
+              "C. By renting a bike",
+              "D. By sharing a ride."
+            ],
+            "question": "How was the woman going to get to work?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. He is a sign language interpreter.",
+              "B. He is a deaf person working in IT.",
+              "C. He doesn't like speaking at meetings.",
+              "D. He doesn't use email or text messages."
+            ],
+            "question": "What do we learn about Steve Miller?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Improved communication skills.",
+              "B. Speech recognition technology.",
+              "C. Big advances in sign language.",
+              "D. Transformation in the IT industry."
+            ],
+            "question": "What does Miller say is making things better for people like him?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. He can avoid being mistaken.",
+              "B. He can take notes on the spot.",
+              "C. He can understand with ease.",
+              "D. He can see the speakers'images."
+            ],
+            "question": "In what way can Miller benefit from attending meetings via video?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. To find pure white walls shining.",
+              "B. To enter a house well looked after.",
+              "C. To get a hug from family members.",
+              "D. To see cheerful colours all around."
+            ],
+            "question": "What do people want upon returning home according to the passage?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Choosing a colour because it is fashionable.",
+              "B. Painting the interior of their cupboards.",
+              "C. Doing the painting job all by themselves.",
+              "D. Designing all window frames the same way."
+            ],
+            "question": "What does the passage say people should avoid doing in home decoration?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Fit most of the cupboards into walls.",
+              "B. Hang landscape paintings all around.",
+              "C. Match the room's ceiling with all the furniture in colour.",
+              "D. Paint the wooden frameworks and walls the same colour."
+            ],
+            "question": "What can one of the people do to make a room look bigger."
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Children must read at least 3 times a week.",
+              "B. Reading is a habit every child can develop.",
+              "C. Reading to their children is important.",
+              "D. Children should start reading at age 3."
+            ],
+            "question": "What does the passage say parents increasingly understand?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. The number of books they have read by age four.",
+              "B. The speed of their brain development in infancy.",
+              "C. The number and quality of books parents read to them in infancy.",
+              "D. The quality and quantity of time parents spend playing with them."
+            ],
+            "question": "What can predict children's reading skills according to recent research?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. Books with specifically labeled images.",
+              "B. Books with pictures of dolls and toys.",
+              "C. Books describing the lives of animals.",
+              "D. Books telling very interesting stories."
+            ],
+            "question": "What kind of books are said to help babies learn more?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Read as many books as possible to their children.",
+              "B. Choose carefully what to read to their children.",
+              "C. Share experience with other parents.",
+              "D. Create picture books for their children."
+            ],
+            "question": "What are parents advised to do at the end of the passage?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "　　Phones influence all aspects of teenage life.Ninety-five percent of Americans ages 13 to 17 have a smartphone or have access to one,and nearly half report using the internet“almost __26__.”\n\n　　But as recent survey data and interviews have suggested,many teens find much of that time to be unsatisfyingly spent.Continuous __27__ shouldn't be mistaken for endless enjoyment.A new __28__ representative survey about“screen time and device distractions”from the Pew Research Center indicates that it's not just parents who think teenagers are worryingly __29__ from their phones—many teens themselves do too. Fifty-four percent of the 13-to-17-year-olds surveyed said they spend too much time . __30__ in their phones\n\n　　Vicky Rideout,who runs a research firm that studies children's interactions with media and technology,was not surprised by this finding.She says it's hardly . __31__ to teenagers. “They are dealing with the same challenges that adults are,as far as they are living in the __32__ of a tech environment designed to suck as much of their time onto their devices as possible,”Rideout says.\n\n　　The way parents interact with technology can __33__ the way they interact with their kids.Rideout thus thinks it's up to parents to model good __34__:Kids tend to take note if their parents put their phone away at dinner or charge it in another room while they sleep. Witnessing habits like that can help kids “realize that they can __35__ some more control over their devices,\"she says.\n",
+        "word_bank": [
+          "absorbed",
+          "addicted",
+          "behavior",
+          "constantly",
+          "context",
+          "exercise",
+          "inseparable",
+          "recruited",
+          "nationally",
+          "solution",
+          "specific",
+          "usage",
+          "vaguely",
+          "shape"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "A behavior that does not conform to social norms may be described as being deviant."
+          },
+          {
+            "id": 37,
+            "content": "Various experiments found that participants who cheated in the initial task performed better in the creativity test."
+          },
+          {
+            "id": 38,
+            "content": "People may be simply considered evil if their behaviors are morally unacceptable to us."
+          },
+          {
+            "id": 39,
+            "content": "The research published by two scientists was intended to examine the relationship between dishonesty and creativity."
+          },
+          {
+            "id": 40,
+            "content": "The author's lectures sparked lively discussions in his class."
+          },
+          {
+            "id": 41,
+            "content": "The researchers tested the participants'creativity by asking them to play a word game."
+          },
+          {
+            "id": 42,
+            "content": "It is time we realized that deviance may be capable of doing both good and harm to individuals and society."
+          },
+          {
+            "id": 43,
+            "content": "The reasons for people's evil behaviors can be explained in more ways than one."
+          },
+          {
+            "id": 44,
+            "content": "The math task in one experiment was designed to test participants'tendency to cheat."
+          },
+          {
+            "id": 45,
+            "content": "Some creative ideas have turned out to do harm to human society."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "A few years ago I found myself teaching a university class on evil.It was for third-year criminology students to help them contextualize theory and research within controversial current topics.It was a huge success.The debates were heated and interesting.I could see people's views change within the course of a single lecture.Over the past 13 years,as a student,lecturer and researcher,I've enjoyed discussing the science of evil with anyone willing to listen.What I like most is destroying the cliche\n(陈词滥调)of good and evil,and replacing them with scientific insight.We need a more informed way of discussing behavior that at first we cannot,or should not,begin to understand."
+          },
+          {
+            "id": "B",
+            "content": "Without understanding,we risk dehumanizing others,writing off human beings simply because we don't comprehend them.We must try to understand what we have labeled evil.We tend to think evil is something that other people are.We think of ourselves as “good people”,and even when we do morally wrong things,we understand the context of our decisions.With others,however,it is far easier to write them off.If their actions deviate(偏离)substantially from what we consider acceptable,we may label them evil. We need to be careful with this.Calling someone evil is often similar to saying they cannot change,and perhaps aren't even a human at all.However,when you actually go monster-hunting,and you look deeply at the people behind shocking behavior,you may be surprised."
+          },
+          {
+            "id": "C",
+            "content": "As a child I used to love the Scooby-Doo cartoons.Arriving in their“Mystery Machine”,the gang would have to find a monster who was terrorizing a neighborhood. They would run around looking for clues and at the end unmask the bad guy.It was always a normal person in a costume.There were no monsters.Like the Scooby crew, we may find ourselves hunting for an easy fix,one word for people who do bad things.\nBut if we take a good look,the word “evil”is insufficient—there are no simple explanations for why humans do bad things:instead there are many,and they are all marvelously different."
+          },
+          {
+            "id": "D",
+            "content": "Evil is typically referred to when there is deviance from social norms:formal deviance is the violation of laws,like theft,murder,and attacks,while informal deviance involves violations of social norms,like lying.Evil behavior is typically thought to embrace one or both forms.However,deviance can also describe a behavior that simply\ndiffers from the norm."
+          },
+          {
+            "id": "E",
+            "content": "Perhaps this is where we can find the good side of our bad side.Deviating from the norm can make us villains(恶棍),but it can also make us heroes.A child deviates from social pressures when they stand up for another child being bullied in school.A soldier deviates when they choose not to follow orders to kill an innocent civilian.An employee in a big tech company deviates when they expose its wrongdoings."
+          },
+          {
+            "id": "F",
+            "content": "Creativity is also a deviation.Here,too,things are complex.Thinking creatively has given us modern medicine,technology and modern political structures,but it has also given us poison and nuclear weapons.Great benefit and great harm can come from the same human tendency."
+          },
+          {
+            "id": "G",
+            "content": "In a research paper,Evil Genius,published in 2014,the behavioral scientists Francesca Gino and Scott Wiltermuth wanted to examine whether people who behave unethically in one task are more creative than others on a subsequent task,even after controlling for differences in baseline creative skills.The unethical behavior they chose was dishonesty."
+          },
+          {
+            "id": "H",
+            "content": "Over five experiments researchers gave participants tasks in which they could cheat.In one study,they were given matrixes(矩阵)and had to find two numbers that added up to 10.Participants were asked to self-report how well they did at the end of the study: 59%cheated by saying that they solved more matrixes than they actually had."
+          },
+          {
+            "id": "I",
+            "content": "After each task,the researchers measured participants'performance on the Remote Associates Test.This shows participants three words at a time that appear to be unrelated,and the person has to think of a fourth word that is associated with all of them.For example,you might get Fox,Man,Peep,or“Dust,Cereal,Fish.In order to find the linking words (Hole for the first,“Bowl”for the second)you need to be creative.The more you get right,the more creative you are thought to be because you have come up with uncommon associations."
+          },
+          {
+            "id": "J",
+            "content": "For every one of the five studies,they found the same thing—participants who cheated in the first task did better on the creativity task.Why?Like other forms of unethical behavior,lying means breaking rules.It involves being deviant,going against the social principle that people should tell the truth.Similarly,being creative involves thinking outside the box,deviating from expectations.They involve similar thought patterns,so stimulating one stimulates the other.Can we learn from this?Perhaps.To be more creative,we could try lying in a controlled environment.Find online logic games and cheat at them,play Scrabble(拼字游戏)with a dictionary,or write a story about something that is untrue?Such tasks can get our brains thinking flexibly,beyond our normal comfort zone.This is not a call to become a compulsive(强迫性的)liar,but a controlled liar."
+          },
+          {
+            "id": "K",
+            "content": "In addition to benefits for creativity,deviance can be a good thing in other ways.Even Philip Zimbardo,the author of the Stanford prison experiment,who showed how easily we can be led to behave badly,believes that the future of deviance research may lie more in understanding extreme pro-social behavior,such as heroism.Like evil,we often view heroism as only a possibility for outliers-for people who are abnormal.But Zimbardo asks:“What if the capability to act heroically is also fundamentally ordinary and available to all of us?”Some say we should never meet our heroes,lest they disappoint us when we find out how normal they are.But this should be liberating,not disappointing.We are all capable of behaving like outliers.It's time for us to understand deviance,and realize its potential for good as well as for harm."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "　　Even though we are living in an age where growing old is thought of as an inevitable misery,this doctor has been changing the game for seniors over the last 25 years.\n\n　　It all started in 1991 when the Harvard-educated physician was transferred from working in a stressful emergency room to being the medical director of a nursing home in upstate New York.The depressing and regimented(严格管制的)environment got him thinking on what exactly could improve the residents'conditions.\n\n　　Even though animals in nursing homes were illegal at the time,Dr.Bill Thomas took a chance.Based on a hunch(直觉),he brought in two dogs,four cats,hens,rabbits,100 birds, a multitude of plants,a flower garden,and a vegetable patch.\n\n　　The change was dramatic.There was a 50%drop in medical prescriptions along with a dramatic decrease in death rates—but most importantly,the residents were simply happier.\n\n　　Dr.Thomas's approach,named the Eden Alternative,has driven nursing homes to allow a more autonomous (自主的)and creative living space for their elderly.It erases the belief that growing old means growing useless.He encourages residents to think of their age as an enriching new phase of life rather than the end of it.\n\n　　Thomas,now a speaker and author of several books,also created small, independently-run residences with their own bedrooms and bathrooms,and he has been preaching a singular message that getting old is not a bad thing.\n\n　　“Within six weeks,they had to send a truck around to pick up all the wheelchairs,” Thomas told the Washington Post.“You know why most people in nursing homes use wheelchairs?Because the buildings are so big.”\n\n　　The 56-year-old doctor's methods have been adopted in Australia,Japan,Canada,and America with enormous success.Last year he published Second Wind:Navigating the Passage to a Slower,Deeper,and More Connected Life,a guide on how to shift our perspectives on aging and growth.\n\n　　He is currently traveling through North America performing with his guitar and his enthusiasm on his Age of Disruption Tour.\n",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Transforming people's lifestyle.",
+                  "B. Honoring his Harvard education.",
+                  "C. Changing people's philosophy of life.",
+                  "D. Shifting people's perspective on aging."
+                ],
+                "question": "What has Bill Thomas been doing for a quarter of a century?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. He wanted to make it more pleasant for seniors.",
+                  "B. He wanted to apply his Harvard training to practice.",
+                  "C. He felt it his duty to revolutionize its management.",
+                  "D. He felt disappointed working in the environment."
+                ],
+                "question": "Why did Bill Thomas try something different in the nursing home?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. He made a mess of the nursing home.",
+                  "B. He did something all professionals would do.",
+                  "C. He won instant support from the state authorities.",
+                  "D. He acted in violation of the state law."
+                ],
+                "question": "What do we learn about Bill Thomas bringing animals and plants into the nursing home?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. Good health is not just a privilege of the young.",
+                  "B. Nursing homes should be strictly limited in size.",
+                  "C. Getting old is by no means something miserable.",
+                  "D. Residences for seniors should be run independently."
+                ],
+                "question": "What has Bill Thomas been persistently advocating?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. It is gaining ground in many countries.",
+                  "B. It is being heatedly debated worldwide.",
+                  "C. It is considered revolutionary everywhere.",
+                  "D. It is winning approval from the government."
+                ],
+                "question": "How is Bill Thomas's new concept received?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "　　Research shows that in developed countries,more affluent and educated people tend to consume higher-quality diets—including more fruits and vegetables,fish and whole grains. On the contrary,economically disadvantaged people report diets that are nutrient-poor and energy-dense.They are less likely to have food-purchasing habits that conform to public health recommendations.\n\n　　These dietary differences are often accompanied by higher rates of obesity and diabetes among lower-income people.This relationship between social class and diet quality and health is extensively documented.However,the research does not explain why this is the case—a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases.\n\n　　Public-health initiatives to promote healthy diets often focus on providing nutrition education and recipes(食谱).These approaches,however,often presume less food literacy (i.e.food knowledge and skills)among low-income people.Are unhealthy diets really the result of poor choices,limited food skills and knowledge?\n\n　　Research suggests that adults in food-insecure households are just as likely as those in food-secure households to adjust recipes to make them more healthy.They are also just as proficient in food preparation and cooking skills.There is no indication that increasing food skills or budgeting skills will reduce food insecurity.\n\n　　Instead,disadvantaged groups are constrained by their economic,material and social circumstances.For example,low income is the strongest predictor of food insecurity in Canada,where one in eight households experiences insufficient access to nutritious foods.\n\n　　It's well-established that food prices are an important determinant of food choice. Low-income households report that they find it difficult to adopt dietary guidelines because food prices are a barrier to improving their diets.\n\n　　When researchers estimate the cost of diets people actually eat,higher-quality diets are typically more costly.\n\n　　While this may be so,it does not,in itself,prove that healthy diets are necessarily more expensive or cost-prohibitive.After all,not all socioeconomically disadvantaged people consume poor diets.\n\n　　We can easily think of a number of foods and recipes that are both inexpensive and nutritious.The internet is full of recipes for “eating well on a budget.”\n",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. Dietary recommendations are not fit for underprivileged people.",
+                  "B. People from different social groups vary in their dietary habits.",
+                  "C. People's choice of food depends on their individual taste.",
+                  "D. There is no consensus on what high-quality diets are."
+                ],
+                "question": "What can we learn from research on diets in developed countries?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. A better understanding of the relationship between social class and health.",
+                  "B. A greater emphasis on studying the cause of obesity and chronic diseases.",
+                  "C. Prioritizing the provision of better nutrition for lower classes.",
+                  "D. Designing education programs and initiatives on public health."
+                ],
+                "question": "What does the author say is important in formulating policies to improve diets and health?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. Their eating habits need to be changed.",
+                  "B. Their food literacy has been improving.",
+                  "C. They do not pay much attention to their food recipes.",
+                  "D. They do not lack food knowledge or budgeting skills."
+                ],
+                "question": "What does research reveal about adults in food-insecure households?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Teaching them budgeting skills.",
+                  "B. Increasing their food choices.",
+                  "C. Enabling them to have more access to nutritious foods.",
+                  "D. Taking more effective measures to increase food supplies."
+                ],
+                "question": "What would help improve food security among the disadvantaged groups in Canada?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Adopt a positive attitude towards dietary guidelines.",
+                  "B. Choose diets that are both healthy and affordable.",
+                  "C. Make sure to purchase healthy foods on the internet.",
+                  "D. Change their eating habits and consumption patterns."
+                ],
+                "question": "What does the author suggest disadvantaged people do to improve their health?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: In this task, you are to write an essay on the necessity of developing social skills for college students. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "冬至(Winter Solstice)是全年白昼最短、 黑夜最长的一天，标志着一年中最寒冷时节的开始。 冬至过，气温越来越低，人们的户外活动逐渐减少。农民地里活儿不多，主要忙于灌溉系统的维护和农作物的防冻， 同时为来年春天播种做准备。中国人历来很重视冬至，许多地方都把冬至当作一个节日 ，庆祝方式各地不尽相同。北方人有冬至吃饺子(jiaozi)的习 俗， 南方人有冬至吃汤圆(tangyuan)的传统。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.\nYou should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_oRTc62d.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_QpM0gyF.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_T9Wx1lk.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,880 --> 00:00:23,300\r\nCollege English Test, Band 4, Part 2, Listening Comprehension, Section A, Directions. In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions, both the news report and the questions will be spoken only once.\r\n\r\n2\r\n00:00:23,300 --> 00:00:29,440\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:29,440 --> 00:00:37,000\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:37,000 --> 00:00:38,060\r\nthrough the center.\r\n\r\n5\r\n00:00:39,340 --> 00:00:46,020\r\nNews report 1 The World Pipe Band Championships will take place in Glasgow on Saturday.\r\n\r\n6\r\n00:00:46,640 --> 00:00:51,740\r\nOver 120 of the world's best-pipe bands will compete at the championships.\r\n\r\n7\r\n00:00:51,740 --> 00:00:58,540\r\ntrips. Over 4,000 pipers and drummers are expected to descend on the city for the annual event.\r\n\r\n8\r\n00:00:59,140 --> 00:01:05,680\r\nIt will take place at the St. James Plain Fields in Glasgow on Saturday 18 May from 10\r\n\r\n9\r\n00:01:05,680 --> 00:01:13,000\r\nA.M. until 7 p.m. The event is free. Also, a free shuttle bus will run between the event\r\n\r\n10\r\n00:01:13,000 --> 00:01:19,640\r\ncar parks and the competition site. Shuttle buses will run every 15 minutes from 8 a.m.\r\n\r\n11\r\n00:01:19,640 --> 00:01:21,260\r\nuntil 8pm.\r\n\r\n12\r\n00:01:22,300 --> 00:01:28,660\r\nGlasgow City Council says it is estimated to bring 300,000 pounds to the local economy.\r\n\r\n13\r\n00:01:29,400 --> 00:01:34,160\r\nThe first World Pipe Band Championships were held in Edinburgh in 1947.\r\n\r\n14\r\n00:01:34,940 --> 00:01:38,200\r\nThe event first took place in Glasgow in 1948.\r\n\r\n15\r\n00:01:38,780 --> 00:01:42,460\r\nIt has been held regularly in Glasgow since 1986.\r\n\r\n16\r\n00:01:43,860 --> 00:01:48,220\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n17\r\n00:01:48,220 --> 00:01:53,120\r\nQuestion 1. What event will take place in Glasgow?\r\n\r\n18\r\n00:02:08,120 --> 00:02:13,800\r\nQuestion 2. What does Glasgow City Council say the event will do?\r\n\r\n19\r\n00:02:28,280 --> 00:02:35,940\r\nNew report 2. Summer doesn't begin for two more days, but scientists are already sounding\r\n\r\n20\r\n00:02:35,940 --> 00:02:42,400\r\nthe alarm about dangerous ice melts going on right now in Greenland. The vast island\r\n\r\n21\r\n00:02:42,400 --> 00:02:49,120\r\nusually locks away enough fresh water in its ice sheet, which, if melted, can raise global\r\n\r\n22\r\n00:02:49,120 --> 00:02:51,180\r\nsea levels by 6 meters.\r\n\r\n23\r\n00:02:51,920 --> 00:02:57,640\r\nAnd research shows that in recent years, its ice has melted faster than ever before.\r\n\r\n24\r\n00:02:58,100 --> 00:03:04,220\r\nThis month, as temperatures in northwestern Greenland approach all-time highs, researchers\r\n\r\n25\r\n00:03:04,220 --> 00:03:09,320\r\nare encountering unusual, surprising levels of melting ice in the region.\r\n\r\n26\r\n00:03:09,320 --> 00:03:16,540\r\nThe most significant concern here is how early this is all happening. Greenland experiences\r\n\r\n27\r\n00:03:16,540 --> 00:03:23,060\r\nannual ice melt and growth cycles, but this year the melting season began in early May.\r\n\r\n28\r\n00:03:23,960 --> 00:03:29,640\r\nThat's a month earlier than normal, and something that's happened only once before in the\r\n\r\n29\r\n00:03:29,640 --> 00:03:38,080\r\nhistorical record in 2016. That means that not only is the ice melting very fast, it has more\r\n\r\n30\r\n00:03:38,080 --> 00:03:42,360\r\ntime to melt this summer, then it would in a normal climate system.\r\n\r\n31\r\n00:03:43,160 --> 00:03:48,680\r\nLonger melt seasons like this one seem to lead to much greater contributions to see\r\n\r\n32\r\n00:03:48,680 --> 00:03:51,240\r\nlevel rise than in previous decades.\r\n\r\n33\r\n00:03:52,160 --> 00:03:56,500\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n34\r\n00:03:57,300 --> 00:03:58,140\r\nQuestion 3.\r\n\r\n35\r\n00:03:58,800 --> 00:04:01,620\r\nWhat is scientists warning in the news report?\r\n\r\n36\r\n00:04:16,500 --> 00:04:22,140\r\nQuestion 4. What do we learn about this year's ice melting season in Greenland?\r\n\r\n37\r\n00:04:36,919 --> 00:04:43,760\r\nNews Report 3 Bundles containing thousands of pounds in cash keep turning up on the streets\r\n\r\n38\r\n00:04:43,760 --> 00:04:48,120\r\nof black hall-collarry in northern England according to police.\r\n\r\n39\r\n00:04:48,120 --> 00:04:54,460\r\nResidents of the village have been coming across bundles of 20-pound notes, usually worth\r\n\r\n40\r\n00:04:54,460 --> 00:04:58,820\r\n2,000 pounds, in the former mining village in County Durham.\r\n\r\n41\r\n00:04:59,580 --> 00:05:04,520\r\nThe latest discovery was on Monday, meaning four of these cash bundles have been handed\r\n\r\n42\r\n00:05:04,520 --> 00:05:08,140\r\nin this year, and 13 since 2014.\r\n\r\n43\r\n00:05:09,120 --> 00:05:13,580\r\nThe bundles are usually left in plain sight and have been scattered across the small\r\n\r\n44\r\n00:05:13,580 --> 00:05:14,560\r\ncoastal village.\r\n\r\n45\r\n00:05:14,560 --> 00:05:20,700\r\nThe owner has two weeks to collect the cash, which is then returned to the finder if not claimed,\r\n\r\n46\r\n00:05:21,120 --> 00:05:23,100\r\naccording to Peter Lee police.\r\n\r\n47\r\n00:05:23,840 --> 00:05:30,400\r\nA Durham police spokesperson said the money has been returned to the lucky finders in all cases except yesterday.\r\n\r\n48\r\n00:05:31,220 --> 00:05:33,900\r\nPoliceman John Forster said in the statement,\r\n\r\n49\r\n00:05:34,480 --> 00:05:42,580\r\nthe circumstances remain a mystery, so we would welcome any information that will help us get to the bottom of these random incidents.\r\n\r\n50\r\n00:05:42,580 --> 00:05:48,880\r\nHe told the Northern Echo, it isn't an affluent part of the world, so for them to find\r\n\r\n51\r\n00:05:48,880 --> 00:05:54,340\r\ncash of that amount, and instantly think about taking it to the police stations shows the\r\n\r\n52\r\n00:05:54,340 --> 00:05:56,540\r\ncommunity spirit there is.\r\n\r\n53\r\n00:05:56,860 --> 00:06:01,260\r\nQuestions 5-7 are based on the news report you have just heard?\r\n\r\n54\r\n00:06:01,700 --> 00:06:02,800\r\nQuestion 5.\r\n\r\n55\r\n00:06:03,100 --> 00:06:05,960\r\nWhat happened on the streets of Black Hall, Coloring?\r\n\r\n56\r\n00:06:21,020 --> 00:06:27,760\r\nQuestion 6. What do the local police do with the money if not claimed in two weeks?\r\n\r\n57\r\n00:06:42,660 --> 00:06:48,300\r\nQuestion 7. What did the police man John Forster say about the villagers?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,720 --> 00:00:11,380\r\nSection B, directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions.\r\n\r\n2\r\n00:00:12,040 --> 00:00:23,640\r\nBoth the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:23,640 --> 00:00:29,600\r\nThen, mark the corresponding letter on answer sheet 1 with the single line through the center.\r\n\r\n4\r\n00:00:30,720 --> 00:00:32,000\r\nConversation 1\r\n\r\n5\r\n00:00:32,000 --> 00:00:35,300\r\nIt's your birthday next week. What have you got planned?\r\n\r\n6\r\n00:00:35,900 --> 00:00:41,840\r\nI'm not sure. I often feel strange on my birthday. It's like my brain decides to have a crisis.\r\n\r\n7\r\n00:00:42,520 --> 00:00:47,140\r\nIt's not entirely unusual to feel anxious or sad around your birthday.\r\n\r\n8\r\n00:00:47,860 --> 00:00:53,460\r\nBirthdays can tap into a lot of things people worry about, including their achievements in life,\r\n\r\n9\r\n00:00:53,940 --> 00:00:57,920\r\nin the past decade, or their accomplishments of the past year.\r\n\r\n10\r\n00:00:58,440 --> 00:01:03,920\r\nMany begin to search for the meaning of their existence, leading to behaviors such as ending\r\n\r\n11\r\n00:01:03,920 --> 00:01:09,980\r\nor starting a relationship, or plans like starting a vigorous diet or fitness program.\r\n\r\n12\r\n00:01:10,440 --> 00:01:16,340\r\nI have wonderful friends, and I love celebrating their birthdays, but I don't like being\r\n\r\n13\r\n00:01:16,340 --> 00:01:20,100\r\ncenter of attention, receiving gifts and having a fuss made.\r\n\r\n14\r\n00:01:20,600 --> 00:01:23,300\r\nIt seems to trigger a type of social anxiety.\r\n\r\n15\r\n00:01:23,980 --> 00:01:29,400\r\nI think social media too can intensify things as birthdays now play out more publicly.\r\n\r\n16\r\n00:01:30,160 --> 00:01:35,160\r\nBirthday reminders can be helpful, but I kind of worry I won't be able to drum up my\r\n\r\n17\r\n00:01:35,160 --> 00:01:38,940\r\nown day and show it to look as exciting as it is supposed to be.\r\n\r\n18\r\n00:01:39,260 --> 00:01:43,640\r\nWell, to deal with the birthday blues, you should not isolate yourself.\r\n\r\n19\r\n00:01:43,640 --> 00:01:47,860\r\nIt's best to gradually face your birthday with people you trust.\r\n\r\n20\r\n00:01:48,300 --> 00:01:53,040\r\nThat would help you learn self-acceptance, or that it's okay to be the focus.\r\n\r\n21\r\n00:01:54,060 --> 00:01:59,120\r\nPerhaps, or I could perceive my birthday as an opportunity to do something for others,\r\n\r\n22\r\n00:01:59,380 --> 00:02:02,940\r\nlike asking people to make a donation instead of buying a gift.\r\n\r\n23\r\n00:02:03,700 --> 00:02:03,840\r\nExactly.\r\n\r\n24\r\n00:02:04,340 --> 00:02:10,460\r\nOr even simply see your birthday as an opportunity to bring people together for them to have fun.\r\n\r\n25\r\n00:02:10,460 --> 00:02:15,600\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n26\r\n00:02:16,400 --> 00:02:17,200\r\nQuestion 8.\r\n\r\n27\r\n00:02:17,700 --> 00:02:20,080\r\nHow does the man often feel on his birthday?\r\n\r\n28\r\n00:02:34,840 --> 00:02:36,360\r\nQuestion 9.\r\n\r\n29\r\n00:02:36,360 --> 00:02:40,440\r\nWhat does the women say many people tend to do on their birthday?\r\n\r\n30\r\n00:02:55,540 --> 00:02:59,380\r\nQuestion 10. What does the man say about birthday celebrations?\r\n\r\n31\r\n00:03:14,540 --> 00:03:20,000\r\nQuestion 11. What does the woman suggest the man do about his birthday celebration\r\n\r\n32\r\n00:03:20,000 --> 00:03:22,060\r\nat the end of the conversation?\r\n\r\n33\r\n00:03:38,200 --> 00:03:42,640\r\nConversation 2 The Metro was absolutely terrible this morning.\r\n\r\n34\r\n00:03:43,020 --> 00:03:44,560\r\nOh, was there a delay?\r\n\r\n35\r\n00:03:45,140 --> 00:03:51,120\r\nNo, but the train was so packed that I could barely move, and it was difficult to breathe, too.\r\n\r\n36\r\n00:03:51,440 --> 00:03:56,660\r\nAt every station, more people squeezed in, and I got pushed further and further inside.\r\n\r\n37\r\n00:03:57,100 --> 00:03:59,640\r\nWhen I got to my station, I could hardly get out.\r\n\r\n38\r\n00:04:00,060 --> 00:04:02,600\r\nOnce I did get out, I was totally exhausted.\r\n\r\n39\r\n00:04:03,240 --> 00:04:04,840\r\nThat sounds like a nightmare.\r\n\r\n40\r\n00:04:04,840 --> 00:04:06,840\r\nWhy didn't you take the bus?\r\n\r\n41\r\n00:04:07,240 --> 00:04:10,580\r\nThe bus takes twice as long, and it's just as crowded.\r\n\r\n42\r\n00:04:11,420 --> 00:04:14,300\r\nWell, what's the alternative? Haven't you got a car?\r\n\r\n43\r\n00:04:14,780 --> 00:04:17,380\r\nI've got a driver's license, but that's all.\r\n\r\n44\r\n00:04:17,620 --> 00:04:21,000\r\nI'm saving up to buy something reasonably small and cute,\r\n\r\n45\r\n00:04:21,320 --> 00:04:26,160\r\nbut it's still a bit expensive for me, and it'll take a while before I have enough money.\r\n\r\n46\r\n00:04:26,560 --> 00:04:28,900\r\nHave you thought about getting an electric motorbike?\r\n\r\n47\r\n00:04:29,400 --> 00:04:32,980\r\nI considered that for maybe a minute, but honestly,\r\n\r\n48\r\n00:04:32,980 --> 00:04:38,400\r\nI've just seen too many horrible accidents involving those dangerous monsters.\r\n\r\n49\r\n00:04:39,100 --> 00:04:43,140\r\nWhat about those popular sharebikes? You could register to use one?\r\n\r\n50\r\n00:04:43,480 --> 00:04:49,620\r\nYeah, that's a possibility. There are always several of those bikes out in front of our apartment complex.\r\n\r\n51\r\n00:04:50,300 --> 00:04:52,160\r\nOr you could just walk to work.\r\n\r\n52\r\n00:04:52,620 --> 00:04:57,980\r\nWell, it's five kilometers from home to the office, but you've given me a thought.\r\n\r\n53\r\n00:04:57,980 --> 00:05:01,400\r\nI could take a change of clothes and jog to work.\r\n\r\n54\r\n00:05:01,840 --> 00:05:05,400\r\nBut at this time of year, the air pollution is a real problem.\r\n\r\n55\r\n00:05:05,700 --> 00:05:07,940\r\nOh yeah, I didn't think of that.\r\n\r\n56\r\n00:05:08,180 --> 00:05:10,060\r\nYet a taxi if you really have to.\r\n\r\n57\r\n00:05:10,400 --> 00:05:13,140\r\nWell, that's an expensive way to get to work.\r\n\r\n58\r\n00:05:13,660 --> 00:05:15,580\r\nNot if you use a ride-sharing app.\r\n\r\n59\r\n00:05:15,920 --> 00:05:16,600\r\nGood idea.\r\n\r\n60\r\n00:05:17,040 --> 00:05:18,300\r\nI'll download one immediately.\r\n\r\n61\r\n00:05:18,980 --> 00:05:19,800\r\nThank you.\r\n\r\n62\r\n00:05:20,460 --> 00:05:24,940\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n\r\n63\r\n00:05:25,560 --> 00:05:26,460\r\nQuestion 12.\r\n\r\n64\r\n00:05:26,460 --> 00:05:29,700\r\nWhat does the woman say about her subway ride?\r\n\r\n65\r\n00:05:44,720 --> 00:05:48,760\r\nQuestion 13. Why hasn't the woman got her own car?\r\n\r\n66\r\n00:06:03,500 --> 00:06:08,600\r\nQuestion 14. What does the woman say about electric motorbikes?\r\n\r\n67\r\n00:06:23,520 --> 00:06:26,440\r\nQuestion 15. How was the woman\r\n\r\n68\r\n00:06:26,440 --> 00:06:27,640\r\ngoing to get to work.",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,780 --> 00:00:11,540\r\nSection C, directions. In this section, you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:12,260 --> 00:00:24,260\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:24,260 --> 00:00:29,840\r\nThen marked the corresponding letter on answer sheet 1 with the single line through the center.\r\n\r\n4\r\n00:00:31,060 --> 00:00:32,360\r\nPassage 1\r\n\r\n5\r\n00:00:32,360 --> 00:00:40,520\r\nSteve Miller began his career in IT back in the late 1980s, being a deaf person in tech,\r\n\r\n6\r\n00:00:40,880 --> 00:00:43,740\r\nrequired a huge amount of effort and organization.\r\n\r\n7\r\n00:00:44,720 --> 00:00:50,260\r\nBecause there was no email or text message service, everything had to be done face-to-face,\r\n\r\n8\r\n00:00:50,260 --> 00:00:57,020\r\nor by telephone. Communicating in meetings was very difficult. He needed a sign language interpreter\r\n\r\n9\r\n00:00:57,020 --> 00:01:03,380\r\nfor every meeting, but it was a huge effort to coordinate. These days, although challenges\r\n\r\n10\r\n00:01:03,380 --> 00:01:10,180\r\nstill remain, it's a good time to be a deaf person in tech, says Miller. Big advances in speech\r\n\r\n11\r\n00:01:10,180 --> 00:01:17,340\r\nrecognition technology have enabled communication tools to turn live speech into text in real time\r\n\r\n12\r\n00:01:17,340 --> 00:01:22,420\r\non your smartphone or laptop, and sign language into text as well.\r\n\r\n13\r\n00:01:22,840 --> 00:01:29,200\r\nNew tech coupled with improvements in hearing aid technology and medical advances means that Miller\r\n\r\n14\r\n00:01:29,200 --> 00:01:32,040\r\nis able to focus far more on his work.\r\n\r\n15\r\n00:01:32,740 --> 00:01:37,140\r\nHe is benefited to a great extent from a tiny hearing device in his ear.\r\n\r\n16\r\n00:01:37,520 --> 00:01:43,820\r\nIt gives him a degree of hearing, and he can use a variety of communication methods depending on the situation.\r\n\r\n17\r\n00:01:43,820 --> 00:01:49,820\r\nHe can employ lip reading and have meetings via video instead of on the phone.\r\n\r\n18\r\n00:01:50,320 --> 00:01:52,540\r\nThese things have made a huge difference.\r\n\r\n19\r\n00:01:53,040 --> 00:01:56,320\r\nHe no longer has to worry about whether or not he can understand.\r\n\r\n20\r\n00:01:57,100 --> 00:02:02,240\r\nHe can just concentrate on how interesting the meeting might be and what he needs to get\r\n\r\n21\r\n00:02:02,240 --> 00:02:03,980\r\nout of it in order to progress.\r\n\r\n22\r\n00:02:05,460 --> 00:02:09,419\r\nQuestion 16-18 are based on the passage you have just heard.\r\n\r\n23\r\n00:02:10,060 --> 00:02:10,860\r\nQuestion 16.\r\n\r\n24\r\n00:02:10,860 --> 00:02:13,900\r\nWhat do we learn about Steve Miller?\r\n\r\n25\r\n00:02:29,140 --> 00:02:30,080\r\nQuestion 17.\r\n\r\n26\r\n00:02:31,060 --> 00:02:34,520\r\nWhat does Miller say is making things better for people like him?\r\n\r\n27\r\n00:02:49,079 --> 00:02:50,880\r\nQuestion 18.\r\n\r\n28\r\n00:02:51,640 --> 00:02:55,920\r\nIn what way can Miller benefit from attending meetings via video?\r\n\r\n29\r\n00:03:11,500 --> 00:03:12,780\r\nPassage 2.\r\n\r\n30\r\n00:03:13,420 --> 00:03:15,440\r\nColor is now spreading through our homes.\r\n\r\n31\r\n00:03:15,980 --> 00:03:21,240\r\nUp-stair cases across wood frames and ceilings, filling in neutral spaces.\r\n\r\n32\r\n00:03:22,120 --> 00:03:27,520\r\nAccording to one interior designer, when people return home, they want to see colors that\r\n\r\n33\r\n00:03:27,520 --> 00:03:29,400\r\ncheer them up and give them a hug.\r\n\r\n34\r\n00:03:29,940 --> 00:03:32,640\r\nPeer white walls simply don't do that.\r\n\r\n35\r\n00:03:32,920 --> 00:03:34,220\r\nThey don't look after you.\r\n\r\n36\r\n00:03:34,840 --> 00:03:40,360\r\nAnother interior designer commented that certain combinations can key into something on a\r\n\r\n37\r\n00:03:40,360 --> 00:03:46,280\r\nper level, transporting you to a different moment in time. That's the power of color.\r\n\r\n38\r\n00:03:47,220 --> 00:03:51,840\r\nIf you are thinking to try color on some of your neutral walls, the advice is\r\n\r\n39\r\n00:03:51,840 --> 00:03:57,900\r\nrefreshingly simple. Choose a color you actually like. Don't go for a color because it's in\r\n\r\n40\r\n00:03:57,900 --> 00:04:04,160\r\nfashion or you've seen it in a magazine. If you're wary of full color, test your tolerance\r\n\r\n41\r\n00:04:04,160 --> 00:04:10,080\r\nwith smaller spaces such as the inside of a cupboard or a bright window frame.\r\n\r\n42\r\n00:04:10,640 --> 00:04:15,240\r\nIf it gives you joy every time you open the cupboard you can start to take it further.\r\n\r\n43\r\n00:04:16,079 --> 00:04:20,959\r\nOne can also paint the wooden frame works the same color as the walls, helping the\r\n\r\n44\r\n00:04:20,959 --> 00:04:25,960\r\nrooms look bigger. In the kitchen painting the overhead cupboards and the walls in the\r\n\r\n45\r\n00:04:25,960 --> 00:04:31,540\r\nsame color can make it feel more spacious while painting the kitchen counters a bold\r\n\r\n46\r\n00:04:31,540 --> 00:04:35,100\r\ncolor can make everything feel more open and lighter.\r\n\r\n47\r\n00:04:36,380 --> 00:04:42,300\r\nAdditionally, a painted ceiling is a magical thing without being too obvious and can affect\r\n\r\n48\r\n00:04:42,300 --> 00:04:44,560\r\nhow the space feels as well.\r\n\r\n49\r\n00:04:45,160 --> 00:04:49,800\r\nQuestions 19-21 are based on the passage you have just heard.\r\n\r\n50\r\n00:04:50,560 --> 00:04:51,440\r\nQuestion 19.\r\n\r\n51\r\n00:04:52,240 --> 00:04:56,020\r\nWhat do people want upon returning home according to the passage?\r\n\r\n52\r\n00:05:11,120 --> 00:05:17,140\r\nQuestion 20. What does the passage say people should avoid doing in home decoration?\r\n\r\n53\r\n00:05:32,240 --> 00:05:37,460\r\nQuestion 21. What can one do to make a room look bigger?\r\n\r\n54\r\n00:05:52,760 --> 00:05:59,600\r\nPassage 3. Parents often hear that reading to their children is critical for supporting development,\r\n\r\n55\r\n00:05:59,600 --> 00:06:06,000\r\nand the message is getting through to them. In fact, in the United States, a little over half\r\n\r\n56\r\n00:06:06,000 --> 00:06:14,680\r\nof children between the ages of 3 and 5 were read to every day in 2007 and 83% of children\r\n\r\n57\r\n00:06:14,680 --> 00:06:21,240\r\nin that age group in the same country were read to 3 or more times per week in 2012.\r\n\r\n58\r\n00:06:22,160 --> 00:06:27,560\r\nThis is good news because reading to young children helps their language and brain development.\r\n\r\n59\r\n00:06:27,560 --> 00:06:34,240\r\nIn fact, recent research has found that both the quality and quantity of shared book\r\n\r\n60\r\n00:06:34,240 --> 00:06:39,380\r\nreading in infancy predicted later childhood vocabulary and reading skills.\r\n\r\n61\r\n00:06:40,040 --> 00:06:45,760\r\nIn other words, the more time parents spend reading, the greater the developmental benefits\r\n\r\n62\r\n00:06:45,760 --> 00:06:47,440\r\nin their four-year-old children.\r\n\r\n63\r\n00:06:48,160 --> 00:06:53,420\r\nThis is an important finding, but does it matter what books parents read?\r\n\r\n64\r\n00:06:53,420 --> 00:06:59,300\r\nA new study has investigated this question, if followed infants across the second six months\r\n\r\n65\r\n00:06:59,300 --> 00:07:05,200\r\nof life, and found that when parents showed babies' books that had faces or objects with\r\n\r\n66\r\n00:07:05,200 --> 00:07:07,820\r\nspecific labels, they learned more.\r\n\r\n67\r\n00:07:08,520 --> 00:07:14,260\r\nThis is in contrast to books that did not name images or books that had the same label under\r\n\r\n68\r\n00:07:14,260 --> 00:07:15,020\r\neach image.\r\n\r\n69\r\n00:07:15,680 --> 00:07:19,980\r\nBooks that named different characters also promoted greater learning.\r\n\r\n70\r\n00:07:20,860 --> 00:07:22,620\r\nSo what does this mean for parents?\r\n\r\n71\r\n00:07:22,620 --> 00:07:30,900\r\nNot all books are created equal, so parents need to choose the books they share with their children with a great care.\r\n\r\n72\r\n00:07:31,880 --> 00:07:41,860\r\nQuestions 22 to 25 are based on the passage you have just heard. Question 22. What does the passage say parents increasingly understand?\r\n\r\n73\r\n00:07:56,540 --> 00:08:02,820\r\nQuestion 23. What can predict children's reading skills according to recent research?\r\n\r\n74\r\n00:08:17,659 --> 00:08:22,880\r\nQuestion 24. What kind of books are said to help babies learn more?\r\n\r\n75\r\n00:08:37,600 --> 00:08:43,480\r\nQuestion 25. What are parents advised to do at the end of the passage?\r\n\r\n76\r\n00:08:58,300 --> 00:09:00,780\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

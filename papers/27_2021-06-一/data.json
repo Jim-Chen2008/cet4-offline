@@ -1,0 +1,682 @@
+{
+  "id": 27,
+  "exam": 27,
+  "exam_details": {
+    "id": 27,
+    "title": "2021年06月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2021,
+    "month": 6,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T22:03:59.038000+08:00",
+    "updated_at": "2025-04-26T22:03:59.038000+08:00",
+    "exam_id": 27,
+    "submission_count": 0,
+    "cet_content_id": 27,
+    "has_draft": false
+  },
+  "created_at": "2025-04-26T22:29:02.626000+08:00",
+  "updated_at": "2026-01-12T21:35:05.395418+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. Enrol him in a Newcastle football club.",
+              "B. Send him to an after-school art class.",
+              "C. Forbid him to draw in his workbook.",
+              "D. Help him post his drawings online."
+            ],
+            "question": "What did Joe's parents decide to do?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Contacted Joe to decorate its dining-room.",
+              "B. Hired Joe to paint all the walls of its buildings.",
+              "C. Renovated its kitchen and all the dining-rooms.",
+              "D. Asked Joe for permission to use his online drawings."
+            ],
+            "question": "What are the restaurants number 4? Do."
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Get her pet dog back.",
+              "B. Beg for help from the police.",
+              "C. Identify the suspect on the security video.",
+              "D. Post pictures of her pet dog on social media."
+            ],
+            "question": "What is Christine Marshall trying to do?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It is suffering a great deal from the incident.",
+              "B. It is helping the police with the investigation.",
+              "C. It is bringing the case to the local district court.",
+              "D. It is offering a big reward to anyone who helps."
+            ],
+            "question": "What does the news report say about Christine Marshall's family?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. Provide free meals to the local poor.",
+              "B. Help people connect with each other.",
+              "C. Help eliminate class difference in his area.",
+              "D. Provide customers with first-class service."
+            ],
+            "question": "What is the news report mainly about?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. It does not supervise its employees.",
+              "B. It donates regularly to a local charity.",
+              "C. It does not use volunteers.",
+              "D. It is open round the clock."
+            ],
+            "question": "What does the news reports say about eggs and bread cafe?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. They will realise the importance of communication.",
+              "B. They will come to the cafe even more frequently.",
+              "C. They will care less about their own background.",
+              "D. They will find they have something in common."
+            ],
+            "question": "What happens when people start to know each other according to Guy Wilson?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. A surprise party for Paul's birthday.",
+              "B. Travel plans for the coming weekend.",
+              "C. Preparations for Saturday's get-together.",
+              "D. The new market on the other side of town."
+            ],
+            "question": "What are the speakers mainly talking about?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. It makes the hostess's job a whole lot easier.",
+              "B. It enables guests to walk around and chat freely.",
+              "C. It saves considerable time and labor.",
+              "D. It requires fewer tables and chairs."
+            ],
+            "question": "Why does the woman say it is good idea to serve foods that guests can help themselves to?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. It offers some big discounts.",
+              "B. It is quite close to her house.",
+              "C. It is more spacious and less crowded.",
+              "D. It sells local wines and soft drinks."
+            ],
+            "question": "What does the woman say about the new supermarket?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Cook a dish for the party.",
+              "B. Arrive 10 minutes earlier.",
+              "C. Prepare a few opening remarks.",
+              "D. Bring his computer and speakers."
+            ],
+            "question": "What is the man suggest they ask Paul to do?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. For commuting to work.",
+              "B. For long-distance travel.",
+              "C. For getting around in Miami.",
+              "D. For convenience at weekends."
+            ],
+            "question": "Why does the woman want to have a car?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. They are reliable.",
+              "B. They are compact.",
+              "C. They are spacious.",
+              "D. They are easy to drive."
+            ],
+            "question": "What does the woman say about German cars?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. Buy a second-hand car.",
+              "B. Trust her own judgment.",
+              "C. Seek advice from his friend.",
+              "D. Look around before deciding."
+            ],
+            "question": "What does the man recommend the woman do?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. He sells new cars.",
+              "B. He can be trusted.",
+              "C. He is starting a business.",
+              "D. He is a successful car dealer."
+            ],
+            "question": "What do we learn about the man's friend from the conversation?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Many escaped from farms and became wild.",
+              "B. They were actually native to North America.",
+              "C. Many got killed in the wild when searching for food.",
+              "D. They were hunted by Spanish and Russian explorers."
+            ],
+            "question": "What do we learn about early pigs in North America?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. They often make sudden attacks on people.",
+              "B. They break up nature's food supply chain.",
+              "C. They cause much environmental pollution.",
+              "D. They carry a great many diseases."
+            ],
+            "question": "Why are wild pigs a threat to humans?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. They lived peacefully with wild pigs.",
+              "B. They ran out of food completely.",
+              "C. They fell victim to eagles.",
+              "D. They reproduced quickly."
+            ],
+            "question": "What does the passage say about the native foxes on a US island?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Taste coffee while in outer space.",
+              "B. Roast coffee beans in outer space.",
+              "C. Develop a new strain of coffee bean.",
+              "D. Use a pressurised tank to brew coffee."
+            ],
+            "question": "What are a pair of entrepreneurs planning to do?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. They can easily get burned.",
+              "B. They float around in the oven.",
+              "C. They have to be heated to 36D°C.",
+              "D. They receive evenly distributed heat."
+            ],
+            "question": "What does the passage say about coffee beans roasted on earth?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. They charged a high price for their space-roasted coffee beans.",
+              "B. They setup a branch in Dubai to manufacture coffee roasters.",
+              "C. They collaborated on building the first space coffee machine.",
+              "D. They abandoned the attempt to roast coffee beans in space."
+            ],
+            "question": "What did the two Italian companies do in 2015?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. It is the best time for sightseeing.",
+              "B. A race passes through it annually.",
+              "C. They come to clean the Iditarod Trail.",
+              "D. It is when the villagers choose a queen."
+            ],
+            "question": "Why do a lot of people come to the village of Tacotna every March?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. Its children's baking skills.",
+              "B. Its unique winter scenery.",
+              "C. Its tasty fruit pies.",
+              "D. Its great food variety."
+            ],
+            "question": "What is the village of Takatna famous for?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. The contestants.",
+              "B. The entire village.",
+              "C. Jan Newton and her friends.",
+              "D. People from the state of Idaho."
+            ],
+            "question": "Who comes to help with the event of the year?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. She owned a restaurant in Idaho.",
+              "B. She married her husband in 1972.",
+              "C. She went to Alaska to compete in a race.",
+              "D. She helped the village to become famous."
+            ],
+            "question": "What does the passage say about Jan Newton?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Most animals seek shade when temperatures in the Sahara Desert soar to 120 degrees Fahrenheit.\nBut for the Saharan silver ant,  __26__ from their underground nests into the sun’s brutal rays to  __27__\nfor food, this is the perfect time to seek lunch. In 2015 these ants were joined in the desert by scientists\nfrom two Belgian universities, who spent a month in the __28__ heat tracking the ants and digging out\ntheir nests. The goal was simple, to discover how the  __29__ adapted to the kind of heat that can __30__\nmelt the bottom of shoes.\nBack in Belgium, the scientists looked at the ants under an electronic microscope and found that\ntheir __31__ , triangular hair reflects light like a prism (棱镜), giving them a metallic reflection and\nprotecting them from the sun’s awful heat. When Ph. D. student Quentin Willot  __32__ the hair from an\nant with a __33__ knife and put it under a heat lamp, its temperature jumped.\nThe ants’ method of staying cool is  __34__ among animals. Could this reflective type of hair\nprotect people? Willot says companies are interested in __35__ these ants’ method of heat protection for\nhuman use, including everything from helping to protect the lives of firefighters to keeping homes cool in\nsummer.",
+        "word_bank": [
+          "adapting",
+          "consciously",
+          "crawling",
+          "crowded",
+          "extreme",
+          "hunt",
+          "literally",
+          "moderate",
+          "remote",
+          "removed",
+          "species",
+          "specimens",
+          "thick",
+          "tiny",
+          "unique"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "The number of people experiencing depression shows a sharp increase in the first year of high school."
+          },
+          {
+            "id": 37,
+            "content": "According to one study, students’ academic performance is not the only decisive factor of their stress responses."
+          },
+          {
+            "id": 38,
+            "content": "Researchers would like to explore further how parents and schools can help ninth graders by changing their mindset."
+          },
+          {
+            "id": 39,
+            "content": "According to one study, each high school graduate contributes at least 500， 000 dollars to the local economy."
+          },
+          {
+            "id": 40,
+            "content": "In one study, students were told their social position in school is not unchangeable."
+          },
+          {
+            "id": 41,
+            "content": "It is reported that depression results in enormous economic losses worldwide."
+          },
+          {
+            "id": 42,
+            "content": "One study showed that friendships among ninth graders were far from stable."
+          },
+          {
+            "id": 43,
+            "content": "More than half of students will find their academic performance declining sharply when they enter the ninth grade."
+          },
+          {
+            "id": 44,
+            "content": "Researchers found through experiments that students could be taught to respond to stress in a more positive way."
+          },
+          {
+            "id": 45,
+            "content": "It is beneficial to explore ways to cope with the challenges facing students entering high school."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "This month, more than 4 million students across the nation will begin high school. Many will do well. But many will not. Consider that nearly two-thirds of students will experience the “ninth-grade shock,” which refers to a dramatic drop in a student s academic performance. Some students cope with this shock by avoiding challenges. For instance, they may drop difficult coursework. Others may experience a hopelessness that results in falling their core classes; such as English, science and math."
+          },
+          {
+            "id": "B",
+            "content": "This should matter a great deal to parents, teachers and policymakers. Ultimately it should matter to the students themselves and society at large, because students’ experience of transitioning (过渡) to the ninth grade can have long- term consequences not only for the students themselves but for their home communities. We make these observations as research psychologists who have studied how schools and families can help young people thrive."
+          },
+          {
+            "id": "C",
+            "content": "In the new global economy, students who fail to finish the ninth grade with passing grades in college preparatory coursework are very unlikely to graduate on time and go on to get jobs. One study has calculated that the lifetime benefit to the local economy for a single additional student who completes high school is half a million dollars or more. This is based on higher earnings and avoided costs in health care, crime, welfare dependence and other things."
+          },
+          {
+            "id": "D",
+            "content": "The consequences of doing poorly in the ninth grade can impact more than students’ ability to find a good job. It can also impact the extent to which they enjoy life. Students lose many of the friends they turned to for support when they move from the eighth to the ninth grade. One study of ninth-grade students found that 50 percent of friendships among ninth graders changed from one month to the next, signaling striking instability in friendships."
+          },
+          {
+            "id": "E",
+            "content": "In addition, studies find the first year of high school typically shows one of the greatest increases in depression of any year over the lifespan. Researchers think that one explanation is that ties to friends are broken while academic demands are rising. Furthermore, most adult cases of clinical depression first emerge in adolescence (青春期). The World Health Organization reports that depression has the greatest burden of disease worldwide, in terms of the total cost of treatment and the loss of productivity."
+          },
+          {
+            "id": "F",
+            "content": "Given all that’s riding on having a successful ninth grade experience, it pays to explore what can be done to meet the academic, social and emotional challenges of the transition to high school. So far, our studies have yielded one main insight: Students’ beliefs about change- their beliefs about whether people are stuck one way forever, or whether people can change their personalities and abilities--are related to their ability to cope, succeed academically and maintain good mental health. Past research has called these beliefs “mindsets (思维模式),” with a “fixed mindset” referring to the belief that people cannot change and a “growth mindset” referring to the belief that people can change."
+          },
+          {
+            "id": "G",
+            "content": "In one recent study, we examined 360 adolescents’ beliefs about the nature of “smartness”—that is, their fixed mindsets about intelligence. We then assessed biological stress responses for students whose grades were dropping by examining their stress hormones (荷尔蒙). Students who believed that intelligence is fixed-that you are stuck being “not smart” if you struggle in school—showed higher levels of stress hormones when their grades were declining at the beginning of the ninth grade. If students believed that intelligence could improve—that is to say, when they held more of a growth mindset of intelligence—they showed lower levels of stress hormones when their grades were declining. This was an exciting result because it showed that the body’s stress responses are not determined solely by one’s grades. Instead, declining grades only predicted worse stress hormones among students who believed that worsening grades were a permanent and hopeless state of affairs."
+          },
+          {
+            "id": "H",
+            "content": "We also investigated the social side of the high school transition. In this study, instead of teaching students that their smartness can change, we taught them that their social standing—that is, whether they are bullied or excluded or left out—can change over time. We then looked at high school students’ stress responses to daily social difficulties. That is, we taught them a growth mindset about their social lives. In this study, students came into the laboratory and were asked to give a public speech in front of upper-year students. The topic of the speech was what makes one popular in high school. Following this, students had to complete a difficult mental math task in front of the same upper-year students."
+          },
+          {
+            "id": "I",
+            "content": "Experiment results showed that students who were not taught that people can change showed poor stress responses. When these students gave the speech, their blood vessels contracted and their hearts pumped less blood through the body—both responses that the body shows when it is preparing for damage or defeat after a physical threat. Then they gave worse speeches and made more mistakes in math. But when students were taught that people can change, they had better responses to stress, in part because they felt like they had the resources to deal with the demanding situation. Students who got the growth mindset intervention (干预) showed less-contracted blood vessels and their hearts pumped more blood- both of which contributed to more oxygen getting to the brain, and, ultimately, better performance on the speech and mental math tasks."
+          },
+          {
+            "id": "J",
+            "content": "These findings lead to several possibilities that we are investigating further. First, we are working to replicate (复制) these findings in more diverse school communities. We want to know in which types of schools and for which kinds of students these growth mindset ideas help young people adapt to the challenges of high school. We also hope to learn how teachers, parents or school counselors can help students keep their ongoing academic or social difficulties in perspective. We wonder what would happen if schools helped to make beliefs about the potential for change and improvement a larger feature of the overall school culture, especially for students starting the ninth grade."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Educators and business leaders have more in common than it may seem. Teachers want to prepare students for a successful future. Technology companies have an interest in developing a workforce with the STEM (science, technology, engineering and math) skills needed to grow the company and advance the industry. How can they work together to achieve these goals? Play may be the answer. Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. This combination is proving to be the best way to prepare today’s children to be the makers and builders of tomorrow. That is why technology companies are partnering with educators to bring back good, old-fashioned play. In fact, many experts argue that the most important 21st-century skills aren’t related to specific technologies or subject matter, but to creativity; skills like imagination, problem-finding and problem- solving, teamwork, optimism, patience and the ability to experiment and take risks. These are skills acquired when kids tinker (鼓捣小玩意). High-tech industries such as NASA’s Jet Propulsion Laboratory have found that their best overall problem solvers were master tinkerers in their youth. There are cognitive (认知的) benefits of doing things the way we did as children—building something, tearing it down, then building it up again. Research shows that given 15 minutes of free play, four- and five-year-olds will spend a third of this time engaged in spatial, mathematical, and architectural activities. This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry. If play and building are critical to 21st-century skill development, that’s really good news for two reasons: Children are born builders, makers, and creators, so fostering (培养) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older. Secondly, it doesn’t take 21st-century technology to foster 21st-century skills. This is especially important for under-resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important “maker\" skills. And anyone, anywhere, can do it.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They seek advice from technology companies to achieve teaching goals.",
+                  "B. They have been successful in preparing the workforce for companies.",
+                  "C. They help students acquire the skills needed for their future success.",
+                  "D. They partner with technology companies to enhance teaching efficiency."
+                ],
+                "question": "What does the author say about educators?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. By blending them with traditional, stimulating activities.",
+                  "B. By inviting business leaders to help design curriculums.",
+                  "C. By enhancing students’ ability to think in a critical way.",
+                  "D. By showing students the best way to learn is through play."
+                ],
+                "question": "How can educators better develop students’ STEM skills, according to the author?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. By engaging in activities involving specific technologies.",
+                  "B. By playing with things to solve problems on their own.",
+                  "C. By familiarizing themselves with high- tech gadgets.",
+                  "D. By mastering basic principles through teamwork."
+                ],
+                "question": "How do children acquire the skills needed for the 21st century?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. Stimulate their interest as early as possible.",
+                  "B. Spend more time playing games with them.",
+                  "C. Encourage them to make things with hands.",
+                  "D. Allow them to tinker freely with calculators."
+                ],
+                "question": "What can we do to help children learn the basics of math and geometry?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Train students to be makers to meet future market demands.",
+                  "B. Develop students’ creative skills with the resources available.",
+                  "C. Engage students with challenging tasks to foster their creativity.",
+                  "D. Work together with companies to improve their teaching facilities."
+                ],
+                "question": "What does the author advise disadvantaged schools and communities to do?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Being an information technology, or IT worker is not a job I envy. They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that’s no longer working. They have to tolerate the bad tempers of colleagues frustrated at the number of times they’ve had to call the help desk for the same issue. They are also the ones who know there are systems that are more powerful, reliable and faster, but their employer simply will not put up the funds to buy them. According to a recent survey, employees who have a job reliant on IT Support consider IT a major source of job dissatisfaction. Through no fault of their own, they can suddenly find their productivity deteriorating or quality control non-existent. And there’s little they can do about it. The experience of using IT penetrates almost the entire work field. It has become a crucial part of employees’ overall work experience. When IT is operating as it should, employee self-confidence swells. Their job satisfaction, too, can surge when well-functioning machines relieve them of dull tasks or repetitive processes. But if there’s one thing that triggers widespread employee frustration, it’s an IT transformation project gone wrong, where swollen expectations have been popped and a long list of promised efficiencies have been reversed. This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user. Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. Adequate and timely IT support should also be available to enable users to cope with technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT. Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees? work, rather than adjust their work to fit in with the company’s IT limitations.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It is envied by many.",
+                  "B. It does not appeal to him.",
+                  "C. It is financially rewarding.",
+                  "D. It does not match his abilities."
+                ],
+                "question": "What does the author say about working in IT?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. IT helps boost productivity.",
+                  "B. IT helps improve quality control.",
+                  "C. Many employees are deeply frustrated by IT.",
+                  "D. Most employees rely heavily on IT in their work."
+                ],
+                "question": "What is the finding of a recent survey on employees who have a job reliant on IT support?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. There is a big boost in employees’ work efficiency.",
+                  "B. Employees become more dependent on machines.",
+                  "C. There are no longer any boring or repetitive tasks.",
+                  "D. Employees become more confident in their work."
+                ],
+                "question": "What is said to happen when IT is functioning properly?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. consider the various expectations of their customers.",
+                  "B. Draw up a list of the efficiencies to be promised.",
+                  "C. Assess the swollen cost of training the employees.",
+                  "D. Think about the possible effects on their employees."
+                ],
+                "question": "What should business leaders do before implementing new IT initiatives?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. By designing systems that suit their needs.",
+                  "B. By ensuring that their mental health is sound.",
+                  "C. By adjusting their work to suit the IT system.",
+                  "D. By offering them regular in- service training."
+                ],
+                "question": "How can a business help improve its employees’ experience in using IT?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay titled “Are people becoming addicted to technology?” The statement given below is for your reference. You should write at least 120 words but no more than 180 words.\nNumerous studies claim that addiction to technology is real and it has the same effect on the brain as drug addiction.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "铁观音(Tieguanyin)是中国最受欢迎的茶之一， 原产于福建省安溪县西坪镇， 如今安溪全县普遍种植， 但该县不同地区生产的铁观音又各具风味。 铁观音一年四季均可采摘， 尤以春秋两季采摘的茶叶品质最佳。铁观音的加工非常复杂， 需要专门的技术和丰富的经验。铁观音含有多种维生素， 喝起来口感独特。 常饮铁观音有助于预防心脏病、 降低血压、 增强记忆力。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_kzgDijs.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_QYOfCVm.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_hBudu0q.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:09,540\r\nCollege English Test Band 4, Part 2, Listening Comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:10,860 --> 00:00:18,520\r\nIn this section, you'll hear three news reports. At the end of each news report, you'll hear two or three questions.\r\n\r\n3\r\n00:00:18,520 --> 00:00:23,600\r\nBoth the news report and the questions we spoken only once.\r\n\r\n4\r\n00:00:24,340 --> 00:00:29,820\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n5\r\n00:00:29,820 --> 00:00:38,020\r\nA, B, C and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n6\r\n00:00:38,020 --> 00:00:39,160\r\nthrough the center.\r\n\r\n7\r\n00:00:40,620 --> 00:00:42,440\r\nNews report 1.\r\n\r\n8\r\n00:00:42,440 --> 00:00:49,500\r\nAnd finally, in tonight's news, a nine-year-old boy named Joe, told not to draw in class,\r\n\r\n9\r\n00:00:49,940 --> 00:00:53,420\r\nLianza job decorating a restaurant with his drawings.\r\n\r\n10\r\n00:00:54,240 --> 00:00:58,280\r\nRather than shutting down the habit of drawing in his school's workbook,\r\n\r\n11\r\n00:00:58,740 --> 00:01:05,800\r\nJoe's parents decided to encourage his creativity by sending their son to an after-school art class.\r\n\r\n12\r\n00:01:06,320 --> 00:01:11,100\r\nHis teacher recognized Joe's talent, and posted all his work online,\r\n\r\n13\r\n00:01:11,100 --> 00:01:14,020\r\nWhich led to something pretty wonderful.\r\n\r\n14\r\n00:01:14,980 --> 00:01:21,220\r\nA restaurant named Number Four in Newcastle contacted Jose teacher to ask if the nine year old\r\n\r\n15\r\n00:01:21,220 --> 00:01:24,680\r\ncould come and decorate its dining room with his drawings.\r\n\r\n16\r\n00:01:25,680 --> 00:01:31,920\r\nEvery day after school, Jose dad drives him to the restaurant so he can put his ideas straight\r\n\r\n17\r\n00:01:31,920 --> 00:01:32,600\r\non the wall.\r\n\r\n18\r\n00:01:33,320 --> 00:01:36,560\r\nOnce he's all done, the work will remain there permanently.\r\n\r\n19\r\n00:01:37,340 --> 00:01:43,740\r\nJoe's dad said, Joe is a really talented little boy. He's excellent at school. He's\r\n\r\n20\r\n00:01:43,740 --> 00:01:49,560\r\ngreat at football. But drawing is definitely what he is most passionate about.\r\n\r\n21\r\n00:01:50,340 --> 00:01:57,960\r\n2. A based on the news report you have just heard. Question 1. What did Joe's parents\r\n\r\n22\r\n00:01:57,960 --> 00:01:59,040\r\ndecide to do?\r\n\r\n23\r\n00:02:13,220 --> 00:02:19,400\r\nQuestion 2. What are the restaurants number 4? Do.\r\n\r\n24\r\n00:02:32,940 --> 00:02:35,000\r\nNews Report 2.\r\n\r\n25\r\n00:02:35,480 --> 00:02:42,260\r\nCirstine Marshall, a 34-year-old mum of one, posted a tearful video on social media Wednesday,\r\n\r\n26\r\n00:02:42,780 --> 00:02:46,040\r\nbegging for the safe return of her beloved pet dog.\r\n\r\n27\r\n00:02:46,040 --> 00:02:53,480\r\nAfter combing through the security video outside, a gobel's shop, Kirstine has now posted an\r\n\r\n28\r\n00:02:53,480 --> 00:02:56,220\r\nimage of a man suspected of stealing the dog.\r\n\r\n29\r\n00:02:57,060 --> 00:03:00,820\r\nThe image appears to show a man carrying the dog in his arms.\r\n\r\n30\r\n00:03:01,600 --> 00:03:06,700\r\nKirstine also believes the video obtained from the shop shows the dog being stoned and by\r\n\r\n31\r\n00:03:06,700 --> 00:03:10,840\r\na man before driving off in a car which had been waiting nearby.\r\n\r\n32\r\n00:03:10,840 --> 00:03:18,380\r\nThe family is now offering a £5,000 reward for the safe return of the dog after launching\r\n\r\n33\r\n00:03:18,380 --> 00:03:21,400\r\na social media campaign to find the thief.\r\n\r\n34\r\n00:03:22,120 --> 00:03:27,260\r\nThe dog is six and a half years old and was last seen wearing a red collar.\r\n\r\n35\r\n00:03:28,000 --> 00:03:33,400\r\nKirstine said, we will pay that to anyone who brings him home as long as they are not\r\n\r\n36\r\n00:03:33,400 --> 00:03:34,980\r\nresponsible for his disappearance.\r\n\r\n37\r\n00:03:36,060 --> 00:03:38,460\r\nPlease, are investigating the incident.\r\n\r\n38\r\n00:03:39,520 --> 00:03:44,200\r\nQuestion 3 and 4 are based on the news report you have just heard.\r\n\r\n39\r\n00:03:45,020 --> 00:03:46,100\r\nQuestion 3.\r\n\r\n40\r\n00:03:46,600 --> 00:03:50,460\r\nWhat is Christine Marshall trying to do?\r\n\r\n41\r\n00:04:03,420 --> 00:04:09,140\r\nQuestion 4. What does the news report say about Christine Marshall's family?\r\n\r\n42\r\n00:04:24,120 --> 00:04:26,200\r\nNews Report 3.\r\n\r\n43\r\n00:04:26,880 --> 00:04:35,240\r\nLondon's eggs and bread cafe offers boiled eggs, toast, jam and bacon, as well as tea, coffee,\r\n\r\n44\r\n00:04:35,820 --> 00:04:36,900\r\nand orange juice.\r\n\r\n45\r\n00:04:37,400 --> 00:04:41,500\r\nBut at the end of the meal, customers don't have to worry about the bill.\r\n\r\n46\r\n00:04:42,280 --> 00:04:47,980\r\nHungry customers can pay whatever amount they can afford to eat at the cafe or nothing\r\n\r\n47\r\n00:04:47,980 --> 00:04:48,660\r\nat all.\r\n\r\n48\r\n00:04:48,660 --> 00:04:55,240\r\nOwner, Guy Wilson, says his cafe aims to build community rather than profits.\r\n\r\n49\r\n00:04:55,940 --> 00:05:01,380\r\nHe wants to provide a bridge for people to connect, in an area that has been divided by\r\n\r\n50\r\n00:05:01,380 --> 00:05:04,860\r\nclass and wealth, by providing affordable breakfast.\r\n\r\n51\r\n00:05:06,280 --> 00:05:11,540\r\nThe cafe is open in the mornings every day of the year, and has two members of staff\r\n\r\n52\r\n00:05:11,540 --> 00:05:14,160\r\nor supervisors on shift every day.\r\n\r\n53\r\n00:05:14,160 --> 00:05:21,280\r\nThe cafe doesn't use volunteers, but pays its staff to ensure consistency in its service.\r\n\r\n54\r\n00:05:22,100 --> 00:05:25,980\r\nIt doesn't take donations, and doesn't want to be seen as a charity.\r\n\r\n55\r\n00:05:27,020 --> 00:05:32,460\r\nMr. Wilson says when people start to know other people around them, they realize they're\r\n\r\n56\r\n00:05:32,460 --> 00:05:38,140\r\nnot that different, and whatever their financial background, or their educational background,\r\n\r\n57\r\n00:05:38,740 --> 00:05:41,500\r\nmost people will have something in common with each other.\r\n\r\n58\r\n00:05:41,500 --> 00:05:48,100\r\nHe says it's important that his cafe can offer his customers security and permanence.\r\n\r\n59\r\n00:06:12,320 --> 00:06:18,140\r\nQuestion 6. What does the news reports say about eggs and bread cafe?\r\n\r\n60\r\n00:06:32,880 --> 00:06:38,620\r\nQuestion 7 What happens when people start to know each other according to Guy Wilson?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,579 --> 00:00:16,920\r\nSection B, Directions. In this section you will hear two long conversations. At the end of each conversation you will hear four questions. Both the conversation and the questions will be spoken only once.\r\n\r\n2\r\n00:00:16,920 --> 00:00:22,820\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:22,820 --> 00:00:31,720\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:33,720 --> 00:00:34,920\r\nConversation 1.\r\n\r\n5\r\n00:00:35,380 --> 00:00:38,340\r\nSo what time do you think we should have the party on Saturday?\r\n\r\n6\r\n00:00:39,120 --> 00:00:46,400\r\nHow about inviting people to come at 6 p.m. then we'll have the afternoon to prepare food and drink and stuff like that.\r\n\r\n7\r\n00:00:46,400 --> 00:00:50,120\r\nYes, I was thinking that around six would be good too.\r\n\r\n8\r\n00:00:50,540 --> 00:00:52,080\r\nWhat food should we provide?\r\n\r\n9\r\n00:00:52,620 --> 00:00:55,740\r\nWell, I had thought about baking a cake and some biscuits.\r\n\r\n10\r\n00:00:56,520 --> 00:01:01,720\r\nAnd now I think we should prepare some sandwiches and snacks, and some other kinds of food,\r\n\r\n11\r\n00:01:01,940 --> 00:01:03,840\r\nso that people can just help themselves.\r\n\r\n12\r\n00:01:04,620 --> 00:01:07,920\r\nRather than getting everyone to sit down at the table to eat a meal,\r\n\r\n13\r\n00:01:08,500 --> 00:01:10,100\r\nI think that's a bit too formal.\r\n\r\n14\r\n00:01:10,920 --> 00:01:15,440\r\nIt's better to let people walk around and talk to each other, or sit where they like.\r\n\r\n15\r\n00:01:16,380 --> 00:01:22,540\r\nYes, that sounds good. I'll go to the supermarket to get some drinks. I think I might\r\n\r\n16\r\n00:01:22,540 --> 00:01:28,560\r\ntry that big new supermarket on the other side of town and see what they have. I've\r\n\r\n17\r\n00:01:28,560 --> 00:01:34,780\r\nnot been there before. I think we should get some beer and wine and some fruit juice and\r\n\r\n18\r\n00:01:34,780 --> 00:01:40,100\r\nother soft drinks. What do you think? Sounds great. I think those drinks will be enough.\r\n\r\n19\r\n00:01:40,100 --> 00:01:45,520\r\nAnd I heard that the new supermarket offers some big discounts to attract customers,\r\n\r\n20\r\n00:01:46,340 --> 00:01:48,400\r\nso going there should be a great idea.\r\n\r\n21\r\n00:01:49,180 --> 00:01:50,460\r\nWhat should we do about music?\r\n\r\n22\r\n00:01:51,740 --> 00:01:56,340\r\nMaybe we should ask Paul to bring his computer and speakers so that we can play some music.\r\n\r\n23\r\n00:01:56,680 --> 00:01:59,200\r\nHe has a great collection of different stuff.\r\n\r\n24\r\n00:01:59,580 --> 00:02:00,560\r\nYes, alright.\r\n\r\n25\r\n00:02:01,960 --> 00:02:05,660\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n26\r\n00:02:06,520 --> 00:02:07,440\r\nQuestion 8.\r\n\r\n27\r\n00:02:07,440 --> 00:02:12,700\r\nWhat are the speakers mainly talking about?\r\n\r\n28\r\n00:02:25,780 --> 00:02:33,660\r\nQuestion 9. Why does the woman say it is good idea to serve foods that guests can help themselves to?\r\n\r\n29\r\n00:02:48,000 --> 00:02:53,660\r\nQuestion 10. What does the woman say about the new supermarket?\r\n\r\n30\r\n00:03:09,120 --> 00:03:14,440\r\nQuestion 11. What is the man suggest they ask Paul to do?\r\n\r\n31\r\n00:03:31,120 --> 00:03:37,180\r\nI'm thinking of buying a car. I wouldn't need to use it every day, but I think it would\r\n\r\n32\r\n00:03:37,180 --> 00:03:39,880\r\nbe very convenient to have one for the weekends.\r\n\r\n33\r\n00:03:39,880 --> 00:03:43,860\r\nThat's exciting. Would this be your first car?\r\n\r\n34\r\n00:03:44,400 --> 00:03:53,160\r\nNo. I actually owned a car for a little while when I lived in Miami. You see, in America, many cities don't have good public transport.\r\n\r\n35\r\n00:03:53,940 --> 00:03:56,940\r\nSo most people need their own car to get around.\r\n\r\n36\r\n00:03:57,740 --> 00:04:02,460\r\nI see. So have you got your mindset on a specific model?\r\n\r\n37\r\n00:04:02,460 --> 00:04:09,600\r\nNo, not really. I've heard that German cars are very reliable, but I haven't decided\r\n\r\n38\r\n00:04:09,600 --> 00:04:15,900\r\non a specific model yet. I'd also like it to be small so that it's easy to drive in\r\n\r\n39\r\n00:04:15,900 --> 00:04:16,440\r\nthe city.\r\n\r\n40\r\n00:04:17,399 --> 00:04:23,420\r\nI have a friend who sells secondhand cars. In fact, I think his family owns the business.\r\n\r\n41\r\n00:04:23,960 --> 00:04:29,480\r\nHe's a really nice guy, and he knows a lot about cars. I could give you his phone number\r\n\r\n42\r\n00:04:29,480 --> 00:04:33,400\r\nif you want, and you could call him and ask him questions.\r\n\r\n43\r\n00:04:34,240 --> 00:04:39,400\r\nHmm, that's nice of you, but I don't want to feel obliged to buy one of his cars.\r\n\r\n44\r\n00:04:40,240 --> 00:04:45,740\r\nOh no, he's not like that. He's a good friend of mine, and he would never try to press you,\r\n\r\n45\r\n00:04:46,000 --> 00:04:47,060\r\nor cheat you.\r\n\r\n46\r\n00:04:47,520 --> 00:04:53,880\r\nWell, if you trust him, then I guess it should be okay. To be honest, I could use some help\r\n\r\n47\r\n00:04:53,880 --> 00:04:57,540\r\ndeciding what type of vehicle would best suit my needs.\r\n\r\n48\r\n00:04:58,260 --> 00:05:00,600\r\nSpeaking to an expert would be a good idea.\r\n\r\n49\r\n00:05:01,300 --> 00:05:07,760\r\nExactly. You have nothing to worry about. He's a lovely guy and he'll be happy to\r\n\r\n50\r\n00:05:07,760 --> 00:05:08,320\r\nhelp.\r\n\r\n51\r\n00:05:09,020 --> 00:05:13,640\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n52\r\n00:05:14,520 --> 00:05:18,660\r\nQuestion 12. Why does the woman want to have a car?\r\n\r\n53\r\n00:05:33,539 --> 00:05:38,600\r\nQuestion 13. What does the woman say about German cars?\r\n\r\n54\r\n00:05:53,880 --> 00:05:59,140\r\nQuestion 14. What does the man recommend the woman do?\r\n\r\n55\r\n00:06:14,000 --> 00:06:19,140\r\nQuestion 15. What do we learn about the man's friend from the conversation?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,519 --> 00:00:29,260\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n2\r\n00:00:30,520 --> 00:00:37,560\r\nPassage 1. Pigs are not native to North America. They were first introduced to California\r\n\r\n3\r\n00:00:37,560 --> 00:00:44,220\r\nby Spanish and Russian explorers and settlers many centuries ago. In the early times,\r\n\r\n4\r\n00:00:44,740 --> 00:00:50,120\r\nPigs were allowed to wander freely in search of food. This practice also allowed many\r\n\r\n5\r\n00:00:50,120 --> 00:00:56,280\r\npigs to escape from farms and live in the world which became a problem. In fact,\r\n\r\n6\r\n00:00:56,280 --> 00:01:00,840\r\nThey are one of the most damaging invasive species on the continent.\r\n\r\n7\r\n00:01:01,720 --> 00:01:06,180\r\nWild pigs are called millions of dollars in crop damage yearly.\r\n\r\n8\r\n00:01:06,880 --> 00:01:12,240\r\nThey also harbor dozens of diseases that threaten both humans and farm animals.\r\n\r\n9\r\n00:01:13,580 --> 00:01:19,060\r\nForest patches with wild pigs have been found to have considerably reduced plant and animal\r\n\r\n10\r\n00:01:19,060 --> 00:01:19,760\r\ndiversity.\r\n\r\n11\r\n00:01:19,760 --> 00:01:26,360\r\nIn addition to either eating other animals or their food supply, wild pigs damage native\r\n\r\n12\r\n00:01:26,360 --> 00:01:30,440\r\nhabitats by rooting up grasses and rubbing on trees.\r\n\r\n13\r\n00:01:31,500 --> 00:01:38,180\r\nTheir activities may also create opportunities for invasive plants to colonize these areas.\r\n\r\n14\r\n00:01:38,820 --> 00:01:43,140\r\nWild pigs will eat almost anything containing calories.\r\n\r\n15\r\n00:01:43,140 --> 00:01:49,560\r\nThat's nice, dear, birds, snakes, and frogs are among their victims.\r\n\r\n16\r\n00:01:50,720 --> 00:01:56,820\r\nThey can also harm other wild species through indirect competition rather than eating them\r\n\r\n17\r\n00:01:56,820 --> 00:01:58,480\r\nor shrinking their food supply.\r\n\r\n18\r\n00:01:59,280 --> 00:02:05,700\r\nOn one particular United States island, wild pigs themselves became an attractive food source\r\n\r\n19\r\n00:02:05,700 --> 00:02:07,740\r\nfor a species of mainland eagle.\r\n\r\n20\r\n00:02:07,740 --> 00:02:14,880\r\nThe Eagles began breeding on the island and also feeding on a species of native fox.\r\n\r\n21\r\n00:02:15,600 --> 00:02:18,300\r\nThe foxes were almost wiped out completely.\r\n\r\n22\r\n00:02:19,720 --> 00:02:24,000\r\nQuestion 16 to 18 are based on the passage you have just heard.\r\n\r\n23\r\n00:02:25,020 --> 00:02:26,040\r\nQuestion 16.\r\n\r\n24\r\n00:02:27,020 --> 00:02:30,100\r\nWhat do we learn about early pigs in North America?\r\n\r\n25\r\n00:02:45,120 --> 00:02:50,580\r\nQuestion 17. Why are wild pigs a threat to humans?\r\n\r\n26\r\n00:03:05,820 --> 00:03:12,340\r\nQuestion 18. What does the passage say about the native foxes on a US island?\r\n\r\n27\r\n00:03:28,200 --> 00:03:34,660\r\nPassage 2. A pair of entrepreneurs are planning to build and launch a spacecraft that\r\n\r\n28\r\n00:03:34,660 --> 00:03:41,440\r\nwould carry and roast coffee beans in outer space. The craft will use the heat of re-entry\r\n\r\n29\r\n00:03:41,440 --> 00:03:48,200\r\nto roast coffee beans as they float inside it in a pressurized tank. The effect would\r\n\r\n30\r\n00:03:48,200 --> 00:03:52,280\r\nto roast the beans all over and produce perfect coffee.\r\n\r\n31\r\n00:03:53,400 --> 00:03:58,500\r\nThe businessmen say that on earth beans can easily break apart and get burned in the\r\n\r\n32\r\n00:03:58,500 --> 00:03:58,920\r\nroaster.\r\n\r\n33\r\n00:03:59,680 --> 00:04:06,480\r\nBut if gravity is removed, the beans float around in a heated oven, receive 360 degrees\r\n\r\n34\r\n00:04:06,480 --> 00:04:11,000\r\nof evenly distributed heat, and roast to near perfection.\r\n\r\n35\r\n00:04:12,080 --> 00:04:15,700\r\nThe spacecraft will reach a height of around 200 kilometers.\r\n\r\n36\r\n00:04:15,700 --> 00:04:23,100\r\nThe beans would then be roasted in the heat generated by the crafts 20 minute re-entry into Earth's atmosphere.\r\n\r\n37\r\n00:04:24,220 --> 00:04:29,020\r\nTemperatures in the pressurized tank will be kept to around 200 degrees Celsius.\r\n\r\n38\r\n00:04:30,200 --> 00:04:36,260\r\nOnce back on Earth, the planets first space-roasted beans would be used to make coffee\r\n\r\n39\r\n00:04:36,260 --> 00:04:42,180\r\nthat would be sold for the first time in Dubai. This is where the pair's company is based.\r\n\r\n40\r\n00:04:42,180 --> 00:04:45,660\r\nIt is not clear how much they would charge for a cap.\r\n\r\n41\r\n00:04:46,440 --> 00:04:50,320\r\nSurprisingly, the space roaster concept should it go ahead\r\n\r\n42\r\n00:04:50,320 --> 00:04:53,900\r\nwill not be the first attempt to take coffee into space.\r\n\r\n43\r\n00:04:54,660 --> 00:05:01,820\r\nIn 2015, two Italian companies collaborated on the construction of a similar type of spacecraft,\r\n\r\n44\r\n00:05:02,620 --> 00:05:06,480\r\nwhich was the first coffee machine designed for use in space.\r\n\r\n45\r\n00:05:07,460 --> 00:05:18,560\r\nQuestion 19-21 are based on the passage you have just heard. Question 19. What are a pair of entrepreneurs planning to do?\r\n\r\n46\r\n00:05:32,580 --> 00:05:38,760\r\nQuestion 20. What does the passage say about coffee beans roasted on earth?\r\n\r\n47\r\n00:05:53,219 --> 00:05:59,660\r\nQuestion 21. What did the two Italian companies do in 2015?\r\n\r\n48\r\n00:06:14,520 --> 00:06:22,540\r\nPassage 3. In cold and snowy Alaska, there's a village called Takotna. It has a population\r\n\r\n49\r\n00:06:22,540 --> 00:06:30,980\r\nof a mere 49 souls. Each March, this tiny village swells up in numbers because it is located\r\n\r\n50\r\n00:06:30,980 --> 00:06:37,660\r\nin the middle of a race that takes place every year. It is a seven-day race called the\r\n\r\n51\r\n00:06:37,660 --> 00:06:46,080\r\nIditerod Trail and participants stop at Takotna for their bligatory 24-hour rest. Lucky\r\n\r\n52\r\n00:06:46,080 --> 00:06:50,640\r\nFor them, Tacotna is famous for its delicious fruit pies.\r\n\r\n53\r\n00:06:51,600 --> 00:06:57,220\r\nWeaks before the competitors arrive, the residents of Tacotna start preparing for what\r\n\r\n54\r\n00:06:57,220 --> 00:07:00,800\r\nis without question their biggest event of the year.\r\n\r\n55\r\n00:07:01,580 --> 00:07:07,420\r\nThe whole village chips into help, including the kids, who end up developing their baking\r\n\r\n56\r\n00:07:07,420 --> 00:07:09,160\r\nskills at an early age.\r\n\r\n57\r\n00:07:09,160 --> 00:07:16,860\r\nThe exhausted and hungry racers are greeted with delightful pies of all kinds, such as apple,\r\n\r\n58\r\n00:07:17,600 --> 00:07:26,100\r\norange, lemon or banana. They consume the pies as stomach warming race fuel. The toughness\r\n\r\n59\r\n00:07:26,100 --> 00:07:31,220\r\nof the race allowed racers to eat pretty much whatever they want. The more calories\r\n\r\n60\r\n00:07:31,220 --> 00:07:32,060\r\nthe better.\r\n\r\n61\r\n00:07:32,060 --> 00:07:39,540\r\nTo Cotna has gained a reputation for its dessert-based hospitality since the 1970s.\r\n\r\n62\r\n00:07:39,860 --> 00:07:42,860\r\nIt's starter with one person, Jan Newton.\r\n\r\n63\r\n00:07:43,980 --> 00:07:49,560\r\nJan moved from Idaho with her husband in 1972, an open-to-restrant.\r\n\r\n64\r\n00:07:50,380 --> 00:07:55,740\r\nHer rich and filling fruit pies quickly got the racers' attention, and the village gained\r\n\r\n65\r\n00:07:55,740 --> 00:07:57,520\r\nsome fame as a result.\r\n\r\n66\r\n00:07:57,520 --> 00:08:03,460\r\nProud residents then started to refer to Jan as Queen of Tacotna.\r\n\r\n67\r\n00:08:32,100 --> 00:08:38,840\r\nQuestion 23 What is the village of Takatna famous for?\r\n\r\n68\r\n00:08:53,180 --> 00:08:58,340\r\nQuestion 24. Who comes to help with the event of the year?\r\n\r\n69\r\n00:09:12,960 --> 00:09:18,860\r\nQuestion 25. What does the passage say about Jan Newton?\r\n\r\n70\r\n00:09:34,060 --> 00:09:35,900\r\nThat's the end of listing comprehension.",
+  "passages_transcript_zh": ""
+}

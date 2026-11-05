@@ -1,0 +1,690 @@
+{
+  "id": 14,
+  "exam": 14,
+  "exam_details": {
+    "id": 14,
+    "title": "2023年6月四级真题第3套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2023,
+    "month": 6,
+    "version": "三",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T15:29:27.050000+08:00",
+    "updated_at": "2025-04-26T15:29:27.050000+08:00",
+    "exam_id": 14,
+    "submission_count": 0,
+    "cet_content_id": 14,
+    "has_draft": false
+  },
+  "created_at": "2025-04-26T15:29:31.593000+08:00",
+  "updated_at": "2026-05-24T10:59:10.588544+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. A man was bitten by a snake.",
+              "B. A man was taken to a hospital.",
+              "C. A man kept a 4-foot snake as a pet.",
+              "D. A man fell off his toilet seat."
+            ],
+            "question": "What do we learn from the police report?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Where the snake had been taken.",
+              "B. Whether the snake was infected.",
+              "C. How the snake was captured.",
+              "D. Who owned the snake."
+            ],
+            "question": "What does the reports say were still unclear?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Taking her trash out in fancy dresses.",
+              "B. Amusing herself by going to ball parties.",
+              "C. Sharing her photos with famous movie stars.",
+              "D. Posting her daughter's photos on social media."
+            ],
+            "question": "What has Andrea Belcher been doing since last April?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. To make herself popular.",
+              "B. To amuse people.",
+              "C. To please her daughter.",
+              "D. To record her achievements."
+            ],
+            "question": "Why has Andrea Belcher kept up her videos?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. Eat as much as they want for $10.",
+              "B. Have a chance of winning a $100 prize.",
+              "C. Have a meal even if they have no money.",
+              "D. Get a free meal after answering some questions."
+            ],
+            "question": "What can people do at Fring's restaurant?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. It was brought up by two staffers.",
+              "B. It helped to popularize her restaurant.",
+              "C. It originated from a donation to her staff.",
+              "D. It was suggested by some of her customers."
+            ],
+            "question": "What does the owner of the restaurant say about the idea for the board of free meals?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. Fifty customers have offered donations.",
+              "B. More people have been giving than taking.",
+              "C. Many people have come to eat at the restaurant.",
+              "D. Most staffers have received messages of kindness."
+            ],
+            "question": "What has happened at Frank's restaurant since the board of free meals was created?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. He is a psychologist.",
+              "B. He is a famous writer.",
+              "C. He is a host for a TV program.",
+              "D. He is a primary school teacher."
+            ],
+            "question": "What do we learn about the man?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. Why social media accounts vanish without a trace.",
+              "B. Why parents raise their children in different ways.",
+              "C. Why people fail to respond to emails promptly.",
+              "D. Why friends break off contact all of a sudden."
+            ],
+            "question": "What are the speakers mainly talking about?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. They simply shut themselves down.",
+              "B. They avoid showing their emotions.",
+              "C. They scream to get their parents back.",
+              "D. They attempt to ignore the whole situation."
+            ],
+            "question": "How do children with an anxious attachment style react to a breakdown in their relationship with parents?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. They may regard any difference as the end of a relationship.",
+              "B. They are on better terms with friends and romantic partners.",
+              "C. They try to express their feelings and thoughts effectively.",
+              "D. They attach more value to their relationships with others."
+            ],
+            "question": "What does the man say about insecurely attached people?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. Their price.",
+              "B. Their color.",
+              "C. Their quality.",
+              "D. Their design"
+            ],
+            "question": "What makes the man choose to buy jeans made in Japan?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Jeans are a typical American garment.",
+              "B. America makes the best-known brands of jeans.",
+              "C. America has the best weaving tools in the world.",
+              "D. Jeans are available in a greater variety in America."
+            ],
+            "question": "Why is the woman puzzled by the man's request?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. They are artificial.",
+              "B. They are natural.",
+              "C. They are unique.",
+              "D. They are special."
+            ],
+            "question": "What does the man say about the dies of Japanese genes?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. They are for casual wearing.",
+              "B. They are popular with boys.",
+              "C. They are much too pricey.",
+              "D. They are worth the price."
+            ],
+            "question": "What does the man say about Japanese genes at the end of the conversation?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. He desires more in life.",
+              "B. He wants to see it again.",
+              "C. He feels as inspired as other audience members.",
+              "D. He longs to become a superstar himself."
+            ],
+            "question": "How does the speaker feel every time he walks out of a superhero movie?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. It is rather unrealistic.",
+              "B. It is extremely artistic.",
+              "C. It is somewhat complicated.",
+              "D. It is relatively predictable."
+            ],
+            "question": "What does the passage say about the plot of all superhero movies?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. They are biased against women.",
+              "B. They are basically misleading.",
+              "C. They are full of shootings.",
+              "D. They are too simple."
+            ],
+            "question": "What do the elites of American society think of superhero movies?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. It can highlight leadership.",
+              "B. It can help connect people.",
+              "C. It is a means to inspire creative thinking.",
+              "D. It is an intuitive way to solidify friendship."
+            ],
+            "question": "What does the passage say about storytelling?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Allow them to recite data points.",
+              "B. Make them more open to learning.",
+              "C. Enable them to remember the main idea.",
+              "D. Stimulate them to engage in discussions."
+            ],
+            "question": "What can good stories do to listeners according to the passage?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Inspire listeners' imagination.",
+              "B. Enrich their own experience.",
+              "C. Convey fundamental values.",
+              "D. Explain insightful ideas."
+            ],
+            "question": "What can leaders do with a simple personal story?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Immigrants outnumber U.S.-born Americans.",
+              "B. Immigrants have been contributing to the U.S.",
+              "C. Another wave of immigrants is hitting the U.S.",
+              "D. The number of immigrants to the U.S.is declining."
+            ],
+            "question": "What does the passage say statistics prove?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. More of them expect their children to succeed in business.",
+              "B. They have fewer chances to be hired by U.S.companies.",
+              "C. They have founded most Fortune 500 companies.",
+              "D. More of them are successful business people."
+            ],
+            "question": "What do we learn about immigrants in the US compared with Native born Americans."
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. They have higher installment loan debt than native-born Americans.",
+              "B. Nineteen percent of them borrow money from friends and family.",
+              "C. Their level of debt is lower than that of native-born Americans.",
+              "D. Thirty-four percent of them use credit for their daily purchases."
+            ],
+            "question": "What does the passage say about immigrants in the US in terms of financial strength?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Keep their traditional values and old habits.",
+              "B. Find employment in competitive businesses.",
+              "C. Borrow money from financial institutions.",
+              "D. Collaborate with native-born Americans."
+            ],
+            "question": "What do immigrants do to achieve their goals in the US?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Whether you're just having a down day or a down period,taking a walk can instantly lift your mood,especially when you go outdoors.Not only can walking make you less depressed,but according to a new study,depression sufferers who took a __26__ walk showed just as much improvement in their __27__ as people taking medicine.In fact, 60-70 percent of the participants in the study could no longer even be __28__ as depressed.\n\nBone density may not be one of the most exciting health benefits of walking,but it's an important one.People with stronger bones avoid osteoporosis(骨质疏松症)and all the problems that __29__ with it,like breaks and other disabilities.And the best way to get strong,healthy bones is by doing weight-bearing exercises like running,dancing and walking,according to a large study.But as regards bones,it's __30__ use it or lose it:To keep your bones strong you have to keep exercising.The researchers found that adults who walked regularly had better bone density throughout their lives than their __31__ friends.\n\nTaking a walk can be great for __32__ your head or blowing off some steam.It also provides a great opportunity to __33__ with friends and family,far away from electronics and other __34__ at home.Even better,you set a powerful example because when they see you __35__ the benefits of walking,they'll be encouraged to walk more,too.",
+        "word_bank": [
+          "accompany",
+          "approved",
+          "bond",
+          "classified",
+          "clearing",
+          "come",
+          "daily",
+          "distractions",
+          "exclusively",
+          "happenings",
+          "inactive",
+          "occurrences",
+          "reaping",
+          "symptoms",
+          "typical"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "The lion dancers perform from door to door to bring New Year wishes to business people."
+          },
+          {
+            "id": 37,
+            "content": "The New York dance club also serves as a place for entertainment where youngsters can enjoy themselves safely."
+          },
+          {
+            "id": 38,
+            "content": "Lion dancers need to have a little imagination to perform well."
+          },
+          {
+            "id": 39,
+            "content": "There are a number of different versions about the origin of the lion dance."
+          },
+          {
+            "id": 40,
+            "content": "Some 50%of the members of a New York lion dance club are teenagers."
+          },
+          {
+            "id": 41,
+            "content": "One club member says he feels proud of his cultural tradition."
+          },
+          {
+            "id": 42,
+            "content": "Two dancers coordinate their movements,one manipulating the lion's head and the other its body."
+          },
+          {
+            "id": 43,
+            "content": "One lion dancer compares their New York dance club to a family."
+          },
+          {
+            "id": 44,
+            "content": "Lion dance should be handed down to future generations as part of Chinese culture."
+          },
+          {
+            "id": 45,
+            "content": "One lion dancer learned how to perform from his elders."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "The first thing you notice in the staircase to the fourth-floor studio on Canal Street in Manhattan,New York,is the measured thumping(嘭嘭声)coming from behind a metal door.Just beyond the entrance,large lion masks were twisting and turning to the drum-beat.On a recent Friday evening,the teenagers made their way across the studio floor as they practiced Chinese lion dancing."
+          },
+          {
+            "id": "B",
+            "content": "“You want to play in a circle,”Victor Fong,aged 24,told his students at the New York Chinese Freemasons Athletic Club.“Take it slow and do it again.”The dance group, made up of 60 members,performs throughout the year but was now preparing for its biggest events,Chinese Lunar New Year celebrations,which will begin on Saturday and conclude on February 15.Teenagers comprise about half of the group,many of whom began lion dancing at the age of 14.About 100 current and past members of the dance group—which has been performing since 1956—will be among the 220 groups marching through Chinatown in Manhattan for the 18th Lunar New Year Parade on February 5."
+          },
+          {
+            "id": "C",
+            "content": "Mr.Fong has been involved in the organization since he was 15 and began teaching lion dancing three years ago.But the club also acts as a recreation center and safe haven ( 庇 护所) for teenagers,with video games readily available.As many as 20 students show up after school.“The basic requirement for hanging out here is you have to learn how to lion dance,”Mr.Fong said.While that is not a formal requirement for being a member, everyone finds a way to participate in the Lunar New Year Parade,whether it's by dancing,carrying a flag or beating a drum."
+          },
+          {
+            "id": "D",
+            "content": "Alvin Chau,aged 26,is an environmental consultant by day and a lion dancer on weekends.He has been a club member for 10 years and joined because of an interest in lion dance.“We're a big family,”he said,shaking hands with other members as they walked through the door.“You know everyone.”"
+          },
+          {
+            "id": "E",
+            "content": "It is believed that the lion dance began in the third century.Stories vary about how lion dancing came to be,but most of them include a monster named Nian who would terrorize a village.The villagers finally banded together and scared the beast away with firecrackers (爆竹)and drums.While lions are not native to China,some versions of the story include the villagers creating a monster of their own in the shape of a lion to fight off the beast."
+          },
+          {
+            "id": "F",
+            "content": "Today,the dancers travel across Chinatown going from business to business to bring good luck for the coming year.The new year—ac cording to the Chinese lunar calendar—will begin on Saturday and marks the Year of the Rooster(鸡年),which is thought to be a symbol of positivity.\"It's almost like the dark night is ending and the sun is coming up,\"said Ya Yung Teng,the digital collections coordinator for the Museum of Chinese in America.“It's hopeful that we're going to have a new day.” Roosters and chickens are not particularly strong creatures,Ms.Teng said,but they are numerous.“In away,”she said,the rooster.“stands for ‘We the People.”"
+          },
+          {
+            "id": "G",
+            "content": "The lion head and tail are operated by two people.As one person controls the head,a second follows under a train of fabric representing the body.The dancers move in harmony as they imitate the animal's natural movements in the wild,including the aggressiveness of an attack.A lion head figure weighs under 10 pounds and sits squarely on the dancer's shoulders.Inside,the dancer manipulates strings that open and close the lion's eyes,shake its ears and open its mouth to reveal a fire-orange tongue."
+          },
+          {
+            "id": "H",
+            "content": "“A good lion dancer will imitate a living creature,”said Karlin Chan,aged 59,who heads the athletic club's community public relations.\"I started lion dancing when I was a kid,”he said.“Chinatown was much,smaller then and it was a celebration with fireworks and firecrackers,which added a lot of flavor and meaning to it.”"
+          },
+          {
+            "id": "I",
+            "content": "Mr.Chan buys a new lion head each year when he travels to China.A head costs about $1,500.“If you want the good stuff,the quality,you have to see it for yourself,”he said. “I'll inspect the product before we put it in the container and ship it over.”Mr.Chan, who has been involved with the club for nearly 50 years,said that passing the dance from one generation to the next was vital.“You need to pass on the traditions and the culture,and this is a part of our culture,\"he said.“It's a great way to promote cultural understanding and exchange;we welcome that.”"
+          },
+          {
+            "id": "J",
+            "content": "For Sara Pore,aged 17,another club member,lion dance is more than just tradition;it provides a creative outlet.“Lion dancing started 2,000 years ago—that's incredible,” she said.“But what makes you a competent lion dancer is that there's a sense of imagination involved.Lion dancing teaches competence in leadership because of this. You're constantly forced to push yourself past your limit.”"
+          },
+          {
+            "id": "K",
+            "content": "Back at rehearsal(排练),Just in Le,aged 18,tied a red ribbon around his waist to practice jumping.The dancers use the ribbons to pull themselves up over their partners'heads.The room's ceilings are too low to wear the lion heads for jumping practice,so once up on his partner's head,Mr.Le held out his arms as if in offering."
+          },
+          {
+            "id": "L",
+            "content": "Mr.Le comes by the dance as a legacy(传承).“I was born into it,”Mr.Le said,noting that his uncle and father were club members.“Growing up,I would always watch my family and see the lion dance,and I slowly grew interested in it.\"By the age of 14,he was fully enrolled in the athletic club's lion dance group.\"I value my culture and tradition,being Chinese or Asian-American.I have a lot of pride in that,\"he said.“I want to contribute and give back to the community.”"
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Team-building exercises have become popular for managers trying to increase organisational and team harmony and productivity.Unfortunately many employees resent compulsory bonding and often regard these exercises as a nuisance.\n\nA paper published this week by University of Sydney researchers in Social Networks has reported participants'feelings about team-building interventions (干预),revealing ethical implications in forcing employees to take part.\n\n“Many people see team-building activities as a waste of time,so we decided to look in more depth at what's behind this,\"said the paper's lead researcher,Dr Peter Matous.\n\n“Teams are formed,combined and restructured.Staff are relocated and office spacesredesigned.All this is done with the aim of improving workplace efficiency,collaboration and cohesion.But does any of this work?\"said Dr Matous.\n\nThe study found that team-building exercises which focused on the sharing of and intervening into personal attitudes and relationships between team members were considered too heavy-handed and intrusive,although the researchers say some degree of openness and vulnerability is often necessary to make deep,effective connections with colleagues.\n\n“Some participants were against team-building exercises because they were implicitly compulsory.They didn't welcome management's interest in their lives beyond their direct work performance,”said Matous.“Many people don't want to be forced into having fun or making friends,especially not on top of their busy jobs.They feel management is being too nosy or trying to control their lives too much.”\n\nIn this study the researchers recommended a self-disclosure(表露)approach where participants were guided through a series of questions that allowed them to increasingly disclose personal information and values.The method is well-tested and has been shown to increase interpersonal closeness.However,to be successful it must be voluntary.\n\nThe researchers said there are numerous schools of thought that propose differing psychological methods for strengthening relationships.\"With caution,many relational methods to improve teams and organisations can be borrowed from other fields.The question is how to apply them effectively to strengthen an entire collective,which is more than just the sum of individual relationships,\"said Dr Matous.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They consider such exercises annoying.",
+                  "B. They deem these exercises counter-productive.",
+                  "C. They see such exercises as harmful to harmony.",
+                  "D. They find these exercises too demanding."
+                ],
+                "question": "Why are many employees opposed to team-building exercises?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. They relocated team leaders and their offices.",
+                  "B. They rearranged the staff and office spaces.",
+                  "C. They redesigned the staff's work schedules.",
+                  "D. They reintroduced some cohesive activities."
+                ],
+                "question": "What did Dr Matous and his team do to find out whether team-building activities would improve productivity?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. They were intended to share personal attitudes and relationships.",
+                  "B. They implicitly added to the vulnerability of team members.",
+                  "C. They invariably strengthened connections among colleagues.",
+                  "D. They were regarded as an intrusion into employees'private lives."
+                ],
+                "question": "What did the study by Matous'team find about some team-building exercises?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. By allowing participants freedom to express themselves.",
+                  "B. By applying it to employees who volunteer to participate.",
+                  "C. By arranging in proper order the questions participants face.",
+                  "D. By guiding employees through a series of steps in team building."
+                ],
+                "question": "How can the self-disclosure approach succeed in increasing interpersonal closeness?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. They must be used in combination for an entire collective.",
+                  "B. They prioritise some psychological aspects over others.",
+                  "C. They place too much stress on individual relationships.",
+                  "D. They have to be applied cautiously to be effective."
+                ],
+                "question": "What does Matous think of the various psychological methods borrowed from other fields for strengthening relationships?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "There are close to 58,000 homeless people in Los Angeles county.That's a shocking and tragic number for a region that's home to some of the richest people in the world.At last,the problem became so acute—and so visible—that Los Angeles took extraordinary action.The citizens of this county voted in November 2016 and again in March 2017 to raise their own taxes.The purpose of such action is to fund an enormous multibillion-dollar, 10-year program of housing and social services for the homeless.\n\nAs a result,Los Angeles now has its best chance in decades to combat homelessness. This is an opportunity that surely all can agree must not be wasted.It is neither desirable nor morally acceptable nor practical for this county to tolerate the signs of deprivation more commonly associated with the slums(贫民窟)of Rio de Janiero.\n\nHow did we get here?For as long as there are homeless people,there is a tendency to blame the victims themselves for their condition—to see their failure to thrive as an issue of character,of moral weakness,of laziness.But contrary to popular belief,the homeless in Los Angeles are not mostly mentally ill or drug addicted or frightening,although a sizable minority meet some of those descriptions.Today,a greater and greater proportion of people living on the streets are there because of bad luck or a series of mistakes,or because the economy forgot them—they lost a job or were evicted(逐出)or fled an abusive marriage just as the housing market was growing increasingly unforgiving.\n\nThe challenges are enormous,even if everyone is pulling in the same direction.That reality was driven home this month by a new Los Angeles Homeless Services Authority report showing that the county's homeless population is growing faster than the supply of new housing\n\nIn the world's richest nation,homelessness on this scale should be shameful and shocking.But most Los Angeles residents are no longer either shocked or shamed.\n\nIncreasingly,we are uncomfortable,annoyed,disgusted,scared or unaware.Compassion(同情心)is being replaced by resignation.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. To combat the county's homelessness.",
+                  "B. To reform the county's service system.",
+                  "C. To fund the development of local infrastructure.",
+                  "D. To narrow the gap between the rich and the poor."
+                ],
+                "question": "Why did the citizens of Los Angeles vote to raise their own taxes?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. They seldom meet the descriptions of homelessness.",
+                  "B. They are the victims of fast economic development.",
+                  "C. They are responsible for their own condition.",
+                  "D. They account for the majority of drug addicts."
+                ],
+                "question": "What do people tend to believe about the homeless?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. They find it increasingly difficult to afford a place to live.",
+                  "B. The divorce rate in the county has been on a steady rise.",
+                  "C. They have been compelled to take low-paying jobs.",
+                  "D. The society fails to forgive them for their mistakes."
+                ],
+                "question": "What is one of the causes for more and more people in Los Angeles to become homeless?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Supplying enough job opportunities for the homeless remains a challenge.",
+                  "B. Everyone is pulling in the same direction to solve the homelessness problem.",
+                  "C. The increase in new housing falls short of the demand of the growing homeless population.",
+                  "D. Los Angeles'homeless condition is deteriorating faster than many people predict."
+                ],
+                "question": "What do we learn from the new Los Angeles Homeless Services Authority report?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. They are increasingly ashamed about its scale.",
+                  "B. They find it no more scaring than it appears.",
+                  "C. They are less and less indifferent to it.",
+                  "D. They no longer find it shocking."
+                ],
+                "question": "How do most Los Angeles residents now feel about homelessness?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose the student union of your university is organizing an online discussion on interpersonal relationships. You are to write an essay on ways to maintain a warm and friendly relationship with your classmates and on the benefits of such a relationship. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "中国政府一直大力推行义务教育(compulsory education), 以使每个儿童都享有受教育的机会。自 1986 年《义务教育法》生效以来, 经过不懈努力, 实现了在全国推行义务教育的目标。如今, 在中国, 儿童年满六周岁开始上小学, 从小学到初中一共接受九年义务教育。从 2008 年秋季学期开始, 义务教育阶段学生无须缴纳学费。随着一系列教育改革举措的实施, 中国义务教育的质量也有显著提高。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_0xuhQKv.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_LYO6VkQ.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_i4bu8z0.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:09,760\r\nCollege English Tirst Band 4. Part 2, Listening Comprehension, Section A, Directions. In this section, you'll hear three\r\n\r\n2\r\n00:00:09,760 --> 00:00:16,260\r\nnews reports. At the end of each news report, you'll hear two or three questions. Both the news\r\n\r\n3\r\n00:00:16,260 --> 00:00:29,980\r\nreport and the questions we spoken only once. After you hear a question, you must choose the best\r\n\r\n4\r\n00:00:29,980 --> 00:00:33,420\r\non to sheet one with a single line through the center.\r\n\r\n5\r\n00:00:34,640 --> 00:00:35,880\r\nNews report won.\r\n\r\n6\r\n00:00:36,380 --> 00:00:40,340\r\nPolice have reported a man being bitten by a four-foot snake\r\n\r\n7\r\n00:00:40,340 --> 00:00:43,200\r\nwhen he lifted his toilet seat on Sunday morning.\r\n\r\n8\r\n00:00:43,900 --> 00:00:47,440\r\nThe snake was not poisonous, so the man did not have to go to the hospital,\r\n\r\n9\r\n00:00:47,960 --> 00:00:50,600\r\nbut his arm was medically treated at the scene.\r\n\r\n10\r\n00:00:51,280 --> 00:00:54,280\r\nThe police officer interviewed, told news reporters,\r\n\r\n11\r\n00:00:54,740 --> 00:00:56,620\r\nthe snake didn't belong to the man,\r\n\r\n12\r\n00:00:56,620 --> 00:00:59,860\r\nand it was unclear how it got into the apartment.\r\n\r\n13\r\n00:01:00,640 --> 00:01:07,060\r\nThis snake was eventually captured by the local animal handlers and taken to an animal hospital afterward.\r\n\r\n14\r\n00:01:07,500 --> 00:01:10,080\r\nIt was being treated for an outer skin infection.\r\n\r\n15\r\n00:01:10,540 --> 00:01:12,900\r\nIt was unclear who the owner was.\r\n\r\n16\r\n00:01:13,300 --> 00:01:18,440\r\nThe snake may be taken to a local zoo for care if the owner does not come forward.\r\n\r\n17\r\n00:01:19,140 --> 00:01:24,400\r\nOver the years other creatures like frogs and fish have found their way into toilets.\r\n\r\n18\r\n00:01:24,400 --> 00:01:29,060\r\nBut this was the first instance of a snake in recent years.\r\n\r\n19\r\n00:01:30,280 --> 00:01:34,020\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n20\r\n00:01:34,580 --> 00:01:35,420\r\nQuestion 1.\r\n\r\n21\r\n00:01:35,660 --> 00:01:37,520\r\nWhat do we learn from the police report?\r\n\r\n22\r\n00:01:52,970 --> 00:01:53,840\r\nQuestion 2.\r\n\r\n23\r\n00:01:53,840 --> 00:01:56,580\r\nWhat does the reports say were still unclear?\r\n\r\n24\r\n00:02:12,000 --> 00:02:13,280\r\nNews report too.\r\n\r\n25\r\n00:02:13,640 --> 00:02:19,960\r\nEvery week since last April, Andrea Belcher has been doing something slightly unusual and amusing\r\n\r\n26\r\n00:02:19,960 --> 00:02:21,940\r\nwhen she takes out her trash.\r\n\r\n27\r\n00:02:21,940 --> 00:02:28,400\r\nIt all started off when a movie star shared a photo of herself putting her trash bins out\r\n\r\n28\r\n00:02:28,400 --> 00:02:34,840\r\nin a ball gown. This inspired Andrea to get dressed up to take out the trash. She was too\r\n\r\n29\r\n00:02:34,840 --> 00:02:41,120\r\nembarrassed to do it during the day, so one dark evening she put on her black off the shoulder\r\n\r\n30\r\n00:02:41,120 --> 00:02:47,400\r\ngown and put her trash bin out, her daughter filmed it and the whole family laughed, but\r\n\r\n31\r\n00:02:47,400 --> 00:02:52,680\r\nseemed to go down well. The following weeks she found other outfits in her dressing up\r\n\r\n32\r\n00:02:52,680 --> 00:02:58,360\r\nbox, and dressed up as different characters and famous people, sharing her exploits on social\r\n\r\n33\r\n00:02:58,360 --> 00:03:05,380\r\nmedia. Before long, people started offering up their own fancy dresses for her to wear. And\r\n\r\n34\r\n00:03:05,380 --> 00:03:12,600\r\nbefore she knew it, she had done 20 weeks. Explaining why she has kept up the videos, Andrea\r\n\r\n35\r\n00:03:12,600 --> 00:03:18,740\r\nexplain how nice it was to have a little bit of fun and craziness that made people smile.\r\n\r\n36\r\n00:03:19,060 --> 00:03:25,060\r\nBesides, it also helps to remind people in the community to put out their trash bins each week.\r\n\r\n37\r\n00:03:26,600 --> 00:03:30,600\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n38\r\n00:03:31,320 --> 00:03:36,120\r\nQuestion 3. What has Andrea Belcher been doing since last April?\r\n\r\n39\r\n00:03:51,160 --> 00:03:56,240\r\nQuestion 4. Why has Andrea Belcher kept up her videos?\r\n\r\n40\r\n00:04:10,960 --> 00:04:13,080\r\nNew Support 3.\r\n\r\n41\r\n00:04:13,280 --> 00:04:15,640\r\nNo Money, but Still Hungry?\r\n\r\n42\r\n00:04:16,079 --> 00:04:16,720\r\nNo Problem.\r\n\r\n43\r\n00:04:17,459 --> 00:04:22,400\r\nWelcome to Frank's Restaurant, where customers are paying for meals and leaving receipts\r\n\r\n44\r\n00:04:22,400 --> 00:04:23,240\r\non a board.\r\n\r\n45\r\n00:04:23,240 --> 00:04:31,100\r\nAnyone who is hungry and wants something to eat can take one, no questions asked, and hand it to the staff for some food.\r\n\r\n46\r\n00:04:31,800 --> 00:04:39,080\r\nThe idea for the board of free meals started after a donor came in with $100 for each member of its staff.\r\n\r\n47\r\n00:04:39,740 --> 00:04:47,740\r\nAfter two staffers returned their share, there was $700 left over, according to Terra Morris, the owner of the restaurant.\r\n\r\n48\r\n00:04:48,260 --> 00:04:51,400\r\nSo they decided to do something more by creating the board.\r\n\r\n49\r\n00:04:51,400 --> 00:04:57,580\r\nThe Board of Free Meals inside the restaurant shows a host of potential meals already paid\r\n\r\n50\r\n00:04:57,580 --> 00:05:00,780\r\nfor by customers, each costing about $10.\r\n\r\n51\r\n00:05:01,600 --> 00:05:07,560\r\nThe Board has messages of kindness, like if you want more kindness in the world, put it here.\r\n\r\n52\r\n00:05:08,200 --> 00:05:15,080\r\nThe drive has been going on for two weeks, and more is said, just under 50 customers have picked up a free meal.\r\n\r\n53\r\n00:05:15,540 --> 00:05:19,040\r\nThere have been no reports of anyone taking advantage of the situation.\r\n\r\n54\r\n00:05:19,040 --> 00:05:23,380\r\nIn fact, there are a lot more people giving tickets than receiving.\r\n\r\n55\r\n00:05:23,920 --> 00:05:27,720\r\nIt seems people want to help and are driven by helping others.\r\n\r\n56\r\n00:05:29,340 --> 00:05:33,240\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n57\r\n00:05:33,860 --> 00:05:34,980\r\nQuestion 5.\r\n\r\n58\r\n00:05:35,380 --> 00:05:37,760\r\nWhat can people do at Fring's restaurant?\r\n\r\n59\r\n00:05:53,260 --> 00:05:58,940\r\nQuestion 6. What does the owner of the restaurant say about the idea for the board of free\r\n\r\n60\r\n00:05:58,940 --> 00:05:59,600\r\nmeals?\r\n\r\n61\r\n00:06:14,640 --> 00:06:21,000\r\nQuestion 7. What has happened at Frank's restaurant since the board of free meals was created?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:02,359 --> 00:00:17,200\r\nSection B, Directions. In this section you will hear two long conversations. At the end of each conversation, you will hear four questions, both the conversation and the questions will be spoken only once.\r\n\r\n2\r\n00:00:17,200 --> 00:00:22,720\r\nAfter you hear a question, you must choose the best answer from the four choices,\r\n\r\n3\r\n00:00:23,120 --> 00:00:30,540\r\nmarked A, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single\r\n\r\n4\r\n00:00:30,540 --> 00:00:32,140\r\nline through the center.\r\n\r\n5\r\n00:00:33,540 --> 00:00:38,960\r\nConversation 1 Welcome to our program, Friends and Relationships.\r\n\r\n6\r\n00:00:39,220 --> 00:00:44,220\r\nOur guest today is psychologist Steve Pinker from McGill University.\r\n\r\n7\r\n00:00:44,220 --> 00:00:45,880\r\nGlad to be here, Jane.\r\n\r\n8\r\n00:00:46,360 --> 00:00:47,100\r\nHi Steve.\r\n\r\n9\r\n00:00:47,460 --> 00:00:51,380\r\nOur question today is why friends suddenly disappear?\r\n\r\n10\r\n00:00:52,080 --> 00:00:56,900\r\nThey may block us on their social media accounts and stop responding to our emails.\r\n\r\n11\r\n00:00:57,480 --> 00:00:59,820\r\nThey simply vanish without a trace.\r\n\r\n12\r\n00:01:00,180 --> 00:01:01,960\r\nThe answer may lie in childhood.\r\n\r\n13\r\n00:01:02,520 --> 00:01:04,900\r\nThe way the person related to their mum and dad.\r\n\r\n14\r\n00:01:05,019 --> 00:01:07,220\r\nIt's related to their attachment styles.\r\n\r\n15\r\n00:01:07,560 --> 00:01:08,800\r\nAttachment styles?\r\n\r\n16\r\n00:01:09,320 --> 00:01:12,040\r\nYeah, there are two different attachment styles.\r\n\r\n17\r\n00:01:12,040 --> 00:01:17,700\r\nan anxious attachment style and an avoidant attachment style. When there is a relationship\r\n\r\n18\r\n00:01:17,700 --> 00:01:23,180\r\nbreakdown with their parents, children with an anxious attachment style screen and cry to\r\n\r\n19\r\n00:01:23,180 --> 00:01:28,500\r\nget their parents to come back. But other children simply shut down and try to deal with\r\n\r\n20\r\n00:01:28,500 --> 00:01:34,060\r\ntheir emotions by ignoring the situation. And these attachment styles carry on into adulthood.\r\n\r\n21\r\n00:01:34,800 --> 00:01:37,500\r\nDoes avoidance reduce their stress levels?\r\n\r\n22\r\n00:01:37,500 --> 00:01:43,720\r\nNot really, their stress levels are actually the same as those experienced by the children who yell and scream.\r\n\r\n23\r\n00:01:44,200 --> 00:01:47,120\r\nAnd I assume both might be termed insecure.\r\n\r\n24\r\n00:01:47,880 --> 00:01:50,720\r\nExactly. And it's a very insecure attachment.\r\n\r\n25\r\n00:01:51,300 --> 00:01:57,960\r\nHow does an insecure attachment affect relationships between friends, co-workers, and romantic relationships?\r\n\r\n26\r\n00:01:58,680 --> 00:02:04,920\r\nIt's the same as conflicts. So if you have a disagreement with a securely attached person,\r\n\r\n27\r\n00:02:04,920 --> 00:02:12,260\r\nthey're not going to panic. They're able to hear what the other person is saying and express their own feelings and thoughts effectively.\r\n\r\n28\r\n00:02:13,120 --> 00:02:21,980\r\nHowever, an insecurely attached person won't. They might either attack you, get defensive, or just disappear from your life.\r\n\r\n29\r\n00:02:22,260 --> 00:02:28,140\r\nTo them, a different no matter how small in your eyes signals the end of the relationship.\r\n\r\n30\r\n00:02:28,900 --> 00:02:31,420\r\nThat explains why they suddenly disappear.\r\n\r\n31\r\n00:02:32,280 --> 00:02:38,960\r\nQuestion 8-11, a base on the conversation you have just heard. Question 8, what do\r\n\r\n32\r\n00:02:38,960 --> 00:02:40,700\r\nwe learn about the man?\r\n\r\n33\r\n00:02:55,540 --> 00:03:00,040\r\nQuestion 9, what are the speakers mainly talking about?\r\n\r\n34\r\n00:03:14,900 --> 00:03:23,660\r\nQuestion 10. How do children with an anxious attachment style react to a breakdown in their relationship with parents?\r\n\r\n35\r\n00:03:38,820 --> 00:03:44,440\r\nQuestion 11. What does the man say about insecurely attached people?\r\n\r\n36\r\n00:03:44,440 --> 00:03:44,580\r\nI'm just going to be a little bit more nervous.\r\n\r\n37\r\n00:03:58,280 --> 00:03:58,820\r\nI'm just going to be a little bit more nervous.\r\n\r\n38\r\n00:04:00,299 --> 00:04:01,260\r\nConversation 2.\r\n\r\n39\r\n00:04:01,560 --> 00:04:03,380\r\nI hear you're going to Japan soon.\r\n\r\n40\r\n00:04:03,780 --> 00:04:04,740\r\nYes, that's right.\r\n\r\n41\r\n00:04:05,160 --> 00:04:06,260\r\nCould I ask you a favor?\r\n\r\n42\r\n00:04:06,600 --> 00:04:07,840\r\nSure. What is it?\r\n\r\n43\r\n00:04:08,080 --> 00:04:11,520\r\nI was wondering if you could get me some jeans while you're there.\r\n\r\n44\r\n00:04:11,720 --> 00:04:12,980\r\nI'll pay you back of course.\r\n\r\n45\r\n00:04:12,980 --> 00:04:19,760\r\nA pair of jeans? Okay, I don't see why not. But what's wrong with jeans here?\r\n\r\n46\r\n00:04:20,260 --> 00:04:26,640\r\nWell, I just love good jeans and Japan happens to make the best in the world. My friend brought\r\n\r\n47\r\n00:04:26,640 --> 00:04:30,640\r\nme a pair from their five years ago and they still look new.\r\n\r\n48\r\n00:04:31,020 --> 00:04:36,700\r\nReally, I had no idea Japan made jeans. I would have thought America made the best jeans\r\n\r\n49\r\n00:04:36,700 --> 00:04:39,140\r\nbecause it's a typical American garment.\r\n\r\n50\r\n00:04:39,140 --> 00:04:49,940\r\nYeah, I thought so too, but it turns out Japan still has some very old mills with the traditional weaving tools used to make genes the original way.\r\n\r\n51\r\n00:04:50,300 --> 00:04:55,640\r\nIt's a slower process of making clothing, but the end result is surely superior.\r\n\r\n52\r\n00:04:56,320 --> 00:05:07,060\r\nAlso, the fabric they use is of a higher quality and the dies unnatural. They have a denser weave and are more durable than any other genes in the world.\r\n\r\n53\r\n00:05:07,060 --> 00:05:11,160\r\nThat sounds cool. What size do you want? And how much are they?\r\n\r\n54\r\n00:05:11,540 --> 00:05:20,280\r\nI have a 34-waste and size 30 or 32 in length. Either is fine. They should be around $500,\r\n\r\n55\r\n00:05:21,360 --> 00:05:24,300\r\nbut make double-sert and they are made in Japan.\r\n\r\n56\r\n00:05:24,820 --> 00:05:31,760\r\n$500, boy, that's expensive. Do you typically spend that much on a pair of casual trousers?\r\n\r\n57\r\n00:05:31,760 --> 00:05:36,900\r\nThey are a little pricey, yes, but they are very special.\r\n\r\n58\r\n00:05:37,540 --> 00:05:42,800\r\nBear in mind they will last me several years and they are very fashionable too.\r\n\r\n59\r\n00:05:43,040 --> 00:05:45,260\r\nI think they're totally worth it.\r\n\r\n60\r\n00:05:45,740 --> 00:05:50,380\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n61\r\n00:05:51,120 --> 00:05:52,000\r\nQuestion 12.\r\n\r\n62\r\n00:05:52,480 --> 00:05:56,060\r\nWhat makes the man choose to buy jeans made in Japan?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:00,000 --> 00:00:15,120\r\nSection C, directions. In this section you will hear three passages. At the end of each passage you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n\r\n2\r\n00:00:15,120 --> 00:00:21,220\r\nAfter you hear a question, you must choose the best answer from the four choices, marked\r\n\r\n3\r\n00:00:21,220 --> 00:00:29,300\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:29,300 --> 00:00:30,300\r\nthrough the center.\r\n\r\n5\r\n00:00:31,660 --> 00:00:38,220\r\nPassage 1. Every time I walk out of a superhero movie, I feel the same way. I experience\r\n\r\n6\r\n00:00:38,220 --> 00:00:44,380\r\na sense of longing, realizing that there should be more in life. The desire for adventure\r\n\r\n7\r\n00:00:44,380 --> 00:00:51,840\r\nas a human one. Superhero films captured this desire perfectly. The plot of each superhero film\r\n\r\n8\r\n00:00:51,840 --> 00:00:58,400\r\nhas become relatively predictable. The world is in peril. The world needs a hero. The hero is\r\n\r\n9\r\n00:00:58,400 --> 00:01:04,980\r\nin peril. The hero resolves the peril. The hero saves the world. Each film has an attractive\r\n\r\n10\r\n00:01:04,980 --> 00:01:11,620\r\nlead. Several expensive explosions, a few jokes lighten the mood, and numerous punches\r\n\r\n11\r\n00:01:11,620 --> 00:01:19,060\r\nthat land unrealistically well. Even though we basically know what will happen, we keep coming\r\n\r\n12\r\n00:01:19,060 --> 00:01:26,020\r\nback for more. The elites of our society have rejected superhero films. They say the films like\r\n\r\n13\r\n00:01:26,020 --> 00:01:32,380\r\nany form of artistry. These movies are criticised as being too simple, but they give the fans\r\n\r\n14\r\n00:01:32,380 --> 00:01:39,740\r\nwhat they want. Entertainment. No matter the form in which they reveal themselves, hero stories\r\n\r\n15\r\n00:01:39,740 --> 00:01:47,240\r\nwill always be present in life. It's not just about being entertained, but also being inspired.\r\n\r\n16\r\n00:01:48,080 --> 00:01:54,060\r\nOne author has mentioned that women desire to play an irreplaceable role in a great adventure.\r\n\r\n17\r\n00:01:54,680 --> 00:02:00,800\r\nMost young women want to be a part of something grand, something important. It seems clear\r\n\r\n18\r\n00:02:00,800 --> 00:02:07,100\r\nthat this principle applies to men as well. So next time you see your favourite superhero film,\r\n\r\n19\r\n00:02:07,100 --> 00:02:16,120\r\nbe entertained, but also be inspired. That that small longing you feel motivates you to make a difference.\r\n\r\n20\r\n00:02:17,400 --> 00:02:23,260\r\nQuestion 16 to 18, are based on the passage you have just heard? Question 16,\r\n\r\n21\r\n00:02:24,040 --> 00:02:28,480\r\nhow does the speaker feel every time he walks out of a superhero movie?\r\n\r\n22\r\n00:02:43,540 --> 00:02:50,240\r\nQuestion 17. What does the passage say about the plot of all superhero movies?\r\n\r\n23\r\n00:03:05,000 --> 00:03:12,000\r\nQuestion 18. What do the elites of Americans' society think of superhero movies?\r\n\r\n24\r\n00:03:27,440 --> 00:03:29,200\r\nPassage 2.\r\n\r\n25\r\n00:03:29,640 --> 00:03:36,960\r\nTelling stories is one of the most powerful means leaders have to influence, teach, and inspire.\r\n\r\n26\r\n00:03:37,800 --> 00:03:40,880\r\nStorytelling forges connections among people.\r\n\r\n27\r\n00:03:41,320 --> 00:03:47,660\r\nWhen it comes to our countries, our communities, and our families, we understand instinctively\r\n\r\n28\r\n00:03:47,660 --> 00:03:53,380\r\nthat the stories we hold in common are an important part of the ties that bind.\r\n\r\n29\r\n00:03:54,120 --> 00:04:00,380\r\nThis understanding also holds true in the business world where in organizations' stories\r\n\r\n30\r\n00:04:00,380 --> 00:04:07,200\r\nand the stories its leaders tell help solidify relationships in a way that factual statements\r\n\r\n31\r\n00:04:07,200 --> 00:04:08,340\r\ndon't.\r\n\r\n32\r\n00:04:08,880 --> 00:04:12,100\r\nGood stories do more than create a sense of connection.\r\n\r\n33\r\n00:04:12,760 --> 00:04:15,200\r\nThey build familiarity and trust.\r\n\r\n34\r\n00:04:15,200 --> 00:04:20,140\r\nThey allow the listener to enter the story, making them more open to learning.\r\n\r\n35\r\n00:04:20,959 --> 00:04:26,800\r\nGood stories can contain multiple meanings, so they're surprisingly economical, in conveying\r\n\r\n36\r\n00:04:26,800 --> 00:04:29,780\r\ncomplex ideas in graspable ways.\r\n\r\n37\r\n00:04:30,500 --> 00:04:36,080\r\nAnd stories are more engaging than the recital of data points, or a discussion of abstract\r\n\r\n38\r\n00:04:36,080 --> 00:04:36,860\r\nideas.\r\n\r\n39\r\n00:04:37,660 --> 00:04:43,060\r\nStories about professional mistakes, and what leaders learned from them are another great\r\n\r\n40\r\n00:04:43,060 --> 00:04:44,200\r\navenue for learning.\r\n\r\n41\r\n00:04:44,200 --> 00:04:50,280\r\nBecause people identify so closely with stories, they can imagine how they would have acted\r\n\r\n42\r\n00:04:50,280 --> 00:04:51,840\r\nin similar circumstances.\r\n\r\n43\r\n00:04:52,740 --> 00:04:56,800\r\nThey are able to work through situations in a way that's risk-free.\r\n\r\n44\r\n00:04:57,560 --> 00:04:59,460\r\nThere are extra benefits for leaders.\r\n\r\n45\r\n00:05:00,220 --> 00:05:04,640\r\nWith a simple personal story, they can convey fundamental values.\r\n\r\n46\r\n00:05:05,360 --> 00:05:10,660\r\nThey can offer insight into the evolution of their own experience and knowledge, presenting\r\n\r\n47\r\n00:05:10,660 --> 00:05:12,540\r\nthemselves as more approachable.\r\n\r\n48\r\n00:05:12,540 --> 00:05:18,060\r\nAnd then, they are more likely to inspire others to want to know more.\r\n\r\n49\r\n00:05:43,000 --> 00:05:49,160\r\nQuestion 20. What can good stories do to listeners according to the passage?\r\n\r\n50\r\n00:06:03,660 --> 00:06:09,540\r\nQuestion 21. What can leaders do with a simple personal story?\r\n\r\n51\r\n00:06:24,520 --> 00:06:32,420\r\nPassage 3 The US was founded by successive ways of immigrants and immigrants are still contributing\r\n\r\n52\r\n00:06:32,420 --> 00:06:36,160\r\nto America today, statistics prove it.\r\n\r\n53\r\n00:06:36,600 --> 00:06:42,400\r\nOn two key measures of financial performance, immigrants outperform native born Americans.\r\n\r\n54\r\n00:06:42,400 --> 00:06:45,440\r\nFirst, they're more likely to be entrepreneurs.\r\n\r\n55\r\n00:06:46,420 --> 00:06:53,300\r\nFrom 1996 to 2016, the pace at which immigrants started businesses was double that\r\n\r\n56\r\n00:06:53,300 --> 00:06:54,980\r\nof US-born individuals.\r\n\r\n57\r\n00:06:55,820 --> 00:07:00,600\r\nImmigrants aren't just becoming entrepreneurs more frequently, they're often succeeding.\r\n\r\n58\r\n00:07:01,500 --> 00:07:08,460\r\nOver 40% of Fortune 500 companies had a founder who was either an immigrant or the child\r\n\r\n59\r\n00:07:08,460 --> 00:07:09,160\r\nof one.\r\n\r\n60\r\n00:07:09,160 --> 00:07:13,780\r\nAnother key measure of financial strength is debt level.\r\n\r\n61\r\n00:07:14,460 --> 00:07:17,480\r\nImmigrants do better in this area too.\r\n\r\n62\r\n00:07:17,980 --> 00:07:23,740\r\nImmigrants use credit less often for purchasing cars, homes or starting businesses.\r\n\r\n63\r\n00:07:24,440 --> 00:07:28,980\r\nThis results in significantly lower levels of debt than native born Americans.\r\n\r\n64\r\n00:07:29,840 --> 00:07:37,340\r\nFor example, 34% of Americans born in Latin America report no credit card or installment loan\r\n\r\n65\r\n00:07:37,340 --> 00:07:37,980\r\ndebt.\r\n\r\n66\r\n00:07:37,980 --> 00:07:43,520\r\nThis can be compared to just 19% of the general population.\r\n\r\n67\r\n00:07:44,680 --> 00:07:46,740\r\nWhy are immigrants doing so well?\r\n\r\n68\r\n00:07:47,100 --> 00:07:52,740\r\nThe values and habits they bring from their own home lands help explain some of the success.\r\n\r\n69\r\n00:07:53,600 --> 00:07:57,100\r\nUnemployment tends to be higher in developing countries.\r\n\r\n70\r\n00:07:57,680 --> 00:08:00,160\r\nThat means more people must become entrepreneurs.\r\n\r\n71\r\n00:08:01,280 --> 00:08:04,880\r\nCredit is also scarce in most developing countries.\r\n\r\n72\r\n00:08:04,880 --> 00:08:09,620\r\nThis means individuals must save more in order to achieve their goals.\r\n\r\n73\r\n00:08:10,220 --> 00:08:14,520\r\nOr they borrow money from friends and family, rather than a bank.\r\n\r\n74\r\n00:08:15,060 --> 00:08:20,000\r\nThat means less debt and potentially better credit outcomes when they reach the US.\r\n\r\n75\r\n00:08:21,180 --> 00:08:26,060\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n76\r\n00:08:26,820 --> 00:08:31,500\r\nQuestion 22. What does the passage say statistics prove?\r\n\r\n77\r\n00:08:46,640 --> 00:08:51,820\r\nQuestion 23. What do we learn about immigrants in the US?\r\n\r\n78\r\n00:08:52,340 --> 00:08:54,140\r\nCompared with Native born Americans.\r\n\r\n79\r\n00:09:09,260 --> 00:09:17,160\r\nQuestion 24. What does the passage say about immigrants in the US in terms of financial strength?\r\n\r\n80\r\n00:09:32,239 --> 00:09:38,400\r\nQuestion 25. What do immigrants do to achieve their goals in the US?\r\n\r\n81\r\n00:09:53,660 --> 00:09:55,980\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

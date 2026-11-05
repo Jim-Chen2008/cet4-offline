@@ -1,0 +1,694 @@
+{
+  "id": 12,
+  "exam": 12,
+  "exam_details": {
+    "id": 12,
+    "title": "2023年06月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2023,
+    "month": 6,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-25T22:59:57.053000+08:00",
+    "updated_at": "2025-04-25T23:21:02.993000+08:00",
+    "exam_id": 12,
+    "submission_count": 0,
+    "cet_content_id": 12,
+    "has_draft": false
+  },
+  "created_at": "2025-04-25T23:31:20.681000+08:00",
+  "updated_at": "2025-04-25T23:31:20.681000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. She was involved in a conflict with bird lovers.",
+              "B. She was charged with mistreating animals.",
+              "C. She was on bad terms with her neighbors.",
+              "D. She was accused of violating a city law."
+            ],
+            "question": "What do we learn from the report about the 55-year-old woman?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. It will take time to solve the rat problem.",
+              "B. All wild animals should be well protected.",
+              "C. The woman was not to blame for the situation.",
+              "D. No one should go unpunished for violating law."
+            ],
+            "question": "What did the director of the City Administration say at the end of the new report?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Communicate with astronauts in Mars Dune Alpha.",
+              "B. Work in an environment resembling Mars.",
+              "C. Build a Martian habitat in Houston.",
+              "D. Send in applications before Friday."
+            ],
+            "question": "What When is NASA require the paid volunteers to do?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. Ready-made food.",
+              "B. Food that is organic.",
+              "C. Food they grow.",
+              "D. Potatoes mostly."
+            ],
+            "question": "What will the participants in the project eat?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. He apologized for scratching an athlete's gold medal.",
+              "B. He was asked to present a gold medal to Miu Goto.",
+              "C. He bit a softball player's Olympic gold medal.",
+              "D. He attracted public attention at a media event."
+            ],
+            "question": "What is the news report say about the Japanese Mayor Takashi Karamura?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. Have another picture taken with the Olympic medalist.",
+              "B. Apologize to the International Olympic Committee.",
+              "C. Get the damaged medal repaired.",
+              "D. Pay for the cost of a new medal."
+            ],
+            "question": "What did Mayor Takashi Karamura offer to do?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. Allow no one to touch them.",
+              "B. See them as symbols of honor.",
+              "C. Treat them as treasures.",
+              "D. Keep them in a safe place."
+            ],
+            "question": "What did some of them can say they would do with their medals?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. She covered its screen with a plastic sheet.",
+              "B. She connected it with her smartphone.",
+              "C. She decorated it with colorful stickers.",
+              "D. She bought some new software for it."
+            ],
+            "question": "What did the woman do to her computer?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. It may not be simply blue.",
+              "B. It includes unnatural light.",
+              "C. It is more harmful to young people.",
+              "D. It induces people to fall asleep."
+            ],
+            "question": "What does the woman say about blue light?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. He has had much trouble falling asleep.",
+              "B. He has had some sort of health problems.",
+              "C. He has stayed up playing computer games.",
+              "D. He has been burdened with excessive work."
+            ],
+            "question": "Why does the man say he hasn't slept enough for months?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Exposure to blue light is the chief cause of obesity.",
+              "B. Sleep may be more important than people assumed.",
+              "C. Sleep may also be negatively affected by natural light.",
+              "D. Overuse of electronic devices may cause heart disease."
+            ],
+            "question": "What has the woman learned from the research she has read?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. What they wanted to be when grown up.",
+              "B. What their favorite cartoon character was.",
+              "C. What they learned from computer games.",
+              "D. What they liked to do most after school."
+            ],
+            "question": "A)What they wanted to be when grown up."
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. A stock broker.",
+              "B. A pop singer.",
+              "C. A mechanical engineer.",
+              "D. A basketball player."
+            ],
+            "question": "What occupation do adults see as both sensible and ambitious according to the woman?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. Ambitious",
+              "B. Sensible.",
+              "C. Imaginative.",
+              "D. Practical."
+            ],
+            "question": "What kind of goal setting does the woman like to see in children?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. Relax their strict control of their kids.",
+              "B. Help their kids understand themselves.",
+              "C. Impose their own dreams on their kids.",
+              "D. Dismiss their high expectations of their kids."
+            ],
+            "question": "What is the woman suggest adults should do?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Set up company branches.",
+              "B. Improve its infrastructure.",
+              "C. Introduce iPhones into its markets.",
+              "D. Promote Internet-ready phones."
+            ],
+            "question": "What are a number of phone companies trying to do in Africa?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. They cater to Africans'needs.",
+              "B. They are more expensive models.",
+              "C. They are more powerful and capable.",
+              "D. They boast the longest battery life."
+            ],
+            "question": "How do KyoS smartphones differ from smartphones of most other companies?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. A large touchscreen.",
+              "B. An old-school keypad.",
+              "C. A voice-response device.",
+              "D. A digitally-designed system."
+            ],
+            "question": "What are Kai OS smartphones equipped with?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. It ensured sustainable economic growth.",
+              "B. It was strongly opposed by manufacturers.",
+              "C. It was cheaper than using fossil fuel plastic.",
+              "D. It satisfied consumer demands on the whole."
+            ],
+            "question": "What is said about using recycled plastic to make plastic products in the past?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. The capacity to mass produce it.",
+              "B. The U.S.federal government's regulations.",
+              "C. A boom in market demand for clear plastic bottles.",
+              "D. A rapid increase in U.S.petroleum chemical production."
+            ],
+            "question": "What has led to a more competitive prize for new plastic?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Require companies to use 30%of new plastic.",
+              "B. Increase the supply of new plastic in the market.",
+              "C. Reduce the amount of plastic pollution in local areas.",
+              "D. Take measures to promote the use of recycled plastic."
+            ],
+            "question": "What does the UK government plan to do about plastic?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. It studies dreams.",
+              "B. It rents a place for nap-takers.",
+              "C. It is a hotel for business people.",
+              "D. It is a nap research institute."
+            ],
+            "question": "What do learn about the dreamery a business in Manhattan."
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. To find out creative people's work performance.",
+              "B. To see how many people can go without napping.",
+              "C. To understand the obvious importance of napping.",
+              "D. To feel how difficult it is to get his idea across."
+            ],
+            "question": "Why does the speaker ask us to look at the world around us at 2.30 in the afternoon?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. They decline due to pointless meetings.",
+              "B. They depend on his ability to concentrate.",
+              "C. They enable him to enjoy a creative career.",
+              "D. They are affected by the overuse of social media."
+            ],
+            "question": "What do we learn about the quantity and quality of the speaker's work?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Some bosses associate napping with laziness.",
+              "B. Many office workers nap during work hours.",
+              "C. Some bosses can concentrate without napping.",
+              "D. Many of his friends daydream in the office."
+            ],
+            "question": "What does the speaker say he finds odd?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          },
+          {
+            "id": 6
+          },
+          {
+            "id": 7
+          },
+          {
+            "id": 8
+          },
+          {
+            "id": 9
+          },
+          {
+            "id": 10
+          }
+        ],
+        "content": "You probably haven't taken the time to think of all the work that went into creating the shirt on your back.I mean,how hard it could be to create fabric and __1__ it into a shirt shape.Don't machines do all that?Well,creating fabric from cotton,which is the most\n\n__2__ clothing material,is actually a process that involves a lot of water,2,700 liters per shirt to be __3__ .Take a look at the video below from National Geographic for some more mind-blowing . __4__ about cotton clothing production.\n\nClean water is __5__ becoming one of the most sought-after resources in the world. Given how large the __6__ and cotton industries are,they take up a lot of our fresh water demands across the world,according to The Huffington Post.The video from National Geographic was created to spread __7__ of how environmentally harmful cotton is.But the situation can be made better.Through better water management and farming practices, water usage in cotton production can be cut down by . __8__ 40 percent.\n\nCalled“Better Cotton”,this environmentally conscious product will save millions of liters of water a year simply from __9__ the demands of cotton production.Cotton doesn't have to go,since it is,after all,one of the most useful cash crops across the globe. However,as water supplies __10__ ,farmers and consumers need to be more conscious of the effect that these products have on the environment as a whole.",
+        "word_bank": [
+          "abstracts",
+          "abundant",
+          "awareness",
+          "conscience",
+          "exact",
+          "increasingly",
+          "intense",
+          "mend",
+          "nearly",
+          "reckoning",
+          "reducing",
+          "sew",
+          "shrink",
+          "statistics",
+          "textile"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "According to Francis Dittoh,their speech-based weather information service was meant to be inexpensive and easy to use."
+          },
+          {
+            "id": 37,
+            "content": "Using voice instead of typing enables doctors to spend more time taking care of patients."
+          },
+          {
+            "id": 38,
+            "content": "It is extremely difficult to convert voice into text because of different pronunciations."
+          },
+          {
+            "id": 39,
+            "content": "African farmers unable to read often don't have access to important information conveyed online"
+          },
+          {
+            "id": 40,
+            "content": "Some phone users worry advertisers will take advantage of voice assistants to send ads directly to them"
+          },
+          {
+            "id": 41,
+            "content": "The spoken web is helpful when one's hands are occupied."
+          },
+          {
+            "id": 42,
+            "content": "Some people believe online interaction would soon depend mainly on voice."
+          },
+          {
+            "id": 43,
+            "content": "Seting up a spoken web is by no means an easy task."
+          },
+          {
+            "id": 44,
+            "content": "Weather information is extremely important to farmers."
+          },
+          {
+            "id": 45,
+            "content": "Some people are concerned about privacy because their phones are constantly collecting their personal information."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "We're growing more used to chatting to our computers,phones and smart speakers through voice assistants like Amazon's Alexa,Apple's Siri and Microsoft's Cortana. Blind and partially sighted people have been using text-to-speech converters for decades."
+          },
+          {
+            "id": "B",
+            "content": "Out of these assistants,Cris is the most well-known.The assistant uses voice inquiries and a natural-language user interface(界面)to answer questions.The software adapts to users'individual language usages,searches,and preferences,with continuing use."
+          },
+          {
+            "id": "C",
+            "content": "Some think voice could soon take over from typing and clicking as the main way to interact online.But what are the challenges of moving to “the spoken web”?"
+          },
+          {
+            "id": "D",
+            "content": "What use is written online content if you can't read?That is the situation facing illiterate (不识字的)African farmers.They are often denied crucial information the web offers many others.With a literacy rate in some parts of Africa at only 22.6%, farmers are often “underpaid for their produce because they might be unaware of the prevailing prices,”says Francis Dittoh,a researcher behind Mr Meteo,a speech-based weather information service."
+          },
+          {
+            "id": "E",
+            "content": "“The most frequently heard complaint is about rainfall predictions,”says Mr Dittoh, who lives in Tamale,northern Ghana.“They tell us the methods their forefathers used to predict the weather don't seem to work as well these days.\"This is down to climate change,he believes.Yet knowing when it's going to rain is vital for farmers wanting to sow seeds,irrigate crops or take their animals out to the fields to feed on grass."
+          },
+          {
+            "id": "F",
+            "content": "Mr Dittoh says the idea of converting online weather reports into speech came from the farmers themselves,after a workshop in the village of Guabuligah.\"They came up with this,”he says.Mr Meteo takes the online weather forecast,converts it to a short recording in the appropriate language and makes it available on a basic phone.Farmers ring up to receive the information.The local language Dagbani is spoken by 1.2 million people but is not served by any online translation applications.The service was designed to be cheap and easy to run,says Mr Dittoh.He plans to begin field tests this month,working with Tamale's Savanna Agricultural Research Institute."
+          },
+          {
+            "id": "G",
+            "content": "The spoken web could also help the one-in-five adults in Europe and the U.S.with poor reading skills.But building the spoken web-web-to-voice and voice-to-web-isn't straightforward.For software to understand pizza is served at Italian restaurants is easy. To cover multiple domains and to be able to have a conversation with users on every single topic is still a long way off."
+          },
+          {
+            "id": "H",
+            "content": "So although many computer assistants can answer simple questions about the weather and play music for us,anything resembling a wide-ranging human conversation is decades away.Artificial intelligence just isn't smart enough yet.Even turning your voice into text—automatic speech recognition—is one of the hardest problems to solve, as there are as many ways to pronounce things as there are people on the planet."
+          },
+          {
+            "id": "I",
+            "content": "Siri has often been praised for its ability to interpret our casual language and deliver very specific and accurate results,sometimes even providing additional information.\n\nBut it is still somewhat restricted,particularly when the language moves away from stiffer commands into more human interactions.In one example,the phrase “Send a text to Jason,Clint,Sam,and Lee saying we're having dinner at Silver Cloud restaurant” was interpreted as sending a message to Jason only,containing the text “Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant\".It has also been noted that Siri lacks a proper editing function,as saying “Edit message to say:we're at Silver Cloud restaurant and you should come find us\"generates \"Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant to say we're at Silver Cloud restaurant and you should come find us\"."
+          },
+          {
+            "id": "J",
+            "content": "Using voice interaction feels far more intimate than surfing the net the old-fashioned way.This is intentional as the informal tone of the assistant helps create an emotional attachment.But if something speaks,it must also listen.Our phones are always near us and they are collecting data about us all the time.This has already raised privacy concerns.The American Civil Liberties Union has stated that digital assistants create a threat to privacy from hackers.Some people have other concerns.They worry assistants will one day be used to deliver advertising directly to us."
+          },
+          {
+            "id": "K",
+            "content": "But digital voices need more personality to make them popular.Robots are not yet witty, Siri is boring.The benefits of using voice instead of tapping fingers obviously.depend on the context.Doctors completing online forms about their patients by speech,for example,can dictate 150 words a minute,three times faster than typing on a keyboard. This enables them to spend less time on administration and more time with patients."
+          },
+          {
+            "id": "L",
+            "content": "Last year,speech recognition company Nuance helped a doctors'surgery in Dukinfield, near Manchester,set up a speech system for the practice's six doctors.Now they can dictate notes on a patient's health condition and treatment and a smart assistant automatically enters the information into the right fields on a web form.Previously,the doctors made voice recordings that were then transcribed by secretaries—a process that was costly and likely to cause delays.The new system means letters to patients now have more detail."
+          },
+          {
+            "id": "M",
+            "content": "Using voice also makes sense when you're doing other things with your hands.Think about when you're cooking,and you just want to know what the next step in the recipe is.Your hands are covered with oil;you're not going to get on the iPad,so it's a lot more natural to talk.And speech obviously makes sense when you're driving.In the U.S.,29%of drivers admit they surf behind the wheel,according to insurance firm State Farm.This is up from 13%in 2009.No wonder using mobile phones while driving causes more crashes a year than drink driving,says the U.S.National Safety Council."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "　　The United States is facing a housing crisis:Affordable housing is inadequate,while luxury homes abound(充裕),and homelessness remains a persistent problem.Despite this, popular culture and the housing industry market happiness as living with both more space and more amenities(便利设施).Big houses are adverted as a reward for hard work and diligence,turning housing from a basic necessity into a luxury.\n\n　　This is reflected in our homes.The average single-family home built in the United States before 1970 was less than 1,500 square feet in size.By 2016,the average size of a new,single-family home was 2,422 square feet.What's more,homes built in the 2000s were more likely than earlier models to have more of all types of spaces:bedrooms, bathrooms,living rooms,dining rooms,recreation rooms and garages.\n\n　　There are consequences of living big.As middle-class houses have grown larger,two things have happened.First,large houses take time to maintain,so cleaners and other low-wage service workers are required to keep these houses in order.Second,once-public spaces,where people from diverse backgrounds used to come together,have increasingly become privatized,leading to a reduction in the number of public facilities available to all, and a reduced quality of life for many.Take swimming pools.While in 1950,only 2,500 U.S.families owned pools,by 1999 this number was 4 million.At the same time,public municipal pools were often closed,leaving low-income people nowhere to swim.\n\n　　The trend for bigger housing thus poses ethical questions.Should Americans accept a system in which the middle and upper classes enjoy a luxurious lifestyle,using the low-wage labor of others?Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor?\n\n　　I believe neither is acceptable.We must change the way we think:living well does not need to mean having more private spaces;instead,it could mean having more public spaces. A better goal than building bigger houses for some is to create more publicly accessible spaces and amenities for all.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. A luxury for the homeless.",
+                  "B. A reward for industriousness.",
+                  "C. An abundant source of comforts.",
+                  "D. An absolute necessity for happiness."
+                ],
+                "question": "What are big houses promoted to be in the United States?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Many Americans'quality of life has become lower.",
+                  "B. People from diverse backgrounds no longer socialize.",
+                  "C. People no longer have access to public swimming pools.",
+                  "D. Many Americans'private life has been negatively affected."
+                ],
+                "question": "What is one of the consequences of living big?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Questions related to moral principles.",
+                  "B. Questions having to do with labor cost.",
+                  "C. Questions about what lifestyle to promote.",
+                  "D. Questions concerning housing development."
+                ],
+                "question": "What questions arises from living big?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. One in which the wealthy exploit the low-wage laborers building their houses.",
+                  "B. One in which the rich purchase amenities at an increasingly unjustifiable price.",
+                  "C. One in which the upper classes deprive the lower classes of affordable housing.",
+                  "D. One in which the affluent enjoy a more comfortable life at the expense of the poor."
+                ],
+                "question": "What kind of social system does the author think is unacceptable?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Finding ways to turn private spaces into public ones.",
+                  "B. Building more houses affordable to those less affluent.",
+                  "C. More public spaces created for everyone to enjoy.",
+                  "D. All amenities made accessible to the rich and the poor alike."
+                ],
+                "question": "What does the author advocate for people to live well?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "　　Most of us in the entrepreneurial community are blessed—or cursed-with higher-than-average ambition.Ambitious people strongly desire accomplishments and are willing to take more risks and spend more effort to get them.\n\n　　Overall,this is a positive quality,especially for people trying to build their own businesses.Apparently,if you're more naturally driven to set goals,you are more likely to succeed\n\n　　Actually,this isn't always the case.In fact,in some cases,extreme ambition may end up doing more harm than good.\n\n　　One major side effect of excessive ambition is the tendency to focus too determinedly on one particular vision or end goal.This is problematic because it hinders your ability to adapt to new circumstances,which is vital if you want to be a successful entrepreneur.If a new competitor emerges to threaten your business,you may need to change direction,even if that means straying from your original vision.If you have too much ambition,you'll find this hard,if not impossible.\n\n　　Few people are successful when they try to build their first brand.Unfortunately,for the most ambitious entrepreneurs,a failure is seen as disastrous,and impossible to recover from.\n\n　　It's a clear departure from the intended plan toward the intended goal.For people with limited ambition,however,failure is viewed as something closer to reality.Remember, failure is inevitable,and every failure you survive is a learning experience.\n\n　　Ambitious people tend to be more materialistically successful than their non-ambitious counterparts.However,they're only slightly happier than their less-ambitious counterparts, and tend to live significantly shorter lives.This implies that even though ambitious people are more likely to achieve conventional“success,”such success means nothing for their health and happiness—and if you don't have health and happiness,what else could possibly matter?\n\n　　Clearly,some amount of ambition is good for your motivation.Without any ambition, you wouldn't start your own business,set or achieve goals and get far in life.But an excess of ambition can also be dangerous,putting you at risk of burnout,stubbornness and even a shorter life",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. They are more willing to risk their own lives.",
+                  "B. They are more ambitious than ordinary people.",
+                  "C. They achieve greater nonconventional success.",
+                  "D. They have more positive qualities than most of us."
+                ],
+                "question": "What does the author think of most entrepreneurs?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. Ambitious people may not have a greater chance of success.",
+                  "B. Ambitious people may not have more positive qualities.",
+                  "C. Entrepreneurs'ambition does as much good as harm.",
+                  "D. Entrepreneurs are more naturally driven to success."
+                ],
+                "question": "What does the author imply by saying “this isn't always the case”(Line l,Para.3)?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. Holding on to one's original vision.",
+                  "B. Being able to adapt to new situations.",
+                  "C. Focusing determinedly on one particular goal.",
+                  "D. Avoiding radical change in one's career direction."
+                ],
+                "question": "What does the author say is of extreme importance for one to become a successful entrepreneur?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. It will awaken them to reality.",
+                  "B. It is a lesson they have to learn.",
+                  "C. It means the end of their career.",
+                  "D. It will result in a slow recovery."
+                ],
+                "question": "How do the most ambitious entrepreneurs regard failure in their endeavor?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Distinguish between conventional success and our life goal.",
+                  "B. Follow the example of the most ambitious entrepreneurs.",
+                  "C. Avoid taking unnecessary risks when starting a business.",
+                  "D. Prioritize health and happiness over material success."
+                ],
+                "question": "What does the author advise us to do concerning ambition?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose your university is conducting a survey to collect students'opinions of online classes.You are to write a response to the survey about their advantages and disadvantages,and what improvements can be made.You will have 30 minutes for the task. You should write at least 120words but no more than 180 words",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "中国越来越重视终身教育，发展继续教育是构建终身教育体系的有效途径。高校作为人才培养的基地，拥有先进的教学理念和优越的教学资源，理应成为继续教育的办学主体。因此，近年来许多高校适应社会需求，加强与用人单位沟通，努力探索一条符合中国国情的继续教育发展新路，以使继续教育在国家发展战略中发挥更大的作用。",
+    "directions": "Directions: For this part, you are allowed 30 mimutes to translate a passage from Chinese into English.You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_LmcXf6H.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_MkQR5iM.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_5G4udrl.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:07,700\r\nCollege English Test, Band-Four, Part 2, Listening Comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:08,180 --> 00:00:14,860\r\nIn this section, you'll hear three news reports. At the end of each news report, you'll hear two or three questions.\r\n\r\n3\r\n00:00:15,340 --> 00:00:18,700\r\nBoth the news report and the questions will be spoken only once.\r\n\r\n4\r\n00:00:19,460 --> 00:00:26,540\r\nAfter you hear a question, you must choose the best answer from the four choices, Mark A, B, C, and D.\r\n\r\n5\r\n00:00:26,540 --> 00:00:31,500\r\nThen mock the corresponding letter on Arsashit 1 with a single line through the center.\r\n\r\n6\r\n00:00:32,759 --> 00:00:34,280\r\nNews report 1.\r\n\r\n7\r\n00:00:35,020 --> 00:00:41,160\r\nA woman was charged with allegedly violating a Rhode Island city law against feeding wild animals.\r\n\r\n8\r\n00:00:41,940 --> 00:00:47,920\r\nThe 55-year-old woman's neighbors blame her for making the areas rat problem worse.\r\n\r\n9\r\n00:00:48,760 --> 00:00:54,020\r\nNullian stalled cameras captured several rats active in the middle of the day.\r\n\r\n10\r\n00:00:54,020 --> 00:00:57,480\r\nNeighbors say that it's even worse during the night.\r\n\r\n11\r\n00:00:58,280 --> 00:01:03,060\r\nThe woman and her parents, who owned the home, told reporters that she's being charged\r\n\r\n12\r\n00:01:03,060 --> 00:01:04,340\r\nfor feeding birds.\r\n\r\n13\r\n00:01:04,980 --> 00:01:09,820\r\nWho would have known just loving animals gets you that much trouble, she said.\r\n\r\n14\r\n00:01:10,740 --> 00:01:16,000\r\nIt is prohibited to feed any wild animals, including birds in Rhode Island City.\r\n\r\n15\r\n00:01:16,580 --> 00:01:22,960\r\nNevertheless, while the woman's intention was to feed birds, it is clear that rats were\r\n\r\n16\r\n00:01:22,960 --> 00:01:23,940\r\nAlso benefiting.\r\n\r\n17\r\n00:01:24,840 --> 00:01:31,360\r\nAnthony Merredi, director of the city administration, said he saw more than 20 rats near\r\n\r\n18\r\n00:01:31,360 --> 00:01:32,460\r\nthe woman's home.\r\n\r\n19\r\n00:01:32,640 --> 00:01:36,460\r\nHe said it will take months to get the problem under control.\r\n\r\n20\r\n00:01:37,660 --> 00:01:41,940\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n21\r\n00:01:42,640 --> 00:01:43,540\r\nQuestion 1.\r\n\r\n22\r\n00:01:43,820 --> 00:01:47,420\r\nWhat do we learn from the report about the 55-year-old woman?\r\n\r\n23\r\n00:02:02,480 --> 00:02:08,460\r\nQuestion 2. What did the director of the City Administration say at the end of the new report?\r\n\r\n24\r\n00:02:22,960 --> 00:02:36,560\r\nNew Support 2. To prepare for eventually sending astronauts to Mars, NASA began taking applications Friday for four people to live for a year in Mars, June, Alpha.\r\n\r\n25\r\n00:02:36,560 --> 00:02:43,100\r\nThat's a 1,700 square foot Martian habitat inside a building in Houston.\r\n\r\n26\r\n00:02:43,980 --> 00:02:47,680\r\nThe paid volunteers will work in environment similar to Mars.\r\n\r\n27\r\n00:02:48,380 --> 00:02:53,500\r\nThey will have limited communications with family, restricted food and resources.\r\n\r\n28\r\n00:02:54,360 --> 00:02:59,260\r\nNASA is planning three experiments with the first one starting in the fall next year.\r\n\r\n29\r\n00:03:00,000 --> 00:03:03,280\r\nFood will all be ready to eat space food.\r\n\r\n30\r\n00:03:03,280 --> 00:03:08,620\r\nSome plants will be grown, but not potatoes like in the movie The Martian.\r\n\r\n31\r\n00:03:09,580 --> 00:03:15,640\r\nWe want to understand how humans perform in them, said lead scientists grace Douglas.\r\n\r\n32\r\n00:03:16,400 --> 00:03:19,080\r\nWe're looking at Mars realistic situations.\r\n\r\n33\r\n00:03:20,180 --> 00:03:24,800\r\nThe application process opened Friday and they're not seeking just anybody.\r\n\r\n34\r\n00:03:25,460 --> 00:03:31,920\r\nThe requirements are strict, including a master's degree in a science, engineering, or\r\n\r\n35\r\n00:03:31,920 --> 00:03:39,840\r\nfield or pilot experience. Only American citizens or permanent US residents are acceptable.\r\n\r\n36\r\n00:03:40,680 --> 00:03:48,260\r\nApplicants must be between 30 and 55 and in good physical health. Attitude is key.\r\n\r\n37\r\n00:03:48,540 --> 00:03:54,500\r\nSaid former Canadian astronaut Chris Hatfield. He said the participants need to be super\r\n\r\n38\r\n00:03:54,500 --> 00:03:59,480\r\ncompetent, resourceful and not rely on other people to feel comfortable.\r\n\r\n39\r\n00:04:00,560 --> 00:04:05,560\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n40\r\n00:04:06,320 --> 00:04:07,480\r\nQuestion 3.\r\n\r\n41\r\n00:04:07,840 --> 00:04:11,480\r\nWhat does NASA require the paid volunteers to do?\r\n\r\n42\r\n00:04:25,740 --> 00:04:30,340\r\nQuestion 4. What will the participants in the project eat?\r\n\r\n43\r\n00:04:44,800 --> 00:04:47,160\r\nNews Report 3.\r\n\r\n44\r\n00:04:47,600 --> 00:04:54,500\r\nA Japanese mayor apologized Thursday for biting the Olympic gold medal of a softball player.\r\n\r\n45\r\n00:04:55,440 --> 00:05:03,040\r\nNagoya Mayor Takashi Kawamura had praised athlete Nio Goto during a public media event.\r\n\r\n46\r\n00:05:03,600 --> 00:05:06,020\r\nHe asked her to put the medal around his neck.\r\n\r\n47\r\n00:05:06,680 --> 00:05:09,200\r\nKawamura then bit into it.\r\n\r\n48\r\n00:05:09,200 --> 00:05:15,500\r\nBiding a medal in front of journalists and photographers has become a common pose for Olympic\r\n\r\n49\r\n00:05:15,500 --> 00:05:16,340\r\nmedalists.\r\n\r\n50\r\n00:05:16,840 --> 00:05:20,900\r\nHowever, it is only for the winners themselves, not others.\r\n\r\n51\r\n00:05:21,700 --> 00:05:27,180\r\nI'm really sorry that I hurt the treasure of the gold medalist, Talimura told reporters\r\n\r\n52\r\n00:05:27,180 --> 00:05:27,840\r\nThursday.\r\n\r\n53\r\n00:05:28,680 --> 00:05:34,080\r\nThe mayor said the medal was undamaged, though he offered to pay for the cost of a new\r\n\r\n54\r\n00:05:34,080 --> 00:05:34,660\r\none.\r\n\r\n55\r\n00:05:34,660 --> 00:05:40,140\r\nGoto, however, has accepted the International Olympic Committee's offer of a replacement,\r\n\r\n56\r\n00:05:40,980 --> 00:05:43,140\r\naccording to Japanese media reports.\r\n\r\n57\r\n00:05:43,940 --> 00:05:49,120\r\nThe scene broadcast on television prompted thousands of complaints to City Hall.\r\n\r\n58\r\n00:05:49,620 --> 00:05:54,760\r\nSummer Olympians said they treat their medals as treasures, and that it was disrespectful\r\n\r\n59\r\n00:05:54,760 --> 00:05:58,220\r\nand unacceptable for Kawamura to bite one.\r\n\r\n60\r\n00:05:58,220 --> 00:06:03,820\r\nI would cry if that happened to me, said another athlete, now he said a takato.\r\n\r\n61\r\n00:06:04,640 --> 00:06:10,160\r\nI handled my own gold medal so gently that I would not scratch it.\"\r\n\r\n62\r\n00:06:10,160 --> 00:06:14,420\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n63\r\n00:06:15,160 --> 00:06:16,160\r\nQuestion 5.\r\n\r\n64\r\n00:06:16,680 --> 00:06:20,840\r\nWhat does the news report say about the Japanese mayor Takashi-Karou Murat?\r\n\r\n65\r\n00:06:34,799 --> 00:06:42,020\r\nQuestion 6. What did Mayor Takashi Karamura offer to do?\r\n\r\n66\r\n00:06:54,780 --> 00:07:00,100\r\nQuestion 7. What did some of them can say they would do with their medals?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:00,000 --> 00:00:05,320\r\nSection B, directions, in this section you will hear too long conversations.\r\n\r\n2\r\n00:00:06,040 --> 00:00:13,620\r\nAt the end of each conversation, you will hear four questions, both the conversation and the questions will be spoken only once.\r\n\r\n3\r\n00:00:14,220 --> 00:00:21,660\r\nAfter you hear a question, you must choose the best answer from the four choices, Marked A, B, C, and D.\r\n\r\n4\r\n00:00:22,080 --> 00:00:27,200\r\nThen Mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n5\r\n00:00:28,940 --> 00:00:30,380\r\nConversation 1\r\n\r\n6\r\n00:00:30,380 --> 00:00:33,120\r\nWhat's that orange thing on your computer screen?\r\n\r\n7\r\n00:00:33,480 --> 00:00:34,840\r\nIt's something about yesterday.\r\n\r\n8\r\n00:00:35,040 --> 00:00:37,880\r\nIt's a plastic sheet that blocks blue light.\r\n\r\n9\r\n00:00:38,360 --> 00:00:41,500\r\nI have one that I used to cover my phone screen too.\r\n\r\n10\r\n00:00:41,920 --> 00:00:44,000\r\nWhat do you mean by blue light?\r\n\r\n11\r\n00:00:44,660 --> 00:00:46,760\r\nBlue light includes natural light.\r\n\r\n12\r\n00:00:47,100 --> 00:00:49,480\r\nBut it also includes light that isn't natural.\r\n\r\n13\r\n00:00:49,920 --> 00:00:55,340\r\nFor example, from computers, phones, televisions, and other electronic devices.\r\n\r\n14\r\n00:00:56,040 --> 00:01:00,060\r\nSo, blue light is harmful and that's why you want to block it?\r\n\r\n15\r\n00:01:00,260 --> 00:01:01,520\r\nIt isn't that simple.\r\n\r\n16\r\n00:01:02,040 --> 00:01:04,720\r\nBlue light isn't necessarily bad for us.\r\n\r\n17\r\n00:01:05,099 --> 00:01:08,200\r\nIn fact, we need blue light during the day to be healthy.\r\n\r\n18\r\n00:01:08,800 --> 00:01:14,500\r\nBut too much blue light, especially from electronic devices, can harm our health by weakening\r\n\r\n19\r\n00:01:14,500 --> 00:01:17,540\r\nour vision and making it harder for us to fall asleep.\r\n\r\n20\r\n00:01:18,060 --> 00:01:21,220\r\nAnd poor sleep can cause all sorts of health problems.\r\n\r\n21\r\n00:01:21,220 --> 00:01:27,560\r\nI'm not so sure that sleep is nearly as important as people always say it is.\r\n\r\n22\r\n00:01:27,820 --> 00:01:34,340\r\nI haven't slept enough in months because I have too much work to do, and I feel fine,\r\n\r\n23\r\n00:01:34,720 --> 00:01:37,060\r\nand it's the same for most of my friends.\r\n\r\n24\r\n00:01:37,720 --> 00:01:43,060\r\nPursleep might be a problem for older people but surely young people can handle late\r\n\r\n25\r\n00:01:43,060 --> 00:01:43,600\r\nnights.\r\n\r\n26\r\n00:01:44,220 --> 00:01:49,380\r\nWell, the research I've read shows that sleep is probably even more important than we\r\n\r\n27\r\n00:01:49,380 --> 00:01:56,540\r\nand that not having enough sleep can contribute to serious health problems, like obesity and heart disease.\r\n\r\n28\r\n00:01:57,380 --> 00:02:03,640\r\nAnd all the artificial blue light from electronic devices means we have to try harder to sleep well.\r\n\r\n29\r\n00:02:04,280 --> 00:02:10,380\r\nMaybe you're right. I'm on my computer very late most nights, and that's probably why I don't sleep enough.\r\n\r\n30\r\n00:02:11,500 --> 00:02:15,940\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n31\r\n00:02:15,940 --> 00:02:19,920\r\nQuestion 8. What did the woman do to her computer?\r\n\r\n32\r\n00:02:34,820 --> 00:02:38,620\r\nQuestion 9. What does the woman say about blue light?\r\n\r\n33\r\n00:02:53,140 --> 00:02:58,280\r\nQuestion 10. Why does the man say he hasn't slept enough for months?\r\n\r\n34\r\n00:03:12,920 --> 00:03:15,920\r\nQuestion 11. What has the woman learned in the book?\r\n\r\n35\r\n00:03:15,920 --> 00:03:19,800\r\nfrom the research she has read.\r\n\r\n36\r\n00:03:33,440 --> 00:03:34,720\r\nConversation to\r\n\r\n37\r\n00:03:34,720 --> 00:03:38,960\r\nAs a kid, did you know what job you wanted to do when you grew up?\r\n\r\n38\r\n00:03:39,680 --> 00:03:44,640\r\nNo, I didn't. And I got sick every time adults asked me\r\n\r\n39\r\n00:03:44,640 --> 00:03:46,680\r\nWhat I wanted to be when I grew up.\r\n\r\n40\r\n00:03:47,000 --> 00:03:52,460\r\nIt's the same with me, and I'm tired of people asking that question of my 10-year-old daughter.\r\n\r\n41\r\n00:03:53,140 --> 00:03:59,180\r\nMy daughter's stock answers are basketball player, pop singer, mechanical engineer.\r\n\r\n42\r\n00:03:59,940 --> 00:04:01,660\r\nI don't love that last one.\r\n\r\n43\r\n00:04:02,100 --> 00:04:05,280\r\nAs it's the perfect mix of the sensible and the ambitious.\r\n\r\n44\r\n00:04:06,100 --> 00:04:11,800\r\nWhen she was much younger, my daughter used to say she wanted to be Queen of the Clouds,\r\n\r\n45\r\n00:04:11,960 --> 00:04:12,700\r\nwhich I loved.\r\n\r\n46\r\n00:04:12,700 --> 00:04:18,680\r\nThat's the kind of goal setting I like to see in children, springing from their boundless\r\n\r\n47\r\n00:04:18,680 --> 00:04:19,760\r\nimaginations.\r\n\r\n48\r\n00:04:20,600 --> 00:04:27,040\r\nYes, we grown-ups can be tedious and limiting in our need for reality, and we teach a very\r\n\r\n49\r\n00:04:27,040 --> 00:04:33,080\r\ngloomy image of adulthood, that whatever our children's future holds, must be seen within\r\n\r\n50\r\n00:04:33,080 --> 00:04:34,680\r\nthe context of a job.\r\n\r\n51\r\n00:04:35,140 --> 00:04:38,060\r\nHow utterly overwhelming and dull.\r\n\r\n52\r\n00:04:38,060 --> 00:04:43,900\r\nWhen people ask my son what he wants to be when he grows up, I have to swallow the urge\r\n\r\n53\r\n00:04:43,900 --> 00:04:46,900\r\nto say, hey, back off my kid's dreams.\r\n\r\n54\r\n00:04:47,760 --> 00:04:52,740\r\nWe can't dismiss the idea that teenagers have to plan to do something after they finish\r\n\r\n55\r\n00:04:52,740 --> 00:04:53,280\r\nschool.\r\n\r\n56\r\n00:04:53,680 --> 00:04:58,900\r\nIn parents are entitled to hope it's more than simply spending 10 hours a day playing computer\r\n\r\n57\r\n00:04:58,900 --> 00:04:59,620\r\ngames.\r\n\r\n58\r\n00:05:00,140 --> 00:05:02,280\r\nBut asking, what do you want to be?\r\n\r\n59\r\n00:05:02,680 --> 00:05:05,280\r\nIsn't going to lead a child to fulfill life?\r\n\r\n60\r\n00:05:05,280 --> 00:05:09,760\r\nrather at least the full-sex expectations and a high chance of disappointment.\r\n\r\n61\r\n00:05:10,760 --> 00:05:18,340\r\nExactly. We should be helping our kids understand who they are, even if that means letting go of who we think they should be.\r\n\r\n62\r\n00:05:19,740 --> 00:05:23,720\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n63\r\n00:05:24,440 --> 00:05:30,040\r\nQuestion 12. What question were both speakers fed up with when they were kids?\r\n\r\n64\r\n00:05:44,480 --> 00:05:52,540\r\nQuestion 13. What occupation do adults see as both sensible and ambitious according to the woman?\r\n\r\n65\r\n00:06:07,159 --> 00:06:12,560\r\nQuestion 14. What kind of goal setting does the woman like to see in children?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,759 --> 00:00:15,360\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n\r\n2\r\n00:00:15,900 --> 00:00:29,080\r\nAfter you hear a question, you must choose the best answer from the four choices, marked A, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n3\r\n00:00:30,000 --> 00:00:37,000\r\nPassage 1. Greater Internet Access correlates directly with improved health care, education,\r\n\r\n4\r\n00:00:37,520 --> 00:00:44,500\r\nand economic development. People living in rural areas, however, lag behind in online use,\r\n\r\n5\r\n00:00:44,940 --> 00:00:50,920\r\nwhich limits their access to government services, banking, and job opportunities. nowhere\r\n\r\n6\r\n00:00:50,920 --> 00:00:57,820\r\nis this challenge clearer than in Africa. Most Africans live in rural areas that are tough\r\n\r\n7\r\n00:00:57,820 --> 00:01:04,300\r\nwire for internet access. Now, some phone companies are trying to introduce internet\r\n\r\n8\r\n00:01:04,300 --> 00:01:10,180\r\nready phones into African markets. Certain companies have started selling simple smart\r\n\r\n9\r\n00:01:10,180 --> 00:01:17,140\r\nphones for only $20. Previously, the lowest price had been around $40. Well out of reach\r\n\r\n10\r\n00:01:17,140 --> 00:01:23,600\r\nfor many people. These devices are powered by software from the giant electronics company\r\n\r\n11\r\n00:01:23,600 --> 00:01:31,160\r\nKIS technologies limited. Most companies are trying to make phones ever more powerful and capable,\r\n\r\n12\r\n00:01:31,780 --> 00:01:38,200\r\nbut KIS OS when the other way. It made every effort to keep the essential capabilities of smart\r\n\r\n13\r\n00:01:38,200 --> 00:01:45,200\r\nphones but strip out costs and preserve battery life for people who likely have inadequate access\r\n\r\n14\r\n00:01:45,200 --> 00:01:52,680\r\nto electricity. The KIS OS devices offer an alternative to the more expensive models that remain\r\n\r\n15\r\n00:01:52,680 --> 00:02:00,760\r\nout of reach of many Africans and contribute to the digital divide. The body of KISOS phones\r\n\r\n16\r\n00:02:00,760 --> 00:02:08,100\r\nis as basic as it gets. Instead of a touchscreen, they control with an old-school keypad.\r\n\r\n17\r\n00:02:08,419 --> 00:02:16,620\r\nThey're designed for 3G networks because 4G coverage doesn't reach 2-thirds of Africa's customers.\r\n\r\n18\r\n00:02:16,620 --> 00:02:25,920\r\nIn total, KIOs phones are made from about $15 worth of parts, while apples top of the line\r\n\r\n19\r\n00:02:25,920 --> 00:02:30,120\r\niPhone has $390 worth of stuff.\r\n\r\n20\r\n00:02:31,020 --> 00:02:35,480\r\nQuestion 16 to 18 are based on the passage you have just heard.\r\n\r\n21\r\n00:02:36,220 --> 00:02:41,400\r\nQuestion 16 What are a number of phone companies trying to do in Africa?\r\n\r\n22\r\n00:02:55,920 --> 00:02:57,500\r\nQuestion 17.\r\n\r\n23\r\n00:02:58,360 --> 00:03:03,780\r\nHow do KyoS smart phones differ from smart phones of most other companies?\r\n\r\n24\r\n00:03:17,880 --> 00:03:23,680\r\nQuestion 18. What are Kai OS smartphones equipped with?\r\n\r\n25\r\n00:03:37,980 --> 00:03:46,900\r\nPassage 2. For years, using recycled plastic to make plastic products was cheap. By contrast,\r\n\r\n26\r\n00:03:46,900 --> 00:03:49,900\r\nfossil fuel plastic was more expensive.\r\n\r\n27\r\n00:03:50,920 --> 00:03:55,060\r\nThus, the sustainable option was an economic option too.\r\n\r\n28\r\n00:03:55,760 --> 00:04:00,200\r\nBut now, it is cheaper for major manufacturers to use new plastic.\r\n\r\n29\r\n00:04:01,200 --> 00:04:03,190\r\nAccording to one recent business report,\r\n\r\n30\r\n00:04:03,780 --> 00:04:10,760\r\nRecycled plastic now costs an extra $72 a ton compared with newly made plastic.\r\n\r\n31\r\n00:04:11,380 --> 00:04:13,960\r\nThis may be because of consumer demands.\r\n\r\n32\r\n00:04:13,960 --> 00:04:18,420\r\nThey are pushing for more recycled plastics in new products.\r\n\r\n33\r\n00:04:19,360 --> 00:04:21,920\r\nMeanwhile, new plastic is becoming cheaper.\r\n\r\n34\r\n00:04:22,460 --> 00:04:27,180\r\nThis is because of a boom in petroleum chemical production from the US.\r\n\r\n35\r\n00:04:28,060 --> 00:04:35,980\r\nThe price increase of recycled plastic could cost sustainable manufacturers an extra $250 million\r\n\r\n36\r\n00:04:35,980 --> 00:04:37,300\r\na year.\r\n\r\n37\r\n00:04:37,840 --> 00:04:43,080\r\nSmaller manufacturers may also be forced to use new plastic to reduce costs.\r\n\r\n38\r\n00:04:43,080 --> 00:04:51,080\r\nNakers of clear plastic bottles may also opt for new fossil fuel-based plastic to save money.\r\n\r\n39\r\n00:04:51,940 --> 00:04:56,760\r\nPlastic packaging makers are being pressured to use more recycled plastic.\r\n\r\n40\r\n00:04:57,300 --> 00:05:02,760\r\nThis is done in hopes of reducing the enormous amount of plastic pollution in the oceans.\r\n\r\n41\r\n00:05:04,080 --> 00:05:12,200\r\nThe UK government plans to tax companies, which don't use at least 30% with recycled plastic in their products.\r\n\r\n42\r\n00:05:12,200 --> 00:05:18,780\r\nAdditionally, the government is planning to increase the quantity of recycled plastic in the market.\r\n\r\n43\r\n00:05:19,860 --> 00:05:23,160\r\nThis could mean incentives for new recycling plants.\r\n\r\n44\r\n00:05:23,800 --> 00:05:28,580\r\nAdditionally, recycling facilities may be improved at a local council level,\r\n\r\n45\r\n00:05:28,900 --> 00:05:31,100\r\nand recycled plastic could be imported.\r\n\r\n46\r\n00:05:31,980 --> 00:05:36,320\r\nThis would help increase the amount of recycled plastic in circulation.\r\n\r\n47\r\n00:05:36,320 --> 00:05:49,920\r\nQuestion 19. Question 19. Question 19. Question 19. What is said about using recycled plastic to make plastic products in the past?\r\n\r\n48\r\n00:06:04,500 --> 00:06:10,060\r\nQuestion 20. What has led to a more competitive prize for new plastic?\r\n\r\n49\r\n00:06:24,600 --> 00:06:30,500\r\nQuestion 21. What does the UK government plan to do about plastic?\r\n\r\n50\r\n00:06:44,940 --> 00:06:46,580\r\nPassage 3.\r\n\r\n51\r\n00:06:47,180 --> 00:06:54,920\r\nAt the dreamery, a business in Manhattan, Naps of Facil, a 45-minute session in a darkened enclosure\r\n\r\n52\r\n00:06:54,920 --> 00:06:58,040\r\nwith peace and quiet costs $25.\r\n\r\n53\r\n00:06:58,659 --> 00:07:06,520\r\nTo be clear, this institution is no hotel. This is an app joint. It sells the idea of the\r\n\r\n54\r\n00:07:06,520 --> 00:07:16,380\r\nmap as much as the map itself. Is a map worth $25? The answer is obviously yes. Here\r\n\r\n55\r\n00:07:16,380 --> 00:07:21,140\r\nat this point in the argument, it's traditional for me to bring up all the studies that\r\n\r\n56\r\n00:07:21,140 --> 00:07:26,780\r\nshow the benefits of mapping. But do you really need experts to tell you that? Just look\r\n\r\n57\r\n00:07:26,780 --> 00:07:29,520\r\nthe world around you at 230 in the afternoon.\r\n\r\n58\r\n00:07:30,660 --> 00:07:35,340\r\nI've been working from home for more than 10 years now, and the quality and quantity of\r\n\r\n59\r\n00:07:35,340 --> 00:07:39,260\r\nwork I can do emerges directly from my ability to concentrate.\r\n\r\n60\r\n00:07:39,840 --> 00:07:44,020\r\nI don't understand how people have created careers without mapping.\r\n\r\n61\r\n00:07:44,720 --> 00:07:51,220\r\nEvery day at about 1pm, everyone faces the same choice, sleep until 2pm, and then work\r\n\r\n62\r\n00:07:51,220 --> 00:07:57,180\r\nuntil 5, or daydream and drift around social media and attend pointless meetings until\r\n\r\n63\r\n00:07:57,180 --> 00:08:03,460\r\n7pm. The friends I have who still work in officers inform me their bosses insist that\r\n\r\n64\r\n00:08:03,460 --> 00:08:10,120\r\nthey take the second option and that nothing is associated with laziness. I genuinely\r\n\r\n65\r\n00:08:10,120 --> 00:08:17,540\r\nfind it odd for if you map properly, it's like waking up from a full night's sleep and\r\n\r\n66\r\n00:08:17,540 --> 00:08:20,160\r\nYou can double your day's worth of concentration.\r\n\r\n67\r\n00:08:21,720 --> 00:08:26,360\r\nQuestions 22 to 25 are based on the passage you have just heard.\r\n\r\n68\r\n00:08:27,180 --> 00:08:28,080\r\nQuestion 22.\r\n\r\n69\r\n00:08:28,960 --> 00:08:32,620\r\nWhat do we learn about the dreamery, a business in Manhattan?\r\n\r\n70\r\n00:08:47,260 --> 00:08:54,460\r\nQuestion 23. Why does the speaker ask us to look at the world around us at 2.30 in the afternoon?\r\n\r\n71\r\n00:09:08,920 --> 00:09:15,660\r\nQuestion 24. What do we learn about the quantity and quality of the speaker's work?\r\n\r\n72\r\n00:09:29,820 --> 00:09:32,600\r\nQuestion 25. What does the question be?\r\n\r\n73\r\n00:09:32,600 --> 00:09:35,520\r\nspeaker say he finds odd.\r\n\r\n74\r\n00:09:49,540 --> 00:09:51,600\r\nThat's the end of listing comprehension.",
+  "passages_transcript_zh": ""
+}

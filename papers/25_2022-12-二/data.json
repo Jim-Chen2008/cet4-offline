@@ -1,0 +1,678 @@
+{
+  "id": 25,
+  "exam": 25,
+  "exam_details": {
+    "id": 25,
+    "title": "2022年12月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2022,
+    "month": 12,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T21:32:17.161000+08:00",
+    "updated_at": "2025-04-26T21:32:17.161000+08:00",
+    "exam_id": 25,
+    "submission_count": 0,
+    "cet_content_id": 25,
+    "has_draft": false
+  },
+  "created_at": "2025-04-26T21:47:11.283000+08:00",
+  "updated_at": "2025-04-26T21:47:11.283000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. A free car show.",
+              "B. A yearly concert.",
+              "C. A sports competition.",
+              "D. A pipe band contest."
+            ],
+            "question": "What event will take place in Glasgow?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Improve the image of Glasgow city.",
+              "B. Enrich the local culture of Glasgow.",
+              "C. Contribute a lot to the local economy.",
+              "D. Entertain people in local communities."
+            ],
+            "question": "What does Glasgow City Council say the event will do?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Surprising rise in global sea levels.",
+              "B. Dangerous ice melts in Greenland.",
+              "C. Changing weather patterns in summer.",
+              "D. Record growth of Greenland's ice sheets."
+            ],
+            "question": "What is scientists warning in the news report?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It began in late May.",
+              "B. It lasted three months.",
+              "C. It started a month earlier than usual.",
+              "D. It ended a month earlier than before."
+            ],
+            "question": "What do we learn about this year's ice melting season in Greenland?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. Bundles of £20 notes kept turning up.",
+              "B. A villager was searching for his lost cash.",
+              "C. Local policemen came across bundles of £20 notes.",
+              "D. A bundle containing thousands of pounds got stolen."
+            ],
+            "question": "What happened on the streets of Black Hall, Coloring?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. They give it to charity.",
+              "B. They return it to the finder.",
+              "C. They hand it over to the local government.",
+              "D. They place a notice in The Northern Echo."
+            ],
+            "question": "What do the local police do with the money if not claimed in two weeks?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. They cooperated well with the police.",
+              "B. They enjoyed a fairly affluent life.",
+              "C. They were puzzled by the mystery.",
+              "D. They had a strong community spirit."
+            ],
+            "question": "What did the police man John Forster say about the villagers?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. Excited.",
+              "B. Delighted.",
+              "C. Indifferent.",
+              "D. Strange"
+            ],
+            "question": "How does the man often feel on his birthday?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. Search for the meaning of their life.",
+              "B. Look back on their years at school.",
+              "C. Call on their relatives and friends.",
+              "D. Talk about future plans with friends."
+            ],
+            "question": "What does the woman say many people tend to do on their birthday?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. He prefers to have them shown on social media.",
+              "B. He loves them but does not want to make a fuss.",
+              "C. He enjoys celebrating others'birthdays rather than his own.",
+              "D. He looks forward to receiving presents from his close friends."
+            ],
+            "question": "What does the man say about receiving gifts and having a fuss made on his birthday?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Hold it on a modest scale to remove birthday anxieties.",
+              "B. View it as a chance for people to socialize and have fun.",
+              "C. Extend invitation to those he trusts most.",
+              "D. Make it an occasion to collect donations."
+            ],
+            "question": "What does the woman suggest the man do about his birthday celebration at the end of the conversation?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. It was absolutely exhausting.",
+              "B. There was a terrible smell.",
+              "C. There was too long a delay.",
+              "D. She got off at the wrong station."
+            ],
+            "question": "What does the woman say about her subway ride?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. She hasn't saved enough money.",
+              "B. She is worried about traffic jams.",
+              "C. She hasn't passed the driving test yet.",
+              "D. She is used to taking public transport."
+            ],
+            "question": "Why hasn't the woman got her own car?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. They are popular.",
+              "B. They are dangerous.",
+              "C. They are a bit expensive for her.",
+              "D. They are environmentally friendly."
+            ],
+            "question": "What does the woman say about electric motorbikes?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. By bus",
+              "B. By jogging",
+              "C. By renting a bike",
+              "D. By sharing a ride."
+            ],
+            "question": "How was the woman going to get to work?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. He is a sign language interpreter.",
+              "B. He is a deaf person working in IT.",
+              "C. He doesn't like speaking at meetings.",
+              "D. He doesn't use email or text messages."
+            ],
+            "question": "What do we learn about Steve Miller?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Improved communication skills.",
+              "B. Speech recognition technology.",
+              "C. Big advances in sign language.",
+              "D. Transformation in the IT industry."
+            ],
+            "question": "What does Miller say is making things better for people like him?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. He can avoid being mistaken.",
+              "B. He can take notes on the spot.",
+              "C. He can understand with ease.",
+              "D. He can see the speakers'images."
+            ],
+            "question": "In what way can Miller benefit from attending meetings via video?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. To find pure white walls shining.",
+              "B. To enter a house well looked after.",
+              "C. To get a hug from family members.",
+              "D. To see cheerful colours all around."
+            ],
+            "question": "What do people want upon returning home according to the passage?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Choosing a colour because it is fashionable.",
+              "B. Painting the interior of their cupboards.",
+              "C. Doing the painting job all by themselves.",
+              "D. Designing all window frames the same way."
+            ],
+            "question": "What does the passage say people should avoid doing in home decoration?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Fit most of the cupboards into walls.",
+              "B. Hang landscape paintings all around.",
+              "C. Match the room's ceiling with all the furniture in colour.",
+              "D. Paint the wooden frameworks and walls the same colour."
+            ],
+            "question": "What can one of the people do to make a room look bigger."
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Children must read at least 3 times a week.",
+              "B. Reading is a habit every child can develop.",
+              "C. Reading to their children is important.",
+              "D. Children should start reading at age 3."
+            ],
+            "question": "What does the passage say parents increasingly understand?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. The number of books they have read by age four.",
+              "B. The speed of their brain development in infancy.",
+              "C. The number and quality of books parents read to them in infancy.",
+              "D. The quality and quantity of time parents spend playing with them."
+            ],
+            "question": "What can predict children's reading skills according to recent research?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. Books with specifically labeled images.",
+              "B. Books with pictures of dolls and toys.",
+              "C. Books describing the lives of animals.",
+              "D. Books telling very interesting stories."
+            ],
+            "question": "What kind of books are said to help babies learn more?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Read as many books as possible to their children.",
+              "B. Choose carefully what to read to their children.",
+              "C. Share experience with other parents.",
+              "D. Create picture books for their children."
+            ],
+            "question": "What are parents advised to do at the end of the passage?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "　　Parenting brings fathers more joy than it does mothers,according to a new study.The research examined three studies __26__ more than 18,000 participants.Across all three, parenthood was _27__ with more positive wellbeing outcomes for dads than for mums.\n　　So why are fathers happier than mothers?\"Fathers may fare better than mothers in part due to how they spend time with their children,\"said lead author Katherine Nelson-Coffey. In one study,the authors __28__ that dads were more likely to take“playing”as an __29__ activity both when caring for their kids and spending time with their kids. “Playing with their children likely offers parents opportunities to experience positive feelings and __30__ closeness with their children,\"they say.\n　　Fathers also did better than men without kids,reporting greater happiness,life satisfaction,and fewer __31__ symptoms.They also reported greater connectedness and autonomy(自主).For mums, __32__,compared to women without children,the results weren't quite as positive.Mums reported greater autonomy,but also“greater trouble\"and fewer positive __33__\n　　Mums reported happier moods while interacting with their kids,compared to other experiences,but not while engaging __34__ in childcare.“This difference suggests that how mothers and fathers spend time with their children might have important __35__ for their wellbeing,\"the authors write.They suspect that mums may be less happy than dads because they're more likely to have higher expectations about parenthood.As such,they're more likely to be\"let down\"by the experience.",
+        "word_bank": [
+          "additional",
+          "associated",
+          "composing",
+          "cultivate",
+          "depressive",
+          "directly",
+          "emotions",
+          "however",
+          "implications",
+          "interfered",
+          "involving",
+          "note",
+          "superficial",
+          "precisely",
+          "therefore"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "People often grant a request just because they want to appear polite and helpful."
+          },
+          {
+            "id": 37,
+            "content": "It's no easy job learning to say “no” to opportunities that were once considered worth grasping."
+          },
+          {
+            "id": 38,
+            "content": "When you decline a request,you are saving your future time."
+          },
+          {
+            "id": 39,
+            "content": "People sometimes struggle to do things that are simply a waste of time."
+          },
+          {
+            "id": 40,
+            "content": "Doing efficiently what is not worth doing is the most useless effort."
+          },
+          {
+            "id": 41,
+            "content": "It is especially difficult for people to decline to do what their superiors ask them to do."
+          },
+          {
+            "id": 42,
+            "content": "People agree to do too many things they are in fact unwilling to do."
+          },
+          {
+            "id": 43,
+            "content": "According to one famous entrepreneur,innovation means refusal to do an enormous number of things"
+          },
+          {
+            "id": 44,
+            "content": "It is an essential aspect of life to cooperate with other people."
+          },
+          {
+            "id": 45,
+            "content": "Refusing a request is sometimes seen as a privilege not enjoyed by ordinary people."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Not doing something will always be faster than doing it.This philosophy applies in many areas of life.For example,there is no meeting that goes faster than not having a meeting at all.This is not to say you should never attend another meeting,but the truth is that we say“yes”to too many things we don't actually want to do."
+          },
+          {
+            "id": "B",
+            "content": "How often do people ask you to do something and you just reply,\"Sure.\"Three days later,you're overwhelmed by how much is on your to-do list.We become frustrated by our obligations even though we were the ones who said\"yes\"to them in the first place. Even worse,people will occasionally fight to do things that waste time.You don't have to do something just because it exists.It's worth asking if things are necessary.Many of them are not,and a simple 'no will be more productive than whatever work the most efficient person can cope with.But if the benefits of saying“ no” are so obvious,then why do we say ”yes”so often ? "
+          },
+          {
+            "id": "C",
+            "content": "We say “yes“to many requests not because we want to do them,but because we don 't want to be seen as rude or unhelpful.Often,we have to consider saying“no”to someone we will interact with again in the future—our co-worker,our spouse,our family and friends.Saying“no”to our superiors at work can be particularly difficult.In these situations,I like the approach recommended in Essentialism by Greg McKeown. He writes,“Remind your superiors what you would be neglecting if you said yes 'and force them to deal with the trade-off.For example,if your manager comes to you and asks you to do X,you can respond with‘Yes,I'm happy to make this the priority.Which of these other projects should I deprioritize to pay attention to this new project ? "
+          },
+          {
+            "id": "D",
+            "content": "Collaborating with others is an important element of life.The thought of straining the relationship outweighs the commitment of our time and energy.For this reason,it can be helpful to be gracious in your response.Do whatever favors you can,and be warm-hearted and direct when you have to say no.But even after we have accounted for these social considerations,many of us still seem to do a poor job of managing the trade-off between yes and no.We find ourselves over-committed to things that don't meaningfully improve or support those around us,and certainly don't improve our own lives."
+          },
+          {
+            "id": "E",
+            "content": "Perhaps one issue is how we think about the meaning of yes and no.The words \"yes\" and“no”get so often used in comparison with each other that it feels like they carry equal weight in conversation.In reality,they're not just opposite in meaning,but of entirely different magnitudes in commitment.When you say“no”,you're only saying“no”to one option.When you say “yes”,you're saying “no”to every other option.I like how economist Tim Harford put it,Every time we say 'yes'to a request,we 're also saying'no 'to anything else we might accomplish with the time.Once you're committed to something,you 've already decided how that future block of time will be spent.In other words,saying“no”saves you time in the future.Saying“yes”costs you time in the future.“No”is a form of time credit.You retain the ability to spend your future time however you want.“Yes”is a form of time debt.You have to pay back your commitment at some point."
+          },
+          {
+            "id": "F",
+            "content": "“No”is a decision.“Yes”is a responsibility.Saying“no”is sometimes seen as a luxury that only those in power can afford.And it's true:turning down opportunities is easier when you can fall back on the safety net provided by power,money,and authority.But it's also true that saying “no”is not merely a privilege reserved for the successful.It's also a strategy that can help you become successful.Saying “no”is an important skill to develop at any stage of your career because it retains the most important asset in life: your time.As investor Pedro Sorrentino put it,“If you don't guard your time,people will steal it from you.You need to say“no”to whatever isn't leading you toward your goals."
+          },
+          {
+            "id": "G",
+            "content": "Nobody embodied this idea better than Steve Jobs,who said,“People think focus means saying 'yes'to the thing you've got to focus on.But that's not what it means at all.It means saying'no’to the hundred other good ideas that there are.You have to pick carefully.”Jobs had another great quote about saying “no”:“I'm actually as proud of the things we haven't done as the things I have done.Innovation is saying 'no'to 1,000 things."
+          },
+          {
+            "id": "H",
+            "content": "Over time,as you continue to improve and succeed,your strategy needs to change.The opportunity cost of your time increases as you become more successful.At first,you just eliminate the obvious distractions and explore the rest.As your skills improve and you learn to separate what works from what doesn't,you have to continually increase your threshold for saying “yes”.You still need to say “no” to distractions,but you also need to learn to say“no”to opportunities that were previously good uses of time,so you can make space for better uses of time.It's a good problem to have,but it can be a tough skill to master."
+          },
+          {
+            "id": "I",
+            "content": "What is true about health is also true about productivity:an ounce of prevention is worth a pound of cure.More effort is wasted doing things that don't matter than is wasted doing things inefficiently.And if that is the case,elimination is a more useful skill than optimization.I'm reminded of the famous Peter Drucker quote,“There is nothing so useless as doing efficiently that which should not be done at all."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "　　We're eating more fish than ever these days.At around 20 kilograms per person global fish consumption is now more than twice what it was in the 1960s.What's really remarkable,though,is where that fish comes from.\n　　For the first time in human history,most of our aquatic(水产的)food now comes from farming rather than fishing.\n　　People ate around 73 million tonnes of farmed fish—just more than half of the volume of fish that humans consumed—in 2014.That's out of a total fish supply of 167 million tonnes;the remaining 20 million or so tonnes go into things like animal feed and medical products\n　　To keep eating fish at the current rate,were definitely going to need to keep aquaculture (水产养殖)developing.That's because the volume offish caught in the wild\n　　has leveled off since the 1990s.\n　　Back in 1974,only 10%of marine fish stocks had been overfished.Now,more than three-tenths are.Only a tenth of our oceans'fish stocks could sustain heavier fishing than current levels.\n　　But while catchings at sea have suffered,fish-farming has been growing at a fast rate. A lot of that is coming from China,which produces 60%of the world's farmed fish.In fact,some 35 countries,including China,now produce more farmed than wild-caught fish.\n　　This shift toward aquaculture isn't just good for ensuring salmon(三文鱼)on your plate;it's also crucial to ensuring food security and sustainability.By 2050,the world will need to feed an estimated 9.7 billion people.They'll have to get their protein somewhere. However,raising cattle,pigs,and other land-based animals requires vast sums of grain and water.For example,pound for pound,beef requires 15 times more feed to raise than carp,a freshwater fish farmed all over Asia.That grain-and the water needed to grow it-could be consumed by people instead.\n　　However,aquaculture is no silver bullet.In some southeast Asian countries,shrimp farming does disastrous damage to marine ecosystems.Despite these problems,however,shrimp continues to be among the most popular sea foods worldwide.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They reproduce quickly.",
+                  "B. They are mostly farmed.",
+                  "C. They have become as important as grain.",
+                  "D. They have a longer history than humans."
+                ],
+                "question": "What does the author say is remarkable about the fish we eat?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Increase the fishing volume considerably.",
+                  "B. Develop more advanced fishing technology.",
+                  "C. Enlarge the marine fish stocks effectively.",
+                  "D. Expand the scale offish-farming continuously."
+                ],
+                "question": "What do we need to do if we keep consuming fish at the current rate?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. It places increasing emphasis on fishing now.",
+                  "B. It boasts of the world's largest fishing stocks.",
+                  "C. It raises more fish than caught from the wild.",
+                  "D. It supplies 60%of the world's fish products."
+                ],
+                "question": "What does the author say about China in terms of aquatic food?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It is a must for feeding the world's fast-growing population.",
+                  "B. It proves a reliable source of protein for humans and animals.",
+                  "C. It is essential to maintaining both mental and physical health.",
+                  "D. It ensures a balanced healthy diet for people the world over."
+                ],
+                "question": "Why does the author say aquaculture is so important these days?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Shrimp-farming is a risky business.",
+                  "B. Fish-farming will not be sustainable.",
+                  "C. Fish-farming may cause serious problems too.",
+                  "D. Shrimp-farming can become quite expensive."
+                ],
+                "question": "What does the author imply by saying aquaculture is no silver bullet?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "　　In 2020,the Nobel Peace Prize was awarded to the World Food Programme (WFP).\n　　Why a Nobel Prize for the WFP,and why now?In 2019,the WFP assisted nearly 100 million people in 88 countries.It is the safety net for those who fall off the edge of existence.It is a response to solving the problem of food instability.Its Nobel Prize reminds us all of the moral hazard in imagining that the poor and vulnerable are somebody else's problem.\n　　The WFP has been around since 1961 and has been the global coordinator of nationally based efforts to avoid disasters with food aid.Despite decades of effort to eliminate hunger,the latest estimate is that about 11%of people on the planet (about 820 million people)are suffering daily undernourishment.Progress at reducing undernourishment has stopped despite gains through the 1990s and 2000s.\n　　Developed countries sometimes offer food and aid to developing ones,but at a price. One American philosopher stated that addressing the needs of the poor and vulnerable is about more than money—it is mostly about creating conditions under which prosperity and opportunity can thrive.When aid is offered with heavy conditions attached,like loan repayment or food for resources,it often widens the gap between rich and poor and sustains the old world order.This is why the work of the WFP is so vital.\n　　The scientific community,however,can provide a helping hand to the WFP.By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger,scientists can help reduce these problems.By making its voice heard, science can lead by example.The ability to overcome food shortages that must be built into some of the poorest countries will not come from loans from wealthy countries,which may have food problems of their own,or world economic institutions.This ability will be built upon self-confident people using open and shared scientific knowledge to pull themselves out of their misery.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. More and more people in the world are suffering from starvation.",
+                  "B. All of us can be affected by food instability one way or another.",
+                  "C. It is hazardous to leave millions of people poor and vulnerable.",
+                  "D. It is morally wrong to think helping the poor is not our business."
+                ],
+                "question": "What does the WFP's winning of the Nobel Peace Prize make us realize?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It has ensured a sufficient food supply to millions.",
+                  "B. It is still far from its goal despite the progress made.",
+                  "C. It has done a good job in combating natural disasters.",
+                  "D. It is preventing starvation occurring on a global scale."
+                ],
+                "question": "What do we learn about the WFP's effort to eliminate hunger?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. The rich will become richer and the poor poorer.",
+                  "B. More people will be willing to join in the effort.",
+                  "C. More food will be made available to the needy.",
+                  "D. The relief effort will be rendered less sustainable."
+                ],
+                "question": "What will happen when food aid is offered at a price?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. By collaborating closely with world economic institutions.",
+                  "B. By sharing expertise with peers in poverty-stricken nations.",
+                  "C. By setting up more food research programs in developing countries.",
+                  "D. By building self-respect in people suffering from undernutrition."
+                ],
+                "question": "How can scientists help cope with poverty and hunger?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Wealthy nations should solve their own food problems first.",
+                  "B. Rich countries should be more generous in providing food aid.",
+                  "C. Poor nations should enhance their own ability to solve their food shortages.",
+                  "D. World economic institutions should play a bigger role in fighting hunger."
+                ],
+                "question": "What message does the author try to convey at the end of the passage?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: In this task,you are to write an essay on the importance of developing a healthy lifestyle among college students.You will have 30 minutes for the task.You should write at least 120 words but no more than 180words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "　　立春 (Start of Spring) 在中国农历中表示春天的开始。立春之后，白天变得更长，天气 也愈发温暖，万物开始复苏，大地充满生机。人们常说“一年之计在于春”,农民在这个时节开 始播种，为全年的丰收打下基础。中国人早在三千年前就已开始在立春这一天举行庆祝活动。 数百年来，迎春一直是民间的重要习俗。在春暖花开的日子里，人们常常外出游玩，欣赏春 天的美景。",
+    "directions": "Directions:For this part,you are allowed 30 minutes to translate a passage from Chinese into English.You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_BRGDsIe.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_tghHqrk.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_0mumplD.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,880 --> 00:00:23,300\r\nCollege English Test, Band 4, Part 2, Listening Comprehension, Section A, Directions. In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions, both the news report and the questions will be spoken only once.\r\n\r\n2\r\n00:00:23,300 --> 00:00:29,440\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:29,440 --> 00:00:37,000\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:37,000 --> 00:00:38,060\r\nthrough the center.\r\n\r\n5\r\n00:00:39,340 --> 00:00:46,020\r\nNews report 1 The World Pipe Band Championships will take place in Glasgow on Saturday.\r\n\r\n6\r\n00:00:46,640 --> 00:00:51,740\r\nOver 120 of the world's best-pipe bands will compete at the championships.\r\n\r\n7\r\n00:00:51,740 --> 00:00:58,540\r\ntrips. Over 4,000 pipers and drummers are expected to descend on the city for the annual event.\r\n\r\n8\r\n00:00:59,140 --> 00:01:05,680\r\nIt will take place at the St. James Plain Fields in Glasgow on Saturday 18 May from 10\r\n\r\n9\r\n00:01:05,680 --> 00:01:13,000\r\nA.M. until 7 p.m. The event is free. Also, a free shuttle bus will run between the event\r\n\r\n10\r\n00:01:13,000 --> 00:01:19,640\r\ncar parks and the competition site. Shuttle buses will run every 15 minutes from 8 a.m.\r\n\r\n11\r\n00:01:19,640 --> 00:01:21,260\r\nuntil 8pm.\r\n\r\n12\r\n00:01:22,300 --> 00:01:28,660\r\nGlasgow City Council says it is estimated to bring 300,000 pounds to the local economy.\r\n\r\n13\r\n00:01:29,400 --> 00:01:34,160\r\nThe first World Pipe Band Championships were held in Edinburgh in 1947.\r\n\r\n14\r\n00:01:34,940 --> 00:01:38,200\r\nThe event first took place in Glasgow in 1948.\r\n\r\n15\r\n00:01:38,780 --> 00:01:42,460\r\nIt has been held regularly in Glasgow since 1986.\r\n\r\n16\r\n00:01:43,860 --> 00:01:48,220\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n17\r\n00:01:48,220 --> 00:01:53,120\r\nQuestion 1. What event will take place in Glasgow?\r\n\r\n18\r\n00:02:08,120 --> 00:02:13,800\r\nQuestion 2. What does Glasgow City Council say the event will do?\r\n\r\n19\r\n00:02:28,280 --> 00:02:35,940\r\nNew report 2. Summer doesn't begin for two more days, but scientists are already sounding\r\n\r\n20\r\n00:02:35,940 --> 00:02:42,400\r\nthe alarm about dangerous ice melts going on right now in Greenland. The vast island\r\n\r\n21\r\n00:02:42,400 --> 00:02:49,120\r\nusually locks away enough fresh water in its ice sheet, which, if melted, can raise global\r\n\r\n22\r\n00:02:49,120 --> 00:02:51,180\r\nsea levels by 6 meters.\r\n\r\n23\r\n00:02:51,920 --> 00:02:57,640\r\nAnd research shows that in recent years, its ice has melted faster than ever before.\r\n\r\n24\r\n00:02:58,100 --> 00:03:04,220\r\nThis month, as temperatures in northwestern Greenland approach all-time highs, researchers\r\n\r\n25\r\n00:03:04,220 --> 00:03:09,320\r\nare encountering unusual, surprising levels of melting ice in the region.\r\n\r\n26\r\n00:03:09,320 --> 00:03:16,540\r\nThe most significant concern here is how early this is all happening. Greenland experiences\r\n\r\n27\r\n00:03:16,540 --> 00:03:23,060\r\nannual ice melt and growth cycles, but this year the melting season began in early May.\r\n\r\n28\r\n00:03:23,960 --> 00:03:29,640\r\nThat's a month earlier than normal, and something that's happened only once before in the\r\n\r\n29\r\n00:03:29,640 --> 00:03:38,080\r\nhistorical record in 2016. That means that not only is the ice melting very fast, it has more\r\n\r\n30\r\n00:03:38,080 --> 00:03:42,360\r\ntime to melt this summer, then it would in a normal climate system.\r\n\r\n31\r\n00:03:43,160 --> 00:03:48,680\r\nLonger melt seasons like this one seem to lead to much greater contributions to see\r\n\r\n32\r\n00:03:48,680 --> 00:03:51,240\r\nlevel rise than in previous decades.\r\n\r\n33\r\n00:03:52,160 --> 00:03:56,500\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n34\r\n00:03:57,300 --> 00:03:58,140\r\nQuestion 3.\r\n\r\n35\r\n00:03:58,800 --> 00:04:01,620\r\nWhat is scientists warning in the news report?\r\n\r\n36\r\n00:04:16,500 --> 00:04:22,140\r\nQuestion 4. What do we learn about this year's ice melting season in Greenland?\r\n\r\n37\r\n00:04:36,919 --> 00:04:43,760\r\nNews Report 3 Bundles containing thousands of pounds in cash keep turning up on the streets\r\n\r\n38\r\n00:04:43,760 --> 00:04:48,120\r\nof black hall-collarry in northern England according to police.\r\n\r\n39\r\n00:04:48,120 --> 00:04:54,460\r\nResidents of the village have been coming across bundles of 20-pound notes, usually worth\r\n\r\n40\r\n00:04:54,460 --> 00:04:58,820\r\n2,000 pounds, in the former mining village in County Durham.\r\n\r\n41\r\n00:04:59,580 --> 00:05:04,520\r\nThe latest discovery was on Monday, meaning four of these cash bundles have been handed\r\n\r\n42\r\n00:05:04,520 --> 00:05:08,140\r\nin this year, and 13 since 2014.\r\n\r\n43\r\n00:05:09,120 --> 00:05:13,580\r\nThe bundles are usually left in plain sight and have been scattered across the small\r\n\r\n44\r\n00:05:13,580 --> 00:05:14,560\r\ncoastal village.\r\n\r\n45\r\n00:05:14,560 --> 00:05:20,700\r\nThe owner has two weeks to collect the cash, which is then returned to the finder if not claimed,\r\n\r\n46\r\n00:05:21,120 --> 00:05:23,100\r\naccording to Peter Lee police.\r\n\r\n47\r\n00:05:23,840 --> 00:05:30,400\r\nA Durham police spokesperson said the money has been returned to the lucky finders in all cases except yesterday.\r\n\r\n48\r\n00:05:31,220 --> 00:05:33,900\r\nPoliceman John Forster said in the statement,\r\n\r\n49\r\n00:05:34,480 --> 00:05:42,580\r\nthe circumstances remain a mystery, so we would welcome any information that will help us get to the bottom of these random incidents.\r\n\r\n50\r\n00:05:42,580 --> 00:05:48,880\r\nHe told the Northern Echo, it isn't an affluent part of the world, so for them to find\r\n\r\n51\r\n00:05:48,880 --> 00:05:54,340\r\ncash of that amount, and instantly think about taking it to the police stations shows the\r\n\r\n52\r\n00:05:54,340 --> 00:05:56,540\r\ncommunity spirit there is.\r\n\r\n53\r\n00:05:56,860 --> 00:06:01,260\r\nQuestions 5-7 are based on the news report you have just heard?\r\n\r\n54\r\n00:06:01,700 --> 00:06:02,800\r\nQuestion 5.\r\n\r\n55\r\n00:06:03,100 --> 00:06:05,960\r\nWhat happened on the streets of Black Hall, Coloring?\r\n\r\n56\r\n00:06:21,020 --> 00:06:27,760\r\nQuestion 6. What do the local police do with the money if not claimed in two weeks?\r\n\r\n57\r\n00:06:42,660 --> 00:06:48,300\r\nQuestion 7. What did the police man John Forster say about the villagers?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,720 --> 00:00:11,380\r\nSection B, directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions.\r\n\r\n2\r\n00:00:12,040 --> 00:00:23,640\r\nBoth the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:23,640 --> 00:00:29,600\r\nThen, mark the corresponding letter on answer sheet 1 with the single line through the center.\r\n\r\n4\r\n00:00:30,720 --> 00:00:32,000\r\nConversation 1\r\n\r\n5\r\n00:00:32,000 --> 00:00:35,300\r\nIt's your birthday next week. What have you got planned?\r\n\r\n6\r\n00:00:35,900 --> 00:00:41,840\r\nI'm not sure. I often feel strange on my birthday. It's like my brain decides to have a crisis.\r\n\r\n7\r\n00:00:42,520 --> 00:00:47,140\r\nIt's not entirely unusual to feel anxious or sad around your birthday.\r\n\r\n8\r\n00:00:47,860 --> 00:00:53,460\r\nBirthdays can tap into a lot of things people worry about, including their achievements in life,\r\n\r\n9\r\n00:00:53,940 --> 00:00:57,920\r\nin the past decade, or their accomplishments of the past year.\r\n\r\n10\r\n00:00:58,440 --> 00:01:03,920\r\nMany begin to search for the meaning of their existence, leading to behaviors such as ending\r\n\r\n11\r\n00:01:03,920 --> 00:01:09,980\r\nor starting a relationship, or plans like starting a vigorous diet or fitness program.\r\n\r\n12\r\n00:01:10,440 --> 00:01:16,340\r\nI have wonderful friends, and I love celebrating their birthdays, but I don't like being\r\n\r\n13\r\n00:01:16,340 --> 00:01:20,100\r\ncenter of attention, receiving gifts and having a fuss made.\r\n\r\n14\r\n00:01:20,600 --> 00:01:23,300\r\nIt seems to trigger a type of social anxiety.\r\n\r\n15\r\n00:01:23,980 --> 00:01:29,400\r\nI think social media too can intensify things as birthdays now play out more publicly.\r\n\r\n16\r\n00:01:30,160 --> 00:01:35,160\r\nBirthday reminders can be helpful, but I kind of worry I won't be able to drum up my\r\n\r\n17\r\n00:01:35,160 --> 00:01:38,940\r\nown day and show it to look as exciting as it is supposed to be.\r\n\r\n18\r\n00:01:39,260 --> 00:01:43,640\r\nWell, to deal with the birthday blues, you should not isolate yourself.\r\n\r\n19\r\n00:01:43,640 --> 00:01:47,860\r\nIt's best to gradually face your birthday with people you trust.\r\n\r\n20\r\n00:01:48,300 --> 00:01:53,040\r\nThat would help you learn self-acceptance, or that it's okay to be the focus.\r\n\r\n21\r\n00:01:54,060 --> 00:01:59,120\r\nPerhaps, or I could perceive my birthday as an opportunity to do something for others,\r\n\r\n22\r\n00:01:59,380 --> 00:02:02,940\r\nlike asking people to make a donation instead of buying a gift.\r\n\r\n23\r\n00:02:03,700 --> 00:02:03,840\r\nExactly.\r\n\r\n24\r\n00:02:04,340 --> 00:02:10,460\r\nOr even simply see your birthday as an opportunity to bring people together for them to have fun.\r\n\r\n25\r\n00:02:10,460 --> 00:02:15,600\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n26\r\n00:02:16,400 --> 00:02:17,200\r\nQuestion 8.\r\n\r\n27\r\n00:02:17,700 --> 00:02:20,080\r\nHow does the man often feel on his birthday?\r\n\r\n28\r\n00:02:34,840 --> 00:02:36,360\r\nQuestion 9.\r\n\r\n29\r\n00:02:36,360 --> 00:02:40,440\r\nWhat does the women say many people tend to do on their birthday?\r\n\r\n30\r\n00:02:55,540 --> 00:02:59,380\r\nQuestion 10. What does the man say about birthday celebrations?\r\n\r\n31\r\n00:03:14,540 --> 00:03:20,000\r\nQuestion 11. What does the woman suggest the man do about his birthday celebration\r\n\r\n32\r\n00:03:20,000 --> 00:03:22,060\r\nat the end of the conversation?\r\n\r\n33\r\n00:03:38,200 --> 00:03:42,640\r\nConversation 2 The Metro was absolutely terrible this morning.\r\n\r\n34\r\n00:03:43,020 --> 00:03:44,560\r\nOh, was there a delay?\r\n\r\n35\r\n00:03:45,140 --> 00:03:51,120\r\nNo, but the train was so packed that I could barely move, and it was difficult to breathe, too.\r\n\r\n36\r\n00:03:51,440 --> 00:03:56,660\r\nAt every station, more people squeezed in, and I got pushed further and further inside.\r\n\r\n37\r\n00:03:57,100 --> 00:03:59,640\r\nWhen I got to my station, I could hardly get out.\r\n\r\n38\r\n00:04:00,060 --> 00:04:02,600\r\nOnce I did get out, I was totally exhausted.\r\n\r\n39\r\n00:04:03,240 --> 00:04:04,840\r\nThat sounds like a nightmare.\r\n\r\n40\r\n00:04:04,840 --> 00:04:06,840\r\nWhy didn't you take the bus?\r\n\r\n41\r\n00:04:07,240 --> 00:04:10,580\r\nThe bus takes twice as long, and it's just as crowded.\r\n\r\n42\r\n00:04:11,420 --> 00:04:14,300\r\nWell, what's the alternative? Haven't you got a car?\r\n\r\n43\r\n00:04:14,780 --> 00:04:17,380\r\nI've got a driver's license, but that's all.\r\n\r\n44\r\n00:04:17,620 --> 00:04:21,000\r\nI'm saving up to buy something reasonably small and cute,\r\n\r\n45\r\n00:04:21,320 --> 00:04:26,160\r\nbut it's still a bit expensive for me, and it'll take a while before I have enough money.\r\n\r\n46\r\n00:04:26,560 --> 00:04:28,900\r\nHave you thought about getting an electric motorbike?\r\n\r\n47\r\n00:04:29,400 --> 00:04:32,980\r\nI considered that for maybe a minute, but honestly,\r\n\r\n48\r\n00:04:32,980 --> 00:04:38,400\r\nI've just seen too many horrible accidents involving those dangerous monsters.\r\n\r\n49\r\n00:04:39,100 --> 00:04:43,140\r\nWhat about those popular sharebikes? You could register to use one?\r\n\r\n50\r\n00:04:43,480 --> 00:04:49,620\r\nYeah, that's a possibility. There are always several of those bikes out in front of our apartment complex.\r\n\r\n51\r\n00:04:50,300 --> 00:04:52,160\r\nOr you could just walk to work.\r\n\r\n52\r\n00:04:52,620 --> 00:04:57,980\r\nWell, it's five kilometers from home to the office, but you've given me a thought.\r\n\r\n53\r\n00:04:57,980 --> 00:05:01,400\r\nI could take a change of clothes and jog to work.\r\n\r\n54\r\n00:05:01,840 --> 00:05:05,400\r\nBut at this time of year, the air pollution is a real problem.\r\n\r\n55\r\n00:05:05,700 --> 00:05:07,940\r\nOh yeah, I didn't think of that.\r\n\r\n56\r\n00:05:08,180 --> 00:05:10,060\r\nYet a taxi if you really have to.\r\n\r\n57\r\n00:05:10,400 --> 00:05:13,140\r\nWell, that's an expensive way to get to work.\r\n\r\n58\r\n00:05:13,660 --> 00:05:15,580\r\nNot if you use a ride-sharing app.\r\n\r\n59\r\n00:05:15,920 --> 00:05:16,600\r\nGood idea.\r\n\r\n60\r\n00:05:17,040 --> 00:05:18,300\r\nI'll download one immediately.\r\n\r\n61\r\n00:05:18,980 --> 00:05:19,800\r\nThank you.\r\n\r\n62\r\n00:05:20,460 --> 00:05:24,940\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n\r\n63\r\n00:05:25,560 --> 00:05:26,460\r\nQuestion 12.\r\n\r\n64\r\n00:05:26,460 --> 00:05:29,700\r\nWhat does the woman say about her subway ride?\r\n\r\n65\r\n00:05:44,720 --> 00:05:48,760\r\nQuestion 13. Why hasn't the woman got her own car?\r\n\r\n66\r\n00:06:03,500 --> 00:06:08,600\r\nQuestion 14. What does the woman say about electric motorbikes?\r\n\r\n67\r\n00:06:23,520 --> 00:06:26,440\r\nQuestion 15. How was the woman\r\n\r\n68\r\n00:06:26,440 --> 00:06:27,640\r\ngoing to get to work.",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,780 --> 00:00:11,540\r\nSection C, directions. In this section, you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:12,260 --> 00:00:24,260\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:24,260 --> 00:00:29,840\r\nThen marked the corresponding letter on answer sheet 1 with the single line through the center.\r\n\r\n4\r\n00:00:31,060 --> 00:00:32,360\r\nPassage 1\r\n\r\n5\r\n00:00:32,360 --> 00:00:40,520\r\nSteve Miller began his career in IT back in the late 1980s, being a deaf person in tech,\r\n\r\n6\r\n00:00:40,880 --> 00:00:43,740\r\nrequired a huge amount of effort and organization.\r\n\r\n7\r\n00:00:44,720 --> 00:00:50,260\r\nBecause there was no email or text message service, everything had to be done face-to-face,\r\n\r\n8\r\n00:00:50,260 --> 00:00:57,020\r\nor by telephone. Communicating in meetings was very difficult. He needed a sign language interpreter\r\n\r\n9\r\n00:00:57,020 --> 00:01:03,380\r\nfor every meeting, but it was a huge effort to coordinate. These days, although challenges\r\n\r\n10\r\n00:01:03,380 --> 00:01:10,180\r\nstill remain, it's a good time to be a deaf person in tech, says Miller. Big advances in speech\r\n\r\n11\r\n00:01:10,180 --> 00:01:17,340\r\nrecognition technology have enabled communication tools to turn live speech into text in real time\r\n\r\n12\r\n00:01:17,340 --> 00:01:22,420\r\non your smartphone or laptop, and sign language into text as well.\r\n\r\n13\r\n00:01:22,840 --> 00:01:29,200\r\nNew tech coupled with improvements in hearing aid technology and medical advances means that Miller\r\n\r\n14\r\n00:01:29,200 --> 00:01:32,040\r\nis able to focus far more on his work.\r\n\r\n15\r\n00:01:32,740 --> 00:01:37,140\r\nHe is benefited to a great extent from a tiny hearing device in his ear.\r\n\r\n16\r\n00:01:37,520 --> 00:01:43,820\r\nIt gives him a degree of hearing, and he can use a variety of communication methods depending on the situation.\r\n\r\n17\r\n00:01:43,820 --> 00:01:49,820\r\nHe can employ lip reading and have meetings via video instead of on the phone.\r\n\r\n18\r\n00:01:50,320 --> 00:01:52,540\r\nThese things have made a huge difference.\r\n\r\n19\r\n00:01:53,040 --> 00:01:56,320\r\nHe no longer has to worry about whether or not he can understand.\r\n\r\n20\r\n00:01:57,100 --> 00:02:02,240\r\nHe can just concentrate on how interesting the meeting might be and what he needs to get\r\n\r\n21\r\n00:02:02,240 --> 00:02:03,980\r\nout of it in order to progress.\r\n\r\n22\r\n00:02:05,460 --> 00:02:09,419\r\nQuestion 16-18 are based on the passage you have just heard.\r\n\r\n23\r\n00:02:10,060 --> 00:02:10,860\r\nQuestion 16.\r\n\r\n24\r\n00:02:10,860 --> 00:02:13,900\r\nWhat do we learn about Steve Miller?\r\n\r\n25\r\n00:02:29,140 --> 00:02:30,080\r\nQuestion 17.\r\n\r\n26\r\n00:02:31,060 --> 00:02:34,520\r\nWhat does Miller say is making things better for people like him?\r\n\r\n27\r\n00:02:49,079 --> 00:02:50,880\r\nQuestion 18.\r\n\r\n28\r\n00:02:51,640 --> 00:02:55,920\r\nIn what way can Miller benefit from attending meetings via video?\r\n\r\n29\r\n00:03:11,500 --> 00:03:12,780\r\nPassage 2.\r\n\r\n30\r\n00:03:13,420 --> 00:03:15,440\r\nColor is now spreading through our homes.\r\n\r\n31\r\n00:03:15,980 --> 00:03:21,240\r\nUp-stair cases across wood frames and ceilings, filling in neutral spaces.\r\n\r\n32\r\n00:03:22,120 --> 00:03:27,520\r\nAccording to one interior designer, when people return home, they want to see colors that\r\n\r\n33\r\n00:03:27,520 --> 00:03:29,400\r\ncheer them up and give them a hug.\r\n\r\n34\r\n00:03:29,940 --> 00:03:32,640\r\nPeer white walls simply don't do that.\r\n\r\n35\r\n00:03:32,920 --> 00:03:34,220\r\nThey don't look after you.\r\n\r\n36\r\n00:03:34,840 --> 00:03:40,360\r\nAnother interior designer commented that certain combinations can key into something on a\r\n\r\n37\r\n00:03:40,360 --> 00:03:46,280\r\nper level, transporting you to a different moment in time. That's the power of color.\r\n\r\n38\r\n00:03:47,220 --> 00:03:51,840\r\nIf you are thinking to try color on some of your neutral walls, the advice is\r\n\r\n39\r\n00:03:51,840 --> 00:03:57,900\r\nrefreshingly simple. Choose a color you actually like. Don't go for a color because it's in\r\n\r\n40\r\n00:03:57,900 --> 00:04:04,160\r\nfashion or you've seen it in a magazine. If you're wary of full color, test your tolerance\r\n\r\n41\r\n00:04:04,160 --> 00:04:10,080\r\nwith smaller spaces such as the inside of a cupboard or a bright window frame.\r\n\r\n42\r\n00:04:10,640 --> 00:04:15,240\r\nIf it gives you joy every time you open the cupboard you can start to take it further.\r\n\r\n43\r\n00:04:16,079 --> 00:04:20,959\r\nOne can also paint the wooden frame works the same color as the walls, helping the\r\n\r\n44\r\n00:04:20,959 --> 00:04:25,960\r\nrooms look bigger. In the kitchen painting the overhead cupboards and the walls in the\r\n\r\n45\r\n00:04:25,960 --> 00:04:31,540\r\nsame color can make it feel more spacious while painting the kitchen counters a bold\r\n\r\n46\r\n00:04:31,540 --> 00:04:35,100\r\ncolor can make everything feel more open and lighter.\r\n\r\n47\r\n00:04:36,380 --> 00:04:42,300\r\nAdditionally, a painted ceiling is a magical thing without being too obvious and can affect\r\n\r\n48\r\n00:04:42,300 --> 00:04:44,560\r\nhow the space feels as well.\r\n\r\n49\r\n00:04:45,160 --> 00:04:49,800\r\nQuestions 19-21 are based on the passage you have just heard.\r\n\r\n50\r\n00:04:50,560 --> 00:04:51,440\r\nQuestion 19.\r\n\r\n51\r\n00:04:52,240 --> 00:04:56,020\r\nWhat do people want upon returning home according to the passage?\r\n\r\n52\r\n00:05:11,120 --> 00:05:17,140\r\nQuestion 20. What does the passage say people should avoid doing in home decoration?\r\n\r\n53\r\n00:05:32,240 --> 00:05:37,460\r\nQuestion 21. What can one do to make a room look bigger?\r\n\r\n54\r\n00:05:52,760 --> 00:05:59,600\r\nPassage 3. Parents often hear that reading to their children is critical for supporting development,\r\n\r\n55\r\n00:05:59,600 --> 00:06:06,000\r\nand the message is getting through to them. In fact, in the United States, a little over half\r\n\r\n56\r\n00:06:06,000 --> 00:06:14,680\r\nof children between the ages of 3 and 5 were read to every day in 2007 and 83% of children\r\n\r\n57\r\n00:06:14,680 --> 00:06:21,240\r\nin that age group in the same country were read to 3 or more times per week in 2012.\r\n\r\n58\r\n00:06:22,160 --> 00:06:27,560\r\nThis is good news because reading to young children helps their language and brain development.\r\n\r\n59\r\n00:06:27,560 --> 00:06:34,240\r\nIn fact, recent research has found that both the quality and quantity of shared book\r\n\r\n60\r\n00:06:34,240 --> 00:06:39,380\r\nreading in infancy predicted later childhood vocabulary and reading skills.\r\n\r\n61\r\n00:06:40,040 --> 00:06:45,760\r\nIn other words, the more time parents spend reading, the greater the developmental benefits\r\n\r\n62\r\n00:06:45,760 --> 00:06:47,440\r\nin their four-year-old children.\r\n\r\n63\r\n00:06:48,160 --> 00:06:53,420\r\nThis is an important finding, but does it matter what books parents read?\r\n\r\n64\r\n00:06:53,420 --> 00:06:59,300\r\nA new study has investigated this question, if followed infants across the second six months\r\n\r\n65\r\n00:06:59,300 --> 00:07:05,200\r\nof life, and found that when parents showed babies' books that had faces or objects with\r\n\r\n66\r\n00:07:05,200 --> 00:07:07,820\r\nspecific labels, they learned more.\r\n\r\n67\r\n00:07:08,520 --> 00:07:14,260\r\nThis is in contrast to books that did not name images or books that had the same label under\r\n\r\n68\r\n00:07:14,260 --> 00:07:15,020\r\neach image.\r\n\r\n69\r\n00:07:15,680 --> 00:07:19,980\r\nBooks that named different characters also promoted greater learning.\r\n\r\n70\r\n00:07:20,860 --> 00:07:22,620\r\nSo what does this mean for parents?\r\n\r\n71\r\n00:07:22,620 --> 00:07:30,900\r\nNot all books are created equal, so parents need to choose the books they share with their children with a great care.\r\n\r\n72\r\n00:07:31,880 --> 00:07:41,860\r\nQuestions 22 to 25 are based on the passage you have just heard. Question 22. What does the passage say parents increasingly understand?\r\n\r\n73\r\n00:07:56,540 --> 00:08:02,820\r\nQuestion 23. What can predict children's reading skills according to recent research?\r\n\r\n74\r\n00:08:17,659 --> 00:08:22,880\r\nQuestion 24. What kind of books are said to help babies learn more?\r\n\r\n75\r\n00:08:37,600 --> 00:08:43,480\r\nQuestion 25. What are parents advised to do at the end of the passage?\r\n\r\n76\r\n00:08:58,300 --> 00:09:00,780\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

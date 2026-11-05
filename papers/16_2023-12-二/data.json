@@ -1,0 +1,706 @@
+{
+  "id": 16,
+  "exam": 16,
+  "exam_details": {
+    "id": 16,
+    "title": "2023年12月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2023,
+    "month": 12,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T16:38:46.872000+08:00",
+    "updated_at": "2025-04-26T16:38:46.872000+08:00",
+    "exam_id": 16,
+    "submission_count": 0,
+    "cet_content_id": 16,
+    "has_draft": true
+  },
+  "created_at": "2025-04-26T16:52:48.363000+08:00",
+  "updated_at": "2025-04-26T16:52:48.363000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. He noticed the driver was too young to drive.",
+              "B. He found there was no one sitting at the wheel.",
+              "C. He thought something must be wrong with the driver.",
+              "D. He saw the driver changing lanes much too frequently."
+            ],
+            "question": "Why did the police officer stop the SUV car?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Buy a sports car.",
+              "B. Drive across town.",
+              "C. Leave California.",
+              "D. Visit his sister."
+            ],
+            "question": "What did the boy tell the police officers he was planning to do?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. How they change the way we shop.",
+              "B. How they alter human skeletons.",
+              "C. How they cause increased headaches.",
+              "D. How they affect our communication."
+            ],
+            "question": "What does the report say we have not yet understood about mobile phones?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It loosens.",
+              "B. It brightens.",
+              "C. It hardens.",
+              "D. It softens."
+            ],
+            "question": "What happens to the skin when rubbed or pressed constantly?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. Create Internet pages for him.",
+              "B. Ask a local pet shop to adopt him.",
+              "C. Name an orange tree after him.",
+              "D. Hold a birthday party for him."
+            ],
+            "question": "What is the village going to do for the cat named Wilbur?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. He is a bold and aggressive pet.",
+              "B. He pays regular visits to village shops.",
+              "C. He once bit a doctor s receptionist.",
+              "D. He often seeks food from strangers."
+            ],
+            "question": "What do we learn from the report about the cat?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. He is fond of luxury cat food.",
+              "B. He likes to stay in villagers’ houses.",
+              "C. He knows everybody in the village.",
+              "D. He often seeks food around her pub."
+            ],
+            "question": "What does the pub owner Leslie Harper say about the cat?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. Who to order the food.",
+              "B. Whether to have sandwiches.",
+              "C. When to go for their meal.",
+              "D. Where to have their lunch."
+            ],
+            "question": "What's are the speakers talking about in this conversation?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. In the shopping center nearby.",
+              "B. In the expensive Italian style diner.",
+              "C. At the Sandwich Place on Camden Street.",
+              "D. At the American restaurant they frequent."
+            ],
+            "question": "Where did the speakers see Bridget Clark the famous movie star?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. There is to be a conference call.",
+              "B. She has to meet with her boss then.",
+              "C. There will be crowds of people waiting for her.",
+              "D. She will have a photo taken with Brigette Clark."
+            ],
+            "question": "Why does the woman say she needs to get back by 2030?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. She knows Jeremy dislikes having soup for lunch.",
+              "B. She doesn’t think his wife cooks well.",
+              "C. She feels Jeremy would rather dine out.",
+              "D. She has found the soup smells terrible."
+            ],
+            "question": "Why does the woman say Jeremy should throw his soup in the bin?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. A landlady.",
+              "B. A waitress.",
+              "C. A receptionist.",
+              "D. A saleswoman."
+            ],
+            "question": "Who is the man talking to in the conversation?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. He was involved in a terrible car accident last April.",
+              "B. He has much difficulty getting up and down stairs.",
+              "C. He is expected to undergo a knee operation.",
+              "D. He prefers to stay next door to the children."
+            ],
+            "question": "What do we learn about the man's father-in-law from the conversation?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. To please his parents- in-law.",
+              "B. To find the best trip for his kids.",
+              "C. To satisfy his curiosity.",
+              "D. To compare prices."
+            ],
+            "question": "Why does the man say they will explore all the options available?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. Visit a local art gallery.",
+              "B. Go on a boat trip.",
+              "C. Take some photos of the islands.",
+              "D. Try her hand-made clothing."
+            ],
+            "question": "What does the woman suggest the man and his family do close to the end of the conversation?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. They are more intelligent than many of us.",
+              "B. They have already become our new friends.",
+              "C. They have begun to affect our social behavior.",
+              "D. They play increasingly more important roles."
+            ],
+            "question": "What does the passive say about artificial intelligence agents?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Whether it might have any effect on the way we negotiate.",
+              "B. Whether it might actually outperform human negotiators.",
+              "C. Whether it can facilitate business transactions.",
+              "D. Whether it can speed up legal procedures."
+            ],
+            "question": "What does the new study want to find out about using an artificial intelligence agents?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. Choose to be tough.",
+              "B. Sympathize with their opponent.",
+              "C. Use deceptive strategies.",
+              "D. Appear to be pleasant."
+            ],
+            "question": "What did participants tend to do when assigned an AI agent to negotiate on their behalf."
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. They were perceived differently by some academics.",
+              "B. They still existed six months after the course ended.",
+              "C. They varied greatly among the course participants.",
+              "D. They were only measurable within seven weeks."
+            ],
+            "question": "What do we learn about the benefits the participants gained from the healthy cooking course?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. They can be easily seen among participants in a healthy weight range.",
+              "B. They are related to participants’ initial cooking skills.",
+              "C. They are linked to cooking confidence and cooking satisfaction.",
+              "D. They actually result from eating more fruits and vegetables."
+            ],
+            "question": "What do the new research findings suggest about mental health benefits?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Gender.",
+              "B. Confidence.",
+              "C. Health.",
+              "D. Practice."
+            ],
+            "question": "What plays a role in determining who benefits most from learning to cook?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. It keeps others away.",
+              "B. It causes discomfort.",
+              "C. It remains visible.",
+              "D. It varies in size."
+            ],
+            "question": "What does research show about our personal space?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. It makes us feel uncomfortable.",
+              "B. It renders the acquaintance a stranger.",
+              "C. It brings the acquaintance closer to us.",
+              "D. It causes the bubble around us to vanish."
+            ],
+            "question": "What happens if a mere acquaintance enters our intimate space?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. In personal space.",
+              "B. In social space.",
+              "C. Within a distance of 18 inches.",
+              "D. Over 2 feet away from one another."
+            ],
+            "question": "Where the people feel comfortable interacting with new acquaintances or strangers."
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. When we begin to feel fear.",
+              "B. When we develop a sense of space.",
+              "C. When we are 3 or 4 years old.",
+              "D. When we enter our teens."
+            ],
+            "question": "When are the sizes of our personal bubbles fixed?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "A number of studies have looked at how family life can affect productivity and satisfaction in the workplace. However, there has been __26__ little research on the influence of leisure activities. So Ciara Kelly and colleagues recruited 129 hobbyists to look at how the time spent on their hobbies __27__ their work life.\nThe researchers found that when participants spent longer than __28__ on their leisure activity, their belief in their ability to perform their job was strengthened. But this was only the __29__ when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it __30__. When their hobby was both serious and similar to their job, then spending more time on it actually decreased their work __31__.\nWhy might that be? To maintain a serious hobby, people need to invest significant psychological resources, say the authors—so if the activity has the same kinds of demands as their work, they may be left __32__ and unable to perform well at their job. But if their hobby is quite different from their career, it may not __33__ in the same way but instead help them develop other knowledge and skills that can __34__ their confidence at work. “Consider a scientist who is a keen rock climber,” says Kelly. “Since climbing is so far __35__ from their day-to-day work activities, they can still recover from the demands of their job with plenty of resources.”",
+        "word_bank": [
+          "boost",
+          "case",
+          "casually",
+          "efficiency",
+          "estate",
+          "exhausted",
+          "faculty",
+          "interfere",
+          "normal",
+          "prevalent",
+          "relative",
+          "removed",
+          "scratch",
+          "shaped",
+          "surprisingly"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "In the absence of Federal legislation, some states in the US have passed laws concerning paid family leave."
+          },
+          {
+            "id": 37,
+            "content": "Most fathers admitted that even during their paternity leave they actually did much less childcare than the mother."
+          },
+          {
+            "id": 38,
+            "content": "According to one father, equal parental leave is indispensable to achieving gender equality in the workplace."
+          },
+          {
+            "id": 39,
+            "content": "One survey indicated there is now less objection to paternity leave."
+          },
+          {
+            "id": 40,
+            "content": "Compared to five years ago, according to one researcher, many more people said their organisation gave the same support to men and women taking parental leave."
+          },
+          {
+            "id": 41,
+            "content": "One study finds that even workers who claim to desire gender equality stick to traditional gender roles both at work and at home."
+          },
+          {
+            "id": 42,
+            "content": "The majority of workers surveyed said parental leave policies had improved workplace culture."
+          },
+          {
+            "id": 43,
+            "content": "In spite of progress, the number of women in top positions of big companies remains extremely small."
+          },
+          {
+            "id": 44,
+            "content": "According to one estimate, less than one third of companies in the US provide paid parental leave."
+          },
+          {
+            "id": 45,
+            "content": "A number of lawsuits have pressured companies to formulate gender neutral policies on parental leave."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Attitudes towards paternity leave (陪产假) have drastically changed in America in the last five years as more fathers feel comfortable taking extended time off, but gender bias persists when it comes to career prospects and the home, according to a new study of working parents."
+          },
+          {
+            "id": "B",
+            "content": "Research by the Boston College Center for Work & Family, which surveyed new parents at four large US companies who were qualified for taking at least six weeks paid parental leave, found that 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable."
+          },
+          {
+            "id": "C",
+            "content": "Of those surveyed, 62% of fathers took the maximum amount of time off compared to 93% of mothers, and around three-quarters of workers said their employer was equally supportive of mothers and fathers taking parental leave and over half said leave policies had made workplace culture better."
+          },
+          {
+            "id": "D",
+            "content": "The US is one of only three countries in the world not to offer statutory (法定的) paid leave, but increasingly states and companies are starting to take up the issue. So far, eight states and the District of Columbia have their own paid family leave laws."
+          },
+          {
+            "id": "E",
+            "content": "Brad Harrington, executive director of the center and lead author of the study, estimates only 20% to 30% of companies in the US offer paid parental leave. He feels the research findings reflect an obvious change in corporate attitudes to new fathers taking time off."
+          },
+          {
+            "id": "F",
+            "content": "shocking to me. I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it’s equally supportive of women and men taking Harrington said."
+          },
+          {
+            "id": "G",
+            "content": "The previous study found that nearly three-quarters of fathers saw two to four weeks as an appropriate duration for paternity leave and 76% said they would prefer not to take all their time off at once."
+          },
+          {
+            "id": "H",
+            "content": "Since then, there have been a number of legal cases against companies involving paternity leave—including cases against JPMorgan Chase and Estee Lauder—which have helped put pressure on companies to make their parental leave policies gender neutral."
+          },
+          {
+            "id": "I",
+            "content": "However, the study also shows how traditional gender roles endure both at work, where more women than men reported changes in their perceived career potential, and at home—even among workers who claim to have a strong desire for equality."
+          },
+          {
+            "id": "J",
+            "content": "The vast majority of men, 97%, said one of the top reasons to take leave was to share caregiving with their partner. But when they were asked about how caregiving and household tasks were divided, their answers painted a different picture. While about 75% of employees said both genders should give the same amount of care, the majority of men and nearly half of women admitted that in reality the female actually did most of it. A tiny fraction, 2%, of men said they did more of the childcare."
+          },
+          {
+            "id": "K",
+            "content": "different. Of the women surveyed, 32% reported a downturn in their job satisfaction, while 14% said it increased. In comparison, 17% of men said their job satisfaction went down and 20% said it went up. Meanwhile, more women reported an increase in their responsibilities and manager expectations after childbirth. Half of the women said they used flexible work arrangements after becoming a parent, while just 27% of men did. Similar percentages of men and women said they enjoyed their careers and that it gave them a sense of achievement, while around half of women and 44% of men said it was a key part of their identity."
+          },
+          {
+            "id": "L",
+            "content": "On the subject of career advancement, 59% of women and 49% of men said leave could be limiting and both genders said they feared it would have an impact on their progress long-term. But on opportunity for promotion, more than double the number of women, 30% compared with 15% of men, believed their chances to be lower after becoming a parent. Despite progress, the struggle for women to reach the highest positions of power is demonstrated in this year’s Fortune 500 list, which featured a record 33 female CEOs, but this still represents a tiny fraction of the total."
+          },
+          {
+            "id": "M",
+            "content": "Harrington said culture change depends on companies putting more focus on men and their responsibilities. “By that I mean companies need to give men paternity leave and encourage men to take time off to be with their kids early on in the kids’ life. They also need to recognise that men have to make significant adjustments when they become parents. Companies cannot do all these things to enhance women’s advancement and then turn around and say, ‘Oh, but we don’t expect the men to take over for the women at home.’”"
+          },
+          {
+            "id": "N",
+            "content": "In May, the American Civil Liberties Union (ACLU) and Outten & Golden LLP announced a historic class-action $5m settlement with JPMorgan Chase on behalf of male employees who claim they were illegally denied access to paid parental leave. Derek Rotondo, 35, filed the discrimination charge against his company after he was allegedly told by his HR department that mothers were considered primary caregivers. Thus, they were allowed to take 16 weeks of paid parental leave. Fathers, however, could take just two weeks."
+          },
+          {
+            "id": "O",
+            "content": "The father of two from Columbus, Ohio, who still works at the company as an associate and investigator, said he has witnessed a “ effect (多米诺效应) ” across companies since the settlement, but that there is still substantial progress to be made towards changing attitudes towards paternity leave."
+          },
+          {
+            "id": "P",
+            "content": "“I do think there’s still some way to go ... there’s still going to be sort of the unstated expectation for new dads to essentially come right back to work, but I think the research is showing that’s starting to change.” He said equal parental leave is an essential component to creating gender equality in the workplace. “The old standard of women staying home, having babies and cooking doesn’t apply and hasn’t applied for a long time.”"
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Having a rival can keep you committed to achieving your goals and enhance your overall performance. But before you go out and find an entrepreneur to outcompete, it’s important to understand and avoid the traps that often come with rivalry. After all, competitive rivalry can also hinder effective decision-making and increase your willingness to take risks, behaviors that can ultimately hurt your venture’s success.\n\nFinding someone you’re committed to outcompeting can be a great way to stay focused on your goals and push your venture to the next level. But when you’re intently focused on outperforming your rivals, you may begin to develop a “win -at-all-costs” mentality that causes you to ignore how you achieve success. One group of researchers, for example, examined the link between rivalry and unethical behavior. They found that when people compete against their rivals, they are more willing to behave unethically to win. But such behavior may stain your reputation and strain relationships important to your success. One way to avoid this trap is to stop and reflect on what’s important. While outperforming your rivals may provide short-term benefits, the loss of your integrity will have long-term consequences.\n\nOne reason having a rival can enhance your venture’s performance is that it creates a level of excitement that drives you to work harder. But this eagerness to win may also hurt your venture’s success, particularly when it causes you to make impulsive, insensible decisions. But it’s possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture.\n\nThe sense of eagerness that comes with having a rival can not only cause you to make poorer decisions, but it can also lead you to take greater risks that put your venture in peril. One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture’s success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. By enabling them to outcompete other entrepreneurs.",
+                  "B. By enabling them to make their venture a success.",
+                  "C. By helping them to reach long-term goals.",
+                  "D. By helping them to stay goal-oriented."
+                ],
+                "question": "How can competitive rivalry benefit entrepreneurs according to the passage?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. They may adopt strategies that are bound to ruin their venture.",
+                  "B. They may resort to unethical means to outperform their rivals.",
+                  "C. They may be too eager to succeed while ignoring the huge labor cost.",
+                  "D. They may be intently focused on winning at the current market level."
+                ],
+                "question": "What is one of the traps entrepreneurs may often fall into when competing with rivals?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Deliberate on what really matters.",
+                  "B. Prioritize reaping immediate benefits.",
+                  "C. Estimate the long-term consequences.",
+                  "D. Reflect on what successes are achievable."
+                ],
+                "question": "What are entrepreneurs advised to do to avoid traps that often accompany rivalry?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. By engaging themselves in critical reasoning.",
+                  "B. By developing a habit of keeping their integrity.",
+                  "C. By criticizing themselves for previous poor performances.",
+                  "D. By refraining from being too excited about their successes."
+                ],
+                "question": "How can entrepreneurs avoid making impulsive and insensible decisions?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. By paying close attention to their current performance.",
+                  "B. By taking steps that stand to endanger their rivals’ success.",
+                  "C. By monitoring how their decision- making impacts their mentality.",
+                  "D. By keeping their emotions in check to avoid making poor decisions."
+                ],
+                "question": "How can entrepreneurs overcome the risk inducing effects of rivalry?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "A multitasker is one who can perform two or more tasks effectively at the same time, which—apart from the obvious differences—is similar to what a computer does. The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. However, the question is: can a person really be a multitasker?\n\nFor most scientists, the answer is no. So much so that, according to experts in neuroscience (神经系 统科学), our brains do not handle multitasking situations well. As soon as two tasks require our attention, productivity suffers. What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another. This requires two essential conditions: that one of the tasks needs to be automatic, like walking or eating, and that they both need different mental processes. Answering the phone and writing at the same time, for example.\n\nHowever, on the other side of the coin there are people who maintain that it is possible to be, or at least seem to be, multitasking. A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance.\n\nThe business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity. From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices.\n\nThe benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. An operating system capable of doing several tasks at once.",
+                  "B. A skilled worker executing more than one task at the same time.",
+                  "C. A sophisticated technology doing several tasks effectively at once.",
+                  "D. An efficient person able to perform multiple tasks at the same time."
+                ],
+                "question": "What does a “multitasker” originally refer to?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. They are not sufficiently exposed to multitasking situations.",
+                  "B. They are not comparable to mechanical operating systems.",
+                  "C. Their brains do not allow them to multitask.",
+                  "D. Their attention span cannot be expanded."
+                ],
+                "question": "Why can’t people really be multitaskers according to neuroscientists?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. People make greater achievements by maintaining whatever they are doing is multitasking.",
+                  "B. People’s performance benefits from the perception of what they are doing as multitasking.",
+                  "C. People’s active mental processes exert a positive effect on their multitasking.",
+                  "D. People can improve their capabilities by handling multitasking situations."
+                ],
+                "question": "What do we learn from the conclusion of a recent study on multitasking?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. It is a rare skill often found in fluid organisations.",
+                  "B. It is an adaptable capability required of all workers.",
+                  "C. It is an essential quality many employees lack.",
+                  "D. It is a desirable ability that can be developed."
+                ],
+                "question": "How does the business world view multitasking?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Work in a flexible way.",
+                  "B. Learn from mistakes.",
+                  "C. Avoid multitasking.",
+                  "D. Increase efficiency."
+                ],
+                "question": "What does the author imply we should do if we have to focus on some task and do it well?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: the university newspaper is inviting submissions from the students for its coming edition on the recent development in their hometown. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "改革开放以来， 中国人的饮食(diet)发生了 显著变化。 过去由于经济落后， 食品种类有限、 数 量不足， 人们仅仅满足于吃得饱。 如今中国经济快速发展， 食品不仅更加丰富多样， 质量也大幅 提高。 随着生活水平不断提升， 人们对饮食的要求越来越高， 更加注重吃得营养健康。 因此， 目 前市场上推出的低脂、 低糖、 有机食品受到人们的普遍欢迎。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.\nYou should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_PRswdw8.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_2megzZg.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_tMymi49.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:24,480\r\nCollege English Test, Band 4, Part 2, Listening Comprehension, Section A, Directions. In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once.\r\n\r\n2\r\n00:00:24,480 --> 00:00:31,000\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:31,000 --> 00:00:39,380\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:39,380 --> 00:00:40,540\r\nthrough the center.\r\n\r\n5\r\n00:00:42,040 --> 00:00:49,080\r\nNews reports 1. A police officer in the US stopped a large SUV car that was going very\r\n\r\n6\r\n00:00:49,080 --> 00:00:54,460\r\nslowly and drifting across lanes on a highway. He expected to find a driver who\r\n\r\n7\r\n00:00:54,460 --> 00:01:01,680\r\nwas either very drunk or having a medical emergency. Instead, the officer discovered a five-year-old\r\n\r\n8\r\n00:01:01,680 --> 00:01:07,600\r\nboy sat on the edge of the driver's seat. His feet could barely reach the break, and\r\n\r\n9\r\n00:01:07,600 --> 00:01:13,120\r\nhis head was only just high enough to see out of the windows. The child had taken the keys\r\n\r\n10\r\n00:01:13,120 --> 00:01:19,120\r\nto the family car while his teenage sister was napping. He then drove three kilometers\r\n\r\n11\r\n00:01:19,120 --> 00:01:25,500\r\nacross town before getting on the highway. The boy later told confused officers that he\r\n\r\n12\r\n00:01:25,500 --> 00:01:31,520\r\nwas planning to travel to California and by a Lamborghini sports car. Although he only\r\n\r\n13\r\n00:01:31,520 --> 00:01:36,080\r\nhad three dollars in his wallet, at least he was driving in the right direction.\r\n\r\n14\r\n00:01:37,560 --> 00:01:41,980\r\nQuestions 1 and 2 are based on the news report you have just heard?\r\n\r\n15\r\n00:01:41,980 --> 00:01:49,200\r\nQuestion 1. Why did the police officer stop the SUV car?\r\n\r\n16\r\n00:02:02,980 --> 00:02:08,800\r\nQuestion 2. What did the boy tell the police officers he was planning to do?\r\n\r\n17\r\n00:02:23,920 --> 00:02:32,200\r\nNews Report 2 Mobile phones have changed the way we live, how we read, work, communicate,\r\n\r\n18\r\n00:02:32,840 --> 00:02:39,760\r\nand shop. But we already know this. What we have not yet understood is the way that\r\n\r\n19\r\n00:02:39,760 --> 00:02:46,260\r\nMany machines in front of us are changing our skeletons. Possibly altering not just the\r\n\r\n20\r\n00:02:46,260 --> 00:02:49,780\r\nway we behave, but even the very shape of our bodies.\r\n\r\n21\r\n00:02:51,180 --> 00:02:56,540\r\nNew scientific research at the University of the Sunshine Coast in Queensland, Australia,\r\n\r\n22\r\n00:02:57,460 --> 00:03:02,980\r\nsuggests that young people are developing extra pieces of bone at the backs of their heads.\r\n\r\n23\r\n00:03:03,740 --> 00:03:08,760\r\nThese pieces of bone are caused by the way people bend their heads when they use the\r\n\r\n24\r\n00:03:09,580 --> 00:03:15,880\r\nThis shifts weight onto the muscles at the back of the head and causes the bone to grow\r\n\r\n25\r\n00:03:15,880 --> 00:03:22,080\r\nin a way that is not normal. This process can be compared to the way the skin heartens\r\n\r\n26\r\n00:03:22,080 --> 00:03:28,760\r\nin response to constant rubbing or pressure. The result is a piece of bone like a horn\r\n\r\n27\r\n00:03:28,760 --> 00:03:31,580\r\nthat sticks out from the head by the neck.\r\n\r\n28\r\n00:03:32,700 --> 00:03:38,020\r\nQuestion 3 and 4 are based on the news report you have just heard.\r\n\r\n29\r\n00:03:38,960 --> 00:03:39,920\r\nQuestion 3.\r\n\r\n30\r\n00:03:40,640 --> 00:03:45,420\r\nWhat does the report say we have not yet understood about mobile phones?\r\n\r\n31\r\n00:04:00,260 --> 00:04:06,340\r\nQuestion 4. What happens to the skin when rubbed or pressed constantly?\r\n\r\n32\r\n00:04:21,559 --> 00:04:29,080\r\nNew Report 3 A village is going to throw a birthday party for an orange cat's named Wilbur,\r\n\r\n33\r\n00:04:29,480 --> 00:04:36,000\r\nwho has become famous for making a regular appearance at local shops. Wilbur has his own internet\r\n\r\n34\r\n00:04:36,000 --> 00:04:43,440\r\npages as he approaches his tenth birthday on July 7. Wilbur is both bold and friendly.\r\n\r\n35\r\n00:04:43,440 --> 00:04:49,760\r\nHe spends most of his time in shops and businesses around the village, he'll just take\r\n\r\n36\r\n00:04:49,760 --> 00:04:55,580\r\nhimself into any shop anywhere. There was one time when the doctors receptionist came\r\n\r\n37\r\n00:04:55,580 --> 00:05:01,720\r\nback and he was sitting on her chair. Among his favourite haunts are a local hairdresser,\r\n\r\n38\r\n00:05:02,160 --> 00:05:04,760\r\ntwo pubs, and the knotting and primary school.\r\n\r\n39\r\n00:05:05,780 --> 00:05:11,160\r\nLeslie Harper, who runs one of the pubs, said the cat has been a big hit with their\r\n\r\n40\r\n00:05:12,260 --> 00:05:16,800\r\nHe's been a regular visitor for most of this year, she told the press association.\r\n\r\n41\r\n00:05:17,700 --> 00:05:22,760\r\nHe's a very relaxed cat, happy for customers and villagers young and old to come in and\r\n\r\n42\r\n00:05:22,760 --> 00:05:23,340\r\nsay hello.\r\n\r\n43\r\n00:05:24,360 --> 00:05:30,360\r\nShe also said he is a cat of expensive tastes, who likes his high priced cat food.\r\n\r\n44\r\n00:05:31,180 --> 00:05:37,140\r\nSarah Godfrey, who is organizing Wilbur's party, told the local newspaper, Wilbur is part\r\n\r\n45\r\n00:05:37,140 --> 00:05:41,060\r\nour lives as he is for everyone who lives in the village.\r\n\r\n46\r\n00:06:08,559 --> 00:06:13,400\r\nQuestion 6. What do we learn from the report about the cat?\r\n\r\n47\r\n00:06:28,000 --> 00:06:33,840\r\nQuestion 7. What does the pub owner Leslie Harper say about the cat?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,700 --> 00:00:17,920\r\nSection B, Directions. In this section you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once.\r\n\r\n2\r\n00:00:17,920 --> 00:00:24,380\r\nAfter you hear a question, you must choose the best answer from the four choices, marked\r\n\r\n3\r\n00:00:24,380 --> 00:00:32,680\r\nA, B, C, and D. Then, mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:32,680 --> 00:00:36,800\r\nthrough the center. Conversation 1.\r\n\r\n5\r\n00:00:37,480 --> 00:00:39,460\r\nSo, where do you want to go for lunch?\r\n\r\n6\r\n00:00:40,040 --> 00:00:42,220\r\nI don't know. Do you have anything in mind?\r\n\r\n7\r\n00:00:42,840 --> 00:00:45,600\r\nWhat about the sandwich place on Camden Street?\r\n\r\n8\r\n00:00:46,680 --> 00:00:53,720\r\nHmm,no, sorry. I don't feel like sandwiches today. It's a great place, but I think we go there too often.\r\n\r\n9\r\n00:00:54,260 --> 00:00:58,940\r\nThat's true. Remember that's where we saw Bridget Clark, the famous movie star.\r\n\r\n10\r\n00:00:59,360 --> 00:01:05,760\r\nOf course, how could I ever forget? There were crowds of people around her asking for a photo with her.\r\n\r\n11\r\n00:01:06,260 --> 00:01:10,780\r\nWhat about Hamburg, is then? Does that American style diner on the way to the mall?\r\n\r\n12\r\n00:01:10,780 --> 00:01:16,880\r\nI like that place. Their chips are great, but their service takes a long time, and I need\r\n\r\n13\r\n00:01:16,880 --> 00:01:23,060\r\nto get back by 230 for a conference call. How about trying something new? We could try\r\n\r\n14\r\n00:01:23,640 --> 00:01:28,740\r\nMario's, the new Italian restaurant on the corner. It looks alright. Have you been there?\r\n\r\n15\r\n00:01:29,100 --> 00:01:34,200\r\nNo, I haven't, but I've noticed that it has great reviews on the internet. It's supposed\r\n\r\n16\r\n00:01:34,200 --> 00:01:39,120\r\nto be one of the best Italians in town. I think Jeremy has been there, and said it was amazing.\r\n\r\n17\r\n00:01:39,120 --> 00:01:41,100\r\nI'm up for that.\r\n\r\n18\r\n00:01:41,360 --> 00:01:44,360\r\nCool. Have you asked Jeremy if he would like to come with us?\r\n\r\n19\r\n00:01:44,700 --> 00:01:49,980\r\nI already have. He says he can't. He has brought his own lunch today, so he will stay in.\r\n\r\n20\r\n00:01:50,340 --> 00:01:52,000\r\nI think his wife made him soup.\r\n\r\n21\r\n00:01:52,620 --> 00:01:58,700\r\nPoor Jeremy. His wife is a terrible cook. He should throw that soup in the bin and join us.\r\n\r\n22\r\n00:02:00,120 --> 00:02:04,680\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n23\r\n00:02:04,680 --> 00:02:10,940\r\nQuestion 8. What's are the speakers talking about in this conversation?\r\n\r\n24\r\n00:02:25,380 --> 00:02:30,960\r\nQuestion 9. Where did the speakers see Bridget Clark the famous movie star?\r\n\r\n25\r\n00:02:46,400 --> 00:02:51,580\r\nQuestion 10. Why does the woman say she needs to get back by 230?\r\n\r\n26\r\n00:03:06,799 --> 00:03:12,520\r\nQuestion 11. Why does the woman say Jeremy should throw his soup in the bin?\r\n\r\n27\r\n00:03:28,579 --> 00:03:29,620\r\nConversation 2\r\n\r\n28\r\n00:03:29,620 --> 00:03:33,860\r\nHi there, how are you today? Do you have a reservation with us already?\r\n\r\n29\r\n00:03:34,480 --> 00:03:41,640\r\nGood afternoon! Yes! We reserved our rooms yesterday morning on your website for 3 nights, the names Patterson.\r\n\r\n30\r\n00:03:42,000 --> 00:03:47,220\r\nOkay, let me have a look. Yes, we have it here. You brought the whole family with you, I see.\r\n\r\n31\r\n00:03:47,220 --> 00:03:51,680\r\nYes, the two kids my wife and I, and her parents too.\r\n\r\n32\r\n00:03:51,960 --> 00:03:52,240\r\nGreat.\r\n\r\n33\r\n00:03:52,880 --> 00:03:58,580\r\nSo we have a family room for you and your wife and the kids, and another double room for\r\n\r\n34\r\n00:03:58,580 --> 00:03:59,600\r\nyour parents and law.\r\n\r\n35\r\n00:04:00,100 --> 00:04:04,140\r\nThey are right next to each other on the ground floor, since you mentioned in your\r\n\r\n36\r\n00:04:04,140 --> 00:04:06,240\r\nmessage that they have trouble with stairs.\r\n\r\n37\r\n00:04:06,600 --> 00:04:07,360\r\nThat's wonderful.\r\n\r\n38\r\n00:04:07,880 --> 00:04:12,740\r\nMy father-in-law has had terrible problems getting up and down stairs since his new operation\r\n\r\n39\r\n00:04:12,740 --> 00:04:13,520\r\nlast April.\r\n\r\n40\r\n00:04:13,520 --> 00:04:19,040\r\nI'm sorry to hear that, and if you need any help to find transportation for the whole family,\r\n\r\n41\r\n00:04:19,420 --> 00:04:21,880\r\nwe can definitely recommend someone for you.\r\n\r\n42\r\n00:04:22,200 --> 00:04:27,020\r\nWe were thinking of renting a car, but we will explore all the options available for sure.\r\n\r\n43\r\n00:04:27,300 --> 00:04:30,580\r\nSo yes, that would be very helpful in comparing prices.\r\n\r\n44\r\n00:04:31,120 --> 00:04:34,140\r\nWe're also wondering what tours and day trips are available.\r\n\r\n45\r\n00:04:34,600 --> 00:04:36,860\r\nWe have a bunches of brochures here.\r\n\r\n46\r\n00:04:37,300 --> 00:04:39,620\r\nI would recommend getting out on a boat trip.\r\n\r\n47\r\n00:04:39,620 --> 00:04:44,100\r\nThe kids will love it, and there are so many islands nearby to explore.\r\n\r\n48\r\n00:04:44,620 --> 00:04:50,900\r\nThere's also a great night market for their into town that has all kinds of food and cool little shops,\r\n\r\n49\r\n00:04:51,200 --> 00:04:55,320\r\nselling souvenirs and local jewelry, and clothing made by hand.\r\n\r\n50\r\n00:04:56,200 --> 00:04:57,480\r\nThat all sounds marvelous.\r\n\r\n51\r\n00:04:58,600 --> 00:05:05,260\r\nNow all I need is to photocopy your passports, and then I can get you all checked in and show you to your rooms.\r\n\r\n52\r\n00:05:05,260 --> 00:05:11,520\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n\r\n53\r\n00:05:12,240 --> 00:05:16,820\r\nQuestion 12 Who is the man talking to in the conversation?\r\n\r\n54\r\n00:05:31,980 --> 00:05:37,760\r\nQuestion 13. What do we learn about the man's father-in-law from the conversation?\r\n\r\n55\r\n00:05:52,860 --> 00:05:58,900\r\nQuestion 14. Why does the man say they will explore all the options available?\r\n\r\n56\r\n00:06:14,120 --> 00:06:20,280\r\nQuestion 15. What does the woman suggest the man and his family do close to the end of\r\n\r\n57\r\n00:06:20,280 --> 00:06:20,880\r\nthe conversation?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,140 --> 00:00:15,880\r\nSection C, directions. In this section you will hear three passages. At the end of each passage you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n\r\n2\r\n00:00:15,880 --> 00:00:21,740\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:21,740 --> 00:00:30,760\r\nA, B, C and D. Then mark the corresponding letter on Ansuchit 1 with a single line through\r\n\r\n4\r\n00:00:30,760 --> 00:00:31,640\r\nthe center.\r\n\r\n5\r\n00:00:32,880 --> 00:00:40,180\r\nPassage 1. Artificial intelligence agents play ever more influential roles in our lives.\r\n\r\n6\r\n00:00:40,180 --> 00:00:45,220\r\nThey do everything from suggesting new friends to recommending purchases.\r\n\r\n7\r\n00:00:46,380 --> 00:00:48,500\r\nThey're even beginning to drive our cars.\r\n\r\n8\r\n00:00:49,500 --> 00:00:57,660\r\nAnother role that they are expected to take over is negotiating on our behalf in commercial transactions or legal disputes.\r\n\r\n9\r\n00:00:58,620 --> 00:01:05,099\r\nSo, it's important to know whether using an artificial intelligence agent might affect how we negotiate.\r\n\r\n10\r\n00:01:06,220 --> 00:01:08,260\r\nResearch indicates that it does.\r\n\r\n11\r\n00:01:08,260 --> 00:01:14,120\r\nIn a new study, participants were told to imagine that they were negotiating for something\r\n\r\n12\r\n00:01:14,120 --> 00:01:16,200\r\nimportant to them, like a house.\r\n\r\n13\r\n00:01:16,900 --> 00:01:22,880\r\nNext, they were told either that they would negotiate for themselves, or they would program\r\n\r\n14\r\n00:01:22,880 --> 00:01:26,620\r\nan artificial intelligence agent to negotiate for them.\r\n\r\n15\r\n00:01:27,140 --> 00:01:33,680\r\nParticipants then completed a survey, indicating how tough, deceptive, and pleasant or otherwise\r\n\r\n16\r\n00:01:33,680 --> 00:01:35,020\r\nthey wanted to be.\r\n\r\n17\r\n00:01:35,020 --> 00:01:38,100\r\nor one of their agent to be in the negotiations.\r\n\r\n18\r\n00:01:39,440 --> 00:01:46,860\r\nFor example, participants could choose to be tough by making an opening demand far greater than what they'd be willing to accept.\r\n\r\n19\r\n00:01:47,980 --> 00:01:52,240\r\nThey could also choose to express sympathy with their opponent to appear pleasant.\r\n\r\n20\r\n00:01:53,300 --> 00:02:00,660\r\nBut they could also indicate that day or their agent would strategically express anger toward the opponent to gain advantage.\r\n\r\n21\r\n00:02:00,660 --> 00:02:07,040\r\nor they could opt to convey dissatisfaction with the encounter so that the other party\r\n\r\n22\r\n00:02:07,040 --> 00:02:12,440\r\nwould think they were losing interest. These are both examples of deceptive strategies.\r\n\r\n23\r\n00:02:13,600 --> 00:02:18,720\r\nParticipants were more willing to employ deceptive strategies when assigned an agent to\r\n\r\n24\r\n00:02:18,720 --> 00:02:26,560\r\nnegotiate on their behalf. Questions 16 to 18 are based on the passage you have just heard.\r\n\r\n25\r\n00:02:26,560 --> 00:02:33,300\r\nQuestion 16. What does the passive say about artificial intelligence agents?\r\n\r\n26\r\n00:02:48,120 --> 00:02:54,680\r\nQuestion 17. What does the new study want to find out about using an artificial intelligence\r\n\r\n27\r\n00:02:54,680 --> 00:02:55,660\r\nagents.\r\n\r\n28\r\n00:03:10,700 --> 00:03:17,140\r\nQuestion 18. What did participants tend to do when assigned an AI agent to negotiate\r\n\r\n29\r\n00:03:17,140 --> 00:03:18,940\r\non their behalf.\r\n\r\n30\r\n00:03:33,740 --> 00:03:35,100\r\nPassage 2\r\n\r\n31\r\n00:03:35,100 --> 00:03:40,080\r\nNew research has studied the effects of a seven week healthy cooking course.\r\n\r\n32\r\n00:03:40,740 --> 00:03:45,800\r\nAcid anics measured the program's effect on cooking confidence and self-proceed mental\r\n\r\n33\r\n00:03:45,800 --> 00:03:46,340\r\nhealth.\r\n\r\n34\r\n00:03:46,340 --> 00:03:52,900\r\nResearchers also measured participants overall satisfaction around cooking and diet related\r\n\r\n35\r\n00:03:52,900 --> 00:03:55,420\r\nbehaviours. What were the findings?\r\n\r\n36\r\n00:03:56,340 --> 00:04:02,300\r\nCourse participants saw significance improvements in general health. They also reported improved\r\n\r\n37\r\n00:04:02,300 --> 00:04:09,100\r\nmental health and subjective vitality immediately after the program. These benefits remained\r\n\r\n38\r\n00:04:09,100 --> 00:04:11,900\r\nsix months after the completion of the course.\r\n\r\n39\r\n00:04:11,900 --> 00:04:18,440\r\nWhat caused these improvements? Researchers have previously found a link between eating more fruits\r\n\r\n40\r\n00:04:18,440 --> 00:04:24,620\r\nand vegetables and improved longer-term mental health. This would imply that the participants\r\n\r\n41\r\n00:04:24,620 --> 00:04:31,400\r\nin the current study may have felt better due to improved diet. However, the study showed\r\n\r\n42\r\n00:04:31,400 --> 00:04:36,940\r\nparticipants mental health improved even if their reported diets did not change after\r\n\r\n43\r\n00:04:36,940 --> 00:04:43,540\r\ncompleting the program. Also, the mental health benefits were equal among participants who\r\n\r\n44\r\n00:04:43,540 --> 00:04:50,020\r\nare overweight or obese and those in a healthy weight range. This suggests a link between\r\n\r\n45\r\n00:04:50,020 --> 00:04:55,080\r\ncooking confidence and satisfaction around cooking and mental health benefits.\r\n\r\n46\r\n00:04:56,260 --> 00:05:01,980\r\nWho benefits most from learning to cook? Gender plays a part. At the start of the program,\r\n\r\n47\r\n00:05:01,980 --> 00:05:10,380\r\n77% of female participants were confident about cooking, but just 23% of males were confident.\r\n\r\n48\r\n00:05:11,180 --> 00:05:16,560\r\nAt the end of the program, cooking confidence and skills were equal across both counterparts.\r\n\r\n49\r\n00:05:19,240 --> 00:05:23,220\r\nThis changing confidence could lead to a gender balance in home cooking.\r\n\r\n50\r\n00:05:23,960 --> 00:05:29,440\r\nThis in turn could reduce consumption of unhealthy high calorie processed meals.\r\n\r\n51\r\n00:05:29,440 --> 00:05:43,020\r\nQuestion 19. Question 19. Question 19. What do we learn about the benefits the participants gained from the healthy cooking course?\r\n\r\n52\r\n00:05:57,680 --> 00:06:04,300\r\nQuestion 20. What do the new research findings suggest about mental health benefits?\r\n\r\n53\r\n00:06:19,400 --> 00:06:26,820\r\nQuestion 21. What plays a role in determining who benefits most from learning to cook?\r\n\r\n54\r\n00:06:40,940 --> 00:06:45,240\r\nPassage 3 What is personal space?\r\n\r\n55\r\n00:06:45,940 --> 00:06:51,380\r\nWe often think of it as an invisible bubble of space surrounding us that others can't\r\n\r\n56\r\n00:06:51,380 --> 00:06:53,660\r\nenter without causing discomfort.\r\n\r\n57\r\n00:06:53,660 --> 00:06:58,960\r\nResearch shows, however, that we actually have bubbles of different sizes.\r\n\r\n58\r\n00:06:59,760 --> 00:07:03,080\r\nEach of these bubbles applies to a different set of people.\r\n\r\n59\r\n00:07:04,100 --> 00:07:11,440\r\nThe smallest zone, called intimate space, extends outward from our bodies, 18 inches in every\r\n\r\n60\r\n00:07:11,440 --> 00:07:12,100\r\ndirection.\r\n\r\n61\r\n00:07:13,360 --> 00:07:18,260\r\nOnly family, pets, and one's closest friends may enter it.\r\n\r\n62\r\n00:07:18,260 --> 00:07:22,940\r\nAmir acquaintance entering our intimate space makes us uncomfortable.\r\n\r\n63\r\n00:07:24,440 --> 00:07:31,800\r\nNext is the bubble called personal space, extending from 1.5 feet to 4 feet away.\r\n\r\n64\r\n00:07:32,460 --> 00:07:39,580\r\nFriends and acquaintances can comfortably occupy this zone, especially during informal conversations,\r\n\r\n65\r\n00:07:40,300 --> 00:07:41,800\r\nbut strangers are forbidden.\r\n\r\n66\r\n00:07:41,800 --> 00:07:47,740\r\nExtending from 4 to 12 feet away from us is social space.\r\n\r\n67\r\n00:07:48,480 --> 00:07:53,900\r\nHere people feel comfortable conducting routine social interactions with new acquaintances\r\n\r\n68\r\n00:07:53,900 --> 00:07:55,360\r\nor total strangers.\r\n\r\n69\r\n00:07:56,940 --> 00:08:01,080\r\nThose are the average sizes of Americans' personal bubbles, anyway.\r\n\r\n70\r\n00:08:01,720 --> 00:08:08,000\r\nIt is important to keep in mind that personal space varies depending on culture and context.\r\n\r\n71\r\n00:08:08,000 --> 00:08:15,760\r\nFurthermore, there are significant individual differences. As we all know, cultural or individual\r\n\r\n72\r\n00:08:15,760 --> 00:08:21,420\r\ndifferences in personal bubble diameters are all too often the cause of discomfort.\r\n\r\n73\r\n00:08:22,520 --> 00:08:28,640\r\nHow do these personal bubbles arise? According to research, we begin to develop our individual\r\n\r\n74\r\n00:08:28,640 --> 00:08:35,960\r\nsense of personal space around age 3 or 4. The sizes of our bubbles are fixed by our\r\n\r\n75\r\n00:08:35,960 --> 00:08:42,799\r\nThese bubbles are constructed and monitored by the brain region involved in fear.\r\n\r\n76\r\n00:08:44,080 --> 00:08:48,820\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n77\r\n00:08:49,460 --> 00:08:50,200\r\nQuestion 22.\r\n\r\n78\r\n00:08:51,160 --> 00:08:54,300\r\nWhat does research show about our personal space?\r\n\r\n79\r\n00:09:08,980 --> 00:09:15,600\r\nQuestion 23 What happens if a mere acquaintance enters our intimate space?\r\n\r\n80\r\n00:09:30,300 --> 00:09:36,780\r\nQuestion 24. Where the people feel comfortable interacting with new acquaintances or\r\n\r\n81\r\n00:09:50,120 --> 00:09:51,520\r\nstrangers.\r\n\r\n82\r\n00:09:51,520 --> 00:09:56,640\r\nQuestion 25 When are the sizes of our bubbles fixed?\r\n\r\n83\r\n00:10:11,840 --> 00:10:14,200\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

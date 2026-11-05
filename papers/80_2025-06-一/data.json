@@ -1,0 +1,694 @@
+{
+  "id": 77,
+  "exam": 80,
+  "exam_details": {
+    "id": 80,
+    "title": "2025年6月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2025,
+    "month": 6,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-11-28T18:37:53.939726+08:00",
+    "updated_at": "2025-11-28T20:28:29.915858+08:00",
+    "exam_id": 80,
+    "submission_count": 0,
+    "cet_content_id": 77,
+    "has_draft": false
+  },
+  "created_at": "2025-11-28T19:19:25.517745+08:00",
+  "updated_at": "2026-04-06T16:44:02.124988+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. By slapping some butter on it.",
+              "B. By enhancing its nourishment.",
+              "C. By growing it in South Dakota.",
+              "D. By cooking it in vegetable oil."
+            ],
+            "question": "Why did 7-year-old Tariq become famous?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. To introduce their corn to tourists.",
+              "B. To attend an honorary ceremony.",
+              "C. To share experience with other corn growers.",
+              "D. To exhibit their corn at the state’s Corn Palace."
+            ],
+            "question": "Why were to rig and his family invited to South Dakota?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Stole mail several times.",
+              "B. Forged postal keys illegally.",
+              "C. Attacked postmen on multiple occasions.",
+              "D. Broke a number of postal collection boxes."
+            ],
+            "question": "What did Jordan Jackson and Terrod Goodman do according to a news release?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. A sentence for life.",
+              "B. Loss of all their possessions.",
+              "C. Twenty-three years’ hard labor.",
+              "D. Up to fifteen years in prison."
+            ],
+            "question": "What do Jordan Jackson and Terrod Goodman face?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. It escapes regulation and misleads consumers.",
+              "B. It ignores economically feasible recycling options.",
+              "C. It creates waste and severely impacts the environment.",
+              "D. It produces clothes affordable only to a tiny minority."
+            ],
+            "question": "Why has the clothing industry come under attack?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. To cut consumers’ expenses in buying quality clothes.",
+              "B. To enable the whole fast-fashion industry to be sustainable.",
+              "C. To incentivize manufacturers to be more consumer-friendly.",
+              "D. To urge manufacturers and consumers to reduce waste."
+            ],
+            "question": "Why do the researchers put forth such policies as production tax?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. Recognizing the impact on consumers.",
+              "B. Identifying the source of the problem.",
+              "C. Abandoning the current business model.",
+              "D. Establishing powerful regulatory bodies."
+            ],
+            "question": "What should be done first to eliminate the harm caused by the clothing industry?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. The city’s rush-hour traffic is intolerable.",
+              "B. She cannot avoid rush-hour traffic.",
+              "C. The local government is inefficient.",
+              "D. The city is too big to move around easily."
+            ],
+            "question": "Why is the woman complaining?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. Upgrading subway carriages.",
+              "B. Increasing the number of bus routes.",
+              "C. Air conditioning the city’s subway.",
+              "D. Learning from other big cities."
+            ],
+            "question": "What does the woman suggest doing?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. He suffers from rush-hour crowding too.",
+              "B. He is fortunate to live very near to work.",
+              "C. He takes a half-hour bus ride to work.",
+              "D. He is going to move closer to his office."
+            ],
+            "question": "What do we learn about the man from the conversation?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Recommend to her a good house near his office.",
+              "B. Send her his housing agent’s telephone number.",
+              "C. Tell her exactly what kind of property to look for.",
+              "D. Make sure the agent finds something good for her."
+            ],
+            "question": "What does the woman ask the man to do at the end of the conversation?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. He was remembered for the scar on his cheek.",
+              "B. He received a heart operation a few days ago.",
+              "C. He used to wear a sad face in school.",
+              "D. He had some plastic surgery done."
+            ],
+            "question": "What does the man say about Johnny?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. The man’s deep sympathy for Johnny.",
+              "B. The man’s use of the expression ‘fixed’.",
+              "C. The man’s covering up of what happened.",
+              "D. The man’s good memory of his childhood."
+            ],
+            "question": "What does the woman find puzzling?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. It gave him a noticeable smartness.",
+              "B. It made him appear even more manly.",
+              "C. It seemed to give him a certain uniqueness.",
+              "D. It seemed to make up for his physical defects."
+            ],
+            "question": "What did the man think of Johnny Scar?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. Liberal.",
+              "B. Hostile.",
+              "C. Indifferent.",
+              "D. Critical."
+            ],
+            "question": "How could we describe the speakers' attitude towards Johnny's girlfriend?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Through deliberation.",
+              "B. Through evolution.",
+              "C. Through invention.",
+              "D. Through collaboration."
+            ],
+            "question": "How did language come into being according to researchers?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. With people imitating sounds around them.",
+              "B. With people interacting with animals close by.",
+              "C. With people showing each other things nearby.",
+              "D. With people trying to string sounds together."
+            ],
+            "question": "How did language start? According to the first theory."
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. Making sounds can free one’s hands for doing other things.",
+              "B. Making sounds proves markedly easier than sign languages.",
+              "C. Making sounds enables one to express their ideas more explicitly.",
+              "D. Making sounds helps one communicate with people they can’t see."
+            ],
+            "question": "Why did people switch from gesturing to making sounds according to the more recent theory?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Well disciplined.",
+              "B. Quite confident.",
+              "C. Somewhat selfish.",
+              "D. Highly intelligent."
+            ],
+            "question": "How would people describe someone who shows off their social status according to new research?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. When they wanted to have a competitive team member.",
+              "B. When they were looking for a cooperative workmate.",
+              "C. When they found collaboration essential to them.",
+              "D. When they were seeking someone to help them."
+            ],
+            "question": "When were participants more likely to choose someone who signaled their wealth or status?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Avoid frightening competitors.",
+              "B. Make clear their social goal.",
+              "C. Adopt persuasive strategies.",
+              "D. Consider the consequences."
+            ],
+            "question": "What should people do when sharing their wealth and status?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Much evidence of humans capturing animals.",
+              "B. More images of animals than humans.",
+              "C. Fewer images of buildings than animals.",
+              "D. Little proof of human fascination with animals."
+            ],
+            "question": "What can we see in the oldest cave paintings?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. They were open to the public.",
+              "B. They were primarily native.",
+              "C. They were kept by royalty.",
+              "D. They were hardly injured."
+            ],
+            "question": "What do we learn about the first known collections of animals?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. To enable the public to watch animals close by.",
+              "B. To introduce to Egyptians animals from Punt.",
+              "C. To protect the endangered animals.",
+              "D. To show off her riches and power."
+            ],
+            "question": "What might be the reason the Egyptian Queen created the zoo?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. It was part of the royal estate.",
+              "B. It was a shelter for wild animals.",
+              "C. It was the kingdom’s best-equipped zoo.",
+              "D. It was the first public exhibit of animals."
+            ],
+            "question": "What do we learn about King Henry I's collection of animals in England?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Psychologists have long been interested in how we construct our identities and the sorts of strategies that we use to present ourselves in society. New findings suggest that the kinds of ___26___ and strategic self-presentation behaviour we see in adults appear at a much younger age than ___27___ known. \n\nResearch shows that a child’s awareness of social standing comes from adults. Like grown-ups, kids want to be ___28___ by those they admire. Interactive experiences may provide opportunities for children to learn about what ___29___ a desirable reputation and the kinds of strategies that are effective for ___30___ a good reputation in their social environment. \n\nFive-year-olds aren’t just aware of their reputations, they also behave strategically to alter their outward image. They will ___31___ their behaviour in order to appear moral or socially good in the eyes of key observers. While we know that adults use a large variety of attributes to manage and create impressions, we don’t yet know whether children ___32___ and use the fact that different attributes are valuable at different times to different ___33___. It’s important for us to further consider where in this process children succeed in controlling their reputation and where they ___34___. \n\nA question to think about is, “What happens even earlier than age five?” Children don’t just show up to the first day of kindergarten and have the idea of reputation pop ___35___ into existence. The logical question to ask is, “What happens even earlier?”",
+        "word_bank": [
+          "accepted",
+          "audiences",
+          "building",
+          "complex",
+          "constitutes",
+          "deputies",
+          "previously",
+          "revolving",
+          "samples",
+          "selected",
+          "solemn",
+          "struggle",
+          "suddenly",
+          "understand",
+          "vary"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "During the course of preparing for Design Ventura, teachers receive training and support while students get tutoring from designers."
+          },
+          {
+            "id": 37,
+            "content": "A visit to the Design Museum shop in London can reduce the designers’ fears about the future supply of talents educated in Britain."
+          },
+          {
+            "id": 38,
+            "content": "One of Design Ventura’s judges says the competition adds vigour to the standard curriculum in schools."
+          },
+          {
+            "id": 39,
+            "content": "Enrollment in Design and Technology decreased by nearly ten percent last year in the UK."
+          },
+          {
+            "id": 40,
+            "content": "Participation of ninth graders in Design Ventura can motivate them to choose design technology as their subject."
+          },
+          {
+            "id": 41,
+            "content": "Design Ventura is welcomed by teachers because it helps to prove the worth of design as a school subject."
+          },
+          {
+            "id": 42,
+            "content": "The schools don’t have to pay anything to take part in the Design Ventura competition."
+          },
+          {
+            "id": 43,
+            "content": "Participants in Design Ventura are challenged to create sustainable and marketable products."
+          },
+          {
+            "id": 44,
+            "content": "Students benefit from Design Ventura because they can learn about budgeting and marketing in addition to game design."
+          },
+          {
+            "id": 45,
+            "content": "According to an officer of the Creative Industries Federation, there is difficulty now in recruiting engineers in the UK."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Recently, a leading design federation in the UK warned that the UK could face a creative skills shortage, after the latest figures revealed a drop of almost 10 percent in students studying Design and Technology. These figures showed that the number of pupils that sat exams in Design and Technology fell 10 percent from 204,788 to 185,279 last year."
+          },
+          {
+            "id": "B",
+            "content": "Chief executive John Kampfner of the Creative Industries Federation thinks that this drop in figures has worrying implications for the skills pipeline in Britain’s hugely successful arts and creative industries. He said, “We already have skills shortages in many jobs such as animation (动画制作) and special effects.” He added: “Engineering, which requires a similar mix of creative and technical skills, also has recruitment problems.”"
+          },
+          {
+            "id": "C",
+            "content": "Many other designers and architects have expressed concern over the future supply of home-grown talent for UK firms, and industry bodies have pointed out that there has been a lack of roots-level support. However, if these designers had visited the Design Museum shop in London earlier this year their fears may have been eased. With £10 to spend, they could have bought a fascinating children’s toy called “Dazzle Racer”. An automotive cylinder(圆柱体), it included a wind-up, elastic (有弹性的)-band-powered mechanism, minimal parts, all 100 percent recycled and lots of stickers. It was good fun, simple, eye-catching and very original."
+          },
+          {
+            "id": "D",
+            "content": "Well you’d expect the Design Museum to commission and make some interesting items, but this one was different. Designed by a group of six Year 9 and Year 10 boys from Finchley Catholic High School, the toy was the winning entry in the museum’s 2015 Design Ventura competition, which brings the business of design to life for students aged 13 to 16 by challenging them to develop a new creative, sustainable and commercially feasible product for the Design Museum shop and attracts hundreds of entries nationwide."
+          },
+          {
+            "id": "E",
+            "content": "“We did Design Ventura in my previous school,” says Liam Hourican, Finchley Catholic High School’s design technology curriculum leader. “Then when I changed schools four years ago, I introduced it here because it helps to develop so many skills.”"
+          },
+          {
+            "id": "F",
+            "content": "The theme for last year’s competition was “Move”, and Hourican began with three groups working in lunch breaks and after school before selecting the group with the most innovative idea. Each participating school may submit just one proposal. “It’s the taking part and doing the work which is important,” he says. “And I never dreamt we’d win.”"
+          },
+          {
+            "id": "G",
+            "content": "Catherine Ritman Smith, head of learning at the Design Museum, is expecting around 10,000 participants aged 13 to 16 to take part this year and says that the project — funded by Deutsche Bank as part of its youth engagement programme Born To Be — is the biggest event in the museum’s calendar. “We started Design Ventura with around 800 young people in 2010 and it has grown steadily since,” she says. “Teachers like it because the skills are all transferable and it helps to validate the value of design as a subject,” she explains, telling me that nearly 600 schools have taken part so far."
+          },
+          {
+            "id": "H",
+            "content": "So how does the competition work? A single-word theme is announced in the summer. This year it is “Change”. Schools work with groups to produce imaginative design ideas for a product in simple materials that could sell for £10 in the Design Museum Shop. Participating schools then register by November and eventually submit their design idea. Along the way there is training and support for teachers and tutoring for students from designers. An additional bonus is when the winners see their design on sale in the spring of the following year."
+          },
+          {
+            "id": "I",
+            "content": "Hourican and his pupils have happy memories of spending a whole day at the museum, having been selected as one of 10 shortlisted schools to present their idea to a panel of judges, including designer Jasper Conran. Then they worked with the Kin Design Studio in Shoreditch, met designers at their school and attended a lunch with Deutsche Bank employees. The students helped to make decisions and there were plenty of discussions — they changed the product’s name, for example."
+          },
+          {
+            "id": "J",
+            "content": "“One of the really useful things about this competition,” says Hourican, “is that there’s a commercial element because the product is going on sale for real and the boys had to learn about budgeting and marketing, as well as designing their game.” Profits go to charity. “The winning team chooses where it wants the profits to go,” says Ritman Smith. “The Finchley Catholic High School product raised about £1,000 for Great Ormond Street Hospital.” Winning entries in past years have included a make-your-own cloth kit called Dove Bunting and a threefold, wallet-sized travel game with goals at each end, called Badoiiing."
+          },
+          {
+            "id": "K",
+            "content": "It costs the schools nothing to participate in Design Ventura; the professional designers provide their services for free. Among them are architect Asif Khan, a Design Museum trustee who has worked as designer-in-residence at the museum, helping emerging architects. He has recently been commissioned to design the new Museum of London building in Smithfield."
+          },
+          {
+            "id": "L",
+            "content": "Another is television presenter and interior designer Naomi Cleaver, who is one of the competition’s judges. “I'm very keen to encourage young people,” she says, observing that design brings together other subjects such as literature, art, history, geography and science. “Now that design education is limited in the curriculum, I’m all in favour of competitions such as Design Ventura, which helps to bring the standard curriculum to life,” says Cleaver. “And the judging day is terrific fun. Some of these students are very imaginative. One group presented their idea in the form of a puppet show and we see some marvelous demonstration models. “I’m always impressed by the levels of confidence and the support the students get from their teachers.”"
+          },
+          {
+            "id": "M",
+            "content": "Ritman Smith adds: “Design technology has become a tricky subject to make a case for, and we’ve heard of departments closing in some schools. We find that if pupils take part in Design Ventura in Year Nine it can be the trigger which leads them to opt for it at General Certificate of Secondary Education, so we are helping to keep alive something which is crucial to industry and entrepreneurship.”"
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "New research suggests that pandas may be at risk of dying out because they are too comfortable. Experts say too much happiness can stop the bears from searching for new mates.\n\nEnvironmentalists have long believed that building roads or homes near the bears may threaten their survival by “reducing or fragmenting their natural habitats”, The Times reported. But the new research suggests that a “modest degree of discomfort and fragmentation” may actually help preserve panda populations.\n\nThe research was conducted by scientists from Michigan State University. It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity.\n\nFor their study — outlined in a paper in the journal Conservation Biology — the team looked at genetic diversity and spread among a Chinese panda population. The ideal level of perfectly livable habitat was found to be only 80% of an area, with the remainder either too harsh or too affected by human activity.\n\nThe experts concluded that pandas should ideally “be happy enough to thrive, but not so content that they don’t want to move around and find new mates”.\n\nTheir conclusions about what The Guardian described as this “sweet spot” are in line with the so-called Goldilocks principle: that there can be just the right amount of something. The concept has been applied to a wide range of disciplines, from developmental psychology to economics and engineering.\n\nClaudio Sillero, a professor of conservation biology at Oxford University, told the newspaper that the new findings could have implications beyond panda conservation.\n\n“Most large animals that eat meat live in increasingly fragmented landscapes,” said Sillero, who was not involved in the research. “It may well be that the messy nature of their relationship with human efforts induces more animals to scatter or travel further, and might result in greater genetic connectivity and enhanced population persistence.”\n\nThe most recent count of pandas found that there were more than 1,800 left in the wild, putting them on the list of vulnerable, but not endangered, species.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They are losing habitat due to the building of roads and houses.",
+                  "B. They have stopped seeking new mates for reproduction.",
+                  "C. They may not adapt to the fragmentation of their habitat.",
+                  "D. They may cease to exist as a result of enjoying too good a life."
+                ],
+                "question": "What do we learn from new research about pandas?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Environmentalists’ long-time belief regarding panda conservation may be misleading.",
+                  "B. Housing development near pandas’ homes may threaten their survival.",
+                  "C. Pandas’ natural habitats are becoming less suitable for reproduction.",
+                  "D. The increased panda population is attributed to the fragmentation of their habitat."
+                ],
+                "question": "What can we conclude from the new research by scientists at Michigan State University?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. It is urgent to provide an ideal habitat for them to thrive.",
+                  "B. It is very important to preserve their genetic diversity.",
+                  "C. Their chances of finding new mates have a lot to do with their habitat.",
+                  "D. Their environment for survival has been continuously worsening."
+                ],
+                "question": "What is the experts’ conclusion regarding pandas?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It needs to be confirmed by more studies on pandas.",
+                  "B. It applies to the preservation of pandas too.",
+                  "C. It has implications for future panda research.",
+                  "D. It can be used to locate the right spot for pandas."
+                ],
+                "question": "What can we infer from the passage about the Goldilocks principle?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Help discover new ways for the conservation of pandas.",
+                  "B. Help remove pandas from the list of endangered species.",
+                  "C. Shed light on the conservation of most large meat-eating animals.",
+                  "D. Show the complexity of interactions between humans and animals."
+                ],
+                "question": "What can the new findings do according to Professor Sillero?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "With those born with natural talents, it feels as if they excel without really trying. But what about those of us who don’t have a natural talent? We’ve been told all our lives that if you work hard, you too can succeed. But with the release of Angela Duckworth’s Grit, we are given a new key to success.\n\n“As much as talent counts, effort counts twice,” says Duckworth in Grit. She introduces a new concept that talent may be overrated, and if you want real success, what you need is grit the perfect combination of passion and persistence. Even if you have natural talent it’s nothing without grit.\n\nDuckworth says grit is the difference between success and failure. A person who has grit is more likely to succeed than a person who does not. When we think about attaining success — whether it’s landing that job or learning that new skill — our thoughts are immediately burdened by all the things we must first learn. If you want that new job, you have to learn the job skills, then the interview skills, then the dress part — and you must be perfect at all of them. Grit is different because it tells us that perfection isn’t the goal.\n\nGrit lifts the unreasonable expectations off our shoulders. Grit tells us that the door is open wider than we first thought possible. Grit allows us to redefine our goals. Think about it: what’s something you’ve always wanted to do, but gave up because you “don’t have the skills for it”? What’s something you love but aren’t good at?\n\nThe real workings of grit are to have sustainable passion and continue to try. Effort means more than your natural ability. Even if you haven’t mastered a skill, grit tells you that you can still succeed if you can transform your passion into action. In a way, Duckworth is giving new hope to people who have shut the doors on their dreams. She is saying it is possible that you can accomplish anything. If at first you fail, then try one more time with grit.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. They seem to outdo others without hard work.",
+                  "B. They appear to know all the secrets to success.",
+                  "C. They feel it only too logical to succeed.",
+                  "D. They are bound to excel effortlessly."
+                ],
+                "question": "What does the passage say about people born with natural talents?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It is a new concept much too overrated.",
+                  "B. It proves necessary for big achievements.",
+                  "C. It plays a lesser role in one’s success.",
+                  "D. It is a guarantee for real success in life."
+                ],
+                "question": "What does Duckworth say about talent?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. They are puzzled how to present their best to the employer.",
+                  "B. They are burdened by their expectation of perfection.",
+                  "C. They will try hard to land a job that fits their skills best.",
+                  "D. They will find themselves lacking in all the skills they need."
+                ],
+                "question": "What does the passage say about people thinking of attaining success?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. It allows us to know what we are good at.",
+                  "B. It opens our eyes to new opportunities.",
+                  "C. It focuses our attention on what we do.",
+                  "D. It lets us reconsider the goals to achieve."
+                ],
+                "question": "How does the author think grit can be helpful to us?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. We should perfect ourselves to ensure success.",
+                  "B. We should stay persistent even in face of failures.",
+                  "C. We can never master a skill without constant practice.",
+                  "D. We can never expect to reach our goals without passion."
+                ],
+                "question": "What message does Duckworth try to convey in her book Grit?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose your university is seeking students’ opinions on the necessity of making College Chinese a compulsory course. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "被誉为“杂交水稻(hybrid rice)之父”的袁隆平和他的科研团队克服重重困难,研发出了一种超级杂交水稻。这项技术获得了举世公认的巨大成功。通过这项技术的应用,水稻抗旱抗病能力更强,能适应不同的气候和土壤条件,产量可提高20-30%。超级杂交水稻营养丰富,口感更佳。目前,这项技术已经在许多国家得到广泛应用,为全球粮食安全做出了重大贡献。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_czX5ePn.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_2_fAWdl0x.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_EqWiKPa.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\r\n00:00:00,000 --> 00:00:07,240\r\nCollege English Test, Band 4, Part 2, Listening Comprehension.\r\n大学英语四级考试（CET-4），第二部分，听力理解。\r\n\r\n2\r\n00:00:07,900 --> 00:00:15,920\r\nSection A, Directions. In this section, you will hear three news reports. At the end of each\r\n第一节，说明。在本节中，你将听到三篇新闻报道。在每篇\r\n\r\n3\r\n00:00:15,920 --> 00:00:22,940\r\nnews report, you will hear two or three questions. Both the news reports and the questions will\r\n新闻报道结束时，你将听到两到三个问题。新闻报道和问题都将\r\n\r\n4\r\n00:00:22,940 --> 00:00:29,520\r\nbe spoken only once. After you hear a question, you must choose the best answer from the four\r\n只播放一遍。听完问题后，你必须从四个选项中\r\n\r\n5\r\n00:00:29,520 --> 00:00:38,680\r\nchoices marked A, B, C, and D. Then mark the corresponding letter on Answer Sheet 1 with\r\n选出最佳答案，标记为 A、B、C 和 D。然后在答题卡 1 上相应的字母中心\r\n\r\n6\r\n00:00:38,680 --> 00:00:40,560\r\na single line through the center.\r\n划一条单线进行涂黑。\r\n\r\n7\r\n00:00:41,680 --> 00:00:45,880\r\nNews report 1. Everything changed for seven-year-old Tariq\r\n新闻报道 1。对于七岁的塔里克来说，一切都改变了，\r\n\r\n8\r\n00:00:45,880 --> 00:00:52,200\r\nwhen he slapped some butter on an ear of corn. He knew it tasted good, but butter\r\n当他在一根玉米上抹上黄油时。他知道玉米很好吃，但黄油\r\n\r\n9\r\n00:00:52,200 --> 00:00:59,200\r\nmade it better. His passion for produce got him a position as South Dakota's official\r\n让它变得更棒。他对农产品的热爱让他获得了一个职位——南达科他州官方的\r\n\r\n10\r\n00:00:59,200 --> 00:01:00,660\r\ncorn ambassador.\r\n玉米大使。\r\n\r\n11\r\n00:01:02,220 --> 00:01:07,820\r\nTariq's profession of love for his favorite vegetable earned him the name \"the Corn Kid.\"\r\n塔里克对他最喜欢的蔬菜的深情表白为他赢得了“玉米男孩”的称号。\r\n\r\n12\r\n00:01:08,980 --> 00:01:15,200\r\nThis was after his online interview attracted millions of views and was made into a song.\r\n这是在他的网络采访吸引了数百万次观看并被改编成歌曲之后发生的。\r\n\r\n13\r\n00:01:16,280 --> 00:01:20,020\r\nSouth Dakota is one of the top corn producers in America.\r\n南达科他州是美国顶级的玉米产地之一。\r\n\r\n14\r\n00:01:20,920 --> 00:01:23,880\r\nThe corn provides nourishment across the globe.\r\n这里的玉米为全球提供营养。\r\n\r\n15\r\n00:01:23,880 --> 00:01:31,980\r\nTariq said not everyone has to like corn, but everyone should definitely try it, especially\r\n塔里克说，并不是每个人都必须喜欢玉米，但每个人都绝对应该尝试一下，尤其是\r\n\r\n16\r\n00:01:31,980 --> 00:01:32,920\r\nwith butter.\r\n抹上黄油的玉米。\r\n\r\n17\r\n00:01:33,940 --> 00:01:40,200\r\nTariq and his family were invited to South Dakota to attend the honorary ceremony at the\r\n塔里克和他的家人被邀请到南达科他州，参加在该州\r\n\r\n18\r\n00:01:40,200 --> 00:01:41,760\r\nstate's Corn Palace.\r\n“玉米宫殿”举行的荣誉仪式。\r\n\r\n19\r\n00:01:42,740 --> 00:01:49,400\r\nOfficials wanted to highlight South Dakota's two largest industries: tourism and agriculture.\r\n官员们希望借此突显南达科他州的两大产业：旅游业和农业。\r\n\r\n20\r\n00:01:50,120 --> 00:01:55,220\r\nTariq couldn't believe his eyes when he saw the palace made of corn.\r\n当塔里克看到这座由玉米建成的宫殿时，简直不敢相信自己的眼睛。\r\n\r\n21\r\n00:01:57,160 --> 00:02:02,140\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n问题 1 和 2 基于你刚刚听到的新闻报道。\r\n\r\n22\r\n00:02:03,080 --> 00:02:06,580\r\nQuestion 1. How did Tariq make corn taste better?\r\n问题 1。塔里克是如何让玉米吃起来更美味的？\r\n\r\n23\r\n00:02:20,579 --> 00:02:26,500\r\nQuestion 2. Why were Tariq and his family invited to South Dakota?\r\n问题 2。为什么塔里克和他的家人被邀请到南达科他州？\r\n\r\n24\r\n00:02:40,360 --> 00:02:48,160\r\nNews report 2. Two arrests were announced Thursday. The arrests were in connection with\r\n新闻报道 2。周四宣布了两起逮捕行动。这两起逮捕与\r\n\r\n25\r\n00:02:48,160 --> 00:02:54,680\r\na string of mail thefts from U.S. Postal Service collection boxes in Marion County, and for\r\n马里恩县发生的一系列美国邮政信箱邮件盗窃案有关，此外还涉及\r\n\r\n26\r\n00:02:54,680 --> 00:02:59,620\r\nthe possession of a stolen postal key, according to the Department of Justice.\r\n司法部提到的持有失窃邮政钥匙的行为。\r\n\r\n27\r\n00:03:00,320 --> 00:03:07,520\r\nJordan Jacks and Tarad Goodman, both 23, were arrested after evidence gathered in an investigation\r\n23 岁的乔丹·杰克斯和塔拉德·古德曼被捕，此前调查收集的证据\r\n\r\n28\r\n00:03:07,520 --> 00:03:13,680\r\nshowed the pair stole mail on multiple occasions using a postal key, according to a news\r\n显示这两人多次利用邮政钥匙盗取邮件，根据一份新闻\r\n\r\n29\r\n00:03:13,680 --> 00:03:14,220\r\nrelease.\r\n发布稿称。\r\n\r\n30\r\n00:03:15,020 --> 00:03:18,800\r\nJacks and Goodman stole mail for around 4 months.\r\n杰克斯和古德曼盗窃邮件长达约 4 个月。\r\n\r\n31\r\n00:03:19,580 --> 00:03:22,520\r\nInvestigators reviewed videos of the collection boxes.\r\n调查人员查看了信箱的监控视频。\r\n\r\n32\r\n00:03:22,520 --> 00:03:27,900\r\nThe video showed the two men loading the stolen mail into Jacks' vehicle.\r\n视频显示这两名男子将偷来的邮件搬进杰克斯的车里。\r\n\r\n33\r\n00:03:28,900 --> 00:03:35,000\r\nInvestigators were also able to recover the key that was used to open the collection boxes.\r\n调查人员还找回了那把用于打开信箱的钥匙。\r\n\r\n34\r\n00:03:35,940 --> 00:03:41,740\r\nJacks and Goodman each face up to five years in federal prison for the mail thefts and\r\n杰克斯和古德曼因邮件盗窃各面临最高五年的联邦监禁，\r\n\r\n35\r\n00:03:41,740 --> 00:03:44,680\r\nup to ten years for possession of the postal key.\r\n因持有邮政钥匙各面临最高十年的监禁。\r\n\r\n36\r\n00:03:45,320 --> 00:03:49,700\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n问题 3 和 4 基于你刚刚听到的新闻报道。\r\n\r\n37\r\n00:03:50,280 --> 00:03:51,240\r\nQuestion 3.\r\n问题 3。\r\n\r\n38\r\n00:03:51,240 --> 00:03:56,980\r\nWhat did Jordan Jacks and Tarad Goodman do according to a news release?\r\n根据新闻发布稿，乔丹·杰克斯和塔拉德·古德曼做了什么？\r\n\r\n39\r\n00:04:10,940 --> 00:04:15,920\r\nQuestion 4. What do Jordan Jacks and Tarad Goodman face?\r\n问题 4。乔丹·杰克斯和塔拉德·古德曼面临什么样的处罚？\r\n\r\n40\r\n00:04:29,760 --> 00:04:32,000\r\nNews Report 3.\r\n新闻报道 3。\r\n\r\n41\r\n00:04:32,900 --> 00:04:38,140\r\nCan fast fashion be sustainable? Researchers think yes.\r\n快时尚能可持续发展吗？研究人员认为是可以的。\r\n\r\n42\r\n00:04:38,140 --> 00:04:45,000\r\nIdentifying why the fast-fashion business model creates waste and determining whether regulators\r\n找准快时尚商业模式产生浪费的原因，并确定监管机构\r\n\r\n43\r\n00:04:45,000 --> 00:04:51,460\r\ncan establish incentives for consumers and manufacturers are steps to reduce waste.\r\n能否为消费者和制造商建立激励机制，是减少浪费的步骤。\r\n\r\n44\r\n00:04:52,840 --> 00:04:58,060\r\nRecently, the clothing industry has come under attack for creating a waste problem\r\n近来，服装行业因造成浪费问题而饱受抨击，\r\n\r\n45\r\n00:04:58,060 --> 00:05:05,060\r\nwith serious environmental consequences. In the absence of environmentally and economically feasible\r\n并带来了严重的环保后果。在缺乏环保且经济可行的\r\n\r\n46\r\n00:05:05,060 --> 00:05:11,220\r\nrecycling options, fast-fashion manufacturers pump out low-quality clothes,\r\n回收方案的情况下，快时尚制造商大量生产低质服装，\r\n\r\n47\r\n00:05:11,220 --> 00:05:16,860\r\nproduced in high volumes that are worn only a few times and then discarded.\r\n这些衣服在穿过几次后就会被丢弃。\r\n\r\n48\r\n00:05:17,460 --> 00:05:26,800\r\nThe researchers put forth policy contributions ranging from sustainable disposal of leftover stock to production tax,\r\n研究人员提出了多项政策建议，包括剩余库存的可持续处理以及征收生产税，\r\n\r\n49\r\n00:05:26,800 --> 00:05:32,120\r\nto incentivize both manufacturers and consumers to be more waste conscious.\r\n以激励制造商和消费者都更具环保意识。\r\n\r\n50\r\n00:05:33,040 --> 00:05:39,040\r\nIn order to devise effective policies to curb the environmental impact of the clothing industry,\r\n为了制定有效政策来遏制服装行业对环境的影响，\r\n\r\n51\r\n00:05:39,040 --> 00:05:44,340\r\nit is important to identify the source of the problem in the supply chain.\r\n找准供应链中问题的源头至关重要。\r\n\r\n52\r\n00:05:45,140 --> 00:05:52,460\r\nManufacturers, consumers, and regulatory bodies can then take an informed approach to recognize\r\n制造商、消费者和监管机构随后可以采取明智的方法，来认识\r\n\r\n53\r\n00:05:52,460 --> 00:05:55,360\r\nthe environmental impact of fast fashion,\r\n快时尚对环境的影响，\r\n\r\n54\r\n00:05:56,360 --> 00:06:03,260\r\nand to design an ecosystem to reduce waste, incentivize innovation, and create new business\r\n并设计一个生态系统来减少浪费、激励创新，并创建新的商业模式\r\n\r\n55\r\n00:06:03,260 --> 00:06:05,020\r\nmodels to manage waste.\r\n来管理浪费。\r\n\r\n56\r\n00:06:05,940 --> 00:06:11,140\r\nQuestions 5-7 are based on the news reports you have just heard.\r\n问题 5-7 基于你刚刚听到的新闻报道。\r\n\r\n57\r\n00:06:11,840 --> 00:06:12,680\r\nQuestion 5.\r\n问题 5。\r\n\r\n58\r\n00:06:13,460 --> 00:06:16,320\r\nWhy has the clothing industry come under attack?\r\n服装行业为什么会受到抨击？\r\n\r\n59\r\n00:18:30,120 --> 00:06:36,200\r\nQuestion 6. Why do the researchers put forth such policies as production tax?\r\n问题 6。为什么研究人员提出征收生产税等政策？\r\n\r\n60\r\n00:06:50,620 --> 00:06:56,880\r\nQuestion 7. What should be done first to eliminate the harm caused by the clothing industry?\r\n问题 7。要消除服装行业造成的危害，首先应该做什么？",
+  "conversations_transcript": "1\r\n00:00:00,000 --> 00:00:16,840\r\nSection B, directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once.\r\n第二节，说明。在本节中，你将听到两段长对话。在每段对话结束时，你将听到四个问题。对话和问题都只播放一遍。\r\n\r\n2\r\n00:00:16,840 --> 00:00:25,220\r\nAfter you hear a question, you must choose the best answer from the four choices, mark the A, B, C and D.\r\n听完问题后，你必须从 A、B、C、D 四个选项中选出最佳答案。\r\n\r\n3\r\n00:00:26,160 --> 00:03:31,760\r\nThen mark the corresponding letter on Answer Sheet 1 with a single line through the center.\r\n然后在答题卡 1 上相应的字母中心划一条单线进行涂黑。\r\n\r\n4\r\n00:00:33,699 --> 00:00:34,980\r\nConversation 1.\r\n对话 1。\r\n\r\n5\r\n00:00:35,340 --> 00:00:38,920\r\nHey Mary, you seem to be very much annoyed. What happened?\r\n嘿，玛丽，你看起来很烦躁。发生什么事了？\r\n\r\n6\r\n00:00:39,700 --> 00:00:42,320\r\nRush Hour in this city is killing me.\r\n这个城市的早晚高峰简直要了我的命。\r\n\r\n7\r\n00:00:42,320 --> 00:00:47,880\r\nI, yes, Rush Hour is terrible, especially in the morning between 8 and 9.\r\n唉，是的，高峰期确实很可怕，尤其是早上 8 点到 9 点之间。\r\n\r\n8\r\n00:00:48,460 --> 00:00:51,140\r\nBut what else can you expect in a city this big?\r\n但在这么大的城市里，你还能指望什么呢？\r\n\r\n9\r\n00:00:51,780 --> 00:00:55,100\r\nWell, I think the local government could help improve things.\r\n嗯，我觉得当地政府可以帮忙改善现状。\r\n\r\n10\r\n00:00:55,420 --> 00:01:01,500\r\nI mean, getting rid of Rush Hour maybe impossible, but it could be made more tolerable.\r\n我的意思是，消除高峰期可能不现实，但可以让它变得更易于忍受。\r\n\r\n11\r\n00:01:01,800 --> 00:01:02,620\r\nDon't you think?\r\n你不觉得吗？\r\n\r\n12\r\n00:01:03,160 --> 00:01:06,100\r\nUm, but I'm not sure how.\r\n嗯，但我不知道该怎么做。\r\n\r\n13\r\n00:01:06,680 --> 00:01:10,820\r\nWell, for example, the subway system could have air conditioning.\r\n比如，地铁系统可以加装空调。\r\n\r\n14\r\n00:01:10,820 --> 00:01:15,600\r\nI know many cities in the world have air conditioning in their subway.\r\n我知道世界上很多城市的地铁里都有空调。\r\n\r\n15\r\n00:01:16,240 --> 00:01:17,540\r\nSo why can't we?\r\n为什么我们不行？\r\n\r\n16\r\n00:01:18,140 --> 00:01:22,520\r\nIt gets so hot in the summer I can hardly breathe down there.\r\n夏天下面太热了，我在那儿几乎没法呼吸。\r\n\r\n17\r\n00:01:22,860 --> 00:01:28,560\r\nAnd add to that the rush hour crowds with strangers packed close together in the subway\r\n再加上高峰期的人潮，陌生人们在地铁车厢里\r\n \r\n18\r\n00:01:28,560 --> 00:01:29,260\r\ncarriages.\r\n紧紧挤在一起。\r\n\r\n19\r\n00:01:29,960 --> 00:01:31,800\r\nThe whole thing is just horrible.\r\n整件事简直太糟糕了。\r\n\r\n20\r\n00:01:32,860 --> 00:01:35,040\r\nAh yes, you are completely right.\r\n啊是的，你完全正确。\r\n\r\n21\r\n00:01:35,580 --> 00:01:37,080\r\nThe trains here are too old.\r\n这里的火车太旧了。\r\n\r\n22\r\n00:01:37,080 --> 00:01:41,200\r\nThe government should definitely invest in new ones with air conditioning.\r\n政府绝对应该投资购买带空调的新车。\r\n\r\n23\r\n00:01:41,940 --> 00:01:44,740\r\nI guess I'm fortunate I take the bus instead.\r\n我想我很幸运，我是坐公交车的。\r\n\r\n24\r\n00:01:45,140 --> 00:01:46,360\r\nOh, that's much better.\r\n噢，那好多了。\r\n\r\n25\r\n00:01:46,700 --> 00:01:48,160\r\nYeah, it's more convenient.\r\n是的，更方便。\r\n\r\n26\r\n00:01:48,860 --> 00:01:52,340\r\nBus number 36 goes straight from my house to the office.\r\n36 路公交车直接从我家开到办公室。\r\n\r\n27\r\n00:01:52,720 --> 00:01:56,140\r\nIt's a 30 minute ride and I don't have to make any changes.\r\n30 分钟车程，而且不用换乘。\r\n\r\n28\r\n00:01:56,500 --> 00:01:57,700\r\nThat sounds nice.\r\n听起来不错。\r\n\r\n29\r\n00:01:58,160 --> 00:02:01,380\r\nI tell you, my current commute is killing me.\r\n告诉你，我现在的通勤快把我逼疯了。\r\n\r\n30\r\n00:02:01,720 --> 00:02:03,920\r\nMaybe I should move closer to the office.\r\n也许我应该搬到离办公室近点的地方。\r\n\r\n31\r\n00:02:04,440 --> 00:02:06,740\r\nWell, I know a great housing agent.\r\n嗯，我认识一个很棒的房产中介。\r\n\r\n32\r\n00:02:06,740 --> 00:02:10,780\r\nI found the flat I'm living in now through him and I love it.\r\n我现在住的公寓就是通过他找的，我很喜欢。\r\n\r\n33\r\n00:03:20,000 --> 00:02:13,460\r\nHmm, could you send me his number please?\r\n嗯，能把他的号码发给我吗？\r\n\r\n34\r\n00:02:13,660 --> 00:02:19,600\r\nSure thing. Just tell him exactly what you are looking for and I'm sure he will find something good.\r\n没问题。只要告诉他你具体想要什么样的，我相信他会找到合适的。\r\n\r\n35\r\n00:02:20,260 --> 00:02:24,600\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n问题 8 到 11 是基于你刚刚听到的对话。\r\n\r\n36\r\n00:02:25,320 --> 00:02:27,940\r\nQuestion 8. Why is the woman complaining?\r\n问题 8。这位女士为什么抱怨？\r\n\r\n37\r\n00:02:42,340 --> 00:02:46,440\r\nQuestion 9. What does the woman suggest doing?\r\n问题 9。这位女士建议做什么？\r\n\r\n38\r\n00:03:00,840 --> 00:03:05,400\r\nQuestion 10. What do we learn about the man from the conversation?\r\n问题 10。从对话中我们了解到了关于这位男士的什么信息？\r\n\r\n39\r\n00:03:20,160 --> 00:03:30,980\r\nQuestion 11. What does the woman ask the man to do at the end of the conversation?\r\n问题 11。在对话结束时，这位女士要求男士做什么？\r\n\r\n40\r\n00:03:40,760 --> 00:03:41,960\r\nConversation 2\r\n对话 2\r\n\r\n41\r\n00:03:41,960 --> 00:03:43,460\r\nDid you hear about Johnny?\r\n你听说了约翰尼的事吗？\r\n\r\n42\r\n00:03:44,160 --> 00:03:45,980\r\nNo, why? Is he okay?\r\n没有，怎么了？他还好吗？\r\n\r\n43\r\n00:03:46,320 --> 00:03:48,160\r\nHe had some plastic surgery done.\r\n他去做整形手术了。\r\n\r\n44\r\n00:03:48,480 --> 00:03:49,340\r\nWhat? Why?\r\n什么？为什么？\r\n\r\n45\r\n00:03:49,960 --> 00:03:52,620\r\nDo you remember he had a scar on his face?\r\n你记得他脸上有一道疤吗？\r\n\r\n46\r\n00:03:53,080 --> 00:03:55,420\r\nYes, of course. He always had that.\r\n当然记得。他一直都有那道疤。\r\n\r\n47\r\n00:03:55,660 --> 00:04:00,580\r\nI've known him since primary school, and I always remember him having that on his cheek.\r\n我从小学就认识他了，一直记得他脸颊上有那个。\r\n\r\n48\r\n00:04:00,580 --> 00:04:03,080\r\nWell, he had it fixed.\r\n嗯，他把它修整了。\r\n\r\n49\r\n00:04:03,940 --> 00:04:04,340\r\nFixed?\r\n修整？\r\n\r\n50\r\n00:04:04,360 --> 00:04:05,120\r\nWhat do you mean?\r\n你什么意思？\r\n\r\n51\r\n00:04:05,500 --> 00:04:07,180\r\nYou can't fix a scar.\r\n疤痕是没法“修好”的。\r\n\r\n52\r\n00:04:07,840 --> 00:04:09,000\r\nYou know what I mean.\r\n你知道我的意思。\r\n\r\n53\r\n00:04:09,240 --> 00:04:11,120\r\nHe had an operation done on it.\r\n他动了个手术。\r\n\r\n54\r\n00:04:11,380 --> 00:04:15,120\r\nPlastic surgery in order to cover it and make it less noticeable.\r\n做整形手术是为了遮盖它，让它不那么明显。\r\n\r\n55\r\n00:04:16,160 --> 00:04:18,880\r\nOh, well, that's ridiculous, isn't it?\r\n噢，好吧，这太荒谬了，不是吗？\r\n\r\n56\r\n00:04:19,100 --> 00:04:20,640\r\nIt was noticeable, sure.\r\n虽然是很明显。\r\n\r\n57\r\n00:04:21,040 --> 00:04:22,920\r\nBut it wasn't an ugly scar.\r\n但那并不是一道丑陋的疤。\r\n\r\n58\r\n00:04:23,460 --> 00:04:27,180\r\nIt never occurred to me that he should have it taken care of like that.\r\n我从未想过他需要用那种方式去处理它。\r\n\r\n59\r\n00:04:27,500 --> 00:04:28,080\r\nI agree.\r\n我同意。\r\n\r\n60\r\n00:04:28,080 --> 00:04:34,080\r\nI can understand some scars and physical defects can be ugly and distracting, but not\r\n我可以理解有些疤痕和身体缺陷可能很丑陋且引人分心，但\r\n \r\n61\r\n00:04:34,080 --> 00:04:34,880\r\nJohnny's.\r\n约翰尼的那个不是。\r\n\r\n62\r\n00:04:35,000 --> 00:04:39,900\r\nIn fact, I thought it added character, like it gave him a certain uniqueness.\r\n事实上，我觉得那增加了他的个性，让他有一种独特性。\r\n\r\n63\r\n00:04:40,920 --> 00:04:42,900\r\nHe must have felt differently though.\r\n不过他本人的感觉肯定不一样。\r\n\r\n64\r\n00:04:43,080 --> 00:04:47,160\r\nHe must have felt self-conscious and insecure perhaps.\r\n他肯定觉得很局促，甚至可能感到自卑。\r\n\r\n65\r\n00:04:47,580 --> 00:04:49,520\r\nNo, no, that's not the reason.\r\n不，不，那不是原因。\r\n\r\n66\r\n00:04:49,920 --> 00:04:52,000\r\nHe was totally fine with his scar.\r\n他对他那道疤完全没意见。\r\n\r\n67\r\n00:04:52,320 --> 00:04:55,280\r\nAs he said, he had had it for most of his life.\r\n正如他所说，那道疤伴随了他大半辈子。\r\n\r\n68\r\n00:04:55,280 --> 00:04:57,600\r\nThen why did he have the operation?\r\n那他为什么要动手术？\r\n\r\n69\r\n00:04:58,120 --> 00:05:00,380\r\nBecause his girlfriend wanted him to.\r\n因为他的女朋友想让他做。\r\n\r\n70\r\n00:05:00,840 --> 00:05:04,440\r\nWhat? That's so superficial and selfish of her.\r\n什么？她也太肤浅、太自私了。\r\n\r\n71\r\n00:05:04,620 --> 00:05:07,940\r\nIf Johnny's girlfriend doesn't like him for who he is,\r\n如果约翰尼的女朋友不喜欢他真实的样子，\r\n\r\n72\r\n00:05:08,260 --> 00:05:10,580\r\nthen she does not deserve to be his girlfriend.\r\n那她就不配当他的女朋友。\r\n\r\n73\r\n00:05:11,020 --> 00:05:14,840\r\nYou're right. So he is a fool to give in to her like that.\r\n你说得对。所以他居然就这样向她妥协，真是个傻瓜。\r\n\r\n74\r\n00:05:15,040 --> 00:05:20,160\r\nBut when I told him, he said he loves her and would just do what she wants him to.\r\n但当我告诉他时，他说他爱她，只想按她的意愿去做。\r\n\r\n75\r\n00:05:20,740 --> 00:05:22,120\r\nWhat a fool he is.\r\n他真是个傻瓜。\r\n\r\n76\r\n00:05:22,120 --> 00:05:31,080\r\nQuestion 12-15 are based on the conversation you have just heard. Question 12. What does the man say about Johnny?\r\n问题 12-15 是基于你刚刚听到的对话。问题 12。这位男士说了关于约翰尼的什么？\r\n\r\n77\r\n00:05:44,920 --> 00:05:49,020\r\nQuestion 13. What does the woman find puzzling?\r\n问题 13。这位女士觉得什么事很令人费解？\r\n\r\n78\r\n00:06:03,039 --> 00:06:07,560\r\nQuestion 14. What did the man think of Johnny's scar?\r\n问题 14。这位男士怎么看约翰尼的疤痕？\r\n\r\n79\r\n00:06:21,600 --> 00:06:27,620\r\nQuestion 15. How could we describe the speakers' attitude towards Johnny's girlfriend?\r\n问题 15。我们该如何描述说话者对约翰尼女朋友的态度？",
+  "passages_transcript": "1\r\n00:00:02,019 --> 00:00:07,780\r\nSection C, directions, in this section you will hear three passages.\r\n第三节，说明。在本节中，你将听到三篇短文。\r\n\r\n2\r\n00:00:08,880 --> 00:00:12,900\r\nAt the end of each passage, you will hear three or four questions.\r\n在每篇短文结束时，你将听到三到四个问题。\r\n\r\n3\r\n00:00:13,920 --> 00:00:17,900\r\nBoth the passage and the questions will be spoken only once.\r\n短文和问题都只播放一遍。\r\n\r\n4\r\n00:00:18,800 --> 00:00:27,040\r\nAfter you hear a question, you must choose the best answer from the four choices, marked A, B, C and D.\r\n听完问题后，你必须从标记为 A、B、C 和 D 的四个选项中选出最佳答案。\r\n\r\n5\r\n00:00:27,040 --> 00:00:33,220\r\nThen Mark, the corresponding letter on answer sheet 1, with a single line through the center.\r\n然后在答题卡 1 上相应的字母中心划一条单线进行涂黑。\r\n\r\n6\r\n00:00:34,660 --> 00:00:35,560\r\nPassage 1.\r\n短文 1。\r\n\r\n7\r\n00:00:36,440 --> 00:00:38,000\r\nTalking is unique to humans.\r\n说话是人类独有的。\r\n\r\n8\r\n00:00:38,640 --> 00:00:44,620\r\nAn animal might make ten different sounds, but an adult human knows more than 20,000 words.\r\n动物可能会发出十种不同的声音，但成年人类掌握的词汇量超过 20,000 个。\r\n\r\n9\r\n00:00:45,200 --> 00:00:50,980\r\nAdditionally, we're the only animal that expresses thoughts in full sentences. Researchers\r\n此外，我们是唯一能用完整的句子表达思想的动物。研究人员\r\n\r\n10\r\n00:00:50,980 --> 00:00:52,780\r\ndon't think language was invented.\r\n并不认为语言是被发明出来的。\r\n\r\n11\r\n00:00:53,380 --> 00:00:55,420\r\nInstead, they think it evolved.\r\n相反，他们认为语言是进化而来的。\r\n\r\n12\r\n00:00:55,420 --> 00:00:57,580\r\nHow did talking evolve?\r\n说话是如何进化的？\r\n\r\n13\r\n00:00:58,180 --> 00:00:59,760\r\nThere are two main theories.\r\n主要有两种理论。\r\n\r\n14\r\n00:01:00,580 --> 00:01:06,360\r\nThe first theory is that language started with people making different sounds, mostly imitating\r\n第一种理论认为，语言始于人们发出的各种声音，主要是模仿\r\n \r\n15\r\n00:01:06,360 --> 00:01:11,980\r\nthe things around them, like animal calls, nature sounds, and the sounds of tools.\r\n周围的事物，如动物的叫声、自然界的声音以及工具发出的声音。\r\n\r\n16\r\n00:01:12,760 --> 00:01:17,640\r\nPerhaps they made the sound of wind to comment on the weather, or imitated the sound\r\n也许他们通过模拟风声来评论天气，或者模仿\r\n\r\n17\r\n00:01:17,640 --> 00:01:20,840\r\nof a bird, to tell a friend that there was a bird nearby.\r\n鸟叫声来告诉朋友附近有一只鸟。\r\n\r\n18\r\n00:01:20,840 --> 00:01:27,640\r\nThen, over hundreds of thousands of years, those sounds turned into words that people began\r\n然后，经过数十万年的演变，这些声音变成了人们开始\r\n\r\n19\r\n00:01:27,640 --> 00:01:29,720\r\nto learn as part of their language.\r\n学习并作为其语言一部分的单词。\r\n\r\n20\r\n00:01:30,320 --> 00:01:35,340\r\nAt some point, people started stringing the words together to form sentences.\r\n在某个时间点，人们开始将单词串联起来组成句子。\r\n\r\n21\r\n00:01:36,480 --> 00:01:42,920\r\nThe other main theory, which is more recent, is that people started off by gesturing, pointing\r\n另一种较新的主要理论认为，人们最初是通过打手势、\r\n\r\n22\r\n00:01:42,920 --> 00:01:47,240\r\nat things with their hands, and imitating actions using their bodies.\r\n用手指向物体以及用身体模仿动作开始交流的。\r\n\r\n23\r\n00:01:47,240 --> 00:01:52,000\r\nEventually, these gestures turned into a full sign language.\r\n最终，这些手势演变成了一种完整的符号语言（手语）。\r\n\r\n24\r\n00:01:52,760 --> 00:01:58,440\r\nThis theory guesses that after developing sign languages, people eventually started\r\n该理论推测，在发展出符号语言之后，人们最终开始\r\n\r\n25\r\n00:01:58,440 --> 00:02:01,000\r\nmaking sounds along with their gestures.\r\n伴随着手势发出声音。\r\n\r\n26\r\n00:02:01,740 --> 00:02:07,660\r\nAt some point, they switched to mostly making sounds that became words instead of just\r\n在某个时刻，他们转而主要通过发出声音（即词汇）来交流，而不是仅仅\r\n\r\n27\r\n00:02:07,660 --> 00:02:08,780\r\nusing their bodies.\r\n使用肢体。\r\n\r\n28\r\n00:02:09,460 --> 00:02:15,080\r\nThe reason they switched to making sounds, the theory goes, is that talking out loud\r\n该理论认为，他们转向发声的原因在于，大声说话\r\n\r\n29\r\n00:02:15,080 --> 00:02:19,140\r\nlets you communicate with someone even when you can't see them.\r\n让你即使在看不见对方的情况下也能进行交流。\r\n\r\n30\r\n00:02:19,820 --> 00:02:24,220\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n问题 16 至 18 基于你刚刚听到的短文。\r\n\r\n31\r\n00:02:25,040 --> 00:02:25,900\r\nQuestion 16.\r\n问题 16。\r\n\r\n32\r\n00:02:26,600 --> 00:02:30,040\r\nHow did language come into being, according to researchers?\r\n根据研究人员的说法，语言是如何产生的？\r\n\r\n33\r\n00:02:45,180 --> 00:02:50,860\r\nQuestion 17. How did language start according to the first theory?\r\n问题 17。根据第一种理论，语言是如何开始的？\r\n\r\n34\r\n00:03:05,300 --> 00:03:13,020\r\nQuestion 18. Why did people switch from gesturing to making sounds according to the more recent theory?\r\n问题 18。根据较新的理论，为什么人们从打手势转向发出声音？\r\n\r\n35\r\n00:03:28,180 --> 00:03:35,300\r\nPassage 2. Is it a good idea to display luxury brands and other signals of status?\r\n短文 2。展示奢侈品牌或其他地位象征是个好主意吗？\r\n\r\n36\r\n00:03:36,080 --> 00:03:42,420\r\nIt depends on the situation. Studies have shown that people who appear to be wealthy tend\r\n这取决于具体情况。研究表明，那些看起来富有的人往往\r\n\r\n37\r\n00:03:42,420 --> 00:03:48,200\r\nto be considered more intelligent, disciplined, and competent than those who do not.\r\n被认为比其他人更聪明、更自律、更有能力。\r\n\r\n38\r\n00:03:48,980 --> 00:03:54,400\r\nBut new research found that people believe someone who shows off their social status\r\n但新研究发现，人们认为炫耀社会地位的人\r\n\r\n39\r\n00:03:54,400 --> 00:03:58,380\r\ncares more about benefiting themselves than helping others.\r\n更看重自身利益，而不是帮助他人。\r\n\r\n40\r\n00:03:59,320 --> 00:04:03,140\r\nThis means people are less willing to collaborate with them.\r\n这意味着人们不太愿意与他们合作。\r\n\r\n41\r\n00:04:03,920 --> 00:04:10,280\r\nModesty may be key when cooperation is essential, but the researchers also found that in\r\n当合作至关重要时，谦虚可能是关键；但研究人员也发现，\r\n\r\n42\r\n00:04:10,280 --> 00:04:13,420\r\nsome cases, status signaling has advantages.\r\n在某些情况下，地位信号也有优势。\r\n\r\n43\r\n00:04:14,680 --> 00:04:19,700\r\nExperiments showed that participants were less likely to choose someone who signals their\r\n实验表明，当参与者寻找合作型成员加入团队时，他们不太可能选择那些\r\n\r\n44\r\n00:04:19,700 --> 00:04:23,780\r\nwealth or status to join a group seeking cooperative members.\r\n展示财富或地位的人。\r\n\r\n45\r\n00:04:24,640 --> 00:04:29,640\r\nBut participants were more likely to choose that person when they were looking for a competitive\r\n但在寻找具有竞争力的团队成员时，\r\n\r\n46\r\n00:04:29,640 --> 00:04:30,580\r\nteam member.\r\n参与者更有可能选择那个人。\r\n\r\n47\r\n00:04:31,520 --> 00:04:36,660\r\nThese findings suggest that people should change how they present themselves depending on\r\n这些发现表明，人们应该根据其社交目标\r\n\r\n48\r\n00:04:36,660 --> 00:04:37,800\r\ntheir social goal.\r\n改变自我展示的方式。\r\n\r\n49\r\n00:04:37,800 --> 00:04:44,880\r\nThis is the era of social media. People can easily share their wealth and status to large audiences.\r\n在当今社交媒体时代，人们可以轻易地向大众展示自己的财富和地位。\r\n\r\n50\r\n00:04:45,840 --> 00:04:56,860\r\nBut they need to consider the consequences. Posting about luxury purchases and expensive vacations online may help you to persuade others and frighten competitors.\r\n但他们需要考虑后果。在网上发布奢侈消费和昂贵假期可能有助于说服他人或震慑对手，\r\n\r\n51\r\n00:05:01,000 --> 00:05:05,900\r\nbut it could also signal to potential friends or future employers that you are unlikely to think about the needs of others.\r\n但也可能向潜在的朋友或未来的雇主传递出你不太会考虑他人需求的信号。\r\n\r\n52\r\n00:05:05,900 --> 00:05:12,540\r\nThis makes things tricky for people who may want to impress others while also demonstrating\r\n对于那些既想给人留下深刻印象，又想展现自己是\r\n\r\n53\r\n00:05:12,540 --> 00:05:14,440\r\nthey are a team player.\r\n团队合作者的人来说，情况会变得很微妙。\r\n\r\n54\r\n00:05:15,540 --> 00:05:20,020\r\nQuestions 19-21 are based on the passage you have just heard.\r\n问题 19 至 21 基于你刚刚听到的短文。\r\n\r\n55\r\n00:05:20,880 --> 00:05:21,620\r\nQuestion 19.\r\n问题 19。\r\n\r\n56\r\n00:05:22,720 --> 00:05:27,920\r\nHow would people describe someone who shows off their social status according to new research?\r\n根据新研究，人们会如何描述炫耀社会地位的人？\r\n\r\n57\r\n00:05:42,940 --> 00:05:49,780\r\nQuestion 20. When were participants more likely to choose someone who signaled their wealth or status?\r\n问题 20。参与者在什么情况下更有可能选择展示财富或地位的人？\r\n\r\n58\r\n00:06:04,820 --> 00:06:10,940\r\nQuestion 21. What should people do when sharing their wealth and status online?\r\n问题 21。人们在网上分享财富和地位时应该怎么做？\r\n\r\n59\r\n00:06:25,800 --> 00:06:32,340\r\nPassage 3. Human fascination with animals goes back as far as humans do.\r\n短文 3。人类对动物的着迷与人类的历史一样悠久。\r\n\r\n60\r\n00:06:32,860 --> 00:06:39,540\r\nOf the oldest cave paintings discovered, some are up to 40,000 years old, and there are\r\n在已发现的最古老的岩画中，有些已有 40,000 年的历史，而且\r\n\r\n61\r\n00:06:39,540 --> 00:06:42,180\r\nmore images of animals than humans.\r\n其中的动物形象比人物形象更多。\r\n\r\n62\r\n00:06:43,160 --> 00:06:47,240\r\nAt some point humans began to capture and hold animals.\r\n在某个时期，人类开始捕捉并圈养动物。\r\n\r\n63\r\n00:06:47,240 --> 00:06:53,080\r\nThe first known collections were held by royalty and were not open to the public.\r\n已知最早的动物收藏由皇室持有，不对公众开放。\r\n\r\n64\r\n00:06:54,060 --> 00:07:00,480\r\nIn Egypt, researchers have found buildings from around 3,500 BC containing the remains\r\n在埃及，研究人员发现了公元前 3,500 年左右的建筑，里面存有\r\n\r\n65\r\n00:07:00,480 --> 00:07:06,960\r\nof animals including elephants which were not native to Egypt. But life wasn't easy for\r\n动物遗骸，包括非埃及本土的大象。但对这些动物来说，\r\n\r\n66\r\n00:07:06,960 --> 00:07:13,160\r\nthese animals. They probably had short lives and the remains show evidence of severe injuries.\r\n生活并不容易。它们可能寿命很短，遗骸上显示有严重受伤的迹象。\r\n\r\n67\r\n00:07:13,900 --> 00:07:20,460\r\nThe first public exhibit of animals may have been created by Egypt's Queen Hatshepsut\r\n最早的公共动物展览可能由埃及女王哈特谢普苏特\r\n\r\n68\r\n00:07:20,460 --> 00:07:27,860\r\naround 1480 BC. Researchers think the zoo was started with animals brought home from a far-off\r\n于公元前 1480 年左右创立。研究人员认为，这个动物园始于从一个遥远的\r\n\r\n69\r\n00:07:27,860 --> 00:07:33,800\r\nland known as Punt. It's unclear why the Queen built the zoo, but it might have been\r\n被称为“庞特”的地方带回来的动物。目前尚不清楚女王为何建造动物园，但可能是为了\r\n\r\n70\r\n00:07:33,800 --> 00:07:41,540\r\nto show off her wealth and power. Early zoos are found all over the world. In China, Emperor\r\n展示她的财富和权力。世界各地都发现了早期动物园。在中国，\r\n\r\n71\r\n00:07:41,540 --> 00:07:50,080\r\nWen Wang is said to have built the Garden of Intelligence around 1060 BC. It included deer, birds,\r\n文王据传在公元前 1060 年左右建造了“灵囿”。里面有鹿、鸟\r\n\r\n72\r\n00:07:50,380 --> 00:07:58,520\r\nand many fish. In England, King Henry I set up a collection of animals in about 1110 as part\r\n和许多鱼。在英国，亨利一世于 1110 年左右建立了动物收藏，作为\r\n\r\n73\r\n00:07:58,520 --> 00:08:05,560\r\nof the Royal Estate. His collection included tigers and lions. This collection eventually moved to\r\n王室地产的一部分。他的收藏包括虎和狮。这些收藏最终于 1235 年搬到了\r\n\r\n74\r\n00:08:05,560 --> 00:08:12,520\r\nthe Tower of London in 1235. The collection stayed at that location for 600 years.\r\n伦敦塔。并在那里存放了 600 年。\r\n\r\n75\r\n00:08:13,860 --> 00:08:20,680\r\nQuestions 22 to 25 are based on the passage you have just heard. Question 22.\r\n问题 22 至 25 基于你刚刚听到的短文。问题 22。\r\n\r\n76\r\n00:08:21,680 --> 00:08:24,340\r\nWhat can we see in the oldest cave paintings?\r\n我们在最古老的岩画中能看到什么？\r\n\r\n77\r\n00:08:39,520 --> 00:08:45,180\r\nQuestion 23. What do we learn about the first known collections of animals?\r\n问题 23。关于已知最早的动物收藏，我们了解到了什么？\r\n\r\n78\r\n00:09:00,380 --> 00:09:05,540\r\nQuestion 24. What might be the reason the Egyptian Queen created the zoo?\r\n问题 24。埃及女王建造动物园的原因可能是什么？\r\n\r\n79\r\n00:09:21,490 --> 00:09:28,000\r\nQuestion 25. What do we learn about King Henry I's collection of animals in England?\r\n问题 25。关于亨利一世在英国的动物收藏，我们了解到了什么？\r\n\r\n80\r\n00:09:43,060 --> 00:09:45,380\r\nThat's the end of listening comprehension.\r\n听力理解部分到此结束。",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "",
+  "passages_transcript_zh": ""
+}

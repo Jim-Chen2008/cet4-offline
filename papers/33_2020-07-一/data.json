@@ -1,0 +1,702 @@
+{
+  "id": 33,
+  "exam": 33,
+  "exam_details": {
+    "id": 33,
+    "title": "2020年07月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2020,
+    "month": 7,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-27T10:18:34.033000+08:00",
+    "updated_at": "2025-04-27T10:18:34.033000+08:00",
+    "exam_id": 33,
+    "submission_count": 0,
+    "cet_content_id": 33,
+    "has_draft": false
+  },
+  "created_at": "2025-04-27T10:55:31.383000+08:00",
+  "updated_at": "2025-04-27T10:59:23.361000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. Watch the weather forecast.",
+              "B. Evacuate the area with the orange alert.",
+              "C. Avoid travel on Wednesday.",
+              "D. Prepare enough food and drink."
+            ],
+            "question": "What were people in parts of Scotland advised to do?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Pay more attention to the roads.",
+              "B. Stay at a safer place.",
+              "C. Bring more mobile phones.",
+              "D. Take a train home."
+            ],
+            "question": "What did the head of road policing urge drivers to do?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. There is only one ecosystem in Europe.",
+              "B. Romania’s wetlands thrive again.",
+              "C. The wildlife in Romania isn’t well protected.",
+              "D. There are 200 species of birds in Romania’s wetlands."
+            ],
+            "question": "What is the news report mainly about?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. Block the waterways.",
+              "B. Restore the fishing ban.",
+              "C. Use monitoring equipment.",
+              "D. Prohibit fishing in the next 10 years."
+            ],
+            "question": "What did government officials propose to do to protect the endangered fish?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. He had a car accident.",
+              "B. He attended his graduation ceremony.",
+              "C. He had a heart attack.",
+              "D. He gave a performance in the auditorium."
+            ],
+            "question": "What happened to Scott a month ago?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. What happened to him.",
+              "B. What date it was.",
+              "C. When the graduation ceremony was.",
+              "D. Where he was."
+            ],
+            "question": "What did Scott ask about when he regained consciousness?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. He was really touched by his classmates.",
+              "B. He didn’t know what happened at all.",
+              "C. He couldn’t remember what to say.",
+              "D. His parents wore caps and gowns."
+            ],
+            "question": "Why was Scott speechless at the graduation ceremony?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. Her children’s disruption.",
+              "C. A sense of isolation.",
+              "B. Quiet atmosphere.",
+              "D. Longer working hours."
+            ],
+            "question": "What does the woman say is the disadvantage of working from home?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. It doesn’t offer coffee.",
+              "C. It doesn’t have free Wi-Fi.",
+              "B. It’s too quiet.",
+              "D. It lacks the material he needs."
+            ],
+            "question": "What does the man say is counter-productive to getting work done in the library?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. The sense of being out in the world.",
+              "C. The coffee table.",
+              "B. The coffee it provides.",
+              "D. The comfortable working condition."
+            ],
+            "question": "What does the woman like about doing one’s work in a cafe?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. People don’t order anything.",
+              "B. People bring their laptops and paperwork.",
+              "C. People occupy valuable table space in quiet times.",
+              "D. People of two occupy a table for six."
+            ],
+            "question": "What is most annoying for cafe owners according to the woman?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. She is not satisfied with the salary.",
+              "B. She is not capable of the job.",
+              "C. She often works overtime.",
+              "D. She’s received a job offer from another company."
+            ],
+            "question": "What makes the woman think about changing her job?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. They may be considered as less loyal.",
+              "B. They won’t get the promotion opportunities.",
+              "C. They should take more responsibility at work.",
+              "D. They will be given hiring priority."
+            ],
+            "question": "What does the man say about people who keep changing their jobs?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. She might have to do extra work every day.",
+              "C. She might not get enough vacation.",
+              "B. She might not get a pay rise.",
+              "D. She might not gain more experience."
+            ],
+            "question": "What does the woman say would happen even if she got promoted in her current company?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. Experience.",
+              "C. Fortune.",
+              "B. Confidence.",
+              "D. Opportunity."
+            ],
+            "question": "What benefit has the woman gained from changing her jobs frequently?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. It’s a horrible feeling.",
+              "C. It’s boring and dangerous.",
+              "B. It can be a blessing.",
+              "D. It’s the most comfortable state."
+            ],
+            "question": "What does the speaker say about being alone?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. To be active.",
+              "C. To travel abroad.",
+              "B. To meet up with your friends.",
+              "D. To seek advice from others."
+            ],
+            "question": "What does the speaker say helps reduce one’s feeling of loneliness?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. It provides a chance for people to think deeply.",
+              "B. It makes us treasure the time.",
+              "C. It enables one to identify true friends.",
+              "D. It helps us take care of problems more efficiently."
+            ],
+            "question": "What is an advantage of spending one’s time alone?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. He is a harsh person.",
+              "C. He is very demanding in his work.",
+              "B. He is mean to others.",
+              "D. He usually works very late."
+            ],
+            "question": "What do we learn about the speaker’s father?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. He moved out and divorced.",
+              "B. It was plagued by drugs and gang violence.",
+              "C. He lived there for 20 years.",
+              "D. His parents would move into his new house."
+            ],
+            "question": "What does the speaker say about the housing project?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. He was only responsible for unloading food.",
+              "B. He had to sign his name on every label.",
+              "C. It was a hard and tedious job.",
+              "D. He was required to work on Friday night."
+            ],
+            "question": "What do we learn about the speaker as a stock clerk?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. By recording the time people spend on TV.",
+              "C. By using memory and fluency tests.",
+              "B. By tracking people’s living habits.",
+              "D. By scanning people’s brains."
+            ],
+            "question": "What means did scientists at University College London measure memory loss?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. Watching television for hours.",
+              "C. Reading books and magazines.",
+              "B. Playing video games.",
+              "D. Surfing the Internet."
+            ],
+            "question": "What contributed to memory decline in the participants?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. Television viewing may be a potential factor for Alzheimer’s disease.",
+              "B. Alzheimer’s patients tend to watch television more than 3 hours a day.",
+              "C. Some research has confirmed the link between them.",
+              "D. Television watching is beneficial to Alzheimer’s patients."
+            ],
+            "question": "What do the researchers say about their finding concerning the link between TV viewing and outsideness disease?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Watch television no more than 3 hours each day.",
+              "B. Balance television viewing with other contrasting activities.",
+              "C. Watch some educational TV programs.",
+              "D. Take more physical exercise"
+            ],
+            "question": "What do the researchers suggest older people do?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "“Science and everyday life cannot and should not be separated.” Those were the words uttered by pioneering British scientist Rosalind Franklin, who firmly believed that the pursuit of science should be __26__ to all.\nAs a woman working in the first half of the 20th century, Franklin’s contributions to some of the greatest scientific discoveries of our time including the structure of DNA—were sadly __27__ in her lifetime.\nMore than 60 years after Franklin’s death, we are __28__ living in a different world, where women play an important part in every echelon （ 阶 层） of our society—not least in science, innovation, higher education and research. UK universities are world leaders when it comes to advancing and __29__ gender equality.\nIn the past decade, we have seen a __30__ increase in England in the number of women accepted on to full-time undergraduate degrees in science, technology, engineering and maths (Stem subjects). And in the last academic year, women __31__ for more than half of all Stem postgraduates at UK universities.\nData shows us the __32__ to success gets harder for women to climb the further up they go. Although women make up the majority of undergraduates in our universities, just under half of academic staff are female. At __33__ levels, only a quarter of professors are women, and black women make up less than 2% of all female academic staff.\nThere are also stark differences in pay across grades. The gender pay gap based on median salaries across the sector in 2016 2017 was 13.7% , __34__ there is still some way to go to ensure women are rising through the ranks to higher grade positions and being paid __35__ .",
+        "word_bank": [
+          "accessible",
+          "accounted",
+          "adaptation",
+          "appropriately",
+          "considerable",
+          "effective",
+          "ladder",
+          "misread",
+          "nomination",
+          "overlooked",
+          "promoting",
+          "senior",
+          "submission",
+          "suggesting",
+          "thankfully"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "When the author was a college student, she found that knitting helped her concentrate."
+          },
+          {
+            "id": 37,
+            "content": "Knitting can help people stay away from tobacco."
+          },
+          {
+            "id": 38,
+            "content": "Even men and children are now joining the army of knitters."
+          },
+          {
+            "id": 39,
+            "content": "Being a member of a crafts group enhances one’s health and prolongs one’s life."
+          },
+          {
+            "id": 40,
+            "content": "Knitting diverts people’s attention from their pain."
+          },
+          {
+            "id": 41,
+            "content": "The author learnt to knit as a teenager, but it was not until she was much older that she became keenly interested."
+          },
+          {
+            "id": 42,
+            "content": "When people are knitting, they tend to eat fewer snacks."
+          },
+          {
+            "id": 43,
+            "content": "Survey findings show that knitting can help people relieve stress."
+          },
+          {
+            "id": 44,
+            "content": "According to a study, knitters and crocheters are less likely to suffer mild cognitive damage."
+          },
+          {
+            "id": 45,
+            "content": "The products of knitting can increase one’s sense of self-respect."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "About 15 years ago, I was invited to join a knitting group. I agreed to give it a try."
+          },
+          {
+            "id": "B",
+            "content": "My mother had taught me to knit at 15, and I knitted in class throughout college and for a few years thereafter. Then decades passed without my touching a knitting needle. But within two Mondays in the group, I was hooked, not only on knitting but also on crocheting (钩织), and I was on my way to becoming a highly productive crafter."
+          },
+          {
+            "id": "C",
+            "content": "I’ve made countless baby blankets, sweaters, scarves, hats and caps for newborns. I take a knitting project with me everywhere, especially when I have to sit still and listen. As I discovered in college, when my hands are busy, my mind stays focused on the here and now."
+          },
+          {
+            "id": "D",
+            "content": "It seems, too, that I’m part of a national renewal of interest in needle and other handicrafts (手工 艺). The Craft Yarn Council reports that a third of women ages 25 35 now knit or crochet. Even men and schoolchildren are swelling the ranks, among them my friend’s three small grandsons. Last April, the council created a “ Stitch Away Stress” campaign in honor of National Stress Awareness Month. Dr. Herbert Benson, a pioneer in mind/body medicine and author of The Relaxation Response, says that the repetitive action of needlework can induce a relaxed state like that associated with meditation (沉思) and yoga. Once you get beyond the initial learning curve, knitting and crocheting can lower heart rate and blood pressure."
+          },
+          {
+            "id": "E",
+            "content": "But unlike meditation, craft activities result in tangible and often useful products that can enhance self-esteem. I keep photos of my singular accomplishments on my cellphone to boost my spirits when needed."
+          },
+          {
+            "id": "F",
+            "content": "Since the 1990s, the council has surveyed hundreds of thousands of knitters and crocheters, who routinely list stress relief and creative fulfillment as the activities’ main benefits. Among them is the father of a prematurely born daughter who reported that during the baby’s five weeks in the intensive care unit, “learning how to knit infant hats gave me a sense of purpose during a time that I felt very helpless. It’s a hobby that I’ve stuck with, and it continues to help me cope with stress at work, provide a sense of order in hectic (忙乱的) days, and allow my brain time to solve problems.”"
+          },
+          {
+            "id": "G",
+            "content": "A recent email from the yarn (纺纱) company Red Heart titled “ Health Benefits of Crocheting and Knitting” prompted me to explore what else might be known about the health value of activities like knitting. My research revealed that the rewards go well beyond replacing stress and anxiety with the satisfaction of creation."
+          },
+          {
+            "id": "H",
+            "content": "For example, Karen Hayes, a life coach in Toronto, conducts knitting therapy programs, including Knit to Quit to help smokers give up the habit, and Knit to Heal for people coping with health crises, like a cancer diagnosis or serious illness of a family member. Schools and prisons with craft programs report that they have a calming effect and enhance social skills. And having to follow instructions on complex craft projects can improve children’s math skills."
+          },
+          {
+            "id": "I",
+            "content": "Some people find that craftwork helps them control their weight. Just as it’s challenging to smoke while knitting, when hands are holding needles and hooks, there’s less snacking and mindless eating out of boredom."
+          },
+          {
+            "id": "J",
+            "content": "I’ve found that my handiwork with yarn has helped my arthritic (患关节 炎的) fingers remain more dexterous (灵巧 的 ) as I age. A woman encouraged to try knitting and crocheting after developing an autoimmune disease that caused a lot of hand pain reported on the Craft Yarn Council site that her hands are now less stiff and painful."
+          },
+          {
+            "id": "K",
+            "content": "A 2009 University of British Columbia study of 38 women with an eating disorder who were taught to knit found that learning the craft led to significant improvements. Seventy-four percent of the women said the activity lessened their fears and kept them from thinking about their problem."
+          },
+          {
+            "id": "L",
+            "content": "Betsan Corkhill, a wellness coach in Bath, England, and author of the book Knit for Health & Wellness, established a website, Stitchlinks, to explore the value of what she calls therapeutic knitting. Among her respondents, 54 percent of those who were clinically depressed said that knitting made them feel happy or very happy. In a study of60 self-selected people with persistent pain, Ms. Corkhill and colleagues reported that knitting enabled them to redirect their focus, reducing their awareness of pain. She suggested that the brain can process just so much at once, and that activities like knitting and crocheting make it harder for the brain to register pain signals.\nPerhaps most exciting is research that suggests that crafts like knitting and crocheting may help to keep off a decline in brain function with age. In a 2011 study, researchers led by Dr. Yonas Geda at the Mayo Clinic in Rochester interviewed a random (随机的) sample of1,321 people ages 70 89, most of whom were cognitively (在认知方面) normal, about the cognitive activities they engaged in late in life. The study, published in the Journal of Neuropsychiatry & Clinical Neurosciences, found that those who engaged in crafts like knitting and crocheting had a diminished chance of developing mild cognitive disorder and memory loss."
+          },
+          {
+            "id": "M",
+            "content": "Although it is possible that only people who are cognitively healthy would pursue such activities, those who read newspapers or magazines or played music did not show similar benefits. The researchers speculate that craft activities promote the development of nerve pathways in the brain that help to maintain cognitive health."
+          },
+          {
+            "id": "N",
+            "content": "In support ofthat suggestion, a 2014 study by Denise C. Park ofthe University ofTexas at Dallas and colleagues demonstrated that learning to knit or do digital photography enhanced memory function in older adults. Those who engaged in activities that were not intellectually challenging, either in a social group or alone, did not show such improvements."
+          },
+          {
+            "id": "O",
+            "content": "Given that sustained social contacts have been shown to support health and a long life, those wishing to maximize the health value of crafts might consider joining a group of like-minded folks. I for one try not to miss a single weekly meeting of my knitting group."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "The phrase almost completes itself: midlife crisis. It’s the stage in the middle ofthe journey when people feel youth vanishing, their prospects narrowing and death approaching.\nThere’s only one problem with the cliché (套话). It isn’t true.\n“In fact, there is almost no hard evidence for midlife crisis other than a few small pilot studies conducted decades ago,” Barbara Hagerty writes in her new book, Life Reimagined. The bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift “can be exciting, rather than terrifying.”\nBarbara Hagerty looks at some of the features of people who turn midlife into a rebirth. They break routines, because “autopilot is death.” They choose purpose over happiness ― having a clear sense of purpose even reduces the risk of Alzheimer’s disease. They give priority to relationships, as careers often recede (逐渐淡化).\nLife Reimagined paints a picture of middle age that is far from gloomy. Midlife seems like the second big phase of decision-making. Your identity has been formed; you’ve built up your resources; and now you have the chance to take the big risks precisely because your foundation is already secure.\nKarl Barth described midlife precisely this way. At middle age, he wrote, “the sowing is behind; now is the time to reap. The run has been taken; now is the time to leap. Preparation has been made; now is the time for the venture of the work itself.”\nThe middle-aged person, Barth continued, can see death in the distance, but moves with a “measured haste” to get big new things done while there is still time.\nWhat Barth wrote decades ago is even truer today. People are healthy and energetic longer. We have presidential candidates running for their first term in office at age 68, 69 and 74. A longer lifespan is changing the narrative structure of life itself. What could have been considered the beginning of a descent is now a potential turning point—the turning point you are most equipped to take full advantage of.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. It has led to a lot of debate.",
+                  "B. It is widely acknowledged.",
+                  "C. It is no longer fashionable.",
+                  "D. It misrepresents real life."
+                ],
+                "question": "What does the author think of the phrase “midlife crisis”?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. It may be the beginning of a crisis.",
+                  "B. It can be a new phase of one’s life.",
+                  "C. It can be terrifying for the unprepared.",
+                  "D. It may see old-age diseases approaching."
+                ],
+                "question": "How does Barbara Hagerty view midlife?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. It can be quite rosy.",
+                  "B. It can be burdensome.",
+                  "C. It undergoes radical transformation.",
+                  "D. It makes for the best part of one’s life."
+                ],
+                "question": "How is midlife pictured in the book Life Reimagined?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. to relax",
+                  "B. to mature",
+                  "C. to harvest",
+                  "D. to reflect"
+                ],
+                "question": "According to Karl Barth, midlife is the time ."
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. It is more meaningful than other stages of life.",
+                  "B. It is likely to change the narrative of one’s life.",
+                  "C. It is more important to those with a longer lifespan.",
+                  "D. It is likely to be a critical turning point in one’s life."
+                ],
+                "question": "What does the author say about midlife today?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "It’s late in the evening: time to close the book and turn off the computer. You’re done for the day. What you may not realize, however, is that the learning process actually continues—in your dreams.\nIt might sound like science fiction, but researchers are increasingly focusing on the relationship between the knowledge and skills our brains absorb during the day and the fragmented, often bizarre imaginings they generate at night. Scientists have found that dreaming about a task we’ve learned is associated with improved performance in that activity (suggesting that there’s some truth to the popular notion that we’re “getting” a foreign language once we begin dreaming in it). What’s more, researchers are coming to recognize that dreaming is an essential part of understanding, organizing and retaining what we learn.\nWhile we sleep, research indicates, the brain replays the patterns of activity it experienced during waking hours, allowing us to enter what one psychologist calls a neural （ 神经的） virtual reality. A vivid example of such replay can be seen in a video researchers made recently about sleep disorders. They taught a series of dance moves to a group of patients with conditions like sleepwalking, in which the sleeper engages in the kind physical movement that does not normally occur during sleep. They then videotaped the subjects as they slept. Lying in bed, eyes closed, one female patient on the tape performs the dance moves she learned earlier.\nThis shows that while our bodies are at rest, our brains are drawing what’s important from the information and events we’ve recently encountered, then integrating that data into the vast store of what we already know. In a 2010 study, researchers at Harvard Medical School reported that college students who dreamed about a computer maze （ 迷宫） task they had learned showed a 10-fold improvement in their ability to find their way through the maze compared with participants who did not dream about the task.\nRobert Stickgold, one of the Harvard researchers, suggests that studying right before bedtime or taking a nap following a study session in the afternoon might increase the odds of dreaming about the material. Think about that as your head hits the pillow tonight.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It involves disconnected, weird images.",
+                  "B. It resembles fragments of science fiction.",
+                  "C. Dreaming about a learned task betters its performance.",
+                  "D. Dreaming about things being learned disturbs one’s sleep."
+                ],
+                "question": "What is scientists’ finding about dreaming?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. The body continues to act as if the sleeper were awake.",
+                  "B. The neural activity of the brain will become intensified.",
+                  "C. The brain behaves as if it were playing a virtual reality video game.",
+                  "D. The brain once again experiences the learning activities of the day."
+                ],
+                "question": "What happens when one enters a dream state?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. It systematizes all the data collected during the day.",
+                  "B. It substitutes old information with new data.",
+                  "C. It processes and absorbs newly acquired data.",
+                  "D. It classifies information and places it in different files."
+                ],
+                "question": "What does the brain do while we are sleeping?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Having a little sleep after studying in the day.",
+                  "B. Staying up late before going to bed.",
+                  "C. Having a dream about anything.",
+                  "D. Thinking about the odds of dreaming about the material."
+                ],
+                "question": "What does Robert Stickgold suggest about enhancing learning?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. We may enhance our learning through dreaming.",
+                  "B. Dreaming improves your language ability.",
+                  "C. All sleepwalkers perform dance moves when they are sleeping.",
+                  "D. Taking a nap after learning can help you find the way through the maze."
+                ],
+                "question": "What can be inferred about dreaming from the passage?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay on the use of translation apps. You can start your essay with the sentence “ The use of translation apps is becoming increasingly popular.” You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "在中国，火锅已有2,000多年的历史，最早流行于最寒冷的地区，然后在很多地区盛行，出 现了具有地方特色的种类。吃火锅时，家人和朋友围坐在桌边，桌子中间放着热腾腾的火锅。吃火锅时，人们可以根据自 己的口味放肉、海鲜、蔬菜和其他配料， 自己烹饪。人们可以一边尽 情地聊天，一边享受美餐。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_gCVSD68.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_Ld9ueX3.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_2_uTFNLf0.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,859 --> 00:00:06,780\r\nCollege English Test, Band 4, Part 2, Listening Comprehension.\r\n\r\n2\r\n00:00:07,580 --> 00:00:17,060\r\nSection A, Directions. In this section, you'll hear three news reports. At the end of each news report, you'll hear two or three questions.\r\n\r\n3\r\n00:00:17,720 --> 00:00:21,800\r\nBoth the news report and the questions will be spoken only once.\r\n\r\n4\r\n00:00:21,800 --> 00:00:27,520\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n5\r\n00:00:27,520 --> 00:00:35,200\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n6\r\n00:00:35,200 --> 00:00:36,440\r\nthrough the centre.\r\n\r\n7\r\n00:00:37,480 --> 00:00:39,120\r\nUse Report 1.\r\n\r\n8\r\n00:00:39,600 --> 00:00:40,020\r\nGood morning.\r\n\r\n9\r\n00:00:40,680 --> 00:00:46,260\r\nIn today's headlines, Scotland's transport minister has warned of potentially extreme\r\n\r\n10\r\n00:00:46,260 --> 00:00:53,400\r\nweather conditions as heavy snow is forecast across the country later this week. Orange\r\n\r\n11\r\n00:00:53,400 --> 00:00:59,320\r\nwarnings are enforced for many areas for Wednesday and Thursday. The transport minister\r\n\r\n12\r\n00:00:59,320 --> 00:01:05,340\r\nadvised people in parts of Scotland covered by the orange alert to avoid travel on Wednesday.\r\n\r\n13\r\n00:01:06,360 --> 00:01:13,979\r\nThis is what he said to us. The orange warning may be raised red in some areas. That is\r\n\r\n14\r\n00:01:13,980 --> 00:01:19,340\r\nThis is a warning for snow that has never been seen since the modern system came into place\r\n\r\n15\r\n00:01:19,340 --> 00:01:20,060\r\nin Scotland.\r\n\r\n16\r\n00:01:21,020 --> 00:01:25,540\r\nThe orange warning has been extended until 6pm on Thursday.\r\n\r\n17\r\n00:01:26,640 --> 00:01:33,120\r\nTrains, planes and furries are also likely to be affected, with a wind chill that could\r\n\r\n18\r\n00:01:33,120 --> 00:01:37,700\r\nsee parts of Britain feeling as cold as minus 15 degrees Celsius.\r\n\r\n19\r\n00:01:38,840 --> 00:01:43,960\r\nThe head of road policing said, I would urge drivers to take extra care on the\r\n\r\n20\r\n00:01:43,960 --> 00:01:45,520\r\nroads for their journeys.\r\n\r\n21\r\n00:01:46,540 --> 00:01:51,620\r\nDrivers should make sure they are prepared for their journey, with warm clothing, food\r\n\r\n22\r\n00:01:51,620 --> 00:01:52,500\r\nand drink.\r\n\r\n23\r\n00:01:53,100 --> 00:01:56,540\r\nsufficient fuel and a charged mobile phone.\r\n\r\n24\r\n00:01:57,360 --> 00:02:04,540\r\nThere could be significant traffic delays, so please start playing your journey now and consider\r\n\r\n25\r\n00:02:04,540 --> 00:02:08,199\r\nif you really need to travel when conditions are this poor.\r\n\r\n26\r\n00:02:09,120 --> 00:02:13,100\r\nQuestions 1-2 are based on the news report you have just heard?\r\n\r\n27\r\n00:02:13,100 --> 00:02:20,040\r\nQuestion 1. What were people in parts of Scotland advised to do?\r\n\r\n28\r\n00:02:33,920 --> 00:02:39,280\r\nQuestion 2. What did the head of road policing urge drivers to do?\r\n\r\n29\r\n00:02:54,300 --> 00:02:56,440\r\nNews Report 2.\r\n\r\n30\r\n00:02:57,080 --> 00:02:59,940\r\nRomania's wetlands are coming back to life.\r\n\r\n31\r\n00:03:00,480 --> 00:03:06,320\r\nThanks to help from local communities, the world wildlife fund, and funding from the European\r\n\r\n32\r\n00:03:06,320 --> 00:03:07,080\r\nUnion.\r\n\r\n33\r\n00:03:07,080 --> 00:03:17,360\r\nRoughly 2,224 acres of the picturesque Danube Delta, home to 300 species of birds, have filled\r\n\r\n34\r\n00:03:17,360 --> 00:03:18,360\r\nwith wildlife.\r\n\r\n35\r\n00:03:19,660 --> 00:03:23,700\r\nThe land has been connected to the network of lakes and streams in the area.\r\n\r\n36\r\n00:03:24,860 --> 00:03:29,380\r\nA lot of birds have migrated to the area, and when doesn't need to travel long hours\r\n\r\n37\r\n00:03:29,380 --> 00:03:36,260\r\nanymore, or go to other lakes to watch the birds, says Ion Mutat, Deputy Mayor of\r\n\r\n38\r\n00:03:37,340 --> 00:03:44,700\r\nthe area around Mamudia, which is a UNESCO World Heritage Site, is the third most biodiversity\r\n\r\n39\r\n00:03:44,980 --> 00:03:51,000\r\nin the world, after Australia's Great Barrier Reef and the Galapagos Islands.\r\n\r\n40\r\n00:03:51,900 --> 00:03:58,140\r\nGroups used Earth-moving equipment to restore the waterways. Government officials proposed to protect\r\n\r\n41\r\n00:03:58,140 --> 00:04:03,620\r\nthe areas endangered wild fish by issuing a fishing ban over the next decade.\r\n\r\n42\r\n00:04:04,420 --> 00:04:09,080\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n43\r\n00:04:09,720 --> 00:04:13,400\r\nQuestion 3. What is the news report mainly about?\r\n\r\n44\r\n00:04:28,180 --> 00:04:34,600\r\nQuestion 4. What did government officials propose to do to protect the endangered fish?\r\n\r\n45\r\n00:04:49,419 --> 00:04:57,080\r\nNews Report 3. Scott Dunn recently awoke from the medically induced sleep he'd been\r\n\r\n46\r\n00:04:57,080 --> 00:05:03,420\r\nin after a car accident. He was heartbroken after realizing he'd missed his high school\r\n\r\n47\r\n00:05:03,420 --> 00:05:09,960\r\ngraduation. So his classmates decided to give him another chance. It was just a month\r\n\r\n48\r\n00:05:09,960 --> 00:05:16,220\r\nago that East Hunni-Ata High School seniors met in their schools auditorium for graduation\r\n\r\n49\r\n00:05:16,880 --> 00:05:24,520\r\nand last week they did it again. Scott's car accident was on May 22nd just three days\r\n\r\n50\r\n00:05:24,520 --> 00:05:31,280\r\nbefore the ceremony. I remember waking up in the hospital and asking mum what date it\r\n\r\n51\r\n00:05:31,280 --> 00:05:39,100\r\nwas. She told me it was the 28th. He said, I looked at her and said, I missed my graduation.\r\n\r\n52\r\n00:05:39,100 --> 00:05:47,180\r\nThe school's principal, Mr. Fawzi, called Scott's mum, Karen, and said that everybody wanted\r\n\r\n53\r\n00:05:47,180 --> 00:05:53,740\r\nto do something special for him. Students wore their caps and gowns and sat in the front\r\n\r\n54\r\n00:05:53,740 --> 00:06:01,520\r\nof the auditorium. Scott's parents, Karen and Scott's senior, sat front and centre. After\r\n\r\n55\r\n00:06:01,520 --> 00:06:08,560\r\nbrief speeches, Scott's name was called, only Scott's name. He walked across the stage\r\n\r\n56\r\n00:06:08,560 --> 00:06:12,820\r\nas the audience cheered. A graduation for one.\r\n\r\n57\r\n00:06:13,580 --> 00:06:18,820\r\nI'm speechless, Scott said. I don't know how to even explain it.\r\n\r\n58\r\n00:06:19,020 --> 00:06:23,360\r\nI'm speechless to know that so many people are behind me.\r\n\r\n59\r\n00:06:23,920 --> 00:06:28,000\r\nQuestions 5-7 are based on the news report you have just heard?\r\n\r\n60\r\n00:06:28,620 --> 00:06:32,280\r\nQuestion 5. What happened to Scott a month ago?\r\n\r\n61\r\n00:06:47,299 --> 00:06:48,600\r\nQuestion 6.\r\n\r\n62\r\n00:06:49,480 --> 00:06:52,400\r\nWhat did Scott ask about when he regained consciousness?\r\n\r\n63\r\n00:07:07,240 --> 00:07:12,500\r\nQuestion 7. Why was Scott speechless at the graduation ceremony?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,500 --> 00:00:08,220\r\nSection B, Directions, In this section you will hear two long conversations.\r\n\r\n2\r\n00:00:09,020 --> 00:00:12,720\r\nAt the end of each conversation you will hear four questions.\r\n\r\n3\r\n00:00:13,640 --> 00:00:18,160\r\nBoth the conversation and the questions will be spoken only once.\r\n\r\n4\r\n00:00:18,980 --> 00:00:27,200\r\nAfter you hear a question you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n5\r\n00:00:27,200 --> 00:00:33,660\r\nThen mark the corresponding letter on Answer Sheet 1 with a single line through the center.\r\n\r\n6\r\n00:00:35,340 --> 00:00:36,700\r\nConversation 1.\r\n\r\n7\r\n00:00:37,240 --> 00:00:42,080\r\nHow do you like your new flexible work in arrangement? Do you enjoy working from home?\r\n\r\n8\r\n00:00:42,680 --> 00:00:53,380\r\nYes, and no. I find the isolation challenging at times. Apart from my mother, not too many people I know have time for phone chats during working hours.\r\n\r\n9\r\n00:00:53,380 --> 00:00:58,440\r\nI tried the library, but found I wasn't really keen on working there.\r\n\r\n10\r\n00:00:58,880 --> 00:01:03,140\r\nNo, neither would I. I find the library a bit too quiet.\r\n\r\n11\r\n00:01:03,800 --> 00:01:10,060\r\nArt-lack inspiration or stimulation, which would be counterproductive to getting a lot of work done.\r\n\r\n12\r\n00:01:10,660 --> 00:01:15,360\r\nI found the same thing. So lately I've been going out to cafes occasionally.\r\n\r\n13\r\n00:01:16,080 --> 00:01:21,800\r\nI love the noise, the people, the busyness of a cafe, the sense of being out in the world.\r\n\r\n14\r\n00:01:21,800 --> 00:01:29,120\r\nCoffee shops seem to have effectively become office spaces for so many people in this digital age.\r\n\r\n15\r\n00:01:29,720 --> 00:01:38,220\r\nThough I'm not sure how cafe owners feel about it, having so many people who go to their places to work rather than drink and eat.\r\n\r\n16\r\n00:01:39,120 --> 00:01:42,800\r\nYes, some people seem to spend a lot of time there and not order much.\r\n\r\n17\r\n00:01:43,240 --> 00:01:50,980\r\nThe most annoying ones for cafe owners must surely be those usually only two of them who occupy a table for six\r\n\r\n18\r\n00:01:50,980 --> 00:01:53,060\r\nwith their laptops and paperwork.\r\n\r\n19\r\n00:01:54,240 --> 00:01:58,200\r\nThey should sit at a table for two, not at a table for six.\r\n\r\n20\r\n00:01:58,960 --> 00:02:04,000\r\nSome obviously stay so long, they need to plug the laptops into a power outlet.\r\n\r\n21\r\n00:02:04,780 --> 00:02:10,139\r\nI nearly tripped over someone's computer electrical lead the other day in my local cafe.\r\n\r\n22\r\n00:02:10,840 --> 00:02:14,580\r\nIt's a double-edged sword, no doubt about that for a cafe owner.\r\n\r\n23\r\n00:02:15,180 --> 00:02:19,100\r\nWhile remote workers help to keep the cafe full in quiet times,\r\n\r\n24\r\n00:02:19,100 --> 00:02:22,620\r\nThey can take up valuable table space and busy periods.\r\n\r\n25\r\n00:02:23,840 --> 00:02:28,000\r\nQuestions 8 to 11 are based on the conversation you've just heard.\r\n\r\n26\r\n00:02:28,580 --> 00:02:34,160\r\nQuestion 8. What does the woman say is the disadvantage of working from home?\r\n\r\n27\r\n00:02:49,160 --> 00:02:56,360\r\nQuestion 9. What does the man say is counterproductive to getting work done in the library?\r\n\r\n28\r\n00:03:11,060 --> 00:03:16,740\r\nQuestion 10. What does the woman like about doing one's work in a cafe?\r\n\r\n29\r\n00:03:31,760 --> 00:03:36,860\r\nQuestion 11. What is most annoying for cafe owners according to the woman?\r\n\r\n30\r\n00:03:53,440 --> 00:03:56,320\r\nI'm going to start looking for another job.\r\n\r\n31\r\n00:03:56,940 --> 00:04:01,980\r\nI can't see myself getting an opportunity to progress at my company any time in the near future.\r\n\r\n32\r\n00:04:02,980 --> 00:04:06,480\r\nAnd I really think my skills and abilities deserve a higher salary.\r\n\r\n33\r\n00:04:07,300 --> 00:04:09,240\r\nYou're not going to quit, are you?\r\n\r\n34\r\n00:04:09,640 --> 00:04:11,480\r\nI'm thinking I might as well.\r\n\r\n35\r\n00:04:11,880 --> 00:04:16,740\r\nThen I can devote more time and energy to finding a better position at another company.\r\n\r\n36\r\n00:04:16,740 --> 00:04:22,680\r\nBut, you'd been at your present company less than two years, haven't you? This would be\r\n\r\n37\r\n00:04:22,680 --> 00:04:28,580\r\nthe third time you've left your job in the last five years. If you do several jobs in\r\n\r\n38\r\n00:04:28,580 --> 00:04:34,880\r\na relatively short span of time, prospective employers might perceive that you lack loyalty,\r\n\r\n39\r\n00:04:35,460 --> 00:04:39,140\r\nthat could make them wary and reluctant to employ you.\r\n\r\n40\r\n00:04:39,840 --> 00:04:45,740\r\nUnfortunately, loyalty doesn't pay. Even if I get a promotion at my company, it's likely\r\n\r\n41\r\n00:04:45,740 --> 00:04:48,820\r\nto be less sizable than if I were to get a job elsewhere.\r\n\r\n42\r\n00:04:49,700 --> 00:04:53,560\r\nAnd even if I get a promotion, I'm not guaranteed to get a raise.\r\n\r\n43\r\n00:04:54,200 --> 00:04:57,520\r\nI had that experience at another company I worked at.\r\n\r\n44\r\n00:04:58,200 --> 00:05:03,040\r\nThey wanted you to take on more work and responsibility, but for the same amount of money?\r\n\r\n45\r\n00:05:03,700 --> 00:05:05,140\r\nMore or less, yes.\r\n\r\n46\r\n00:05:05,520 --> 00:05:09,820\r\nThe way I see it, through having different jobs, I've gathered a lot of experience,\r\n\r\n47\r\n00:05:10,160 --> 00:05:12,460\r\nin different jobs, and in different industries.\r\n\r\n48\r\n00:05:12,460 --> 00:05:19,460\r\nBut potential employers might worry that that experience is not deep or thorough enough.\r\n\r\n49\r\n00:05:20,820 --> 00:05:25,860\r\nPerhaps, but I feel pretty confident that I can sell myself. You know what they say.\r\n\r\n50\r\n00:05:26,300 --> 00:05:27,760\r\nFortune favors the brave.\r\n\r\n51\r\n00:05:28,840 --> 00:05:34,900\r\nQuestions 12-15 are based on the conversation you have just heard. Question 12.\r\n\r\n52\r\n00:05:35,500 --> 00:05:38,520\r\nWhat makes the woman think about changing her job?\r\n\r\n53\r\n00:05:53,440 --> 00:05:59,920\r\nQuestion 13. What does the man say about people who keep changing their jobs?\r\n\r\n54\r\n00:06:14,840 --> 00:06:23,020\r\nQuestion 14 What does the woman say would happen even if she got promoted in her current company?\r\n\r\n55\r\n00:06:37,600 --> 00:06:42,260\r\nQuestion 15 What benefit has the woman gained from\r\n\r\n56\r\n00:06:42,260 --> 00:06:42,980\r\nMountain Footster",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:03,339 --> 00:00:15,040\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:16,020 --> 00:00:29,540\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices, marked A, B, C, and D.\r\n\r\n3\r\n00:00:29,540 --> 00:00:36,240\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:37,380 --> 00:00:46,800\r\nPassage 1. There is a saying that goes something along the lines of, you must love yourself first before you can love someone else.\r\n\r\n5\r\n00:00:47,680 --> 00:00:56,540\r\nSimilarly, I personally believe that you must be comfortable and happy in your own company before you can truly be yourself in the company of others.\r\n\r\n6\r\n00:00:56,540 --> 00:01:01,340\r\nThere is a massive difference between being lonely and being alone.\r\n\r\n7\r\n00:01:02,320 --> 00:01:04,140\r\nLoneliness is a horrible feeling.\r\n\r\n8\r\n00:01:04,959 --> 00:01:08,840\r\nHowever, you don't have to actually be alone to feel that way.\r\n\r\n9\r\n00:01:09,420 --> 00:01:13,500\r\nMany times I felt lonely when surrounded by a big group of people.\r\n\r\n10\r\n00:01:14,280 --> 00:01:20,860\r\nIn contrast, being alone can actually be a blessing, particularly when you've actively chosen\r\n\r\n11\r\n00:01:20,860 --> 00:01:21,620\r\nit.\r\n\r\n12\r\n00:01:21,620 --> 00:01:28,980\r\nIn my experience being bored and alone is dangerous and can easily lead to the feeling of loneliness.\r\n\r\n13\r\n00:01:30,120 --> 00:01:31,740\r\nThe trick is to be active.\r\n\r\n14\r\n00:01:32,780 --> 00:01:40,360\r\nGet outside, stretch your legs, do something cultural, buy yourself something tasty to eat, or something pretty to wear.\r\n\r\n15\r\n00:01:41,120 --> 00:01:45,640\r\nYou don't have to take anyone else into consideration and can do whatever you please.\r\n\r\n16\r\n00:01:46,620 --> 00:01:52,860\r\nSpending time alone also allows you to more efficiently take care of problems and then\r\n\r\n17\r\n00:01:52,860 --> 00:01:57,940\r\nwhen it's time to be social and meet up with your friends you will be fully there because\r\n\r\n18\r\n00:01:57,940 --> 00:02:01,820\r\nyou won't have too much other stuff floating around in your mind.\r\n\r\n19\r\n00:02:02,700 --> 00:02:07,700\r\nHaving been alone for a bit you will also appreciate your friends company more and chances\r\n\r\n20\r\n00:02:07,700 --> 00:02:10,860\r\nare your time spent together will be more worthwhile.\r\n\r\n21\r\n00:02:10,860 --> 00:02:20,960\r\nQuestion 16-18, a based on the passage you have just heard. Question 16, what does the speaker say about being alone?\r\n\r\n22\r\n00:02:35,500 --> 00:02:42,520\r\nQuestion 17. What does the speaker say helps reduce one's feeling of loneliness?\r\n\r\n23\r\n00:02:57,520 --> 00:03:03,300\r\nQuestion 18 What is the anodvantage of spending one's time alone?\r\n\r\n24\r\n00:03:18,319 --> 00:03:25,820\r\nAs it's too. When I turn 12, I work summers at my father's small brick cleaning business.\r\n\r\n25\r\n00:03:25,820 --> 00:03:33,280\r\nI remember the harsh acid smell of becleaning solution, and the scraping sound of stiff iron\r\n\r\n26\r\n00:03:33,280 --> 00:03:35,600\r\nbrushes against rough brick.\r\n\r\n27\r\n00:03:36,080 --> 00:03:42,660\r\nIt was tempting to hurry a job just to finish, but anybody who worked for Thomas Kathum\r\n\r\n28\r\n00:03:42,660 --> 00:03:46,920\r\nhad to meet his standards, and that included me.\r\n\r\n29\r\n00:03:47,880 --> 00:03:52,420\r\nIf I messed up, he made me stay late until I got it right.\r\n\r\n30\r\n00:03:52,420 --> 00:03:57,860\r\nMy father wasn't being mean, he demanded the same of himself.\r\n\r\n31\r\n00:03:58,640 --> 00:04:04,700\r\nEvery brick he cleaned on a house stood out like a red jewel in a white setting.\r\n\r\n32\r\n00:04:05,220 --> 00:04:06,460\r\nIt was his signature.\r\n\r\n33\r\n00:04:07,560 --> 00:04:14,960\r\nIn 1970, when I was 20, I got married and moved out of my parents' modest place into\r\n\r\n34\r\n00:04:14,960 --> 00:04:16,019\r\na house in project.\r\n\r\n35\r\n00:04:16,019 --> 00:04:24,280\r\ndrugs and gang violence were just beginning to plague the projects. So my friends went to jail,\r\n\r\n36\r\n00:04:24,800 --> 00:04:33,640\r\nsome were killed. My wife, Verlan, was 18 and nobody gave our marriage a chance, but we believed\r\n\r\n37\r\n00:04:33,640 --> 00:04:41,140\r\nin each other and our faith made us strong. When we married, I worked as a stock clerk at\r\n\r\n38\r\n00:04:41,140 --> 00:04:48,760\r\nsouthwest superfoods. It was hard, tedious work. Each Friday night a truck came with\r\n\r\n39\r\n00:04:48,760 --> 00:04:55,220\r\ncases of food that had to be unloaded, priced and placed on shelves. Most of stock\r\n\r\n40\r\n00:04:55,220 --> 00:05:02,180\r\nclerks tried to get Friday night off, but I was always ready to work. By Saturday morning,\r\n\r\n41\r\n00:05:02,600 --> 00:05:08,520\r\nall the cans and jars in my aisle were placed with the labels facing smartly out, like\r\n\r\n42\r\n00:05:08,520 --> 00:05:16,119\r\nline of soldiers on review. That was my signature. I took pride in a job nobody wants it.\r\n\r\n43\r\n00:05:17,000 --> 00:05:21,360\r\nQuestions 19 to 21 are based on the passage you have just heard.\r\n\r\n44\r\n00:05:22,000 --> 00:05:25,540\r\nQuestion 19. What do we learn about the speaker's father?\r\n\r\n45\r\n00:05:40,760 --> 00:05:45,360\r\nQuestion 20. What does the speaker say about the housing project?\r\n\r\n46\r\n00:06:00,180 --> 00:06:04,740\r\nQuestion 21, what do we learn about the speaker as a stock clerk?\r\n\r\n47\r\n00:06:19,940 --> 00:06:21,460\r\nPassage 3.\r\n\r\n48\r\n00:06:22,040 --> 00:06:27,840\r\nWatching more than three hours of television a day doubles memory loss in older people,\r\n\r\n49\r\n00:06:28,260 --> 00:06:31,200\r\na new study of more than 3,000 adults suggest.\r\n\r\n50\r\n00:06:32,099 --> 00:06:38,520\r\nScientists at University College London used memory and fluency tests on the same group\r\n\r\n51\r\n00:06:38,520 --> 00:06:40,540\r\nof people six years apart.\r\n\r\n52\r\n00:06:41,460 --> 00:06:46,680\r\nThey found that those who watched on average less than three hours television a day\r\n\r\n53\r\n00:06:46,680 --> 00:06:52,300\r\nshowed a decline of around 4 to 5 percent, while those who tended to watch more than\r\n\r\n54\r\n00:06:52,300 --> 00:06:56,880\r\nthree hours a day declined by an average of 8 to 10 percent.\r\n\r\n55\r\n00:06:56,880 --> 00:07:03,500\r\nThe research team say they believe the alert but passive nature of television watching may\r\n\r\n56\r\n00:07:03,500 --> 00:07:08,340\r\nbe creating stress on the mind, which contributes to memory decline.\r\n\r\n57\r\n00:07:09,540 --> 00:07:15,260\r\nOther people who watch more television are also less likely to undertake activities known\r\n\r\n58\r\n00:07:15,260 --> 00:07:21,980\r\nto preserve mental functioning, such as reading or interactive screen-based pursuits, such\r\n\r\n59\r\n00:07:21,980 --> 00:07:24,680\r\nas using the Internet or playing video games.\r\n\r\n60\r\n00:07:24,680 --> 00:07:31,060\r\nThe researchers say that television viewing may be a risk factor for Alzheimer's disease,\r\n\r\n61\r\n00:07:31,720 --> 00:07:34,400\r\nbut more research is needed to establish a link.\r\n\r\n62\r\n00:07:35,580 --> 00:07:41,800\r\nWhile watching television may have educational benefits and relaxation benefits, the researchers\r\n\r\n63\r\n00:07:41,800 --> 00:07:47,640\r\nadvised that adults over the age of 50 should try and ensure that television viewing is balanced\r\n\r\n64\r\n00:07:47,640 --> 00:07:49,560\r\nwith other contrasting activities.\r\n\r\n65\r\n00:07:49,560 --> 00:07:54,460\r\nIf you're concerned that the amount of television you're watching could have a negative\r\n\r\n66\r\n00:07:54,460 --> 00:07:59,840\r\nimpact on your health, you should limit the amount of TV you watch each day and undertake\r\n\r\n67\r\n00:07:59,840 --> 00:08:01,280\r\nsome healthy hobbies.\r\n\r\n68\r\n00:08:02,640 --> 00:08:07,200\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n69\r\n00:08:07,900 --> 00:08:15,000\r\nQuestion 22-What means did scientists at University College London measure memory loss?\r\n\r\n70\r\n00:08:29,440 --> 00:08:35,020\r\nQuestion 23. What contributed to memory decline in the participants?\r\n\r\n71\r\n00:08:50,220 --> 00:08:57,340\r\nQuestion 24. What do the researchers say about their finding concerning the link between\r\n\r\n72\r\n00:08:57,340 --> 00:09:00,040\r\nTV viewing and outside as disease?\r\n\r\n73\r\n00:09:14,580 --> 00:09:20,700\r\nQuestion 25. What do the researchers suggest older people do?\r\n\r\n74\r\n00:09:35,640 --> 00:09:38,080\r\nThis is the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

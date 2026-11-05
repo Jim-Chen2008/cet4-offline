@@ -1,0 +1,686 @@
+{
+  "id": 1,
+  "exam": 1,
+  "exam_details": {
+    "id": 1,
+    "title": "2024年6月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2024,
+    "month": 6,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-03-10T22:32:57.353000+08:00",
+    "updated_at": "2025-04-25T22:41:13.419000+08:00",
+    "exam_id": 1,
+    "submission_count": 0,
+    "cet_content_id": 1,
+    "has_draft": false
+  },
+  "created_at": "2025-03-10T22:33:22.407000+08:00",
+  "updated_at": "2025-05-09T18:55:49.415000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. Due to a fire alarm in their apartments.",
+              "B. Because of the smoke and heat damage.",
+              "C. Due to the water used to extinguish the flames.",
+              "D. Because of the collapse of the three-story building."
+            ],
+            "question": "Why did the 6 residents have to find another place to stay?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Investigating the cause of the incident.",
+              "B. Helping search for the suspect of the crime.",
+              "C. Rescuing he businessmen trapped in the building.",
+              "D. Checking town records for the property developer."
+            ],
+            "question": "What does the news report say the Norwalk Fire Marshal is doing?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. It plays a less important role in one's health than nutrient intake.",
+              "B. It impacts people's health to a lesser degree than sun exposure.",
+              "C. It is associated with people's mental health conditions.",
+              "D. It is linked with older adult's symptoms of depression."
+            ],
+            "question": "What have a number of past studies found about season of birth?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It was indefinite.",
+              "B. It was systematic.",
+              "C. It was straightforward.",
+              "D. It was insignificant."
+            ],
+            "question": "What did the new study find about the relationship between participants' month of birth and symptoms of depression?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. It has helped solve several murder cases.",
+              "B. It has become a star police dog in Beijing.",
+              "C. It has surpassed its mother in performance.",
+              "D. It has done better than naturally born dogs."
+            ],
+            "question": "What do the researchers' tests show about the cloned dog?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. To speed up investigation into criminal cases.",
+              "B. To test the feasibility of cloning technology.",
+              "C. To cut down training expenses.",
+              "D. To reduce their training time."
+            ],
+            "question": "What is the scientists' purpose in cloning police dogs?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. Cloning is too complicated a process.",
+              "B. The technology is yet to be accepted.",
+              "C. Cloning is ethically controversial.",
+              "D. The technology is too expensive."
+            ],
+            "question": "Why does the news report say the scientists' goal is not yet possible?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. He read it somewhere online.",
+              "B. He heard about it from a coworker.",
+              "C. He read an article reviewing it.",
+              "D. He watched a TV series based on it."
+            ],
+            "question": "How did the man get to know about the book The Three Body Problem?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. His publications.",
+              "B. His first book.",
+              "C. His address.",
+              "D. His name."
+            ],
+            "question": "What does the woman say she can't remember about the book's author?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. Collect a lot more data.",
+              "B. Relax a bit less often.",
+              "C. Clarify many new concepts.",
+              "D. Read more reference books."
+            ],
+            "question": "What does the man have to do to finish his thesis?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Find out the show's most interesting episodes.",
+              "B. Watch the series together with the woman.",
+              "C. Get an e-Copy of the book to read.",
+              "D. Check to see when the show starts."
+            ],
+            "question": "What will the man most probably do first after the conversation?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. To check the prices of his farm produce.",
+              "B. To ask the way to the Newcastle City Hall.",
+              "C. To inquire about the vegetarian food festival.",
+              "D. To seek the man's help with her work on the farm."
+            ],
+            "question": "why does the woman call the man?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Bakers.",
+              "B. Vendors.",
+              "C. Vegetarians.",
+              "D. Organisers."
+            ],
+            "question": "what is the man still looking for?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. The issuing of certificates to vendors.",
+              "B. The completion of the baking task.",
+              "C. The festival they are organising.",
+              "D. The deadline for application."
+            ],
+            "question": "what does the man say? They are getting close to."
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. The closing date of submission.",
+              "B. The website of his company.",
+              "C. The details of the ceremony.",
+              "D. The organiser's address."
+            ],
+            "question": "what does the man finally ask the woman to remember?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Most scenic sites have been closed.",
+              "B. Access to official campsites is limited.",
+              "C. Health experts advise going outdoors.",
+              "D. People have more time during the summer."
+            ],
+            "question": "Why has wild camping become popular in the UK?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. It is strongly opposed by nearby residents.",
+              "B. It leads to much waste of public money.",
+              "C. It has caused environmental concerns.",
+              "D. It has created conflicts among campers."
+            ],
+            "question": "Why is camping banned for part of the summer in public parks?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. Look for open land in Scotland.",
+              "B. Leave no trace of their camping.",
+              "C. Avoid getting close to wilderness.",
+              "D. Ask for permission from authorities."
+            ],
+            "question": "What does the speaker suggest campers do?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. They outcompete mythical creatures.",
+              "B. They usually mind their own business.",
+              "C. They truly exist in the Amazon region.",
+              "D. They resemble alarmingly large snakes."
+            ],
+            "question": "What does the passage say about pink dolphins?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Scar tissue from dolphins' fighting.",
+              "B. Skin infection from water pollution.",
+              "C. Unhealed wounds from snake bites.",
+              "D. Swimming along in seasonal floods."
+            ],
+            "question": "What is the unusual coloring of pink dolphins believed to originate in?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. It has been shrinking at an astonishing pace.",
+              "B. It has been placed under international protection.",
+              "C. It has been appealing to both freshwater and sea dolphins.",
+              "D. It has been abandoned as a battleground for male dolphins."
+            ],
+            "question": "What has become of the Amazon wetland system since 2018?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. About 58% of young adults call parental support the new normal.",
+              "B. Most adult children enjoy increasing sources of financial support.",
+              "C. A full 70% of the young adults cannot afford to buy a car by themselves.",
+              "D. Most early adults cannot sustain their lifestyles without parental support."
+            ],
+            "question": "What do we learn from a new survey by Merrill Lynch Age Wave?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. It renders them dependent.",
+              "B. It causes them to lose dignity.",
+              "C. It makes them mentally immature.",
+              "D. It hinders them from getting ahead."
+            ],
+            "question": "Why did most young adults in the survey say financial support to children aged 25-34 is a bad thing?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. It challenges one's willpower.",
+              "B. It results from education.",
+              "C. It calls for due assistance.",
+              "D. It defines adulthood."
+            ],
+            "question": "What did the respondents in the survey say regarding financial independence?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Current lifestyles.",
+              "B. Poor budgeting.",
+              "C. College loans.",
+              "D. Emergency expenses."
+            ],
+            "question": "What is one big reason young adults are struggling?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "It's well known that physical exercise is beneficial not just to physical health but also to mental health. Yet whereas most countries have __26__ evidence-backed guidelines on the type and intensity of exercise __27__ for various physical health benefits, such guidelines do not yet exist for exercise and mood. This is __28__ due to a lack of necessary evidence. However, a new systematic review brings us usefully up-to-date on the current findings in this area.  \nBefore __29__ into some of the key take-aways, an important __30__ made in the review is between aerobic exercise and anaerobic. The former __31__ such things as walking, jogging and cycling and means exercising in such a way that your body is able to use oxygen to burn fat for energy. In contrast, anaerobic exercise—such as lifting heavy weights—is of such __32__ intensity that your body does not have time to use oxygen to create energy and so instead it breaks down glucose (葡萄糖) in your blood or muscles.  \nBeginning first with the influence of exercise intensity on the mood benefits of aerobic exercise, the researchers, led by John Chan at Shenzhen University, found __33__ results from 19 relevant studies. Some favoured higher intensity, others low, while seven studies found that intensity made no __34__ to mood benefits.  \nIn relation to the intensity of anaerobic exercise, however, the results were far clearer—the optimum (最佳选择) for improving mood is __35__ intensity, perhaps because low intensity is too dull while high intensity is too unpleasant.  ",
+        "word_bank": [
+          "constitutes",
+          "contradictory",
+          "decision",
+          "detailed",
+          "difference",
+          "dipping",
+          "distinction",
+          "falling",
+          "involves",
+          "moderate",
+          "notified",
+          "partly",
+          "required",
+          "traditionally",
+          "vigorous"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Some people view socializing at the workplace as a chance to develop personal relationships."
+          },
+          {
+            "id": 37,
+            "content": "As ordinary American workers’ average hourly pay had decreased despite increasing productivity, they had to work just as many hours as before to keep their living standards."
+          },
+          {
+            "id": 38,
+            "content": "American workers’ average weekly working time has not changed for nearly half a century."
+          },
+          {
+            "id": 39,
+            "content": "Friedman believes inequality in the U.S. largely explains why increasing productivity has not resulted in reduced working hours."
+          },
+          {
+            "id": 40,
+            "content": "Many economists assume people's thirst for material things has prevented them from enjoying more leisure time."
+          },
+          {
+            "id": 41,
+            "content": "An economist’s prediction about a shorter average working week seemed to be correct for a time in the 20th century."
+          },
+          {
+            "id": 42,
+            "content": "In the U.S. labor market. the primary concern of people with less schooling and fewer skills is to secure any employment even if it is low-paid."
+          },
+          {
+            "id": 43,
+            "content": "Keynes was right in predicting that technology would make the economy much more productive."
+          },
+          {
+            "id": 44,
+            "content": "Many of the highest earners have a keen interest in and love for what they are doing."
+          },
+          {
+            "id": 45,
+            "content": "According to Keynes, there would be a shorter working week with everyone’s standard of living continuing to rise."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "How will we all keep busy when we only have to work 15 hours a week? That was the question that worried the British economist John Maynard Keynes when he wrote his short essay “Economic Possibilities for Our Grandchildren” in 1930. Over the next century, he predicted, the economy would become so productive that people would barely need to work at all. For a while, it looked like Keynes was right. In 1930 the average working week was 47 hours in the United States. But by 1970, the number of hours Americans worked on average had fallen to slightly less than 39."
+          },
+          {
+            "id": "B",
+            "content": "But then something changed. Instead of continuing to decline, the duration of the working week remained stable. It has stayed at just below 40 hours for nearly five decades. So what happened? Why are people working just as much today as in 1970?"
+          },
+          {
+            "id": "C",
+            "content": "There would be no mystery in this if Keynes had been wrong about the power of technology to increase the economy's productivity, which he thought would lead to a standard of living “between four and eight times as high as it is today.” But Keynes got that right: Technology has made the economy massively more productive. According to Benjamin M. Friedman, an economist at Harvard, the U.S. economy is right on track to reach Keynes’s eightfold (八倍) multiple by 2029. That is a century after the last data Keynes would have had access to."
+          },
+          {
+            "id": "D",
+            "content": "In a new paper, Friedman tries to figure out why that increased productivity has not translated into increased leisure time. Perhaps people just never feel materially satisfied, always wanting more money to buy the next new thing. This is a theory that appeals to many economists. “This argument is, at best, far from sufficient,” he writes. If that were the case, why did the duration of the working week decline in the first place?"
+          },
+          {
+            "id": "E",
+            "content": "Another theory Friedman considers is that, in an era of ever fewer settings that provide effective opportunities for personal connections and relationships, people may place more value on the socializing that happens at work. There is support for this theory. Many people today consider colleagues as friends. But Friedman argues that the evidence for this theory is far from conclusive. Many workers report that they would like to spend more time with family, rather than at work Furthermore, this theory cannot explain the change in trend in the U.S. working week in the 1970s."
+          },
+          {
+            "id": "F",
+            "content": "A third possibility proves more convincing for Friedman. That is, American inequality means that the gains of increasing productivity are not widely shared by everyone. In other words, most Americans are too poor to work less. Unlike the other two explanations Friedman considers, this one fits chronologically (按年代). Inequality declined in America during the period following World War II, along with the duration of the working week. But since the early 1970s it has risen dramatically."
+          },
+          {
+            "id": "G",
+            "content": "Keynes's prediction of a shorter working week rests on the idea that the standard of living would continue rising for everyone. But Friedman says that this is not what has happened. Although Keynes’s eight-fold figure holds up for the economy as a whole, it is not at all the case for the median(中位数的) American worker. For them, output by 2029 is likely to be around 3.5 times what it was when Keynes was writing. This is a bit below his four-to eight-fold predicted range."
+          },
+          {
+            "id": "H",
+            "content": "This can be seen in the median workers income over this time period complete with a shift in 1973 that fits in precisely with when the working week stopped shrinking. According to Friedman, between 1947 and 1973, the average hourly wage for normal workers (those who were not in management roles) in private industries other than agriculture nearly doubled in terms of what their money could buy. But by 2013 the average hourly wage for ordinary workers had fallen 5 percent from the 1973 level in terms of actual purchasing Power. Thus, though American incomes may have gone up since 1973, the amount that American workers can actually buy with their money has gone down. For most Americans, then, the magic of increasing productivity stopped working around 1973.Thus, they had to keep working just as much in order to maintain their standard of living."
+          },
+          {
+            "id": "I",
+            "content": "What Keynes predicted was a very optimistic version of what economists call technological unemployment. This is the idea that less labor will be necessary because machines can do so much. In Keynes’s vision, the resulting unemployment would be distributed more or less evenly across society in the form of increased leisure. But Friedman says that, for Americans, reality is much darker. Americans now have a labor market in which millions of people — those with fewer skills and less education — are seeking whatever poorly paid work they can get. This is confirmed by a recent poll that found that, for half of hourly workers, their top concern is not that they work too much but that they work too little. This is most likely not because they like their jobs so much. Rather, we can assume it is because they need the money."
+          },
+          {
+            "id": "J",
+            "content": "This explanation leaves an important question. If the very rich — the workers who have reaped above-average gains from the increased productivity since Keynes's time — can afford to work less, why do they continue to work so much? (Indeed, research has shown that the highest earners in America tend to work the most.) Friedman believes that for many top earners, work is a labor of love. They are doing work they care about and are interested in, and doing more of it is not necessarily a burden. For them, it may even be a pleasure. These top earners derive meaning from their jobs and work is an important part of how they think of themselves. And, of course, they are compensated for it at a level that makes it worth their while."
+          },
+          {
+            "id": "K",
+            "content": "Friedman concludes that the prosperity (繁荣) Keynes predicted is here. After all, the economy as a whole has grown even more brilliantly than he expected. But for most Americans, that prosperity is nowhere to be seen. And, as a result, neither are those shorter working weeks."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One ",
+            "content": "Lao Zi once said, “Care about what other people think and you will always be their prisoner.” \nPeople-pleasing, or seeking self-worth through others' approval, is unproductive and an exhausting way to go through life. Why do we allow what others think of us to have so much power over how we feel about ourselves? If it’s true that you can't please all people all of the time, wouldn't it make sense to stop trying?  \nUnfortunately, sense often isn't driving our behavior. For social beings who desire love and belonging, wanting to be liked, and caring about the effect we have on others, is healthy and allows us to make connections. However, where we get into trouble is when our self-worth is dependent upon whether we win someone's approval or not.  \nThis need to be liked can be traced back to when we were children and were completely dependent on others to take care of us. Small children are not just learning how to walk and communicate, they are also trying to learn how the world works. We learn about who we are and what is expected of us based on interactions with others so, to a four-year-old, if Mommy or Daddy doesn't like him or her, there is the danger that they will abandon them. We need to understand that when we desperately want someone to approve of us, it’s being driven by that little kid part of us that is still terrified of abandonment.  \nAs you become more capable of providing yourself with the approval you seek, your need for external validation will start to vanish, leaving you stronger, more confident, and yes, happier in your life. Imagine how much time we lose each moment we restrain our authentic selves in an effort to be liked.  \nIf we base our worth on the opinions of others, we cheat ourselves of the power to shape our experiences and embrace life not only for others but also for ourselves, because ultimately, there is no difference. So embrace the cliché (老话) and love yourself as it's highly doubtful that you'll regret it.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A.We should see through other peoples’ attempt to make a prisoner of us.",
+                  "B.We can never really please other people even if we try as hard as we can.",
+                  "C.We can never be truly free if taking to heart others’ opinion of us.",
+                  "D.We should care about other peoples’ view as much as they care about our own."
+                ],
+                "question": "What can we conclude from Lao Zi's quotation?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A.Our desire to be loved will be fulfilled.",
+                  "B.Our life will be unfruitful and exhausting",
+                  "C.Our identity as social beings will be affected.",
+                  "D.Our sense of self will be sharpened and enhanced."
+                ],
+                "question": "What will happen if we base our self-worth on other people’s approval?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A.Our desperate longing for interactions with others.",
+                  "B.Our understanding of the workings of the world.",
+                  "C.Our knowledge about the pain of abandonment.",
+                  "D.Our early childhood fear of being deserted."
+                ],
+                "question": "What may account for our need to be liked or approved of?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A.Enjoy a happier life.",
+                  "B.Exercise self-restraint.",
+                  "C.Receive more external validation.",
+                  "D.Strengthen our power of imagination."
+                ],
+                "question": "What can we do when we become better able to provide ourselves with the desired approval?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A.Embrace life for ourselves and for others.",
+                  "B.Base our worth on others' opinions.",
+                  "C.See our experiences as assets.",
+                  "D.Love ourselves as we are."
+                ],
+                "question": "What does the author advise us to do in the last paragraph?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Some people have said aging is more a slide into forgetfulness than a journey towards wisdom. However, a growing body of research suggests that late-in-life learning is possible. In reality, education does an aging brain good.  \nThroughout life, people’s brains constantly renovate themselves. In the late 1960s, British brain scientist Geoffrey Raisman spied growth in damaged brain regions of rats through an electron microscope; their brains were forging new connections. This meant brains may change every time a person learns something new.  \nOf course, that doesn't mean the brain isn't affected by the effects of time. Just as height usually declines over the years, so does brain volume: Humans lose about 4 percent every decade starting in their 40s. But that reduction doesn't necessarily make people think slower; as long as we are alive and functioning, we can alter our brains with new information and experiences.  \nIn fact, scientists now suspect accumulating novel experiences, facts, and skills can keep people’s minds more flexible. New pathways can strengthen our ever-changing mental structure, even as the brain shrinks.  \nConventional fixes like word puzzles and brain-training apps can contribute to mental durability. Even something as simple as taking a different route to the grocery store or going somewhere new on vacation can keep the brain healthy.  \nA desire for new life challenges can further boost brainpower. Research about aging adults who take on new enterprises shows improved function and memory as well as a reduced risk of mental disease. Openness — a characteristic defined by curiosity and a desire for knowledge — may also help folks pass brain tests. Some folks are born with this take-in-the-world attitude, but those who aren't as genetically gifted aren't necessarily out of luck. While genes can encourage an interest in doing new things, a 2012 study in the journal Psychology and Aging found completing reasoning tasks like puzzles and number games can enhance that desire for novel experiences, which can, in turn, refresh the brain. That’s why brain scientist Richard Kennedy says “It’s not that old dogs can't learn new tricks. It's that maybe old dogs don't realize why they should.”",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A.Their wisdom grows as time goes by.",
+                  "B.Their memory gradually deteriorates",
+                  "C.They can benefit from late-in-life learning.",
+                  "D.They are likely to have mental health issues."
+                ],
+                "question": "What do some people think of aging adults?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A.Brain damage seriously hinders one's learning.",
+                  "B.Brain power weakens slower than we imagine.",
+                  "C.Brains can refresh and improve with learning.",
+                  "D.Brains forge connections under new conditions"
+                ],
+                "question": "What can we conclude from Geoffrey Raisman’s finding?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A.Doing daily routines by conventional means.",
+                  "B.Avoiding worrying about our mental durability.",
+                  "C.Imitating old dogs’ way of learning new tricks",
+                  "D.Approaching everyday tasks in novel ways."
+                ],
+                "question": "What is one thing that helps maintain the health of our brain even as it shrinks2"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A.Being curious and desiring knowledge.",
+                  "B.Being eager to pass brain tests at an old age.",
+                  "C.Rising to life's challenges and avoiding risks.",
+                  "D.Boosting immunity to serious mental diseases."
+                ],
+                "question": "What does the author say can contribute to the improvement of brain function?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A.Wishing to solve puzzles enhances one's reasoning power.",
+                  "B.Playing number games unexpectedly stimulates one's memory.",
+                  "C.Desiring new experiences can help to renovate the brain.",
+                  "D.Learning new tricks should not be confined to old dogs only."
+                ],
+                "question": "What is the finding of the 2012 study in the journal Psychology and Aging?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose your university is seeking students' opinions on whether university libraries should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "四合院(Siheyuan)是中国一种传统的住宅建筑，其特点是房屋建造在一个院子的四周，将院子合围在中间。四合院通常冬暖夏凉，环境舒适，尤其适合大家庭居住。四合院在中国各地有多种类型，其中以北京的四合院最为典型。如今，随着现代城市的发展，传统的四合院已逐渐减少，但因其独特的建筑风格，四合院对中国文化的传承和中国历史的研究具有重要意义。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_1.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_Uvvx4zH.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_3_1.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:09,520\r\nCollege English Test Band 4, Part 2, Listening Comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:10,740 --> 00:00:16,200\r\nIn this section you will hear three news reports. At the end of each news report you will\r\n\r\n3\r\n00:00:16,200 --> 00:00:22,560\r\nhear two or three questions. Both the news reports and the questions will be spoken only once.\r\n\r\n4\r\n00:00:22,560 --> 00:00:28,400\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n5\r\n00:00:28,400 --> 00:00:36,120\r\nA, B, C, and D. Then mark the corresponding letter on Ansysheet 1 with a single line\r\n\r\n6\r\n00:00:36,120 --> 00:00:37,080\r\nthrough the centre.\r\n\r\n7\r\n00:00:38,420 --> 00:00:45,540\r\nNews report 1. Six people had to move away from their home to another place after a fire\r\n\r\n8\r\n00:00:45,540 --> 00:00:50,020\r\nbroke out in a building on Main Street, Saturday, official said.\r\n\r\n9\r\n00:00:50,940 --> 00:00:56,740\r\nFirefighters responded to the three-story building shortly after when PM, for a reported\r\n\r\n10\r\n00:00:56,740 --> 00:01:01,860\r\nstructure fire, according to Norwalk Deputy Fire Chief Adam Markowitz.\r\n\r\n11\r\n00:01:02,820 --> 00:01:08,960\r\nMarkowitz said, crews encountered heavy smoke, coming from the second floor when they arrived.\r\n\r\n12\r\n00:01:09,880 --> 00:01:16,160\r\nA team of about 25 firefighters then spent about 25 minutes extinguishing the flames.\r\n\r\n13\r\n00:01:17,039 --> 00:01:23,080\r\nOfficials described this structure as a mixed use building that features commercial businesses\r\n\r\n14\r\n00:01:23,080 --> 00:01:27,680\r\non the first floor and residential on the second and third floors.\r\n\r\n15\r\n00:01:28,400 --> 00:01:30,980\r\nTown records list four apartments in the building.\r\n\r\n16\r\n00:01:32,140 --> 00:01:37,940\r\nDue to smoke and heat damage, the four apartments were declared uninhabitable and the six\r\n\r\n17\r\n00:01:37,940 --> 00:01:41,560\r\nresidents had to move to another place official said.\r\n\r\n18\r\n00:01:41,560 --> 00:01:45,480\r\nNo injuries were reported in connection with the fire.\r\n\r\n19\r\n00:01:46,080 --> 00:01:50,720\r\nThe Norwalk Fire Martial is investigating the cause and origin of the fire.\r\n\r\n20\r\n00:01:52,020 --> 00:01:56,200\r\nQuestions 1 and 2 are based on a news report you have just heard.\r\n\r\n21\r\n00:01:56,920 --> 00:01:57,860\r\nQuestion 1.\r\n\r\n22\r\n00:01:58,500 --> 00:02:02,320\r\nWhy did the 6 residents have to find another place to stay?\r\n\r\n23\r\n00:02:17,320 --> 00:02:23,120\r\nQuestion 2. What does the news report say the Norwalk Fire Marshall is doing?\r\n\r\n24\r\n00:02:38,480 --> 00:02:45,240\r\nNewsreports 2. A new study has cast doubt on historic research, suggesting that the\r\n\r\n25\r\n00:02:45,240 --> 00:02:51,620\r\nseason or month of someone's birth is associated with an increased risk of certain mental\r\n\r\n26\r\n00:02:51,620 --> 00:02:59,360\r\nhealth conditions. The study looks at symptoms of anxiety and depression among more than 70,000\r\n\r\n27\r\n00:02:59,360 --> 00:03:06,020\r\nolder adults in Europe. A number of past studies have found the link between season of birth\r\n\r\n28\r\n00:03:06,020 --> 00:03:12,220\r\nand mental health diagnoses. Researchers have suggested that such links could arise from\r\n\r\n29\r\n00:03:12,220 --> 00:03:19,980\r\nvarious things. These include nutrients intake, sun exposure, climate and disease exposure\r\n\r\n30\r\n00:03:19,980 --> 00:03:22,400\r\nvarying across the course of the year.\r\n\r\n31\r\n00:03:23,160 --> 00:03:25,340\r\nHowever, evidence has been mixed.\r\n\r\n32\r\n00:03:25,840 --> 00:03:31,720\r\nMore recent studies have suggested that factors such as social class or economic background\r\n\r\n33\r\n00:03:31,720 --> 00:03:35,640\r\nhave more to do with these diagnoses than month of birth.\r\n\r\n34\r\n00:03:36,820 --> 00:03:42,560\r\nOverall, the new study found no significant relationship between participants month of\r\n\r\n35\r\n00:03:42,560 --> 00:03:45,540\r\nbirth and symptoms of depression or anxiety.\r\n\r\n36\r\n00:03:46,600 --> 00:03:49,060\r\nThere was some variability in some countries.\r\n\r\n37\r\n00:03:49,060 --> 00:03:55,100\r\nIn Poland, the press of symptoms fluctuated a little depending on birth month.\r\n\r\n38\r\n00:03:55,580 --> 00:03:59,320\r\nIn the Czech Republic, the same was true of anxiety symptoms.\r\n\r\n39\r\n00:04:00,080 --> 00:04:02,720\r\nBut on the whole, there was no systematic pattern.\r\n\r\n40\r\n00:04:03,820 --> 00:04:08,200\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n41\r\n00:04:08,960 --> 00:04:09,780\r\nQuestion 3.\r\n\r\n42\r\n00:04:10,480 --> 00:04:14,560\r\nWhat have a number of past studies found about season of birth?\r\n\r\n43\r\n00:04:29,480 --> 00:04:35,840\r\nQuestion 4. What did the new study find about the relationship between participants\r\n\r\n44\r\n00:04:35,840 --> 00:04:38,880\r\nmonth of birth and symptoms of depression?\r\n\r\n45\r\n00:04:53,980 --> 00:04:56,240\r\nNews Report 3.\r\n\r\n46\r\n00:04:57,260 --> 00:05:01,680\r\nGenetic researchers in China have made a clone of a star-police dog.\r\n\r\n47\r\n00:05:02,320 --> 00:05:06,320\r\nThe clone was born in a laboratory in Beijing, in December.\r\n\r\n48\r\n00:05:07,580 --> 00:05:12,240\r\nTests show that the clone and her mother are almost identical genetically.\r\n\r\n49\r\n00:05:13,100 --> 00:05:17,080\r\nThe mother dog helped solve multiple murders and many other crimes.\r\n\r\n50\r\n00:05:17,080 --> 00:05:23,500\r\nThe clone has already performed better than traditionally bread dogs on several tests.\r\n\r\n51\r\n00:05:24,600 --> 00:05:30,160\r\nIf the clone continues to perform as well as expected, it could mean a huge reduction\r\n\r\n52\r\n00:05:30,160 --> 00:05:35,580\r\nin the training time for police dogs, which usually takes about five years.\r\n\r\n53\r\n00:05:36,280 --> 00:05:42,000\r\nThe ultimate goal of scientists is to produce clones of talented police dogs that can be\r\n\r\n54\r\n00:05:42,000 --> 00:05:44,220\r\ntrained in months instead of years.\r\n\r\n55\r\n00:05:44,920 --> 00:05:50,680\r\nHowever, this goal is not yet possible due to the current costs of the technology.\r\n\r\n56\r\n00:05:51,680 --> 00:05:55,620\r\nThis is not the first time a clone has been made of a star police dog.\r\n\r\n57\r\n00:05:56,340 --> 00:06:01,120\r\nIn South Korea, six clones began working with the police in 2008.\r\n\r\n58\r\n00:06:02,440 --> 00:06:06,820\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n59\r\n00:06:07,900 --> 00:06:08,700\r\nQuestion 5.\r\n\r\n60\r\n00:06:09,340 --> 00:06:12,860\r\nWhat do the researchers test show about the cloned dog?\r\n\r\n61\r\n00:06:27,880 --> 00:06:33,000\r\nQuestion 6. What is the scientists' purpose in cloning police dogs?\r\n\r\n62\r\n00:06:48,159 --> 00:06:54,200\r\nQuestion 7. Why does the news report say the scientists' goal is not yet possible?",
+  "news_transcript_zh": "Section A: 短新闻中文原文",
+  "conversations_transcript_en": "1\r\n00:00:01,220 --> 00:00:12,120\r\nSection B, directions. In this section you will hear two long conversations. At the end of each conversation you will hear four questions.\r\n\r\n2\r\n00:00:13,300 --> 00:00:17,720\r\nBoth the conversation and the questions will be spoken only once.\r\n\r\n3\r\n00:00:18,500 --> 00:00:24,540\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n4\r\n00:00:24,540 --> 00:00:32,400\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n5\r\n00:00:32,400 --> 00:00:33,400\r\nthrough the center.\r\n\r\n6\r\n00:00:35,620 --> 00:00:42,020\r\nConversation 1 Tom, did you see the article online about the new TV series based on the\r\n\r\n7\r\n00:00:42,020 --> 00:00:43,500\r\nbook the three body problem?\r\n\r\n8\r\n00:00:43,500 --> 00:00:48,840\r\nA colleague mentioned the book, but I've been so busy writing my thesis that I haven't\r\n\r\n9\r\n00:00:48,840 --> 00:00:50,900\r\nbeen able to read for pleasure in months.\r\n\r\n10\r\n00:00:51,360 --> 00:00:55,480\r\nWell, sounds like if you're going to read anything for fun, this is the book.\r\n\r\n11\r\n00:00:55,840 --> 00:00:58,400\r\nIt's written by a Chinese science fiction writer.\r\n\r\n12\r\n00:00:58,880 --> 00:01:03,740\r\nI can't remember his name, but he's written three books in all, and the three body\r\n\r\n13\r\n00:01:03,740 --> 00:01:05,940\r\nproblem is the first in the series.\r\n\r\n14\r\n00:01:06,680 --> 00:01:11,760\r\nI don't want to say too much and spoil it for you, but it's definitely got some amazing\r\n\r\n15\r\n00:01:11,760 --> 00:01:15,940\r\ntechnological and sociological concepts in it.\r\n\r\n16\r\n00:01:16,320 --> 00:01:21,880\r\nIt does sound like it would suit my taste, but if they are making a TV series based on\r\n\r\n17\r\n00:01:21,880 --> 00:01:26,000\r\nit now, I don't know if I should read the book or watch the show first.\r\n\r\n18\r\n00:01:26,480 --> 00:01:28,400\r\nI think it's better to read the book first.\r\n\r\n19\r\n00:01:28,600 --> 00:01:33,780\r\nIt's rare for the show or movie to be better than the book, and then you just end up\r\n\r\n20\r\n00:01:33,780 --> 00:01:36,900\r\nruining the book for yourself if the show isn't very good.\r\n\r\n21\r\n00:01:37,680 --> 00:01:39,340\r\nWhen is the show supposed to start?\r\n\r\n22\r\n00:01:39,340 --> 00:01:44,440\r\nI'm a bit overwhelmed with the amount of data I still need to collect to finish my thesis,\r\n\r\n23\r\n00:01:45,120 --> 00:01:47,340\r\nbut I still need to relax sometimes.\r\n\r\n24\r\n00:01:47,900 --> 00:01:52,340\r\nI can't remember exactly, it's pretty soon, and it's going to be quite long.\r\n\r\n25\r\n00:01:52,900 --> 00:01:54,440\r\nThere are 24 episodes.\r\n\r\n26\r\n00:01:55,400 --> 00:02:00,020\r\nWell, maybe you could download an electronic copy of the book and try to read it before\r\n\r\n27\r\n00:02:00,020 --> 00:02:00,960\r\nthe show starts.\r\n\r\n28\r\n00:02:01,500 --> 00:02:02,460\r\nThat's a good idea.\r\n\r\n29\r\n00:02:03,040 --> 00:02:05,680\r\nThen maybe we can watch the series together.\r\n\r\n30\r\n00:02:06,400 --> 00:02:07,540\r\nThanks for the tip, Alice.\r\n\r\n31\r\n00:02:07,540 --> 00:02:09,000\r\nNo problem.\r\n\r\n32\r\n00:02:10,479 --> 00:02:14,780\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n33\r\n00:02:15,500 --> 00:02:16,460\r\nQuestion 8.\r\n\r\n34\r\n00:02:17,000 --> 00:02:20,960\r\nHow did the man get to know about the book the three body problem?\r\n\r\n35\r\n00:02:35,780 --> 00:02:41,260\r\nQuestion 9. What does the woman say she can't remember about the book's author?\r\n\r\n36\r\n00:02:56,380 --> 00:03:01,300\r\nQuestion 10. What does the man have to do to finish his thesis?\r\n\r\n37\r\n00:03:16,240 --> 00:03:22,620\r\nQuestion 11. What will the man most probably do first after the conversation?\r\n\r\n38\r\n00:03:40,260 --> 00:03:45,640\r\nHello, good afternoon. I have an inquiry to make. It's about the vegetarian food festival,\r\n\r\n39\r\n00:03:46,020 --> 00:03:49,720\r\nyou are holding on the 19th of August at the Newcastle City Hall.\r\n\r\n40\r\n00:03:50,160 --> 00:03:53,400\r\nYes, of course. My name's Phillip. How can I help you?\r\n\r\n41\r\n00:03:53,740 --> 00:03:58,800\r\nIt says on your website that you are still looking for vendors. An I grow organic vegetables\r\n\r\n42\r\n00:03:58,800 --> 00:04:05,140\r\non my farm, as well as doing my own home baking. Would I be able to sell both the vegetables\r\n\r\n43\r\n00:04:05,140 --> 00:04:08,120\r\nand items baked from them at the festival?\r\n\r\n44\r\n00:04:09,320 --> 00:04:13,960\r\nThat's exactly the type of thing we are looking for. We are getting close to the deadline\r\n\r\n45\r\n00:04:13,960 --> 00:04:19,660\r\nhowever. Do you prefer to fill out an application on the web, or to princess out and fill\r\n\r\n46\r\n00:04:19,660 --> 00:04:25,820\r\nit in by hand, and then post it back to us? Remember, that you will have to have all your\r\n\r\n47\r\n00:04:25,820 --> 00:04:30,720\r\ncertificates to hand when you are filling out the forms as the standards are high and\r\n\r\n48\r\n00:04:30,720 --> 00:04:35,040\r\nthey will be carefully checked before anyone will be able to sell their produce at the\r\n\r\n49\r\n00:04:35,040 --> 00:04:35,460\r\nevent.\r\n\r\n50\r\n00:04:36,280 --> 00:04:41,100\r\nI should be fine with doing it on your website and I already have all my certificates as\r\n\r\n51\r\n00:04:41,100 --> 00:04:43,180\r\nwe run a small farm shop too.\r\n\r\n52\r\n00:04:43,460 --> 00:04:45,320\r\nBut can you give me your details anyway?\r\n\r\n53\r\n00:04:45,920 --> 00:04:46,180\r\nSure.\r\n\r\n54\r\n00:04:46,720 --> 00:04:48,160\r\nPlease address it too.\r\n\r\n55\r\n00:04:48,540 --> 00:04:49,860\r\nThe Organic Organization.\r\n\r\n56\r\n00:04:49,860 --> 00:04:56,360\r\nThen, vendor applications, 112, Queen's Road, Newcastle, Northumbria.\r\n\r\n57\r\n00:04:56,940 --> 00:05:00,760\r\nThe postcode is NU-29, 3LJ.\r\n\r\n58\r\n00:05:01,100 --> 00:05:05,800\r\nRemember that the closing date is next Tuesday, the 28th of June.\r\n\r\n59\r\n00:05:06,400 --> 00:05:07,520\r\nThat's absolutely wonderful.\r\n\r\n60\r\n00:05:07,960 --> 00:05:09,420\r\nThank you so much for your help.\r\n\r\n61\r\n00:05:09,740 --> 00:05:09,980\r\nGoodbye.\r\n\r\n62\r\n00:05:11,320 --> 00:05:16,360\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n63\r\n00:05:16,360 --> 00:05:20,680\r\nQuestion 12. Why does the woman call the man?\r\n\r\n64\r\n00:05:36,060 --> 00:05:39,860\r\nQuestion 13. What is the man still looking for?\r\n\r\n65\r\n00:05:54,760 --> 00:06:00,860\r\nQuestion 14. What does the man say they are getting close to?\r\n\r\n66\r\n00:06:14,820 --> 00:06:19,920\r\nQuestion 15. What does the man finally ask the woman to remember?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:02,460 --> 00:00:12,720\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:13,680 --> 00:00:26,440\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:26,440 --> 00:00:32,840\r\nThen Mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:34,800 --> 00:00:36,240\r\nPassage 1.\r\n\r\n5\r\n00:00:36,300 --> 00:00:38,620\r\nSupporters call it wild camping.\r\n\r\n6\r\n00:00:39,280 --> 00:00:41,460\r\nOpponents call it illegal camping.\r\n\r\n7\r\n00:00:42,140 --> 00:00:48,900\r\nWhat both sides accept is that there has been a boom in the past few months with increasing numbers of visitors\r\n\r\n8\r\n00:00:48,900 --> 00:00:53,080\r\npitching their tents on any bit of land they fancy in the UK.\r\n\r\n9\r\n00:00:53,080 --> 00:00:58,840\r\nIn part, this reflects the fact that official campsites have been wholly or partially closed\r\n\r\n10\r\n00:00:58,840 --> 00:01:04,239\r\nor are overflowing. In a summer when fewer people are going abroad.\r\n\r\n11\r\n00:01:05,260 --> 00:01:11,200\r\nIt is also cheap, at a time when many are worried about what the economic future holds.\r\n\r\n12\r\n00:01:11,960 --> 00:01:18,780\r\nBut it may also be an expression of a desire for going outdoors, a response to the months of lockdown.\r\n\r\n13\r\n00:01:19,740 --> 00:01:24,080\r\nMost of the coverage of the boom in wild camping has been negative.\r\n\r\n14\r\n00:01:24,660 --> 00:01:30,640\r\nCamping in public parks has now been banned for August and the early parts of September,\r\n\r\n15\r\n00:01:31,160 --> 00:01:36,260\r\nbecause campers dump litter, human waste, and even net tents on the grassland.\r\n\r\n16\r\n00:01:37,220 --> 00:01:42,540\r\nSimilar action has been taken even in Scotland, where camping is usually permitted on most\r\n\r\n17\r\n00:01:42,540 --> 00:01:43,620\r\nof its open land.\r\n\r\n18\r\n00:01:44,460 --> 00:01:46,440\r\nClearly, there have to be rules.\r\n\r\n19\r\n00:01:46,440 --> 00:01:52,460\r\nIt would make sense that wild campers need to ask for permission to camp from landowners,\r\n\r\n20\r\n00:01:52,880 --> 00:01:57,460\r\nespecially outside Scotland, where the law is far more restrictive.\r\n\r\n21\r\n00:01:58,220 --> 00:02:03,300\r\nIt would be common sense for people to use small tents and leave no trace of their visit.\r\n\r\n22\r\n00:02:04,060 --> 00:02:08,660\r\nThey have been attracted by a patch of land that is close to wilderness, and it is their\r\n\r\n23\r\n00:02:08,660 --> 00:02:10,940\r\nresponsibility to keep it that way.\r\n\r\n24\r\n00:02:11,700 --> 00:02:16,640\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n\r\n25\r\n00:02:17,400 --> 00:02:22,320\r\nQuestion 16. Why has wild camping become popular in the UK?\r\n\r\n26\r\n00:02:37,540 --> 00:02:43,060\r\nQuestion 17. Why is Camping Band for Part of the Summer in Public Parks?\r\n\r\n27\r\n00:02:57,700 --> 00:03:02,920\r\nQuestion 18. What does the speaker suggest campers do?\r\n\r\n28\r\n00:03:17,640 --> 00:03:24,920\r\nPassage 2. Imagine boating down the Amazon River, minding your own business, calmly keeping\r\n\r\n29\r\n00:03:24,920 --> 00:03:32,300\r\nan eye out for alarmingly large snakes. And a curious, pink dolphin appears to swim alongside,\r\n\r\n30\r\n00:03:32,300 --> 00:03:39,100\r\nWhile this may seem like a mythical creature, pink dolphins do exist in the Amazon region.\r\n\r\n31\r\n00:03:40,320 --> 00:03:45,660\r\nThe Amazon River dolphin is a giant among its species. It can measure up to two meters\r\n\r\n32\r\n00:03:45,660 --> 00:03:53,980\r\nlong and weigh around 204 kilograms. Size isn't the only thing that sets the Amazon River\r\n\r\n33\r\n00:03:53,980 --> 00:04:00,200\r\ndolphin apart. Thriving in South American rivers and temporary lakes caused by seasonal\r\n\r\n34\r\n00:04:00,200 --> 00:04:07,780\r\nflooding. This freshwater dolphin is sometimes shockingly pink. Although born gray, males\r\n\r\n35\r\n00:04:07,780 --> 00:04:14,700\r\nof the species are easily identified as they inter-adulted by a decisive pink shade. Their\r\n\r\n36\r\n00:04:14,700 --> 00:04:20,940\r\nunusual coloring is believed to be the result of scar tissue from dolphin fights, whether\r\n\r\n37\r\n00:04:20,940 --> 00:04:27,440\r\nplay fighting or a serious bid for a mate. The deeper the pink, the more attractive the males\r\n\r\n38\r\n00:04:27,440 --> 00:04:31,620\r\nare believed to be, and the older the male, the more pink he will have.\r\n\r\n39\r\n00:04:32,360 --> 00:04:37,400\r\nThere's also a theory that this color helps the dolphins more readily blend in with their\r\n\r\n40\r\n00:04:37,400 --> 00:04:37,960\r\nsurroundings.\r\n\r\n41\r\n00:04:38,980 --> 00:04:45,300\r\nDuring heavy rains, rivers along the Amazon rainforest turn a pink shade, and with their\r\n\r\n42\r\n00:04:45,300 --> 00:04:48,480\r\npink coloring, male dolphins are harder to detect.\r\n\r\n43\r\n00:04:49,580 --> 00:04:55,140\r\nThe Amazon Wetland System, fed by the Amazon River, is a crucial place for pink dolphins\r\n\r\n44\r\n00:04:55,140 --> 00:05:01,700\r\nto breed. And since 2018 has been granted internationally protected status.\r\n\r\n45\r\n00:05:27,960 --> 00:05:36,240\r\nQuestion 20. What is the unusual coloring of Pink Dolphins believed to originate in?\r\n\r\n46\r\n00:05:50,400 --> 00:05:56,680\r\nQuestion 21. What has become of the Amazon Wetland System since 2018?\r\n\r\n47\r\n00:06:11,820 --> 00:06:20,380\r\nPassage 3. In a new Merrill Lynch age wave survey, a full 70% of the early adults said they\r\n\r\n48\r\n00:06:20,380 --> 00:06:26,740\r\nreceived financial support from their parents in the past year, and 58% said they couldn't\r\n\r\n49\r\n00:06:26,740 --> 00:06:34,120\r\nafford their current lifestyles without it. The most common types of financial support include\r\n\r\n50\r\n00:06:34,120 --> 00:06:39,260\r\ncell phone plans, food, school costs and car expenses.\r\n\r\n51\r\n00:06:40,400 --> 00:06:47,720\r\nParental financial support of early adults said can dict fold CO of age wave is the new normal.\r\n\r\n52\r\n00:06:48,640 --> 00:06:58,840\r\nBut 64% of the young adult surveyed said parents financial support to children age 25 to 34 is a bad thing,\r\n\r\n53\r\n00:06:58,840 --> 00:07:06,460\r\nBecause it makes those kids dependent. By contrast, only 29% thought supporting men and women\r\n\r\n54\r\n00:07:06,460 --> 00:07:14,300\r\naged 18 to 24 is bad. The remaining 71% thought that assistance helps the adult children\r\n\r\n55\r\n00:07:14,300 --> 00:07:15,300\r\nget ahead.\r\n\r\n56\r\n00:07:16,540 --> 00:07:23,940\r\nDickfold believes the young women and men surveyed were saying that by 25 young adults ought\r\n\r\n57\r\n00:07:23,940 --> 00:07:30,400\r\nbe financially independent. In fact, the respondents said financial independence defines\r\n\r\n58\r\n00:07:30,400 --> 00:07:36,360\r\nadulthood. Financial independence is something they were struggling with and challenged\r\n\r\n59\r\n00:07:36,360 --> 00:07:43,160\r\nby, and it scared them a bit. Dictful said. One big reason they're struggling is attributed\r\n\r\n60\r\n00:07:43,160 --> 00:07:51,040\r\nto college loans of which the average amounts to $37,000. Many of the parents have taken\r\n\r\n61\r\n00:07:51,040 --> 00:07:56,420\r\non college loans for the kids too, sometimes at the expense of their own finances.\r\n\r\n62\r\n00:07:57,260 --> 00:08:04,060\r\nIn the survey, 60% of early adults define financial success as being debt-free.\r\n\r\n63\r\n00:08:04,740 --> 00:08:09,800\r\nWhether that's likely or even possible any time soon is anyone's guess.\r\n\r\n64\r\n00:08:11,880 --> 00:08:16,600\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n65\r\n00:08:17,640 --> 00:08:18,520\r\nQuestion 22.\r\n\r\n66\r\n00:08:18,520 --> 00:08:23,780\r\nWhat do we learn from a new survey by Marrill Lynch Age Wave?\r\n\r\n67\r\n00:08:38,320 --> 00:08:45,380\r\nQuestion 23. Why did most young adults in the survey say financial support to children aged\r\n\r\n68\r\n00:08:45,380 --> 00:08:49,900\r\n25 to 34 is a bad thing.\r\n\r\n69\r\n00:09:03,960 --> 00:09:04,840\r\nQuestion 24.\r\n\r\n70\r\n00:09:05,560 --> 00:09:09,640\r\nWhat did the respondents in the survey say regarding financial independence?\r\n\r\n71\r\n00:09:24,860 --> 00:09:29,940\r\nQuestion 25. What is one big reason young adults are struggling?\r\n\r\n72\r\n00:09:45,380 --> 00:09:47,800\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

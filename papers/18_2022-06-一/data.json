@@ -1,0 +1,702 @@
+{
+  "id": 18,
+  "exam": 18,
+  "exam_details": {
+    "id": 18,
+    "title": "2022年6月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2022,
+    "month": 6,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T17:03:39.943000+08:00",
+    "updated_at": "2025-04-26T17:03:39.943000+08:00",
+    "exam_id": 18,
+    "submission_count": 0,
+    "cet_content_id": 18,
+    "has_draft": false
+  },
+  "created_at": "2025-04-26T17:25:46.851000+08:00",
+  "updated_at": "2026-03-17T22:31:31.629287+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. It studied the effects of exercise on sleep.",
+              "B. Its participants came from various walks of life.",
+              "C. Its findings confirmed those of previous studies.",
+              "D. It ran for as long as some thirty years."
+            ],
+            "question": "What do we learn about the news study from the news report?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Eating more vegetables instead of meats.",
+              "B. Drinking water instead of beverages with added sugar.",
+              "C. Consuming more energy drinks and sports drinks.",
+              "D. Forming the habit of exercising regularly."
+            ],
+            "question": "What is the scientist's recommendation?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. He asked them about his lost paintings.",
+              "B. He knew the owner of two missing paintings.",
+              "C. He left his paintings at a highway rest stop.",
+              "D. He found two 17th-century oil paintings."
+            ],
+            "question": "What do we learn about the 64-year-old man?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. They are imitations.",
+              "B. They are originals.",
+              "C. They were stolen by an Italian boy.",
+              "D. They came from the same artist."
+            ],
+            "question": "What is the art expert's conclusion about the two framed paintings?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. Look after her grandfather.",
+              "B. Leave the remote cold region.",
+              "C. Save her sick grandmother.",
+              "D. Flee from the threat of bears."
+            ],
+            "question": "What did the four-year-old girl attempt to do?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. She has to face a criminal charge.",
+              "B. She was found lying motionless in the snow.",
+              "C. She searched for her daughter in freezing cold.",
+              "D. She works in childcare services."
+            ],
+            "question": "What do we learn from the news report about the girl's mother?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. She was found in a forest after three days.",
+              "B. She lay totally unconscious for three days.",
+              "C. She suffered from the effects of severe cold.",
+              "D. She was finally rescued by her relatives."
+            ],
+            "question": "What happened to the little girl according to the news report?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. She shows a real passion for taking photos.",
+              "B. She has just returned from her hometown.",
+              "C. She comes from the city of Cape Town.",
+              "D. She has a truly amazing appearance."
+            ],
+            "question": "What does the woman say about her new friend Susan?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. It is as famous as Cape Town.",
+              "B. It has a flat surface at the top.",
+              "C. It is green and free from pollution.",
+              "D. It was named by European settlers."
+            ],
+            "question": "What does the woman say about table mountain?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. She has British ancestors.",
+              "B. She is of mixed blood.",
+              "C. She grew up in India.",
+              "D. She speaks several languages."
+            ],
+            "question": "What do we learn from the conversation about the woman's friend Susan?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. It is an extremely violent sport.",
+              "B. It is becoming a national sport.",
+              "C. It is originated in New Zealand.",
+              "D. It is more popular than football."
+            ],
+            "question": "What does the woman say about rugby in South Africa?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. Prepare a study guide.",
+              "B. Consult his advisors.",
+              "C. Go over his notes regularly.",
+              "D. Take stress-relief sessions."
+            ],
+            "question": "What does the woman advise the man do?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. His worksheets are terribly messy.",
+              "B. He finds the workload too heavy.",
+              "C. His study folder is badly disorganized.",
+              "D. He has difficulty taking notes quickly."
+            ],
+            "question": "What is the biggest problem the man has with his studies?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. A visual learner.",
+              "B. An emotional learner.",
+              "C. An organized learner.",
+              "D. A logical learner."
+            ],
+            "question": "What kind of learner does the woman say she is?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. Arrange them using color and pictures.",
+              "B. Restructure them in a logical way.",
+              "C. Commit them to memory after class.",
+              "D. Organize them into a well-connected story."
+            ],
+            "question": "What does the woman think the man can do with his notes?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. It is mainly based on a society's religion.",
+              "B. It is interpreted differently in different times.",
+              "C. It is a code of conduct based on laws and ethics.",
+              "D. It is a moral principle to guide people's behavior."
+            ],
+            "question": "What do we learn from the passage about the Golden Rule?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. It may lead to misunderstanding despite good intentions.",
+              "B. It assumes that human beings are all good-natured.",
+              "C. It may sometimes produce undesirable outcomes.",
+              "D. It fails to consider the complexity of human relationships."
+            ],
+            "question": "What is a notable criticism of the Golden Rule?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. The golden rule is often in conflict with certain laws and ethical principles.",
+              "B. The golden rule must sometimes give way to more important principles.",
+              "C. Failure to follow the golden rule may lead to violation of laws and ethics.",
+              "D. Observing the golden rule is the first step to becoming a responsible citizen."
+            ],
+            "question": "What does the example of someone breaking the law serve to show?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Many of them find it rather difficult to manage.",
+              "B. They have not seen as much diversity as desired.",
+              "C. Many of them have an increasingly diversified staff.",
+              "D. They have not quite grasped the concept of diversity."
+            ],
+            "question": "What do we learn from the current statistics about diversity in large corporations?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Initiatives to achieve diversity in large corporations.",
+              "B. Advantages and disadvantages of a diversified team.",
+              "C. People's attitudes towards diversity at the workplace.",
+              "D. Innovative ideas and solutions resulting from diversity."
+            ],
+            "question": "What is the newly published study focused on?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. People prefer to work with team members similar to themselves.",
+              "B. Employers attach great importance to their corporations 9 diversity.",
+              "C. Employers differ, from employees in their perspectives on diversity.",
+              "D. Doubts about the practicability of diversity are gradually disappearing."
+            ],
+            "question": "What do the findings of the new study show?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Choosing the best time for signing a business contract.",
+              "B. Changing one's form of communication from time to time.",
+              "C. Laying equal stress on written and spoken communication.",
+              "D. Using different forms of communication appropriately."
+            ],
+            "question": "What is a major key to success in international business according to the passage?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. They are regarded as seriously binding.",
+              "B. They are seldom honored by business partners.",
+              "C. They are taken as memos of understanding.",
+              "D. They are to be confirmed in written form."
+            ],
+            "question": "What does the passage say about spoken word agreements in some Middle East countries?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. It has reached the highest level of evolution.",
+              "B. It places a high value on written contracts.",
+              "C. It regards written contracts as unalterable.",
+              "D. It has seen a decline in verbal agreements."
+            ],
+            "question": "What do we learn about the Western working culture?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Its details cannot be renegotiated.",
+              "B. It has to be carried out to the letter.",
+              "C. It strengthens business partnerships.",
+              "D. Its terms may not be strictly binding."
+            ],
+            "question": "How does a Japanese firm tend to view a written contract?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain and wouldn't it be better if they could just  __26__  under any condition? In spite of our  __27__  discomfort, it turns out there's a good reason our teeth are so sensitive. Tooth pain is a  __28__  mechanism that ensures when a tooth is being damaged we'll notice and do something about it.\nIf we eat something too hot or too cold, or if the tooth is worn down enough where the tissue  __29__  is exposed, all of those things cause pain, and then the pain causes the person not to use that tooth to try to protect it a little bit more. So it's really a protective mechanism more than anything else. If teeth didn't feel pain, we might  __30__  to use them in situations that damage them, and for humans, damaging  __31__  teeth is a problem because, unlike crocodiles, we can't  __32__  them.\nTeeth have three layers, only one of which-the innermost layer of the tooth-can hurt, as that layer of the tooth  __33__  both blood vessels and nerves. Pain is the only feeling to which the nerves in that layer respond. Whereas people with tooth sensitivity may complain, for example, of tooth pain  __34__  by heat or cold, the nerves in the inner layer don't sense temperature. Rather, they feel pain, which may be  __35__  with, say, drinking something very cold",
+        "word_bank": [
+          "adult",
+          "associated",
+          "chew",
+          "contains",
+          "continue",
+          "defense",
+          "dental",
+          "downward",
+          "emotional",
+          "implies",
+          "mammal",
+          "replace",
+          "swallow",
+          "triggered",
+          "underneath"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Clues about the culture of a company can be found on its website."
+          },
+          {
+            "id": 37,
+            "content": "It can be difficult to know the real situation in a company until you become part of it."
+          },
+          {
+            "id": 38,
+            "content": "It is impossible for a job applicant to have every expectation met."
+          },
+          {
+            "id": 39,
+            "content": "Simply by reading its description, the author found the job offered ideal."
+          },
+          {
+            "id": 40,
+            "content": "Job applicants are advised to make a written list of their likes and dislikes in their previous employment."
+          },
+          {
+            "id": 41,
+            "content": "At the end of an interview, a job applicant should seize the opportunity to get answers to their urgent questions."
+          },
+          {
+            "id": 42,
+            "content": "To begin with, job applicants should be clear what they expect from their future employer."
+          },
+          {
+            "id": 43,
+            "content": "Job applicants should read with a critical eye what is written about a company on the website."
+          },
+          {
+            "id": 44,
+            "content": "Job satisfaction has a lot to do with company culture."
+          },
+          {
+            "id": 45,
+            "content": "A chat with an insider of a company can give job applicants very useful information when they prepare for an interview."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "On paper, the job seemed perfect for me: The position was completely in line with my degree, the duties and responsibilities were compatible with my interests, and the office maintained a well-stocked kitchen that would satisfy my every snack desire."
+          },
+          {
+            "id": "B",
+            "content": "Sounds like my dream job, right? There was only one small problem: I simply didn't get along with the company culture. They favored a more rigid, closed-door, corporate atmosphere, while I would have preferred something more collaborative and open. They were complete clock watchers, while I would have liked a more flexible schedule. To put it plainly, we just weren , t on the same page."
+          },
+          {
+            "id": "C",
+            "content": "When it comes to looking for a new job, you already know that a big part of the interview process involves the company evaluating whether or not you're a good fit for their open role. But, it's important to keep in mind that the employer isn't the only one who needs to identify a good match- you should be looking for that same exact thing. Company culture can have a big impact on how you feel about your work, so you want to make sure you sign an offer letter with an organization you're truly excited about."
+          },
+          {
+            "id": "D",
+            "content": "However, figuring out what a company is like before you actually work there can be a bit of a challenge. Luckily, there are a few things you can do to determine whether or not a company is a good fit for you- before you ever sign your name on that dotted line."
+          },
+          {
+            "id": "E",
+            "content": "First of all, know what you want. It's hard to make any decisions when you don't really know what you're looking for. So before you can determine whether you and a specific company would be compatible together, it's important to have a solid handle on what exactly you want from your employer. Many of us have an easier time identifying the things that we absolutely don't want. If those are the only things you can think of, don't"
+          },
+          {
+            "id": "F",
+            "content": "Start by writing down the things you didn't like about previous employers, as well as the parts you really valued. There  9 s no wrong answer here 一 so from big things to small details, write them all down on your list. This will help you immediately identify what you're looking for in an organization, as well as the things you're trying to stay far, far away from."
+          },
+          {
+            "id": "G",
+            "content": "Make sure to do your research. Now comes the part when you put on your detective hat and do a little digging. The Internet will be your best friend when you're trying to familiarize yourself with a company's culture before ever walking through their office doors. And where exactly should you look for these culture clues? Start with the most obvious place first: the company's website. Read through their copy and blog. Do they use formal, direct language? Or is it casual, conversational, and maybe even a little humorous? This can be a big indicator of what sort of atmosphere the company is trying to cultivate."
+          },
+          {
+            "id": "H",
+            "content": "Next, turn your attention toward their social media outlets. Are they sharing photos of their team's Thursday afternoon barbeque or Halloween costume contest? Or are their social media accounts strictly reserved for company-related announcements and product launches?"
+          },
+          {
+            "id": "I",
+            "content": "An industry review website like Glassdoor is another spot to check in order to find some insider information about what you can expect about a company. However, remember to take the reviews you read with a grain of salt-many of them are written by scorned (被啬口视的) employees."
+          },
+          {
+            "id": "J",
+            "content": "Finally, you can never fail with personal connections. Send a quick message to a current or previous company employee on Linkedln or by email and ask if they would be willing to have a quick conversation with you about the organization in general. If you get a yes to your request for a chat, you 9 11 be armed with some pretty powerful and helpful information heading into your interview!"
+          },
+          {
+            "id": "K",
+            "content": "Learn more by asking questions. You know that part at the end of a job interview when the hiring manager asks if you have any questions, and you just stare across the table blankly with your mouth hanging open? That's the perfect opportunity to speak up and get your burning company culture questions answered! So yes, you can definitely ask your interviewer about what it's like to work for that particular organization. Simple questions like, “What three words would you use to describe the culture here?” or “What's your favorite part about working for this company?can reveal a lot about what it's really like behind closed doors."
+          },
+          {
+            "id": "L",
+            "content": "Prioritize your values. What does my dream company culture look like? Well, I could come and go as I please, as long as I was getting the work done. My boss would genuinely listen to and value all of my ideas arid suggestions. My co-workers would all be friendly with one another, without ever falling into the office gossip trap. The kitchen would have endless options of pizza and cookies. Oh, and they'd give me two months of paid vacation with a very generous salary."
+          },
+          {
+            "id": "M",
+            "content": "What are my chances of finding all of those things with one employer? Slim to none — believe me, I've looked. This is why it's so important to know which aspects of a company's culture you value most. Is it an open communication style or a flexible schedule? Focus on the top spots on your priority list, and ensure a potential employer at least checks those boxes. Unfortunately, this is reality, you can , t have everything you want but a few are certainly achievable."
+          },
+          {
+            "id": "N",
+            "content": "When you're hunting for a new job, you already know that the employer is trying to decide whether or not you're a good fit for the position. But you should also look at the process through a similar lens. You may not be the one conducting the actual interview, but you're still trying to determine whether or not the company is a good fit for you."
+          },
+          {
+            "id": "O",
+            "content": "Keep these tips in mind to figure out whether you and a potential employer are a perfect match or just a recipe (方 案 )for disaster. After all, it's a good thing to know before actually accepting an offer."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Online classes began to be popularized just a few decades ago. They are advertised as a way for adults to finish their education and students to learn the material at their own pace — —it is far more compatible for people with busy schedules.\nBut after being enrolled in an online course last fall semester, I came to realize online classes were merely a means to fulfil course requirements.\nFirst of all, students lack the desire to learn, and they simply complete their assignments to receive credit for a passing grade rather than genuinely engage with the course material.\nAs online courses tend to have more than 100 students, most of the assignments are short and simple. They are not designed for students to interact with the material in depth but designed to be graded easily to accommodate such a large number of students.\nPerhaps the biggest disadvantage of taking an online class is the absence of face-to-face interaction between the teacher and their students. Live sessions are infrequent and are often scheduled during the middle of the day when students have to attend other classes or work. The office hours of the professor may also be during inconvenient times for many students as well. Most interaction with the professor has to be through email which is often impersonal. It is nearly impossible for students to build a relationship with their professor.\nThere is also little interaction amongst students. It can be harder for students to create study groups and form relationships with their peers.\nOnline classes also require either a computer or laptop and a reliable internet connection. Not all students have access to these types of resources, whether it is for financial or other reasons, and some students can be put at a disadvantage.\nOffering online classes certainly helps students who would otherwise not be able to attend classroom sessions. However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking. We need restructured online classes in which students can have a learning experience that will actually provide quality education.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They can access course materials easily.",
+                  "B. They are unmotivated to learn.",
+                  "C. They can learn at their own pace.",
+                  "D. They rarely fulfil the course requirements."
+                ],
+                "question": "What does the author say about students enrolled in online classes?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. They are made convenient to mark.",
+                  "B. They are meant to facilitate interaction.",
+                  "C. They are based on easily accessible material.",
+                  "D. They are given to accommodate students 9 needs."
+                ],
+                "question": "What does the author think of online course assignments?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. They are frequently scheduled at irregular times.",
+                  "B. They make professors 9 offices much less accessible.",
+                  "C. They tend to increase professors 9 burden of responding to students 9 emails.",
+                  "D. They provide little chance for students to build relationships with each other."
+                ],
+                "question": "What does the author say is one disadvantage of online classes?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. More students may find it easy to be absent from them.",
+                  "B. Teachers will worry about poor internet connections.",
+                  "C. Some students may have difficulty attending them.",
+                  "D. Schools with limited resources will be at a disadvantage."
+                ],
+                "question": "What problem may arise if classes go online?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Acquisition of useful knowledge.",
+                  "B. Training of real-life skills on campus.",
+                  "C. Development of students 9 personalities.",
+                  "D. Cultivation of analytical thinking ability."
+                ],
+                "question": "What does the author think constitutes a key part of genuine education?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "In the age of the internet, there's no such thing as a private debate. But is that bad for science? Some scientists have had concerns. When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public. Recent open debates on scientific research, health, and policy have aroused greater public attention and encouraged more diverse voices. If this trend spurs scientists to agree more quickly about the best solutions to our problems-and at the same time helps the public observe the process of scientific discourse more clearly- then this is good for everyone, including scientists.\nA recent debate published in The New York Times discussed the question of how quickly medicine should be developed and produced. Issues such as safety of the product and perception of the public were examined and considered. But some experts worried that such public speculation might lead people to believe that disagreement about the details meant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine.\nThe anxiety seems misplaced. Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of where they take place.\nFor many scientists, public debate is a new frontier and it may feel like a place with few restraints or rules? but rather than avoiding such conversations, let the debates be transparent and vigorous, wherever they are held. If the public is to understand that science is an honorably self-correcting process, the idea that science is a fixed set of facts in a textbook needs to be dismissed. With the validity of science coming under attack, there's a need for scientific debates to be perceived as open and true to life. Let everyone see the noisy, messy deliberations that advance science and lead to decisions that benefit us all.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. Help the public to better understand science.",
+                  "B. Clear up confusion in the scientific community.",
+                  "C. Settle disputes between universities and government agencies.",
+                  "D. Prevent information from being used incorrectly by the public."
+                ],
+                "question": "What does the author think open debate can do?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It might hinder the progress in medical research.",
+                  "B. It might breed public distrust in modem medicine.",
+                  "C. It might add to the difficulty of getting research funds.",
+                  "D. It might prevent medical scientists reaching consensus. 、"
+                ],
+                "question": "Why did a recent debate published in The New York Times arouse concerns among experts?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. Debating scientific issues at a conference is now old-fashioned.",
+                  "B. Diverse topics can be debated by both scientists and the public.",
+                  "C. Debates about science are accessible to the public anyway.",
+                  "D. Scientists can voice their opinions whatever way they like."
+                ],
+                "question": "Why does the author say some experts 5 anxiety seems misplaced?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Have more discussions about it.",
+                  "B. Embrace it with open arms.",
+                  "C. Formulate new rules for it.",
+                  "D. Restrain it to a rational degree."
+                ],
+                "question": "What does the author suggest scientists do about public debate?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. It is transmitted through textbooks.",
+                  "B. It is what proves valid and true to life.",
+                  "C. It is a dynamic and self-improving process.",
+                  "D. It is a collection of facts and established rule"
+                ],
+                "question": "What does the author say about science in the last paragraph?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose you are going to write a proposal to your school library for improving its service. You are to write about its current problems and possible solutions to these problems. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "从前有家人说：“今天可真把我累坏了！但我总算让禾苗一下子长高了。“他儿子到地里去一看，禾苗都已死光了。\n现在有些家长急于让孩子成功，往往步那个农夫的后尘，搞得孩子苦不堪言，却不见孩子学业长进。这样的家长是否该对这个问题有所醒悟，让孩子自然成长呢？。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split92_235R20K.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split81_nk1nCWD.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split101_8gfuKfC.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\r\n00:00:00,000 --> 00:00:11,760\r\nCollege English Test and 4. Part 2. Listening Comprehension. Section A. Directions. In this section, you will hear\r\n大学英语四级考试。第二部分。听力理解。A 部分。说明。在本节中，您将听到\r\n\r\n2\r\n00:00:11,760 --> 00:00:18,800\r\nthree news reports. At the end of each news report, you will hear two or three questions. Both\r\n三则新闻报道。每则新闻报道的结尾，你会听到两到三个问题。两者\r\n\r\n3\r\n00:00:18,800 --> 00:00:25,000\r\nthe news reports and the questions will be spoken only once. After you hear a question, you\r\n新闻报道和问题只播报一遍。听到问题后，你\r\n\r\n4\r\n00:00:25,000 --> 00:00:33,400\r\nchoose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding\r\n请从 A、B、C、D 四个选项中选出最佳答案，然后标出对应的\r\n\r\n5\r\n00:00:33,400 --> 00:00:37,360\r\nletter on answer sheet 1 with a single line through the center.\r\n在答题卡1上写一个中间有一横的字母。\r\n\r\n6\r\n00:00:39,180 --> 00:00:46,200\r\nNews report 1. A new study finds that beverages containing added sugar might be harmful.\r\n新闻报道 1。一项新研究发现，含添加糖的饮料可能有害。\r\n\r\n7\r\n00:00:46,960 --> 00:00:54,340\r\nIn the study, researchers analyzed information from over 80,000 women and 37,000 men.\r\n研究中，研究人员分析了超过 8 万名女性和 3.7 万名男性的信息。\r\n\r\n8\r\n00:00:54,340 --> 00:00:57,180\r\nParticipants worked in the health profession.\r\n参与者在医疗行业工作。\r\n\r\n9\r\n00:00:57,980 --> 00:01:00,760\r\nThey were followed for approximately three decades.\r\n他们被跟踪了大约三十年。\r\n\r\n10\r\n00:01:01,520 --> 00:01:05,440\r\nThey completed surveys about their diet every four years.\r\n他们每四年做一次关于饮食的问卷调查。\r\n\r\n11\r\n00:01:05,860 --> 00:01:12,080\r\nThey also answered questions about sleep and exercise and health every two years.\r\n他们每两年还会回答关于睡眠、锻炼和健康的问题。\r\n\r\n12\r\n00:01:12,820 --> 00:01:18,040\r\nThe more beverages containing added sugar that people drank, the greater the risk of\r\n人们喝的含糖饮料越多，风险就越大\r\n\r\n13\r\n00:01:18,040 --> 00:01:20,060\r\ndeath was during the study period.\r\n死亡发生在研究期间。\r\n\r\n14\r\n00:01:20,060 --> 00:01:25,580\r\nThese beverages included soda, energy drinks, and sports drinks.\r\n这些饮料包括苏打水、能量饮料和运动饮料。\r\n\r\n15\r\n00:01:26,340 --> 00:01:32,240\r\nBeverages like pure fruit juice, which are sweet but do not contain added sugar, were\r\n像纯果汁这样的饮料，虽然甜但不含添加糖，被\r\n\r\n16\r\n00:01:32,240 --> 00:01:33,500\r\nnot part of the study.\r\n不属于研究的一部分。\r\n\r\n17\r\n00:01:34,440 --> 00:01:39,820\r\nThe findings held even after the researchers considered other factors that could affect\r\n这些发现即使在研究人员考虑了其他可能影响的因素后仍然成立\r\n\r\n18\r\n00:01:39,820 --> 00:01:40,700\r\npeople's health.\r\n人们的健康。\r\n\r\n19\r\n00:01:41,360 --> 00:01:46,400\r\nThese factors included lack of exercise and not eating enough vegetables.\r\n这些因素包括缺乏锻炼和蔬菜摄入不足。\r\n\r\n20\r\n00:01:46,400 --> 00:01:50,540\r\nThey also included consuming too much meat.\r\n他们还提到吃太多肉。\r\n\r\n21\r\n00:01:51,580 --> 00:01:56,520\r\nThe scientists say that their results support limiting beverages with added sugar.\r\n科学家们说，他们的研究结果支持限制添加糖的饮料。\r\n\r\n22\r\n00:01:57,180 --> 00:02:02,560\r\nThey argue we should replace them with other drinks, with water being the best choice.\r\n他们认为我们应该用其他饮料替代，而水是最好的选择。\r\n\r\n23\r\n00:02:03,160 --> 00:02:06,980\r\nHowever, the researchers admit this is simply their recommendation.\r\n不过，研究人员也承认这仅仅是他们的建议。\r\n\r\n24\r\n00:02:07,820 --> 00:02:10,180\r\nThe study found only an association.\r\n研究只发现了关联。\r\n\r\n25\r\n00:02:10,900 --> 00:02:15,000\r\nIt did not prove that drinks with added sugar cause early death.\r\n含糖饮料并不能证明会致人早死。\r\n\r\n26\r\n00:02:15,980 --> 00:02:21,560\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n问题一和问题二都基于你刚才听到的新闻报道。\r\n\r\n27\r\n00:02:22,320 --> 00:02:23,440\r\nQuestion 1.\r\n问题 1。\r\n\r\n28\r\n00:02:24,140 --> 00:02:27,220\r\nWhat do we learn about the new study from the news report?\r\n我们从新闻报道中了解到新研究的什么情况？\r\n\r\n29\r\n00:02:40,620 --> 00:02:42,060\r\nQuestion 2.\r\n问题2。\r\n\r\n30\r\n00:02:42,060 --> 00:02:45,880\r\nWhat is the scientist's recommendation?\r\n科学家的建议是什么？\r\n\r\n31\r\n00:02:58,540 --> 00:03:00,060\r\nNews report 2\r\n新闻报道 2\r\n\r\n32\r\n00:03:00,780 --> 00:03:08,580\r\nGerman police appealed Friday for information about the possible owners of two 17th century oil paintings.\r\n德国警方周五呼吁提供关于两幅17世纪油画可能所有者的信息。\r\n\r\n33\r\n00:03:09,680 --> 00:03:15,860\r\nPolice said, a 64-year-old man found the paintings in a garbage pile at a highway\r\n警方表示，一名64岁的男子在高速公路的垃圾堆中发现了这些画作\r\n\r\n34\r\n00:03:15,860 --> 00:03:17,800\r\nrest stop last month.\r\n上个月的休息站。\r\n\r\n35\r\n00:03:18,540 --> 00:03:21,180\r\nHe later handed them in to the Colone Police.\r\n他后来把它们交给了警察局。\r\n\r\n36\r\n00:03:22,120 --> 00:03:28,120\r\nAn initial assessment by an art expert concluded the two framed paintings were originals,\r\n一位艺术专家的初步评估得出结论，这两幅装框的画作是真品\r\n\r\n37\r\n00:03:28,320 --> 00:03:29,120\r\nPolice said.\r\n警方说。\r\n\r\n38\r\n00:03:30,040 --> 00:03:36,080\r\nOne is a landscape painted by the Italian artist Pietro Belotti dating to 1665.\r\n一幅是意大利艺术家皮埃特罗·贝洛蒂创作于1665年的风景画。\r\n\r\n39\r\n00:03:36,880 --> 00:03:44,040\r\nThe other is a painting of a boy by the 17th century Dutch artist Samuel Van Hoogstraden,\r\n另一幅是17世纪荷兰艺术家塞缪尔·范·霍斯特拉滕画的男孩画像\r\n\r\n40\r\n00:03:44,380 --> 00:03:51,260\r\ndate unknown. Their combined worth is estimated to be around 1 million euros. Authorities\r\n日期未知。他们的总资产估计约为一百万欧元。当局\r\n\r\n41\r\n00:03:51,260 --> 00:03:56,720\r\nhave not yet confirmed what will happen if the rightful owner is not found. Nevertheless,\r\n尚未确认如果找不到合法所有者会发生什么。不过\r\n\r\n42\r\n00:03:57,220 --> 00:04:01,960\r\nit is speculated that they could either be handed over to the National Art Museum of\r\n据推测，他们可能会被移交给国家艺术博物馆\r\n\r\n43\r\n00:04:01,960 --> 00:04:05,560\r\nown, or sold to the public by the local government.\r\n由当地政府拥有或出售给公众。\r\n\r\n44\r\n00:04:07,400 --> 00:04:11,940\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n问题3和问题4基于您刚刚听到的新闻报道。\r\n\r\n45\r\n00:04:13,260 --> 00:04:18,880\r\nQuestion 3 What did German police say about a 64-year-old man?\r\n问题3 德国警方对一名64岁男子说了什么？\r\n\r\n46\r\n00:04:32,320 --> 00:04:39,060\r\nQuestion 4. What is the art experts conclusion about the two framed paintings?\r\n问题4. 艺术专家对这两幅装框画的结论是什么？\r\n\r\n47\r\n00:04:52,800 --> 00:05:01,940\r\nNews report 3. A four-year-old girl has walked eight kilometers through a snowy forest to seek help\r\n新闻报道3。一个四岁的女孩在雪林中走了八公里寻求帮助。\r\n\r\n48\r\n00:05:01,940 --> 00:05:08,160\r\nfor her sick grandmother, who later died of a heart attack. The young girl braved the threat\r\n为了她生病的奶奶，后来奶奶因心脏病去世。这个年轻女孩勇敢地面对威胁\r\n\r\n49\r\n00:05:08,160 --> 00:05:14,780\r\nof bears, wolves, and temperatures far below freezing. She made the journey through a remote\r\n熊、狼，以及低于冰点的温度。她穿越了一个偏远的旅程\r\n\r\n50\r\n00:05:14,780 --> 00:05:22,640\r\nregion in Siberia, after waking up to find her grandmother motionless. Named locally as Carla,\r\n西伯利亚的一个地区，醒来发现她的祖母一动不动。当地人称她为卡拉\r\n\r\n51\r\n00:05:23,140 --> 00:05:30,470\r\nshe lives alone with her elderly grandmother, and her blind grandfather. As a result, the girl's\r\n她和她年迈的祖母以及失明的祖父独自生活。因此，女孩的\r\n\r\n52\r\n00:05:30,470 --> 00:05:37,350\r\nmother is facing a criminal case. She stands accused of leaving a minor in danger in\r\n母亲正面临刑事案件。她被控将未成年人置于危险中，\r\n\r\n53\r\n00:05:37,350 --> 00:05:44,190\r\nthe care of the elderly. She also faces investigation from child care services, who will\r\n交给老人照看。她还面临儿童保护服务的调查，调查人员会\r\n\r\n54\r\n00:05:44,190 --> 00:05:50,810\r\nalso be asking why Carla was left alone with her vulnerable relatives. The journey took\r\n询问为什么卡拉会和她脆弱的亲属独处。这段旅程发生在\r\n\r\n55\r\n00:05:50,810 --> 00:05:58,370\r\nplace in February, when temperatures average negative 26 degrees Celsius. Russian reports on\r\n二月，气温平均为零下26摄氏度。俄罗斯社交媒体上的\r\n\r\n56\r\n00:05:58,370 --> 00:06:04,970\r\nsocial media, suggest the forced may have been, as cold as negative 34 degrees Celsius.\r\n报道显示，气温可能低至零下34摄氏度。这段旅程\r\n\r\n57\r\n00:06:05,670 --> 00:06:08,830\r\nThe journey was only recently confirmed by authorities.\r\n最近才得到当局的确认。\r\n\r\n58\r\n00:06:09,570 --> 00:06:15,230\r\nBut though she was suffering from the effects of extreme cold, the child reportedly suffered\r\n尽管她遭受极寒的影响，报道称女孩并没有\r\n\r\n59\r\n00:06:15,230 --> 00:06:17,170\r\nno life-threatening effects.\r\n生命危险的影响。\r\n\r\n60\r\n00:06:17,890 --> 00:06:24,230\r\nLast year, a three-year-old boy survived alone for three days in a remote forest in the\r\n去年，一个三岁的小男孩在同一地区的偏远森林中\r\n\r\n61\r\n00:06:24,230 --> 00:06:24,950\r\nsame region.\r\n独自生存了三天。\r\n\r\n62\r\n00:06:26,010 --> 00:06:31,370\r\nQuestions 5-7 are based on the news report you have just heard.\r\n问题5-7基于你刚刚听到的新闻报道。\r\n\r\n63\r\n00:06:32,130 --> 00:06:33,090\r\nQuestion 5.\r\n问题5。\r\n\r\n64\r\n00:06:34,070 --> 00:06:37,430\r\nWhat did the four-year-old girl attempt to do?\r\n四岁女孩试图做什么？\r\n\r\n65\r\n00:06:50,430 --> 00:06:51,490\r\nQuestion 6.\r\n问题6。\r\n\r\n66\r\n00:06:51,490 --> 00:06:56,530\r\nWhat do we learn from the news report about the girl's mother?\r\n我们从新闻报道中了解到关于女孩母亲的什么？\r\n\r\n67\r\n00:07:09,430 --> 00:07:10,850\r\nQuestion 7.\r\n问题7。\r\n\r\n68\r\n00:07:11,770 --> 00:07:15,370\r\nWhat happened to the little girl according to the news report?\r\n根据新闻报道，小女孩发生了什么？",
+  "conversations_transcript": "1\r\n00:00:02,139 --> 00:00:11,160\r\nSection B, Directions. In this section, you will hear two long conversations. At the end of each\r\nB 部分，说明。本部分将听到两个长对话。每个对话结束后\r\n\r\n2\r\n00:00:11,160 --> 00:00:18,640\r\nconversation, you will hear four questions. Both the conversation and the questions will be spoken\r\n对话，你会听到四个问题。对话和问题都将是口语\r\n\r\n3\r\n00:00:18,640 --> 00:00:25,820\r\nonly once. After you hear a question, you must choose the best answer from the four choices,\r\n就一次。听到问题后，你必须从四个选项中选出最佳答案\r\n\r\n4\r\n00:00:25,820 --> 00:00:34,600\r\nMarked A, B, C, and D. Then Mark the corresponding letter on answer sheet 1, with a single\r\n标记了 A、B、C 和 D。然后在一号答题卡上标记对应的字母，只标记一个。\r\n\r\n5\r\n00:00:34,600 --> 00:00:36,340\r\nline through the center.\r\n中心穿过的线。\r\n\r\n6\r\n00:00:38,959 --> 00:00:40,360\r\nConversation 1\r\n对话 1\r\n\r\n7\r\n00:00:40,360 --> 00:00:45,980\r\nI've made a new friend recently. Her name is Susan and she's from South Africa.\r\n我最近交了一个新朋友。 \r\n她的名字叫苏珊，来自南非。\r\n\r\n8\r\n00:00:46,920 --> 00:00:53,180\r\nHow did you meet her? We met over WeChat. She has very cool photos on her social media.\r\n你是怎么认识她的？  \r\n我们是在微信上认识的。  \r\n她的社交媒体上有很多很酷的照片。\r\n\r\n9\r\n00:00:53,180 --> 00:00:56,640\r\nThe photos of her hometown look amazing.\r\n她家乡的照片看起来太棒了。\r\n\r\n10\r\n00:00:57,540 --> 00:00:59,200\r\nWhat's her hometown called?\r\n她的家乡叫什么？\r\n\r\n11\r\n00:00:59,560 --> 00:01:01,440\r\nIt's called Cape Town.\r\n它叫开普敦。\r\n\r\n12\r\n00:01:01,880 --> 00:01:04,620\r\nIt's in the southwest of South Africa.\r\n它在南非的西南部。\r\n\r\n13\r\n00:01:05,220 --> 00:01:08,040\r\nShe says it's very green and windy.\r\n她说这里非常绿而且风很大。\r\n\r\n14\r\n00:01:08,680 --> 00:01:15,320\r\nThe city was built by European settlers and there's a big mountain that overlooks the city.\r\n这座城市是由欧洲定居者建立的，城市上方有一座大山。\r\n\r\n15\r\n00:01:15,760 --> 00:01:21,220\r\nThe mountain is called Table Mountain because it's flat at the top.\r\n这座山叫桌山，因为它顶部是平的。\r\n\r\n16\r\n00:01:21,220 --> 00:01:25,440\r\nThat sounds interesting. What are the people there like?\r\n听起来很有意思。那里的人怎么样？\r\n\r\n17\r\n00:01:26,020 --> 00:01:33,560\r\nWell Susan says South Africa is very mixed. There are black people and white people,\r\n苏珊说南非是个很民族大杂烩的地方。有黑人，也有白人\r\n\r\n18\r\n00:01:34,160 --> 00:01:41,220\r\nand Indian people. Susan is white. She says her ancestors were from Britain. Many languages\r\n和印度人。苏珊是白人。她说她的祖先来自英国。许多语言\r\n\r\n19\r\n00:01:41,220 --> 00:01:45,480\r\nare spoken in South Africa, but she only speaks English.\r\n在南非说的语言，但她只说英语。\r\n\r\n20\r\n00:01:45,480 --> 00:01:50,220\r\nDidn't South Africa host the football world cup a few years ago.\r\n南非几年前不是举办过足球世界杯吗。\r\n\r\n21\r\n00:01:50,800 --> 00:01:53,080\r\nThey must play football a lot then, right?\r\n他们一定很常踢足球，对吧？\r\n\r\n22\r\n00:01:53,780 --> 00:01:57,680\r\nI think they play football, but it's not as popular as rugby.\r\n我觉得他们踢足球，但足球没有橄榄球那么受欢迎。\r\n\r\n23\r\n00:01:59,420 --> 00:02:00,160\r\nWhat's rugby?\r\n橄榄球是什么？\r\n\r\n24\r\n00:02:00,960 --> 00:02:07,180\r\nRugby is a sport with two teams and the players carry the ball in their arms and throw\r\n橄榄球是一项有两个队伍的运动，球员用手抱着球并投掷。\r\n\r\n25\r\n00:02:07,180 --> 00:02:08,180\r\nit at each other.\r\n互相看着。\r\n\r\n26\r\n00:02:08,560 --> 00:02:12,240\r\nThe ball is not round, and the players push each other.\r\n球不是圆的，球员们互相推搡。\r\n\r\n27\r\n00:02:12,240 --> 00:02:17,140\r\nI don't really understand the rules, I think it's very complicated.\r\n我真的不太理解这些规则，我觉得很复杂。\r\n\r\n28\r\n00:02:18,160 --> 00:02:20,760\r\nThat sounds like a very strange sport indeed.\r\n听起来确实是个很奇怪的运动。\r\n\r\n29\r\n00:02:21,440 --> 00:02:24,100\r\nIs it only South Africa that plays it?\r\n只有南非在玩这个吗？\r\n\r\n30\r\n00:02:24,700 --> 00:02:30,620\r\nNo, it's also popular in Britain, and in other former British colonies, like Australia,\r\n不，在英国也很受欢迎，在澳大利亚等其他前英联邦国家也是\r\n\r\n31\r\n00:02:31,260 --> 00:02:32,200\r\nand New Zealand.\r\n以及新西兰。\r\n\r\n32\r\n00:02:33,920 --> 00:02:38,780\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n8到11题是根据你刚才听到的对话来的。\r\n\r\n33\r\n00:02:39,700 --> 00:02:40,500\r\nQuestion 8.\r\n第八题。\r\n\r\n34\r\n00:02:40,500 --> 00:02:45,120\r\nWhat does the woman say about her new friend Susan?\r\n这个女人对她新朋友苏珊说了什么？\r\n\r\n35\r\n00:02:58,780 --> 00:02:59,880\r\nQuestion 9.\r\n第九题。\r\n\r\n36\r\n00:02:59,880 --> 00:03:04,160\r\nWhat does the woman say about table mountain?\r\n女人提到桌山说了什么？\r\n\r\n37\r\n00:03:17,820 --> 00:03:18,840\r\nQuestion 10.\r\n问题 10。\r\n\r\n38\r\n00:03:19,800 --> 00:03:24,380\r\nWhat do we learn from the conversation about the woman's friend Susan?\r\n从关于苏珊的谈话中，我们学到了什么？\r\n\r\n39\r\n00:03:37,640 --> 00:03:43,940\r\nQuestion 11. What does the woman say about rugby in South Africa?\r\n问题 11. 女人说了关于南非橄榄球的什么？\r\n\r\n40\r\n00:03:57,480 --> 00:03:59,060\r\nConversation 2.\r\n对话 2。\r\n\r\n41\r\n00:04:00,480 --> 00:04:07,600\r\nHi, Jennifer. I'm really struggling with this semester's workload. Do you have any advice?\r\n嗨，詹妮弗。我这学期的工作量真的很大，你有什么建议吗？\r\n\r\n42\r\n00:04:08,380 --> 00:04:15,900\r\nHave you considered making a study guide? If a tool you can make yourself to take the stress out of studying.\r\n你有没有想过做一个学习指南？一个你可以自己做的工具，来减轻学习的压力。\r\n\r\n43\r\n00:04:16,680 --> 00:04:24,820\r\nI've been using one since the start of last semester, and it has really helped relieve a lot of study pressure.\r\n从上学期开始我就用了一个，这真的帮我减轻了很多学习压力。\r\n\r\n44\r\n00:04:24,820 --> 00:04:27,560\r\nSounds like just what I need.\r\n听起来正是我需要的。\r\n\r\n45\r\n00:04:28,220 --> 00:04:36,160\r\nMy main problem is that my study folder is full of notes and worksheets and is badly disorganized.\r\n我最大的问题是我的学习文件夹里塞满了笔记和练习题，而且非常乱。\r\n\r\n46\r\n00:04:36,900 --> 00:04:38,340\r\nI don't know where to start.\r\n我不知道从哪儿开始。\r\n\r\n47\r\n00:04:39,100 --> 00:04:44,780\r\nOkay, well, the main thing is to have everything in the right place.\r\n好吧，最重要的就是万事俱备。\r\n\r\n48\r\n00:04:45,520 --> 00:04:50,520\r\nWhatever you're reviewing, it's important that it's arranged for your particular needs\r\n无论你审查什么，都要确保它符合你自己的需求\r\n\r\n49\r\n00:04:50,520 --> 00:04:57,599\r\nof that subject, and in the most user-friendly way you can. What kind of learner are you?\r\n关于那个主题，并以你觉得最用户友好的方式。你是什么类型的学习者？\r\n\r\n50\r\n00:04:59,220 --> 00:05:08,100\r\nI'm not sure. Well, visual learners prefer using images, pictures, colors, and maps to organize\r\n我不确定。嗯，视觉学习者喜欢用图像、图片、颜色和地图来组织\r\n\r\n51\r\n00:05:08,100 --> 00:05:16,620\r\ninformation. Logical learners have a linear mind, and would rather use logic, reasoning, and systems.\r\n讲逻辑的学习者思维是线性的，他们更喜欢使用逻辑、推理和系统。\r\n\r\n52\r\n00:05:16,620 --> 00:05:24,010\r\nI'm an emotional learner, which means I need to connect to information emotionally to understand it.\r\n我是个感性学习者，这意味着我需要和信息产生情感连接才能理解它。\r\n\r\n53\r\n00:05:24,940 --> 00:05:30,300\r\nOh, I'm very much dependent on vision as a way of taking in information.\r\n哦，我非常依赖视觉来获取信息。\r\n\r\n54\r\n00:05:31,540 --> 00:05:37,880\r\nWell, I suggest reorganizing your notes using color coded sections in your study guides,\r\n嗯，我建议你用颜色编码的方式重组你的笔记，在学习指南里，\r\n\r\n55\r\n00:05:38,420 --> 00:05:44,400\r\nor using idea mapping to lay out the information and make it more quickly accessible.\r\n或者使用思维导图来组织信息，让它更容易被快速获取。\r\n\r\n56\r\n00:05:44,400 --> 00:05:51,620\r\nSo you think I should arrange my notes using colour and pictures in place of text?\r\n所以你的意思是，我应该用颜色和图片来整理笔记，而不是文字？\r\n\r\n57\r\n00:05:52,180 --> 00:05:58,520\r\nYes, you'll probably start to grasp information a lot quicker that way. As an emotional\r\n是的，你可能那样能更快地理解信息。作为一个感性学习者，\r\n\r\n58\r\n00:05:58,520 --> 00:06:05,380\r\nlearner, I organize my notes into a story that I can connect to and recite to myself.\r\n我把笔记整理成一个故事，这样我能记住并能自己复述出来。\r\n\r\n59\r\n00:06:06,020 --> 00:06:11,340\r\nThat's amazing. I didn't know there were so many different ways to learn.\r\n太棒了。我以前不知道原来有这么多不同的学习方式。\r\n\r\n60\r\n00:06:11,340 --> 00:06:18,200\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n问题12-15是基于你刚才听到的对话。\r\n\r\n61\r\n00:06:19,280 --> 00:06:20,120\r\nQuestion 12.\r\n问题12。\r\n\r\n62\r\n00:06:21,220 --> 00:06:23,820\r\nWhat does the woman advise the man do?\r\n这位女士建议这位男士怎么做？\r\n\r\n63\r\n00:06:37,190 --> 00:06:38,620\r\nQuestion 13.\r\n问题13。\r\n\r\n64\r\n00:06:38,620 --> 00:06:44,400\r\nWhat is the biggest problem the man has with his studies?\r\n这位男士学习上最大的问题是什么？\r\n\r\n65\r\n00:06:57,480 --> 00:06:59,020\r\nQuestion 14.\r\n问题14。\r\n\r\n66\r\n00:07:00,260 --> 00:07:03,980\r\nWhat kind of learner does the woman say she is?\r\n这位女士说她是什么类型的学习者？\r\n\r\n67\r\n00:07:17,680 --> 00:07:19,040\r\nQuestion 15.\r\n问题15。\r\n\r\n68\r\n00:07:20,160 --> 00:07:24,200\r\nWhat does the woman think the man can do with his notes?\r\n这位女士认为这位男士可以怎么处理他的笔记？",
+  "passages_transcript": "1\r\n00:00:00,000 --> 00:00:18,920\r\nSection C. Directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\nC部分。指示。在这一部分你将听到三个段落。每个段落结束时，你会听到三个或四个问题。段落和问题都会只说一次。\r\n\r\n2\r\n00:00:18,920 --> 00:00:25,820\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n在听到问题后，你必须从四个选项中选择最佳答案。\r\n\r\n3\r\n00:00:25,820 --> 00:00:34,460\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\nA、B、C 和 D。然后在答题卡 1 上用一条线标记对应的字母。\r\n\r\n4\r\n00:00:34,460 --> 00:00:35,640\r\nthrough the center.\r\n穿过中间。\r\n\r\n5\r\n00:00:37,280 --> 00:00:45,440\r\nPassage 1. The golden rule is a moral principle, which states that you should treat others\r\n第一段。黄金法则是一条道德原则，表示你应该对待他人\r\n\r\n6\r\n00:00:45,440 --> 00:00:53,500\r\nthe way you want to be treated yourself. For example, if you want people to treat you with respect,\r\n你希望别人如何对待你，就应该如何对待别人。例如，如果你希望人们尊重你\r\n\r\n7\r\n00:00:54,200 --> 00:01:01,280\r\nyou should treat them with respect. Different people tend to be exposed to different forms\r\n你应该尊重他们。不同的人往往接触到不同的形式\r\n\r\n8\r\n00:01:01,280 --> 00:01:09,020\r\nof the golden rule, based on factors such as the religion in their society. However, all forms\r\n关于黄金法则，基于他们社会中的宗教等因素。然而，所有形式\r\n\r\n9\r\n00:01:09,020 --> 00:01:12,740\r\nof the golden rule revolve around the same concept.\r\n黄金法则的宗旨都围绕着同一个概念。\r\n\r\n10\r\n00:01:13,680 --> 00:01:19,780\r\nNamely, they help you treat others better by using the way you yourself would want to\r\n也就是说，他们通过你希望别人如何对待你的方式来帮助你更好地对待他人\r\n\r\n11\r\n00:01:19,780 --> 00:01:22,500\r\nbe treated as a guide of how to behave.\r\n被当作行为指南。\r\n\r\n12\r\n00:01:23,420 --> 00:01:29,620\r\nA notable criticism of the golden rule is that its application can lead to undesirable\r\n黄金法则的一个显著批评是，它的应用可能会导致不理想的结果\r\n\r\n13\r\n00:01:29,620 --> 00:01:34,580\r\noutcomes when it conflicts with laws and ethical principles.\r\n当它与法律和伦理原则冲突时的结果。\r\n\r\n14\r\n00:01:34,580 --> 00:01:42,060\r\nFor example, if someone breaks the law, the golden rule would suggest that we should let\r\n比如，如果有人违法，黄金法则会建议我们应该让\r\n\r\n15\r\n00:01:42,060 --> 00:01:46,000\r\nthem go because we would not want to be punished ourselves.\r\n他们走是因为我们不想受到惩罚。\r\n\r\n16\r\n00:01:47,080 --> 00:01:52,660\r\nHowever, this issue with the golden rule can be dealt with in a general manner.\r\n不过，这个关于黄金法则的问题可以一般性地处理。\r\n\r\n17\r\n00:01:53,140 --> 00:01:59,220\r\nBy viewing this principle as one of several principles that we use to guide our behavior\r\n将这个原则视为我们用来指导行为的几个原则之一\r\n\r\n18\r\n00:01:59,220 --> 00:02:02,200\r\nas individuals and as a society.\r\n作为个人和社会。\r\n\r\n19\r\n00:02:02,200 --> 00:02:10,199\r\nSpecifically, in the example described above, most individuals and societies choose to place\r\n具体来说，在上述例子中，大多数个人和社会选择放置\r\n\r\n20\r\n00:02:10,199 --> 00:02:14,340\r\nlaws and ethical principles above the golden rule.\r\n法律和道德原则高于黄金法则。\r\n\r\n21\r\n00:02:15,100 --> 00:02:21,140\r\nThis means that they strive to implement the golden rule whenever possible, as long as\r\n这意味着他们尽可能地努力遵循黄金法则，只要\r\n\r\n22\r\n00:02:21,140 --> 00:02:24,300\r\nit doesn't clash with a more important concept.\r\n这并不与更重要的概念冲突。\r\n\r\n23\r\n00:02:26,000 --> 00:02:31,080\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n问题16到18基于你刚听到的段落。\r\n\r\n24\r\n00:02:31,940 --> 00:02:38,000\r\nQuestion 16. What do we learn from the passage about the Golden Rule?\r\n第16题。我们从这段文字中学到了关于黄金法则的什么？\r\n\r\n25\r\n00:02:50,800 --> 00:02:57,520\r\nQuestion 17. What is a notable criticism of the Golden Rule?\r\n问题17. 黄金法则的一个显著批评是什么？\r\n\r\n26\r\n00:03:10,980 --> 00:03:24,000\r\nQuestion 18 What does the example of someone breaking the law served to show?\r\n第18题 违法者的例子说明了什么？\r\n\r\n27\r\n00:03:32,520 --> 00:03:34,080\r\nPassage 2\r\n第二段\r\n\r\n28\r\n00:03:34,600 --> 00:03:41,540\r\nToday, many large corporations stress the importance of diversity on their websites.\r\n如今，许多大公司都在其网站上强调多元化的重要性。\r\n\r\n29\r\n00:03:42,320 --> 00:03:50,080\r\nBut current statistics show that the typical manager in America still tends to be white and male.\r\n但当前的统计数据显示，美国典型的经理仍然倾向于是白人男性。\r\n\r\n30\r\n00:03:50,080 --> 00:03:57,880\r\nObviously, the desire to bring about diversity has not translated into corporate reality.\r\n显然，追求多样性的愿望并没有转化为企业现实。\r\n\r\n31\r\n00:03:58,880 --> 00:04:06,240\r\nWhy is this? A team of researchers from the University of Basel published their new study\r\n这是什么？巴塞尔大学的一组研究人员发布了他们的新研究\r\n\r\n32\r\n00:04:06,240 --> 00:04:15,260\r\nabout people's attitudes towards diversity at work. They found that people have a wide range of opinions\r\n关于人们对工作中多样性的态度。他们发现人们有各种各样的看法\r\n\r\n33\r\n00:04:15,260 --> 00:04:22,920\r\nconcerning diversity. On the one hand, many see value in diversity, which can contribute\r\n关于多样性。一方面，许多人认为多样性有价值，这可以促进\r\n\r\n34\r\n00:04:22,920 --> 00:04:31,340\r\na variety of perspectives, encourage new ideas, and generate innovative solutions. On\r\n多种视角，鼓励新想法，产生创新解决方案。 在\r\n\r\n35\r\n00:04:31,340 --> 00:04:37,700\r\nthe other hand, they assume that it might be difficult to work with someone who has\r\n另一方面，他们认为和有,的人一起工作可能很困难\r\n\r\n36\r\n00:04:37,700 --> 00:04:45,060\r\ncompletely different views. Speak a different language, or has a different style of work.\r\n完全不同的观点。说不同的语言，或者有不同的工作风格。\r\n\r\n37\r\n00:04:45,060 --> 00:04:52,360\r\nThe actual value they attribute to diversity depends on the decision making perspective.\r\n他们赋予多元化的实际价值，取决于决策的视角。\r\n\r\n38\r\n00:04:53,220 --> 00:05:00,520\r\nDoubts about the practicality of diversity have a greater weight if a person is directly\r\n怀疑多样性的实用性，如果一个人直接\r\n\r\n39\r\n00:05:00,520 --> 00:05:07,340\r\naffected. In other words, when a person's own work group is involved, they tend to prefer\r\n受影响。换句话说，当涉及个人的工作组时，他们倾向于偏爱\r\n\r\n40\r\n00:05:07,340 --> 00:05:14,420\r\nteen members who are similar to themselves. But when people make decisions for others, they\r\n和他们自己很像的青少年成员。但是当人们替别人做决定时，他们\r\n\r\n41\r\n00:05:14,420 --> 00:05:21,360\r\ntypically put together a more diverse team. These findings could help organizations become\r\n通常会组建一个更多元化的团队。这些发现可以帮助组织变得\r\n\r\n42\r\n00:05:21,360 --> 00:05:28,420\r\nmore diverse. Companies need to pay attention to who makes hiring and team decisions.\r\n更多元化。公司需要注意谁来做招聘和团队的决定。\r\n\r\n43\r\n00:05:29,320 --> 00:05:36,880\r\nThese decisions should not only be made by those directly affected. People who are not directly\r\n这些决定不应只由直接受影响的人做出。那些不受影响的人\r\n\r\n44\r\n00:05:36,880 --> 00:05:41,240\r\ninvolved in the group's daily work should also take part.\r\n参与小组日常工作的人也应该加入。\r\n\r\n45\r\n00:05:42,480 --> 00:05:48,780\r\nQuestions 19-21 are based on the passage you have just heard.\r\n第19-21题基于你刚才听到的内容。\r\n\r\n46\r\n00:05:49,900 --> 00:05:57,680\r\nQuestion 19. What do we learn from the current statistics about diversity in large corporations?\r\n关于大型企业多元化现状的统计数据，我们能了解到什么？\r\n\r\n47\r\n00:06:11,240 --> 00:06:18,760\r\nQuestion 20 What is the newly published study focused on?\r\n问题20 新发表的研究关注什么？\r\n\r\n48\r\n00:06:29,880 --> 00:06:35,720\r\nQuestion 21 What do the findings of the new study show?\r\n问题 21 新研究的发现表明了什么？\r\n\r\n49\r\n00:06:49,059 --> 00:06:50,900\r\nPassage 3.\r\n第三段。\r\n\r\n50\r\n00:06:52,040 --> 00:06:56,460\r\nCommunication can essentially be divided into two categories.\r\n交流基本上可以分为两类。\r\n\r\n51\r\n00:06:57,400 --> 00:06:59,140\r\nThe written and the spoken.\r\n书面语和口语。\r\n\r\n52\r\n00:07:00,320 --> 00:07:06,240\r\nHow the balance is struck between these two forms of communication, the point at which one\r\n这两种交流方式如何取得平衡，在哪个点上\r\n\r\n53\r\n00:07:06,240 --> 00:07:11,440\r\nneeds to be exchanged for another, really depends on individual cultures.\r\n需要被替换成别的，这真的取决于个人文化。\r\n\r\n54\r\n00:07:12,420 --> 00:07:19,640\r\nUnderstanding when it's appropriate to exchange one form for another can be a major key\r\n了解何时适当地以一种形式换成另一种形式，是关键所在\r\n\r\n55\r\n00:07:19,640 --> 00:07:22,540\r\nto success in international business.\r\n走向国际化商业的成功。\r\n\r\n56\r\n00:07:23,580 --> 00:07:30,500\r\nMany cultures place a much greater value on the spoken word than the American working\r\n很多文化比美国工人更重视口头语言\r\n\r\n57\r\n00:07:30,500 --> 00:07:31,440\r\nculture does.\r\n文化是这样。\r\n\r\n58\r\n00:07:31,440 --> 00:07:39,260\r\nIn parts of the Middle East, you'll find spoken word agreements are seen as seriously binding.\r\n在中东的一些地方，口头协议被视为非常有约束力的。\r\n\r\n59\r\n00:07:40,360 --> 00:07:43,080\r\nA person's word is linked to their honour.\r\n一个人的话和他们的荣誉是相关的。\r\n\r\n60\r\n00:07:43,800 --> 00:07:52,120\r\nSo verbal agreements are seen as important, whereas written contracts are taken as memos of understanding.\r\n口头协议被视为重要，而书面合同则被视为理解备忘录。\r\n\r\n61\r\n00:07:53,100 --> 00:07:58,080\r\nWestern working culture tends to place a high value on the written word,\r\n西方的工作文化往往非常重视书面表达\r\n\r\n62\r\n00:07:58,080 --> 00:08:04,040\r\nAnd this reaches its highest level of intensity when it comes to contracts.\r\n当涉及到合同时，这种强度达到了最高点。\r\n\r\n63\r\n00:08:05,120 --> 00:08:12,380\r\nIn the US, France and Germany, written contracts tend to be seen as something that must\r\n在美国、法国和德国，书面合同往往被视为必须的东西\r\n\r\n64\r\n00:08:12,380 --> 00:08:14,140\r\nbe strictly carried out.\r\n严格执行。\r\n\r\n65\r\n00:08:14,980 --> 00:08:20,880\r\nBy contrast, other cultures may not see written contracts as quite so binding.\r\n相比之下，其他文化可能不认为书面合同那么具有约束力。\r\n\r\n66\r\n00:08:21,840 --> 00:08:28,060\r\nIt can prove a challenge to Western businesses if your business partner wants to re-negotiate\r\n如果你的商业伙伴想重新谈判，这对西方企业来说可能是个挑战\r\n\r\n67\r\n00:08:28,060 --> 00:08:35,500\r\nterms that you thought were already agreed on. For example, a Japanese firm may have\r\n认为已经达成一致的条款。例如，一家日本公司可能已经\r\n\r\n68\r\n00:08:35,500 --> 00:08:43,419\r\nsigned a contract, but they may not feel bound by every detail of it. Particularly if\r\n签了合同，但他们可能不觉得合同里的每一条都对他们有约束力。特别是如果\r\n\r\n69\r\n00:08:43,419 --> 00:08:50,260\r\ncircumstances later change. Such differences in value that different working cultures\r\n情况后来发生了变化。这种价值差异，不同的工作文化\r\n\r\n70\r\n00:08:50,260 --> 00:08:56,200\r\nplace on the written word tend to cause many problems when it comes to business\r\n书面语言的使用往往会在商业上引发很多问题\r\n\r\n71\r\n00:08:56,200 --> 00:08:57,800\r\nrelationships.\r\n关系。\r\n\r\n72\r\n00:08:59,300 --> 00:09:04,560\r\nQuestions 22-25 are based on the passage you have just heard.\r\n问题22-25基于你刚刚听到的内容。\r\n\r\n73\r\n00:09:05,540 --> 00:09:06,520\r\nQuestion 22.\r\n问题 22。\r\n\r\n74\r\n00:09:07,860 --> 00:09:14,180\r\nWhat is a major key to success in international business according to the passage?\r\n根据这段话，成功进行国际业务的关键是什么？\r\n\r\n75\r\n00:09:27,160 --> 00:09:37,180\r\nQuestion 23 What does the passage say about spoken word agreements in some Middle East countries?\r\n问题23 文章提到一些中东国家的口头协议有什么说法？\r\n\r\n76\r\n00:09:49,700 --> 00:09:56,980\r\nQuestion 24. What do we learn about the Western working culture?\r\n问题24. 我们对西方工作文化有什么了解？\r\n\r\n77\r\n00:10:10,020 --> 00:10:18,500\r\nQuestion 25 How does a Japanese firm tend to view a written contract?\r\n问题 25 日本公司通常如何看待书面合同？\r\n\r\n78\r\n00:10:32,160 --> 00:10:34,660\r\nThat's the end of listening comprehension.\r\n听力理解到此结束。",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "",
+  "passages_transcript_zh": ""
+}

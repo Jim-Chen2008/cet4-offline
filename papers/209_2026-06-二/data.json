@@ -1,0 +1,706 @@
+{
+  "id": 90,
+  "exam": 209,
+  "exam_details": {
+    "id": 209,
+    "title": "2026年6月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2026,
+    "month": 6,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2026-06-13T20:18:25.857195+08:00",
+    "updated_at": "2026-07-05T19:42:26.515783+08:00",
+    "exam_id": 209,
+    "submission_count": 0,
+    "cet_content_id": 90,
+    "has_draft": false
+  },
+  "created_at": "2026-06-13T20:21:06.613470+08:00",
+  "updated_at": "2026-10-25T18:08:18.166005+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A) She was born months after the end of World War I.",
+              "B) She has been living in her house throughout her life.",
+              "C) She suffered a great deal during the Second World War.",
+              "D) She is a 102-year-old woman living in Somerset Village."
+            ],
+            "question": "What does the news report say about Nancy Gifford?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A) She has been persuaded by the estate agent.",
+              "B) She needs the money badly for her health.",
+              "C) She is leaving Glastonbury Village.",
+              "D) She is moving to a nursing home."
+            ],
+            "question": "Why is Mrs Gifford selling the house?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A) The navy's timely arrival.",
+              "B) His rich sailing experience.",
+              "C) The word HELP written on the boat.",
+              "D) His use of a mirror to send a signal."
+            ],
+            "question": "What does the news report say was key to the man's rescue?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A) He lost all consciousness.",
+              "B) He was in good condition.",
+              "C) He was too distressed to pick himself up.",
+              "D) He entirely abandoned himself to despair."
+            ],
+            "question": "What do we learn about the man when he was rescued?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A) Their efforts to provide social services have been ignored.",
+              "B) They have been criticized by the Denver school board.",
+              "C) They have taken various steps to get more funding.",
+              "D) Their enrollment has been on a noticeable decline."
+            ],
+            "question": "What do we learn about the elementary and middle schools to be closed in Denver?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A) Approve criteria for closing schools with decreased funding.",
+              "B) Enroll 3,000 fewer elementary and middle school students.",
+              "C) Decide which elementary and middle schools to close.",
+              "D) Alter its per-pupil funding policy on a rational basis."
+            ],
+            "question": "What does the Denver district expect to do in the next three years?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A) To enable the district to remain competitive.",
+              "B) To avoid a negative impact on its economy.",
+              "C) To keep the district free of debt.",
+              "D) To obtain the expected funding."
+            ],
+            "question": "Why are some schools in Denver to be closed according to the district spokesperson?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A) To book tickets for a musical.",
+              "B) To enquire about the price of cats.",
+              "C) To pay for her afternoon flight to London.",
+              "D) To have her personal computer repaired."
+            ],
+            "question": "Why does the woman call the man?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A) He frequents the Lion Theatre.",
+              "B) He knows how to sell things well.",
+              "C) He is a computer science expert.",
+              "D) He is away on a business trip."
+            ],
+            "question": "What do we learn about the woman's husband?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A) They are sold at a discount.",
+              "B) They are in low demand.",
+              "C) They are no longer available.",
+              "D) They are not too expensive."
+            ],
+            "question": "What does the man say about the tickets at the front?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A) Heights.",
+              "B) Circus.",
+              "C) Wild animals.",
+              "D) Dark nights."
+            ],
+            "question": "What does the woman say she is scared of?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A) He finds it bothersome to reply.",
+              "B) He has switched off his phone.",
+              "C) He hasn't got the time to text back.",
+              "D) He doesn't know how to respond."
+            ],
+            "question": "Why hasn't the man answered the woman's text messages lately?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A) His lack of sufficient sleep at night.",
+              "B) His addiction to mobile phone games.",
+              "C) His excessive use of the mobile phone.",
+              "D) His high frequency of surfing the net."
+            ],
+            "question": "What was the man shocked to realize after he downloaded the app?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A) Shopping online and paying for his purchases.",
+              "B) Communicating with friends on social media.",
+              "C) Exploring whatever content to his liking.",
+              "D) Sharing and posting pictures and videos."
+            ],
+            "question": "What did the man spend much time doing with his phone?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A) She prefers chatting with others online to meeting them.",
+              "B) There are few physical stores near where she lives.",
+              "C) Ordering meals online is a great convenience to her.",
+              "D) She needs to talk with her friends and family far away."
+            ],
+            "question": "Why does the woman say she has to use her mobile phone?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A) It is now narrowing.",
+              "B) It keeps increasing.",
+              "C) It has remained huge.",
+              "D) It will soon disappear."
+            ],
+            "question": "What does the passage say about the gap in wage gains between job switchers and those who stay in their jobs?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A) It is fluctuating between 5-7%.",
+              "B) It is slowing down for everyone.",
+              "C) It is faster for those who stay in their jobs.",
+              "D) It is inadequate for dealing with inflation."
+            ],
+            "question": "What do we learn about wage growth now?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A) Booming.",
+              "B) Stabilizing.",
+              "C) Struggling.",
+              "D) Cooling."
+            ],
+            "question": "What is the labor market likely doing according to the passage?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A) They have smaller amounts of nutrients than unprocessed diets.",
+              "B) Their contribution to calorie consumption is hard to determine.",
+              "C) They account for nearly half of the average American diet.",
+              "D) Their low price and convenience negatively impact health."
+            ],
+            "question": "What does a new study show about highly processed foods?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A) A strong desire to overeat.",
+              "B) A lack of nutrients like fiber.",
+              "C) A higher risk of cancer and obesity.",
+              "D) A greater intake of sugar and salt."
+            ],
+            "question": "What are highly processed foods linked to, according to other research?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A) Eat more quickly.",
+              "B) Feel full sooner.",
+              "C) Chew thoroughly.",
+              "D) Swallow bit by bit."
+            ],
+            "question": "What do people tend to do when eating highly processed foods?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A) By attributing them to current cultural influences.",
+              "B) By attributing them to conservative thinking.",
+              "C) In terms of new genetic findings.",
+              "D) In terms of personal preferences."
+            ],
+            "question": "How did some researchers explain the differences mentioned in the passage?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A) Sharing with women the chores they see necessary.",
+              "B) Dividing housework that is demanding for women.",
+              "C) Performing household tasks that they enjoy.",
+              "D) Doing tasks that are physically challenging."
+            ],
+            "question": "What did men lean toward doing according to the new study?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A) The large within-group differences.",
+              "B) The great similarities across groups.",
+              "C) The researchers' subjective biases.",
+              "D) The noticeable overgeneralizations."
+            ],
+            "question": "What should we keep in mind as regards any research on group differences?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A) They seem to be universal.",
+              "B) They impact people's whole life.",
+              "C) They shape one's role in society.",
+              "D) They appear at an early age."
+            ],
+            "question": "What did previous research reveal about gender differences in attitudes toward family and career?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "It may sound surprising, but people who are supersensitive to coffee's bitter taste actually drink more of it, a \nnew study finds.\nThis sensitivity isn't ___26___ a matter of taste, either, but rather is influenced by a person's genetic \nmakeup, the researchers said in the study.\n\"You'd expect that people who are particularly sensitive to the bitter taste of caffeine would drink less \ncoffee,\" said study senior researcher Marilyn Cornelis. \"The ___27___ results of our study suggest coffee \nconsumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive \n___28___ brought out by caffeine.\"\nPut another way, people who have a ___29___ ability to taste the bitterness of coffee learn to associate \n\"good things with it,\" Cornelis said. This finding is surprising, given that bitterness often serves as a \nwarning mechanism to ___30___ people to spit out harmful substances, the scientists said.\nResearchers conducted the study to understand how genetics influences people's ___31___ of tea, coffee and\nalcohol which tend to taste bitter, said lead researcher Jue Sheng Ong.\n\"While all bitter flavors may seem the same, we ___32___ the bitterness of Brussels sprouts (抱子甘蓝), \nquinine (奎宁) and caffeine ___33___,\" Ong told Live Science. \"The degree to which we find these flavors \nbitter is, in part, determined by your genes.\"\nPeople with the genes to taste the bitterness of green vegetables are more likely to prefer tea to coffee. In \n___34___, people who were more sensitive to quinine's bitter flavors and those found in green vegetables \ntended to ___35___ coffee.",
+        "word_bank": [
+          "addition",
+          "approximately",
+          "avoid",
+          "consumption",
+          "converted",
+          "convince",
+          "heightened",
+          "omission",
+          "opposite",
+          "perceive",
+          "prospect",
+          "reinforcement",
+          "separately",
+          "simply",
+          "targeted"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "It is typical for dementia to worsen with the passage of time."
+          },
+          {
+            "id": 37,
+            "content": "According to Knopman, the study gives the message that a healthy lifestyle is beneficial, but not that all the middle-aged need heavy exercise."
+          },
+          {
+            "id": 38,
+            "content": "The results of a new study will encourage middle-aged women to find time exercising however busy they are."
+          },
+          {
+            "id": 39,
+            "content": "Hopefully, one can postpone or prevent dementia by exercising in their mid-life."
+          },
+          {
+            "id": 40,
+            "content": "In a few years, researchers should be able to offer clearer advice on exercise and other lifestyle changes for reducing the incidence of Alzheimer's."
+          },
+          {
+            "id": 41,
+            "content": "Dementia refers to a loss of multiple mental abilities such as memory and logical reasoning."
+          },
+          {
+            "id": 42,
+            "content": "One researcher believes that exercise may keep the brain well supplied with blood."
+          },
+          {
+            "id": 43,
+            "content": "Medical literature has not concluded as to what exercise or how much exercise is crucial, although it generally agrees that people should do aerobic exercise."
+          },
+          {
+            "id": 44,
+            "content": "It has long been common knowledge that exercise correlates with reduced risk of dementia."
+          },
+          {
+            "id": 45,
+            "content": "Activities helpful in the prevention of Alzheimer's also prevent heart disease."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "If this doesn't encourage you to squeeze in a workout today, nothing will: a new study from Sweden shows that women who were highly fit in mid-life were nearly 90% less likely to get dementia (失智) decades later."
+          },
+          {
+            "id": "B",
+            "content": "After initial exercise tests in middle age, researchers followed the women for 44 years. Both groups lived just as long, but those who could ride an exercise bike at a fast rate for 6 minutes in the initial test had a much lower risk of dementia later on than those who couldn't complete the workout."
+          },
+          {
+            "id": "C",
+            "content": "The study, published Wednesday in the journal Neurology, couldn't prove that exercise prevented dementia, and the findings aren't a surprise-it's long been known there's a correlation between exercise and decreased dementia risk-but the results were particularly dramatic. About 5% of the women with the highest peak workload-those who were able to bike the hardest over those 6 minutes-developed dementia, compared to 25% of those with medium fitness and 45% who weren't fit enough to finish the test, the study found. Overall, women who were highly fit compared to those who were moderately fit decreased their risk of dementia by 88%. The few highly fit women who did develop dementia became symptomatic at age 90 on average, 11 years later than the moderately fit."
+          },
+          {
+            "id": "D",
+            "content": "\"I'm very surprised that the finding was so strong,\" said Ingmar Skoog, the paper's senior author and a psychiatry (精神病学) professor at The University of Gothenburg in Sweden. \"It really shows the importance of exercise.\""
+          },
+          {
+            "id": "E",
+            "content": "Dementia, as defined in medical dictionaries, is a broad term that describes a loss of thinking ability, memory, attention, logical reasoning, and other mental abilities. These changes are severe enough to interfere with social or occupational functioning. Dementia isn't a disease. Instead, it's a group of symptoms caused by other conditions. It happens when the parts of your brain used for learning, memory, decision making, and language are damaged or diseased. About 5%-8% of adults over age 65 have some form of dementia. This percentage doubles every 5 years after 65. As many as half of people in their 80s have some form of dementia."
+          },
+          {
+            "id": "F",
+            "content": "Dementia is not temporary confusion or forgetfulness that might result from an infection that heals without treatment. It can also come from an underlying (潜在的) illness or side effects of medications. Dementia typically gets worse over time. People with dementia have problems with thinking and remembering that affect their ability to manage their daily life."
+          },
+          {
+            "id": "G",
+            "content": "Dementia is typically associated with declines in cognitive function. Yet researchers have found an association between dementia and declines in hearing and other basic sensory functions."
+          },
+          {
+            "id": "H",
+            "content": "Though the study mentioned above was fairly small (only 191 women took the initial fitness test, which means it's hard to maintain statistical significance while breaking the group down into sub-categories of more or less fit), it does give us hope that dementia can be prevented or delayed through exercise in one's middle age."
+          },
+          {
+            "id": "I",
+            "content": "Alzheimer' s (阿尔茨海默症) and other dementias are believed to begin 15-20 years before symptoms even appear, so it makes sense that exercising in mid-life would affect the risk, Skoog said. Exercise alone is not likely to prevent Alzheimer's, but the study shows people are not helpless in the face of one of the most feared, costliest and common diseases of old age, he added. And the same activities that help prevent Alzheimer's-including avoiding smoking, getting adequate exercise and sleep and eating a healthy diet-also prevent heart disease, he said, making them even more worthwhile. \"You can do something yourself to decrease your odds,\" Skoog said."
+          },
+          {
+            "id": "J",
+            "content": "Maintaining a healthy lifestyle in mid-life, decades before disease sets in, makes sense, said David Knopman, a fellow of the American Academy of Neurology, who was not involved in the study. \"I suspect it's a dose,\" said Knopman, also associate director of the Alzheimer's Disease Research Center at Mayo Clinic in Rochester, Minnesota. \"Starting in late life is better than not starting at all, but starting in mid-life seems to offer a larger benefit.\""
+          },
+          {
+            "id": "K",
+            "content": "Although it is not entirely clear why exercise helps put off or prevent Alzheimer's, Knopman said it's likely that exercise maintains good blood flow to the brain. \"When the brain is healthier from a vascular (血管的) point of view, it can absorb more Alzheimer's pathogen (病原体) before people become symptomatic,\" he said."
+          },
+          {
+            "id": "L",
+            "content": "The message isn't that everyone needs to run marathons in middle age, Knopman said, but a healthy lifestyle pays off."
+          },
+          {
+            "id": "M",
+            "content": "This type of study can't say exactly what kind of exercise is best, or how much is needed-only a study that has a placebo (安慰剂) group and tracks people going forward can do that, said Keith Fargo, director of scientific programs and outreach at the non-profit Alzheimer's Association. \"The literature has not yet settled on an amount or type of exercise that is going to be key, although the bulk of literature has suggested that aerobic (有氧的) exercise is what you need to be doing,\" he said. That doesn't mean you have to compete in marathons but \"more than a 10-min dog walk\" would be a good idea, Fargo said."
+          },
+          {
+            "id": "N",
+            "content": "Several lifestyle studies are getting underway soon, including one backed by the Alzheimer's Association called the US POINTER study, which will offer at-risk adults, ages 60-79, a series of lifestyle interventions (干预) to see if they impact Alzheimer's risk. That and other Alzheimer's-related studies are always looking for volunteers to participate, he said."
+          },
+          {
+            "id": "O",
+            "content": "In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise and other lifestyle modifications that might reduce Alzheimer's risk, such as sleep, diet and social activities, Fargo said. But it's already quite clear that exercising at any point in life is better for your brain than not exercising at all, Fargo added."
+          },
+          {
+            "id": "P",
+            "content": "\"If you don't want to have dementia when you're 80, the time to start getting fit is now,\" he said. \"It may not necessarily give you a longer life, but there's a compelling body of work that it will give you more good years.\""
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage 1",
+            "content": "People who systematically underestimate themselves and their own performance suffer from the so-called Impostor Phenomenon. They think that any success is due to external circumstances or just luck and chance. Those people live in constant fear that their \"deception\" will be exposed. It is common for people to question their abilities now and again. A healthy amount of reflection and self- doubt can protect a person from acting impulsively. However, there are people who are permanently plagued by a massive amount of self-doubt despite delivering a good performance. They think that all of their successes are not a product of their skill or hard work, instead they attribute their own successes to external circumstances, for example, to luck and chance, or believe that their performance is massively overestimated by others. Failures, on the other hand, are always internalised as the result of their own shortcomings. Psychologists from Martin Luther University Halle-Wittenberg examined the topic for the first time under real-life conditions. Seventy-six participants completed a range of intelligence tests and received positive feedback on them, regardless of their actual performance. They were then asked why they think they did so well. The study showed two things: First, the self-reported degree of Impostor Phenomenon is not related to actual measured intelligence or performance. Secondly, the test supported the assumption that people with a tendency to exhibit the Impostor Phenomenon devalue their objectively measured performance and attribute positive results to external causes such as luck and chance, but not to their own abilities. These results are also completely unrelated to age and gender. A permanent underestimation of one's own abilities is often accompanied by the fear that this supposed intellectual deception will be exposed sooner or later and that they will pay the price for this. The Impostor Phenomenon was first described in 1978 by US psychologists Pauline Clance and Suzanne Imes. They observed that there is a particularly high number of successful women who do not think they are very intelligent. The Impostor Phenomenon is not defined as a mental illness. However, people who suffer from it show a higher vulnerability to depression. University Halle-Wittenberg? sufferers?",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They systematically underestimate their chances of success.",
+                  "B. They tend to attribute their achievements to good fortune.",
+                  "C. They seem to live in constant fear of being deceived.",
+                  "D. They generally rely on luck and chance for success."
+                ],
+                "question": "What do we learn from the passage about people who suffer from the so-called Impostor Phenomenon?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Credit all their successes to hard work.",
+                  "B. Strive hard to perfect their skills.",
+                  "C. Refrain from acting on impulse.",
+                  "D. Deliver a better performance."
+                ],
+                "question": "What do people with a healthy amount of reflection and self-doubt tend to do?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Attribute their accomplishments to others.",
+                  "B. Deny their actual measured intelligence.",
+                  "C. Claim to have confidence in their own abilities.",
+                  "D. Mark down their objectively rated performance."
+                ],
+                "question": "What do Impostor Phenomenon sufferers often do according to psychologists from Martin Luther University Halle-Wittenberg?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. They will focus their attention on external factors.",
+                  "B. They will be fearful of potential consequences.",
+                  "C. They will count on good fortune for success.",
+                  "D. They will keep improving their own skills."
+                ],
+                "question": "What happens when a person permanently underestimates their own abilities?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. They are more liable to have depression.",
+                  "B. They seldom realise their potential fully.",
+                  "C. They will develop mental illnesses.",
+                  "D. They will pay higher prices one day."
+                ],
+                "question": "What did US psychologists Pauline Clance and Suzanne Imes say about Impostor Phenomenon sufferers?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage 2",
+            "content": "Music is a universal language. In every culture and country, you will find music. It is vitally important across the globe and has the potential to bring people together in peace and harmony. One of my favorite experiences in music is seeing musicians from different cultures come together and perform as a group. When each culture brings its own unique qualities to the group, an entirely new sound is achieved. This can create extraordinary results. People can communicate with each other using music as the common language. One common musical thread between cultures is known as the pentatonic scale. It is astonishing how many cultures share this tool in approaching music. The pentatonic scale consists of five notes; \"penta-\" meaning 5, and \"tonic\" meaning tone or note. This scale can be found in music everywhere including that of Native Americans, Africans, and Asians. It is also found in popular music, blues, jazz, and rock. Using this five- note scale, musicians from around the globe have a medium through which they can relate, communicate, perform, and ultimately understand each other. Music is tied to specific perceptual (感知的), mental, and emotional faculties, including language (all societies put words to their songs), motor control (people in all societies dance), sound analysis (all musical systems have a distinct pitch and quality), and aesthetics (美感) (their tunes and rhythms are balanced between repetitiveness and chaos). There is no known society that existed without music. Although each culture has their own specific style and approach to music, you will find that the purposes behind music are very similar across the board. Music essentially serves to express or change emotions. It can cheer you up, sadden you, anger you or excite you. Music is often ceremonial: used in religion, ceremony, and celebration. Music can simply be recreational: entertaining, joyful and fun. Any way you have used music, it is almost certain that every other culture has used music in the very same way. And that is something that bonds all of us. We all share a deep love for music and it has the power to unite us.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It is able to create novel and extraordinary emotions.",
+                  "B. It has the power to unite people throughout the world.",
+                  "C. It allows different cultural groups to sing in harmony.",
+                  "D. It is the only language favored by all peoples of the world."
+                ],
+                "question": "In what way is music important?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. Their musical experience can be compared.",
+                  "B. A novel language can be created.",
+                  "C. Their unique skills can be displayed.",
+                  "D. Fantastic results can be achieved."
+                ],
+                "question": "Why does the author like to see musicians from different cultures perform together?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. It is present in music all around the world.",
+                  "B. It is helpful to understanding music.",
+                  "C. It is the basis for musicians’ creation.",
+                  "D. It is a medium for ordinary people to relate."
+                ],
+                "question": "What does the passage say about the pentatonic scale?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. To bring them together.",
+                  "B. To show their identity.",
+                  "C. To express their emotions.",
+                  "D. To keep them entertained."
+                ],
+                "question": "What is the fundamental role of music in people’s life?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. The way people respond to it.",
+                  "B. The role it plays in society.",
+                  "C. The joy it brings to people.",
+                  "D. The way it is made use of."
+                ],
+                "question": "In what aspect is music similar throughout the world?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Suppose you are invited to put forward a proposal to the university on how to make students'  campus life easier. You are now to write an essay to make your proposal. You will have 30 minutes to write  the essay. You should write at least 120 words but not more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "餐桌礼仪（dining etiquette）是中华传统文化的重要组成部分，蕴含着热情有礼的待客之道。为了招\n待客人，主人会根据客人的口味和喜好准备丰富精致的菜肴。就餐座位的安排非常讲究，主人坐在\n正对大门的位置，在主人身边就座的是最重要的客人。进餐时，主人会不时地为客人添酒加菜。这\n种独特的餐桌礼仪已延续了数千年，对促进和谐的人际交往起到了重要的作用。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/2026/cet4_2_sectionA.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/2026/cet4_2_sectionB.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/2026/cet4_2_sectionC.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\n00:00:00,000 --> 00:00:07,000\nCollege English Test, Band 4, Part 2, Listening Comprehension.\n大学英语四级考试，第二部分，听力理解。\n\n2\n00:00:07,000 --> 00:00:10,000\nSection A, Directions.\nA节，答题说明。\n\n3\n00:00:10,000 --> 00:00:14,000\nIn this section, you will hear three news reports.\n在本节中，你将听到三篇新闻报道。\n\n4\n00:00:14,000 --> 00:00:19,000\nAt the end of each news report, you will hear two or three questions.\n每篇新闻报道结束后，你将听到两到三个问题。\n\n5\n00:00:19,000 --> 00:00:24,000\nBoth the news report and the questions will be spoken only once.\n新闻报道和问题都只播放一遍。\n\n6\n00:00:24,000 --> 00:00:32,000\nAfter you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\n听到问题后，你必须从标有A、B、C、D的四个选项中选出最佳答案。\n\n7\n00:00:32,000 --> 00:00:39,000\nThen mark the corresponding letter on Answer Sheet 1 with a single line through the center.\n然后在答题卡1上，用一条横线划掉对应的字母。\n\n8\n00:00:39,000 --> 00:00:41,000\nNews Report 1.\n新闻报道1。\n\n9\n00:00:41,000 --> 00:00:48,000\nA 104-year-old woman is selling the house she has lived in since she was two years old.\n一位104岁的老妇人正在出售她自两岁起就居住的房子。\n\n10\n00:00:48,000 --> 00:00:59,000\nNancy Gifford was born months after the end of the First World War and spent 102 years living in her three-bedroom house in the Somerset Village off-street.\n南希·吉福德出生于一战结束几个月后，在萨默塞特村郊外的一栋三居室房子里住了102年。\n\n11\n00:00:59,000 --> 00:01:07,000\nShe is now putting it on the market, having lived in it through the Second World War and the invention of television.\n她经历了二战和电视的发明，现在正把这套房挂牌出售。\n\n12\n00:01:07,000 --> 00:01:17,000\nHer family bought the house for £200 in 1921, and it is now priced at some £170,000.\n她的家人在1921年以200英镑的价格买下了这套房，现在标价约为17万英镑。\n\n13\n00:01:17,000 --> 00:01:27,000\nAccording to the Bank of England's inflation calculator, £200 in 1921 would be worth £7,750 today.\n根据英国央行的通胀计算器，1921年的200英镑相当于今天的7750英镑。\n\n14\n00:01:27,000 --> 00:01:35,000\nAccording to the estate agent, the house was built in 1882 and originally featured a well for the entire road.\n据房产中介介绍，这套房建于1882年，最初为整条街配备了一口井。\n\n15\n00:01:35,000 --> 00:01:41,000\nExcept for some changes in the toilet and wash area, much of the house remains the same.\n除了厕所和洗漱区有一些改动外，房子的其他部分基本保持原样。\n\n16\n00:01:41,000 --> 00:01:47,000\nMrs Gifford is selling the house and moving to a nursing home in nearby Glastonbury because of her health.\n吉福德夫人因健康原因正在出售这套房，并搬去附近格拉斯顿伯里的一家养老院。\n\n17\n00:01:47,000 --> 00:01:52,000\nQuestions 1 and 2 are based on the News Report you have just heard.\n问题1和问题2基于你刚才听到的新闻报道。\n\n18\n00:01:52,000 --> 00:01:54,000\nQuestion 1.\n问题1。\n\n19\n00:01:54,000 --> 00:01:58,000\nWhat does the News Report say about Nancy Gifford?\n这篇新闻报道关于南希·吉福德说了什么？\n\n20\n00:02:12,000 --> 00:02:14,000\nQuestion 2.\n问题2。\n\n21\n00:02:14,000 --> 00:02:31,000\nWhy is Mrs Gifford selling the house?\n吉福德太太为什么要卖掉这栋房子？\n\n22\n00:02:31,000 --> 00:02:34,000\nNews Report 2.\n新闻报道二。\n\n23\n00:02:35,000 --> 00:02:45,000\nThe Navy rescued a man who survived 24 days floating in the sea on a boat by eating tomato sauce and vegetable powder.\n海军救起了一名男子，他在海上漂流了24天，靠吃番茄酱和蔬菜粉活了下来。\n\n24\n00:02:45,000 --> 00:02:53,000\nThe man, 47, wrote the word help in English on the boat, which was key to his rescue.\n这名47岁的男子在船上用英文写了“救命”（help），这对他的获救起到了关键作用。\n\n25\n00:02:53,000 --> 00:03:02,000\nThe man told authorities that his experience began in December when currents swept the sailboat out to sea while he was making repairs.\n该男子向当局表示，他的遭遇始于12月，当时他正在修理帆船，洋流却将船卷入了大海。\n\n26\n00:03:02,000 --> 00:03:06,000\nTo survive, the man collected rainwater with a cloth.\n为了生存，他用布收集雨水。\n\n27\n00:03:06,000 --> 00:03:11,000\nHe had to constantly remove water from the boat to prevent it from sinking.\n他必须不断把船里的水排出去，以防船沉没。\n\n28\n00:03:11,000 --> 00:03:17,000\nHe also tried to light a fire to send a distress signal without success.\n他还试图生火发出求救信号，但未能成功。\n\n29\n00:03:17,000 --> 00:03:21,000\nFinally, a plane passed by and he signaled with a mirror.\n最后，一架飞机飞过，他用镜子发出了信号。\n\n30\n00:03:21,000 --> 00:03:26,000\nHe said the Navy told him that he was spotted when the plane passed again.\n他说，海军告诉他，当飞机再次飞过时发现了他。\n\n31\n00:03:27,000 --> 00:03:32,000\nThe sailboat was abandoned at sea when the man was picked up by a nearby merchant ship.\n当这名男子被附近的一艘商船救起时，帆船被遗弃在了海上。\n\n32\n00:03:32,000 --> 00:03:36,000\nHe was found in good health but had lost weight.\n他被发现时身体状况良好，但体重减轻了。\n\n33\n00:03:36,000 --> 00:03:41,000\nQuestions 3 and 4 are based on the News Report you have just heard.\n问题三和问题四基于你刚才听到的新闻报道。\n\n34\n00:03:41,000 --> 00:03:43,000\nQuestion 3.\n问题三。\n\n35\n00:03:43,000 --> 00:03:47,000\nWhat does the News Report say was key to the man's rescue?\n新闻报道说，什么对这名男子的获救起到了关键作用？\n\n36\n00:03:56,000 --> 00:04:03,000\nQuestion 4.\n问题四。\n\n37\n00:04:03,000 --> 00:04:07,000\nWhat do we learn about the man when he was rescued?\n关于这名男子获救时的情况，我们了解到什么？\n\n38\n00:04:21,000 --> 00:04:24,000\nNews Report 3.\n新闻报道三。\n\n39\n00:04:24,000 --> 00:04:34,000\nThe Board of Denver Public Schools is set to close several elementary and middle schools to make up for a decreased budget caused by declining enrollment.\n丹佛公立学校董事会计划关闭几所小学和初中，以弥补因招生人数减少而导致的预算缩减。\n\n40\n00:04:34,000 --> 00:04:40,000\nThe specific schools will be announced in the coming days, a district spokesperson said.\n一名学区发言人表示，具体哪些学校将被关闭将在未来几天内公布。\n\n41\n00:04:40,000 --> 00:04:53,000\nThe school board approved criteria to close schools with fewer than 215 students, as well as schools with fewer than 275 students and a projected decline in enrollment.\n校董会批准了一项标准：关闭学生人数少于215人的学校，以及学生人数少于275人且预计入学人数下降的学校。\n\n42\n00:04:53,000 --> 00:05:02,000\nIn the next three years, the district expects to enroll 3,000 fewer elementary and middle school students, it said.\n该学区表示，未来三年，其小学和初中预计将减少招收3000名学生。\n\n43\n00:05:02,000 --> 00:05:16,000\n3,000 students may not seem like that many students, but to a budget where you're receiving per-pupil funding, that's about $36 million, district spokesperson Scott Pribble said.\n学区发言人斯科特·普里布尔说，3000名学生听起来可能不算多，但在按生拨款的预算模式下，这大约意味着3600万美元的收入损失。\n\n44\n00:05:16,000 --> 00:05:27,000\nWe know that there are impacts, and it's heartbreaking and difficult work, but in order for the district to stay out of debt, it's a step that needs to be taken, he said.\n他说：“我们知道这会带来影响，这是一项令人心碎且艰难的工作，但为了不让学区陷入债务，这是必须采取的一步。”\n\n45\n00:05:27,000 --> 00:05:39,000\nThe district said the decreased budget means it cannot provide the same mental health support, social and emotional services, or specialized programming to schools with lower enrollment.\n该学区表示，预算削减意味着无法为入学人数较少的学校提供同等水平的心理健康支持、社会情感服务或特色课程项目。\n\n46\n00:05:39,000 --> 00:05:44,000\nQuestions 5 and 7 are based on the News Report you have just heard.\n第5题和第7题基于你刚才听到的新闻报道。\n\n47\n00:05:44,000 --> 00:06:06,000\nQuestion 5. What do we learn about the elementary and middle schools to be closed in Denver?\n第5题：关于丹佛市将要关闭的小学和初中，我们了解到什么信息？\n\n48\n00:06:07,000 --> 00:06:28,000\nQuestion 6. What does the Denver District expect to do in the next three years?\n第6题：丹佛学区预计在未来三年做什么？\n\n49\n00:06:28,000 --> 00:06:44,000\nQuestion 7. Why are some schools in Denver to be closed, according to the district spokesperson?\n第7题：根据学区发言人所说，丹佛市一些学校为什么要关闭？\n",
+  "conversations_transcript": "1\n00:00:00,000 --> 00:00:05,000\nSection B, Directions\nB部分，答题说明\n\n2\n00:00:05,000 --> 00:00:09,000\nIn this section, you will hear two long conversations.\n在本部分中，你将听到两段长对话。\n\n3\n00:00:09,000 --> 00:00:13,000\nAt the end of each conversation, you will hear four questions.\n每段对话结束后，你将听到四个问题。\n\n4\n00:00:13,000 --> 00:00:18,000\nBoth the conversation and the questions will be spoken only once.\n对话和问题都只播放一遍。\n\n5\n00:00:18,000 --> 00:00:27,000\nAfter you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\n听完问题后，你必须从标有A、B、C、D的四个选项中选出最佳答案。\n\n6\n00:00:28,000 --> 00:00:34,000\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\n然后在答题卡1上，用铅笔在对应的字母中间画一条横线。\n\n7\n00:00:34,000 --> 00:00:37,000\nConversation 1\n对话一\n\n8\n00:00:37,000 --> 00:00:43,000\nGood afternoon, Theatre Bookings International. My name's Philip. How may I help you today?\n下午好，这里是国际剧院订票中心。我叫菲利普。请问今天有什么可以帮您？\n\n9\n00:00:43,000 --> 00:00:46,000\nOh, good afternoon. My name's Helen.\n哦，下午好。我叫海伦。\n\n10\n00:00:46,000 --> 00:00:53,000\nI've been trying to book tickets for the musical Cats in London on the evening of May 28,\n我一直想预订5月28日晚上在伦敦上演的音乐剧《猫》的票，\n\n11\n00:00:53,000 --> 00:00:56,000\nbut I can't get the computer to accept my card payment.\n但电脑一直无法接受我的信用卡支付。\n\n12\n00:00:56,000 --> 00:01:00,000\nI've tried three times, but it just doesn't want to take it.\n我试了三次，但它就是不通过。\n\n13\n00:01:00,000 --> 00:01:06,000\nThat's okay, Madam. I can book it and take the payment over the phone if that's not a problem for you.\n没关系，女士。如果您方便的话，我可以帮您订票，并通过电话收取费用。\n\n14\n00:01:06,000 --> 00:01:09,000\nThat would be wonderful. I'm not very good with computers.\n那太好了。我对电脑不太在行。\n\n15\n00:01:09,000 --> 00:01:16,000\nMy husband usually does all of these things, but he is in Italy on a business trip until next Thursday,\n我丈夫通常都负责这些事务，但他去意大利出差了，要到下周四才回来，\n\n16\n00:01:16,000 --> 00:01:19,000\nand I know how quickly these things can sell out.\n而且我知道这些票卖得有多快。\n\n17\n00:01:19,000 --> 00:01:21,000\nThey do indeed, Madam.\n确实如此，女士。\n\n18\n00:01:21,000 --> 00:01:30,000\nFirstly, can you confirm that it's the performance of Cats on May 28 at the Lion Theatre in London at 7.30pm?\n首先，请您确认一下，是5月28日晚上7点半在伦敦狮子剧院上演的《猫》吗？\n\n19\n00:01:30,000 --> 00:01:36,000\nYes, that's the one. And I will need two tickets, please. Not too close to the front.\n对，就是那场。请给我两张票。不要太靠前。\n\n20\n00:01:36,000 --> 00:01:43,000\nActually, all the tickets at the front are already sold out anyway, but I can offer you two upstairs near the middle.\n其实前排的票早就卖光了，不过我可以给您安排两张楼座中间位置的票。\n\n21\n00:01:43,000 --> 00:01:46,000\nI assume that you don't want to be too high up.\n我猜你不想坐得太靠上。\n\n22\n00:01:46,000 --> 00:01:53,000\nOh my goodness, no. I'm scared of heights, and you can never see anything if you are too high up anyway.\n哦，天哪，不想。我恐高，而且坐得太高的话，反正也什么都看不见。\n\n23\n00:01:53,000 --> 00:01:56,000\nNo problem, Madam. I'll reserve those for you now,\n没问题，女士。我现在就为您预留这些座位，\n\n24\n00:01:56,000 --> 00:02:03,000\nand all we need after that is the details of your card number and your full name, and then we are done.\n接下来我们只需要您的卡号和全名，然后就办好了。\n\n25\n00:02:03,000 --> 00:02:08,000\nQuestions 8 to 11 are based on the conversation you have just heard.\n第8到11题基于您刚才听到的对话。\n\n26\n00:02:08,000 --> 00:02:12,000\nQuestion 8. Why does the woman call the man?\n第8题。女士为什么给男士打电话？\n\n27\n00:02:16,000 --> 00:02:31,000\nQuestion 9. What do we learn about the woman's husband?\n第9题。关于女士的丈夫，我们了解到什么？\n\n28\n00:02:46,000 --> 00:03:06,000\nQuestion 10. What does the man say about the tickets at the front?\n第10题。男士怎么说前排的票？\n\n29\n00:03:06,000 --> 00:03:26,000\nQuestion 11. What does the woman say she is scared of?\n第11题。女士说她害怕什么？\n\n30\n00:03:26,000 --> 00:03:29,000\nConversation 2.\n对话二。\n\n31\n00:03:29,000 --> 00:03:33,000\nHi John. Why haven't you answered my text messages lately?\n嗨，约翰。你最近怎么不回我的短信？\n\n32\n00:03:33,000 --> 00:03:41,000\nOh, I didn't know you had sent any. I turned off my phone almost a week ago and haven't turned it back on since then.\n哦，我不知道你发了短信。我差不多一周前就把手机关了，从那以后就没再开过。\n\n33\n00:03:41,000 --> 00:03:47,000\nWhy would you do something like that when our phones make our lives so much more convenient?\n既然手机让生活方便这么多，你怎么会做这种事呢？\n\n34\n00:03:47,000 --> 00:03:53,000\nWell, I downloaded an app that recorded how much time I spent on my phone,\n嗯，我下载了一个应用，用来记录我花在手机上的时间，\n\n35\n00:03:53,000 --> 00:03:59,000\nand I was shocked to realize I was using my phone an average of eight hours a day,\n结果震惊地发现，我平均每天要用手机八个小时，\n\n36\n00:03:59,000 --> 00:04:03,000\nand on my worst day, I used it for twelve hours.\n最严重的那天，我用了十二个小时。\n\n37\n00:04:03,000 --> 00:04:08,000\nWere you addicted to mobile phone games? I had a friend who was,\n你是沉迷手机游戏了吗？我有个朋友就是这样，\n\n38\n00:04:08,000 --> 00:04:12,000\nand he sometimes played them all day and into the night.\n他有时候整天玩，一直玩到晚上。\n\n39\n00:04:12,000 --> 00:04:18,000\nNo, my problem was I was spending too much time on social media, messaging friends,\n不是，我的问题是花在社交媒体上的时间太多了，一直在给朋友发消息，\n\n40\n00:04:18,000 --> 00:04:21,000\nand commenting on other people's posts.\n还评论别人的帖子。\n\n41\n00:04:21,000 --> 00:04:27,000\nI do all of that too, as well as shopping online and paying for everything with my phone.\n我也做所有这些事，比如网购，还有用手机支付一切费用。\n\n42\n00:04:27,000 --> 00:04:32,000\nThat is really why I don't see how anyone could live without a mobile phone.\n这也就是为什么我真不明白，有人怎么能离得开手机呢。\n\n43\n00:04:32,000 --> 00:04:36,000\nHow do you buy things or communicate with your friends?\n那你买东西或者跟朋友联系都靠什么呀？\n\n44\n00:04:36,000 --> 00:04:41,000\nSince I've stopped using my phone, I go to physical stores and pay in cash.\n自从我不用手机了，我就去实体店，用现金付款。\n\n45\n00:04:41,000 --> 00:04:45,000\nI've actually met friends from meals at cafes and restaurants.\n我其实都是在咖啡馆和餐馆吃饭的时候，顺便跟朋友见面的。\n\n46\n00:04:45,000 --> 00:04:50,000\nThat's great for you, but my friends and family don't live in this city,\n你那样挺不错的，但我朋友和家人都不住在这座城市，\n\n47\n00:04:50,000 --> 00:04:56,000\nso we can't see each other often, and I don't have any choice but to chat with them online.\n所以我们没法经常见面，除了在网上聊天，我别无选择。\n\n48\n00:04:56,000 --> 00:05:01,000\nQuestions 12 to 15 are based on the conversation you have just heard.\n第12到15题是基于你刚才听到的对话。\n\n49\n00:05:01,000 --> 00:05:08,000\nQuestion 12. Why hasn't the man answered the woman's text messages lately?\n第12题。为什么这位男士最近没回女士的短信？\n\n50\n00:05:08,000 --> 00:05:30,000\nQuestion 13. What was the man shocked to realize after he downloaded the app?\n第13题。这位男士下载这个应用后，震惊地意识到了什么？\n\n51\n00:05:38,000 --> 00:06:02,000\nQuestion 14. What did the man spend much time doing with his phone?\n第14题。这位男士花大量时间用手机做什么？\n\n52\n00:06:02,000 --> 00:06:12,000\nQuestion 15. Why does the woman say she has to use her mobile phone?\n第15题。为什么这位女士说她必须用手机？\n",
+  "passages_transcript": "1\n00:00:00,000 --> 00:00:20,240\nSection C, Directions. In this section you will hear three passages. At the end of each\nC 部分，说明。在本部分中，你将听到三篇短文。每篇\n\n2\n00:00:20,240 --> 00:00:25,760\npassage you will hear three or four questions. Both the passage and the questions will be\n短文结束后，你将听到三到四个问题。短文和问题都只读一遍。听完问题后，你必须从标有 A、B、C 和 D 的四个\n\n3\n00:00:25,760 --> 00:00:31,440\nspoken only once. After you hear a question you must choose the best answer from the four\n选项中选出最佳答案。然后，在答题卡 1 上，用一条横线划掉对应的字母。\n\n4\n00:00:31,440 --> 00:00:39,120\nchoices marked A, B, C and D. Then mark the corresponding letter on answer sheet 1 with\n短文 1。如果美国工人想换工作，他们最好现在就行动。去年，换工作的人获得的工资涨幅远远高于那些留在原岗位的人，但这一差距正在缩小。\n\n5\n00:00:39,120 --> 00:00:42,840\na single line through the centre.\n亚特兰大联邦储备银行工资追踪器显示的年度工资涨幅三个月移动平均值表明，去年七月，换工作的美国人获得的工资涨幅最高，该指标触及 8.5%。此后，该指标上下波动，自十一月以来一直稳步下降。\n\n6\n00:00:42,840 --> 00:00:51,200\nPassage 1. If US workers want to switch jobs they'd better do it now. Last year job switchers\n换工作的人与留在原岗位的人之间的工资增长差距正在缩小。通常情况下，换工作的人获得的加薪幅度几乎总是高于留在原岗位的人。但在过去，这一差异通常在 1 个百分点左右。然而，在七月，这一差距扩大到了 2.6 个百分点。\n\n7\n00:00:51,200 --> 00:00:58,600\nearned far higher wage increases than those staying in their jobs but the gap is now closing.\n但现在，所有人的工资增长都在放缓，换工作的人在一份新工作中获得的加薪幅度也在变小。目前，换工作的人每年平均获得 7.3% 的加薪，而留在原岗位的人获得 5.4% 的加薪。这表明对工人的需求已经达到或至少接近峰值。\n\n8\n00:00:58,600 --> 00:01:04,180\nA three month moving average of annual wage increases from the Atlanta Federal Reserve\n劳动力市场可能正在降温，因为即使存在工人短缺，也无法克服美国雇主与雇员之间历史性的不平衡。工人作为收入占\n\n9\n00:01:04,180 --> 00:01:12,200\nBank's wage tracker shows that US job switchers got the highest wage increase last July when\n该银行的薪资追踪器显示，去年七月，美国换工作的人获得了最高的薪资涨幅，当时\n\n10\n00:01:12,200 --> 00:01:20,560\nthe measure touched 8.5%. Since then it has gone up and down and has been going steadily\n该指标触及8.5%。此后，它上下波动，并一直稳步变化。\n\n11\n00:01:20,560 --> 00:01:26,920\ndown since November. The gap in wage gains between people who switched jobs and those\n自11月以来持续下降。换工作的人与未换工作的人在工资增长方面的差距\n\n12\n00:01:26,920 --> 00:01:34,120\nwho stayed in their jobs is now closing. On average people who changed jobs have almost\n那些留在原岗位的人现在正在裁员。平均而言，换过工作的人几乎……\n\n13\n00:01:34,120 --> 00:01:40,040\nalways gotten better pay raises than those who stayed. But in the past the difference\n总是获得比那些留下来的人更高的加薪幅度。但在过去，这种差异\n\n14\n00:01:40,040 --> 00:01:47,640\nwas usually around 1 percentage point. In July though the gap widened to 2.6 percentage\n通常约为1个百分点。然而，7月份这一差距扩大至2.6个百分点。\n\n15\n00:01:47,640 --> 00:01:54,720\npoints. But now wage growth is slowing down for everyone and job switchers are getting\n点。但现在工资增长正在放缓，所有人的工资增长都在减缓，换工作的人也在减少。\n\n16\n00:01:54,720 --> 00:02:01,360\nsmaller wage bumps in their new jobs. At the moment those who change jobs get an average\n在新工作中获得较小的加薪幅度。目前，换工作的人平均\n\n17\n00:02:01,360 --> 00:02:10,960\n7.3% raise every year while those who stay get a 5.4% raise. That suggests the demand\n每年跳槽的人加薪7.3%，而留下的人加薪5.4%。这表明需求……\n\n18\n00:02:10,960 --> 00:02:18,960\nfor workers has reached or is at least nearing its peak. The labor market is likely cooling\n对工人的需求已达到或至少接近峰值。劳动力市场可能正在降温。\n\n19\n00:02:18,960 --> 00:02:25,360\nbecause even a shortage of workers isn't overcoming the historic imbalance between employers and\n因为即使出现工人短缺，也无法扭转雇主与雇员之间历史性的失衡局面\n\n20\n00:02:25,360 --> 00:02:32,080\nemployees in the US. The volume of income that workers take home as a proportion of\n美国员工。工人实际拿到手的收入占其总收入的比例\n\n21\n00:02:32,080 --> 00:02:37,440\nwhat the US economy produces is still falling.\n美国经济的产出仍在下降。\n\n22\n00:02:37,440 --> 00:02:42,800\nQuestions 16 to 18 are based on the passage you have just heard.\n第16到18题基于你刚才听到的文章。\n\n23\n00:02:42,800 --> 00:02:48,920\nQuestion 16. What does the passage say about the gap in wage gains between job switchers\n第16题。文章关于跳槽者和\n\n24\n00:02:48,920 --> 00:03:06,880\nand those who stay in their jobs?\n那些留在原岗位的人在工资增长方面的差距说了什么？\n\n25\n00:03:06,880 --> 00:03:27,080\nQuestion 17. What do we learn about wage growth now?\n第17题。我们现在了解到关于工资增长的情况是什么？\n\n26\n00:03:27,080 --> 00:03:48,380\nQuestion 18. What is the labor market likely doing according to the passage?\n第18题。根据文章，劳动力市场可能正在发生什么？\n\n27\n00:03:48,380 --> 00:03:53,000\nPassage 2. Highly processed foods, the kinds made with\n第二篇文章。高度加工食品，也就是那些用\n\n28\n00:03:53,000 --> 00:04:00,720\nlots of sugar, fat and salt make up as much as 60% of the average American diet. But a\n大量糖、脂肪和盐制成的食品，占到了美国人平均饮食的60%。但一项\n\n29\n00:04:00,720 --> 00:04:07,120\nnew study shows that their low price and convenience come at a cost to health. The\n新研究表明，它们低廉的价格和便利性是以健康为代价的。这项\n\n30\n00:04:07,120 --> 00:04:13,320\nstudy found that when people ate a highly processed diet they consumed about 500 more\n研究发现，当人们食用高度加工食品时，他们每天摄入的热量比食用较少加工食品时多出约500卡路里。他们还在\n\n31\n00:04:13,320 --> 00:04:19,560\ncalories per day than they did when they ate a less processed diet. They also gained\n两周内体重增加了2磅，尽管两种饮食中糖、\n\n32\n00:04:19,560 --> 00:04:26,240\n2 pounds over 2 weeks even though both diets had the same amounts of nutrients like sugar,\n脂肪、纤维和盐等营养素的含量相同。发现高度加工食品不健康并不令人惊讶。\n\n33\n00:04:26,240 --> 00:04:33,600\nfat, fiber and salt. It wasn't a shock to find highly processed foods weren't healthy.\n其他研究已将它们与更高的癌症和肥胖风险联系起来。出乎意料的是\n\n34\n00:04:33,600 --> 00:04:40,280\nOther research has linked them to a higher risk of cancer and obesity. What was unexpected\n糖、脂肪和盐似乎并不是导致人们暴饮暴食的原因。这是\n\n35\n00:04:40,280 --> 00:04:46,800\nwas that sugar, fat and salt didn't seem to be what caused people to overeat. This\n第一项证明高度加工食品中存在某种独立于这些营养素之外的因素，导致人们暴饮暴食的试验。研究还发现，\n\n36\n00:04:46,800 --> 00:04:52,040\nis the first trial that demonstrates that there is something about highly processed foods\n在食用高度加工食品时，人们吃得更快。这可能是他们\n\n37\n00:04:52,040 --> 00:04:58,480\nindependent of those nutrients that causes people to overeat. The study also found that\n体重增加的一个原因。高度加工食品往往质地较软，这使得它更容易\n\n38\n00:04:58,480 --> 00:05:04,640\nwhen eating a highly processed diet people ate faster. This could be one reason why they\n咀嚼和吞咽。一种理论认为，如果你吃得更快，你就没有给\n\n39\n00:05:04,640 --> 00:05:10,720\ngained more weight. Highly processed food tends to be softer which makes it easier\n身体足够的时间来接收饱腹信号。\n\n40\n00:05:10,720 --> 00:05:17,120\nto chew and swallow. One theory is that if you're eating more quickly you're not giving\n（注：原文在此处截断，翻译至语义完整处）\n\n41\n00:05:17,120 --> 00:05:22,880\nyour gut enough time to signal to your brain that you've had enough calories and that\n给肠胃足够的时间，让它向大脑发出信号，告诉你已经摄入了足够的热量，而且\n\n42\n00:05:22,880 --> 00:05:30,640\nyou're full. By the time the brain gets that signal you've already overeaten.\n你已经饱了。等大脑接收到这个信号时，你已经吃撑了。\n\n43\n00:05:30,640 --> 00:05:37,320\nQuestions 19-21 are based on the passage you have just heard. Question 19, what does\n第19至21题基于你刚才听到的文章。第19题，一项新研究关于高度加工食品显示了什么？\n\n44\n00:05:37,320 --> 00:05:59,880\na new study show about highly processed foods? Question 20, what are highly processed foods\n第20题，其他研究表明高度加工食品与什么有关？\n\n45\n00:05:59,880 --> 00:06:18,440\nlinked to according to other research?\n第21题，人们在食用高度加工食品时往往怎么做？\n\n46\n00:06:18,440 --> 00:06:39,720\nQuestion 21, what do people tend to do when eating highly processed foods?\n第三篇文章，女性花在照顾孩子和做家务上的时间通常仍多于男性。\n\n47\n00:06:39,720 --> 00:06:46,440\nPassage 3, women continue to spend more time than men taking care of children and doing\n这通常归因于落后的思想和保守的价值观。但新研究表明，这种差异可能与男女偏好的不同有关。\n\n48\n00:06:46,440 --> 00:06:52,600\nchores around the house. This is generally attributed to backward thinking and conservative\n这项新研究考察了男女在家如何分担工作，以及他们为何那样分工。\n\n49\n00:06:52,600 --> 00:07:00,280\nvalues. But new research shows that such differences could be linked to differences in the preferences\n总体而言，男女都更愿意承担自己喜欢的那部分任务。例如，男性比女性更喜欢园艺和家庭维护。\n\n50\n00:07:00,280 --> 00:07:06,280\nof males and females. The new study looked at how men and women were dividing work at\n他们倾向于希望主要承担这类任务。研究人员指出，\n\n51\n00:07:06,280 --> 00:07:13,240\nhome and why they divided it that way. In general, both men and women took more responsibility\n对家务和育儿任务的喜好差异，与男女选择分工的方式相符。\n\n52\n00:07:13,240 --> 00:07:21,560\nfor tasks they liked. For example, men liked yard care and home maintenance more than women.\n研究人员补充说，没有任何一项育儿任务是男性比女性更喜欢的。\n\n53\n00:07:21,560 --> 00:07:27,960\nThey leaned toward wanting primary responsibility for such tasks. The researchers stated that\n不过要记住，就像任何关于群体差异的研究一样，组内差异也很大。\n\n54\n00:07:27,960 --> 00:07:33,760\ndifferences in enjoyment of household and child care tasks matched how men and women\n研究作者得出结论，男女在育儿和家务上花费时间的差异并不意味着不满。\n\n55\n00:07:33,760 --> 00:07:40,120\nchose to split tasks. The researchers added that there was not a single child care task\n作者指出，先前的研究揭示了男女在家庭与职业态度上的差异。\n\n56\n00:07:40,120 --> 00:07:46,520\nthat men liked more than women. Keep in mind, however, that as with any research on group\n这些差异早在六岁时就显现出来了。\n\n57\n00:07:46,520 --> 00:07:53,080\ndifferences, there were large within-group differences. The study's authors concluded\n存在差异，组内差异很大。研究作者得出结论\n\n58\n00:07:53,080 --> 00:07:59,160\nthat differences in men's and women's time spent on child care and household tasks\n男女在育儿和家务上花费的时间差异\n\n59\n00:07:59,160 --> 00:08:06,360\ndo not mean dissatisfaction. The authors noted that previous research revealed gender differences\n并不意味着不满。作者指出，先前的研究揭示了性别差异\n\n60\n00:08:06,360 --> 00:08:13,000\nin attitudes towards family and career. These differences appear as early as six years old.\n在对待家庭与事业的态度上，这些差异早在六岁时便已显现。\n\n61\n00:08:13,960 --> 00:08:19,800\nGirls that age already show more interest in helping and caring for others than boys do,\n到了那个年纪，女孩通常比男孩表现出更多的助人和关心他人的兴趣，\n\n62\n00:08:20,600 --> 00:08:25,400\nand they already exhibit a greater orientation toward family versus career.\n并且她们在家庭与事业之间，更倾向于家庭。\n\n63\n00:08:27,000 --> 00:08:31,880\nQuestions 22 to 25 are based on the passage you have just heard.\n第22至25题基于你刚才听到的短文。\n\n64\n00:08:32,760 --> 00:08:38,280\nQuestion 22. How do people generally account for differences between men\n第22题：人们通常如何解释男女在花费于家务劳动时间上的差异？\n\n65\n00:08:38,280 --> 00:08:55,400\nand women in the amount of time spent on housework?\n第23题：根据这项新研究，男性更倾向于做什么？\n\n66\n00:08:55,800 --> 00:09:14,920\nQuestion 23. What did men lean toward doing according to the new study?\n第24题：关于群体差异的研究，我们应该牢记什么？\n\n67\n00:09:14,920 --> 00:09:34,440\nQuestion 24. What should we keep in mind as regards any research on group differences?\n第25题：之前的研究揭示了关于男女在家庭与事业态度上的哪些差异？\n\n68\n00:09:35,240 --> 00:09:48,280\nQuestion 25. What did previous research reveal about gender differences in attitudes toward\n听力理解部分到此结束。\n\n69\n00:09:48,280 --> 00:09:51,960\nfamily and career?\n家庭与事业？\n\n70\n00:10:04,440 --> 00:10:15,960\nThat's the end of Listening Comprehension.\n听力理解部分到此结束。\n",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "",
+  "passages_transcript_zh": ""
+}

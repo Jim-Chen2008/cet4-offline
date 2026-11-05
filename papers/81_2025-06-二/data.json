@@ -1,0 +1,686 @@
+{
+  "id": 78,
+  "exam": 81,
+  "exam_details": {
+    "id": 81,
+    "title": "2025年6月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2025,
+    "month": 6,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-11-28T20:46:53.157228+08:00",
+    "updated_at": "2025-11-28T20:46:53.157228+08:00",
+    "exam_id": 81,
+    "submission_count": 0,
+    "cet_content_id": 78,
+    "has_draft": false
+  },
+  "created_at": "2025-11-28T21:12:32.560763+08:00",
+  "updated_at": "2026-04-06T16:41:03.024675+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. They are young teenagers from Atlanta.",
+              "B. They won this year’s 7 Mile Bridge Run.",
+              "C. They completed the race in less than 40 minutes.",
+              "D. They are both students at Marathon High School."
+            ],
+            "question": "What does the news report say about Vyclav Berser and Joanna Stevens?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. It drew competitors from more than 40 countries.",
+              "B. It is watched live online by fans all over the world.",
+              "C. It closed the city of Big Pine Key to traffic for three hours.",
+              "D. It is one of the most popular running events in the southeastern U.S."
+            ],
+            "question": "What do we learn about the April contest?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. He was once a full-time ambassador.",
+              "B. He was soon to retire from the army.",
+              "C. He became an astronaut in 2015.",
+              "D. He used to be a helicopter pilot."
+            ],
+            "question": "What do we learn from the news report about Tim Peak?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It has been unbelievably exciting and rewarding.",
+              "B. It has been extraordinarily tough and demanding.",
+              "C. It has contributed a great deal to human flights to space.",
+              "D. It has given him exceptional privilege as an ambassador."
+            ],
+            "question": "What does Tim Peek say about his work with the European Space Agency?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. They are known for their loyalty to their owners.",
+              "B. They are brought in by the store’s customers.",
+              "C. They are regular visitors to the store.",
+              "D. They are pets kept by the store staff."
+            ],
+            "question": "What does the report say about the five cats?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. It might be a nuisance to the loyal shoppers.",
+              "B. It might have been abandoned by its owner.",
+              "C. It might be 12 months old.",
+              "D. It might have got lost."
+            ],
+            "question": "What did some customers think when they saw the first cat routinely appear in the store?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. Feed the cats.",
+              "B. Remove any store signs.",
+              "C. Sit in the shop aisles.",
+              "D. Bring in pets with them."
+            ],
+            "question": "What are customers asked not to do?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. Sharing her room with friends.",
+              "B. Cutting down her living expenses.",
+              "C. Living off campus.",
+              "D. Moving to the city center."
+            ],
+            "question": "What has the woman been thinking of doing next semester?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. The facilities available.",
+              "B. Various costs involved.",
+              "C. Changes in living conditions.",
+              "D. The distance to her home."
+            ],
+            "question": "What does the man suggest the woman taken to consideration?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. Went through much trouble.",
+              "B. Commuted to save money.",
+              "C. Studied on the bus.",
+              "D. Lived on campus."
+            ],
+            "question": "What does the woman say she did during high school?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Discuss the matter with the woman’s mother.",
+              "B. Make a decision within a few days.",
+              "C. Try his best to persuade his wife.",
+              "D. Weigh the benefits against the disadvantages."
+            ],
+            "question": "What does the man say he'll do at the end of the conversation?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. Interviewing the man.",
+              "B. Looking for Lawrence.",
+              "C. Choosing a present for her nephew.",
+              "D. Helping the man with his shopping."
+            ],
+            "question": "What is the woman doing?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Quite educational.",
+              "B. Incredibly popular",
+              "C. Driven by batteries.",
+              "D. Obviously childish."
+            ],
+            "question": "How does the man describe Bobo Man the action figure?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. One he loves for helping exercise his mind.",
+              "B. One he can play together with his sister",
+              "C. One he finds interesting and challenging.",
+              "D. One he can play either alone or in a group."
+            ],
+            "question": "What kind of game does the woman think would be good for Lawrence?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. It has been enjoyed by kids for decades.",
+              "B. It always reminds people of times of war",
+              "C. It has been played both indoors and outdoors.",
+              "D. It distinguishes itself as one of the oldest games."
+            ],
+            "question": "What do we learn from the conversation about the game battleships?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. A display of a variety of products increases consumers’ interest.",
+              "B. Too many choices decrease one’s desire to buy.",
+              "C. Fewer choices lead to lower customer satisfaction.",
+              "D. Customers given more choices are more likely to get confused."
+            ],
+            "question": "What do we learn from the passage about the paradox of choice?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. What kind of display results in more sales.",
+              "B. What kind of display creates more interest.",
+              "C. What kind of display attracts a greater crowd of customers.",
+              "D. What kind of display leads to greater customer satisfaction."
+            ],
+            "question": "What did the psychologist want to find out in their 2012 study about Jans?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. There are situations where customers buy nothing.",
+              "B. There are tricks to increase customer satisfaction.",
+              "C. There are ways to predict customer preferences:",
+              "D. There are rules that motivate customers to buy"
+            ],
+            "question": "What is the finding of an extensive study published in 2015?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Stressful.",
+              "B. Burdensome.",
+              "C. Worthwhile.",
+              "D. Energy-boosting."
+            ],
+            "question": "What do many Americans think of volunteering?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. By linking it with employees’ salary.",
+              "B. By taking it as the New Year resolution.",
+              "C. By improving work schedules.",
+              "D. By making it part of the job."
+            ],
+            "question": "How could companies ensure both employees and employers benefit from volunteering?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. It was very important to their well-being.",
+              "B. It had taken little of their spare time.",
+              "C. It was an outlet for their personal fulfillment.",
+              "D. It helped improve their working environment."
+            ],
+            "question": "What did 75% of employees say about volunteering in a survey?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. It amounts to 2,000 tons daily.",
+              "B. It mostly comes from supermarkets.",
+              "C. It is estimated at 11% of the UK’s total food supply.",
+              "D. It has a lot to do with independent luxury food suppliers."
+            ],
+            "question": "What do we learn about the UK's retail sector food waste?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. It rents bicycles to deliver food.",
+              "B. It sells sought-after coffee beans.",
+              "C. It delivers luxury hand-made food.",
+              "D. It recycles waste food from the city."
+            ],
+            "question": "What does Sophie Andres business do in London?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. It pays special attention to the size and shape of its products.",
+              "B. It tries to escape the constraints of the current food system.",
+              "C. It cooperates closely with local producers.",
+              "D. It aims to provide high-quality products."
+            ],
+            "question": "In what way does Sophie Andre's business differ from many food waste projects?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. To ensure a regular supply.",
+              "B. To maintain a unique menu.",
+              "C. To make up for the waste products.",
+              "D. To meet customers’ urgent demand."
+            ],
+            "question": "Why will suppliers always have a certain amount of surplus?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Sir Alfred Hitchcock was an English movie director and producer. Famously ___26___ to as “The Master of Suspense”, Hitchcock is one of the most influential filmmakers in the history of ___27___. He was an extraordinary director who entertained his audience with ___28___ and gripping suspense movies. \n\nHis fascination with crime began at an early age when he was ___29___ by his father who made him spend a few minutes inside a prison for his misconduct. Hence, his movies are ___30___ of the guilt and innocence of the wrongdoer and the victim. He had a gift for creating stories that consisted of deceit, robbery, murder, corruption, and other criminal ___31___ with incredible plot twists in the storyline. The principal characters in his movies were often ordinary people ___32___ in unwanted and unavoidable situations. \n\nHe was ___33___ productive and his amazing body of work is considered fascinating by the critics. Most of his movies have ___34___ the test of time and are considered to be masterpieces. He is also remembered by other filmmakers, for he continues to inspire them to be passionate about their work. He is also ___35___ by people around the world for his entertaining and exciting stories.",
+        "word_bank": [
+          "caught",
+          "cinema",
+          "engaging",
+          "graphically",
+          "highly",
+          "incentive",
+          "instincts",
+          "offences",
+          "punished",
+          "referred",
+          "stood",
+          "symbolic",
+          "tuned",
+          "visually",
+          "worshipped"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Fruit juice is different from whole fruit in that it contains much less fibre."
+          },
+          {
+            "id": 37,
+            "content": "Some people believe a juice diet helps to rid our body of harmful or poisonous substances."
+          },
+          {
+            "id": 38,
+            "content": "A lot of research comes to the same conclusion that fruit juice does harm to the human body when it leads to surplus calories:"
+          },
+          {
+            "id": 39,
+            "content": "The claimed health benefits of fruit and vegetable juices have rendered the industry very profitable."
+          },
+          {
+            "id": 40,
+            "content": "To increase the benefits of fruit juice to our health, we’d better choose ripe fruit to make juice."
+          },
+          {
+            "id": 41,
+            "content": "Diets containing large amounts of fibre reduce the risk of heart disease, diabetes and other health hazards."
+          },
+          {
+            "id": 42,
+            "content": "According to a research paper, drinking fruit juice is beneficial on condition that it is consumed in reasonable amounts."
+          },
+          {
+            "id": 43,
+            "content": "One expert claims that juicing wastes a lot of nutrients contained in fruits."
+          },
+          {
+            "id": 44,
+            "content": "It takes some time for fruit’s cells to be digested and for fructose to be absorbed."
+          },
+          {
+            "id": 45,
+            "content": "A lot of research has demonstrated that drinking fruit juice does not reduce our daily consumption of other foods."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Freshly juiced fruit has become a basic dietary item — especially for busy, health-conscious consumers who can save time on making (and perhaps even chewing) their food without missing out on nutrients. Fruit juice also has been linked to claims that it can help you both lose weight and stay healthy. All of which, of course, has made it highly profitable. The global fruit and vegetable juices market was valued at $154 billion in 2016 and is expected to grow."
+          },
+          {
+            "id": "B",
+            "content": "But is juicing really as healthy as we think? Most foods containing fructose—a naturally occurring sugar found in all fruits and fruit juices — don’t seem to have harmful effects as long as they’re not contributing to excess daily calories. This is because the fibre found in whole fruits is intact, and the sugar is contained within the fruit’s cells. It takes our digestive system a while to break these cells down and for fructose to enter the bloodstream."
+          },
+          {
+            "id": "C",
+            "content": "But this is not the case with fruit juice. Unlike whole fruit, fruit juice has most of the fibre removed. This is why the fructose in fruit juices counts as ‘free sugars’ — which also include honey and the sugars added to foods. It’s recommended by the World Health Organisation that adults have no more than 30g of added sugar, the equivalent of 150ml of fruit juice, per day. The problem is that, with the fibre removed, fruit juice’s fructose is absorbed more quickly. Sudden increases in blood sugar cause the release of insulin (胰岛素) to bring it back down to a stable level. Over time, this mechanism can wear out increasing the risk of developing type 2 diabetes. In 2013, researchers analysed the health data of 100,000 people collected between 1986 and 2009 and found that fruit juice consumption was linked with increased risk of type 2 diabetes. Another study found a relationship between fruit juice and type 2 diabetes after following the diets and diabetes status of more than 70,000 nurses over 18 years. The researchers explain that the possible reason for this may partly have been the lack of the other components found in whole fruit, like fibre."
+          },
+          {
+            "id": "D",
+            "content": "Juices containing vegetables can provide more nutrients and less sugar than juices made up of just fruit — but they still lack valuable fibre. Diets high in fibre have been linked to a lower risk of developing heart disease, stroke, high blood pressure and diabetes, and it’s recommended adults consume 30g per day."
+          },
+          {
+            "id": "E",
+            "content": "Aside from the link to type 2 diabetes, many studies agree that fruit juice is harmful if it contributes to an excess in calories. In an analysis of 155 studies, John Sievenpiper, associate professor at the University of Toronto’s Department of Nutritional Sciences, set out to understand if the associations between sugary soft drinks and health — including risk of diabetes and heart disease — were applicable to the food and drink we generally consume as part of a healthy diet. He compared studies looking into the effects of fructose-containing sugars with control diets free from or lower in these sugars. His aim? To isolate the effects of consuming too many calories from the effects of foods containing different sugars."
+          },
+          {
+            "id": "F",
+            "content": "He found negative effects on blood sugar and insulin levels when food provided excess calories from sugars, including fruit juice. However, when the calories weren't in excess overall, there were some advantages to consuming whole fruit — and even fruit juice. Sievenpiper concludes that the recommended 150ml of fruit juice per day, which is an average serving, is reasonable. The paper concluded that foods containing fructose may have some small benefits for long-term blood sugar control when they don’t lead to over-consumption of calories. But when they do lead to too many calories, they risk raising blood sugar and insulin levels."
+          },
+          {
+            "id": "G",
+            "content": "So while we know that fruit juice can cause diabetes if it’s part of a diet that has more calories overall, it's less clear how juice affects the long-term health of those who aren’t overweight. But we have a higher risk of consuming more than the recommended daily number of calories (around 2,000 for women and 2,500 for men) on the days we drink juice, according to research. Numerous studies have shown that drinking fruit juice doesn’t make us consume any less of other foods throughout the day."
+          },
+          {
+            "id": "H",
+            "content": "As it is easy to consume large amounts of fruit juice quite quickly, extra calories are taken in. And extra calories can contribute to weight gain. One way we can improve the effects of fruit juice on our health is making sure we select ripe fruit to retain as much of its goodness as possible, according to Roger Clemens, professor of pharmaceutical (药物的) sciences at the University of Southern California."
+          },
+          {
+            "id": "I",
+            "content": "Another reason for fruit juice’s recent popularity is the argument that it can help to remove poisonous or harmful substances from the body. However, “the whole concept of a juice diet helping to remove poisonous or harmful substances from the body is completely false,” says Clemens. “We consume compounds every day that may be poisonous and our bodies do a wonderful job of removing and eliminating anything harmful from our bodies.”"
+          },
+          {
+            "id": "J",
+            "content": "And juice isn’t a cure-all for getting your nutrients, either. “There are a lot of nutrients contained in the parts of the fruits, such as in apple skins, that are excluded when you juice them,” says Heather Ferris, a professor of medicine. “You end up with sugary water with some vitamins.”"
+          },
+          {
+            "id": "K",
+            "content": "Plus, she adds, it’s not an ideal way to reach the advised ‘five a day’. “People try to get five servings of fruit and vegetables per day and don’t realise this isn’t just about getting vitamins,” she says. “It’s also about reducing the amount of grain carbs (碳水化合物) and protein and fats in our diet, and increasing fibre.” So while fruit juice is better than no fruit at all, there are limits. It particularly comes with risks when we consume more than 150ml of free sugars per day, or when it puts us over our recommended calorie intake. It provides us with vitamins — but fruit juice is far from a quick fix."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "We all take a little extra effort to look nice for special occasions. But most of us have conflicting feelings about dressing up and feel guilty about taking the time to focus on clothes. Science now suggests the right dress may give ourselves the extra edge in our professional and personal lives.\n\nWe hear sayings like “dress for the job you want, not the job you have”. Most people don’t really believe in them, but research into the impact of clothes on behavior now suggests that there may actually be a grain of truth in these sayings. Science says that the clothes we wear affect our behavior, our mood and even the way we interact with others because of the symbolic meaning that we assign to different types of clothing.\n\nWe consider some clothes to be powerful some to be fun, and so on. We even evaluate people whom we have just met based on their clothes. We also evaluate ourselves based on what we are wearing because of the way they make us feel. This means that the experience of wearing something affects our attitudes and our choice of behavior.\n\nThere’s a reason tailored jackets are associated with being “dressed for success”. It seems that wearing formal office wear puts us in the right frame of mind to conduct business. Wearing power clothing makes us feel more confident and even increases hormones needed for displaying dominance. This in turn helps us become better negotiators and abstract thinkers.\n\nWhile a good suit works wonders for our performance in the boardroom, wearing formal wear isn’t a great idea when we want to socialize. Studies have found that people tend to be less open and less able to relax when they wear formal clothes.\n\nOn the other hand, a casual dress helps us become more friendly and creative. These findings support the idea of wearing business casuals on a Friday, since colleagues are most likely to take out time to socialize on the last work day of the week. I mean, who wants to hang out with people in their suits?",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Add to our advantage in work and life.",
+                  "B. Enable us to look a lot more attractive.",
+                  "C. Help us to enjoy a fuller personal life.",
+                  "D. Provide extra energy for what we do."
+                ],
+                "question": "What does science suggest the right dress may do?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Clothes usually represent one’s social and economic status.",
+                  "B. Clothes largely determine one’s likability by people around.",
+                  "C. Different types of clothing markedly reflect different personalities.",
+                  "D. Different types of clothing convey different messages symbolically."
+                ],
+                "question": "Why does science say the clothes one wears may affect their interaction with others?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. By exerting an effect on our power of judgment.",
+                  "B. By impacting how we feel about ourselves.",
+                  "C. By affecting what we take as the basis for assessment.",
+                  "D. By influencing our interpretation of symbolic messages."
+                ],
+                "question": "How do the clothes we wear sway our evaluation of ourselves?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. They are necessary for formal business dealings.",
+                  "B. They may help people concentrate on their business.",
+                  "C. They are vital to keeping a dominant position in business transactions.",
+                  "D. They may enable people to have the right mentality for doing business."
+                ],
+                "question": "Why does the author say tailored jackets are associated with being “dressed for success”?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Focus on clothing.",
+                  "C. Dress casually.",
+                  "B. Wear a good suit.",
+                  "D. Look unusual."
+                ],
+                "question": "What are people advised to do when they want to socialize?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "With the rise of pop music, jazz, and electronic music, both opera and classical music started to fade away from the public eye. Some people are beginning to wonder whether opera and classical music are still relevant to the modern world of music. Granted, you will not typically see today's teenagers lending their ears to Bach anytime soon, but there are some major indicators that both opera and classical music are now still quite alive.\n\nThe most major indicator of classical music’s importance in society today is the fact that much of the popular music that is currently being produced uses similar beats, harmonies, and melodies (旋律) as those that were used in some of classical music’s best works. Even so, it can be difficult for those who do not study music theory to see this as an indicator, since it is subtle and just shows the impact symphonic (交响乐的) orchestras have had on society’s taste in music.\n\nA better example for the relevance of opera and classical music can be seen in the invention of the rock opera. Opera, in its simplest definition, is telling a story using music as its form. The art of telling a story using music has not faded in the least bit. In fact, sometimes actual orchestras are used for major parts of the opera itself. Some of the world’s greatest hits have been parts of rock operas.\n\nFans of classical music can also tell you that there are few types of music that are more expressive. So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies. Symphonic orchestra compositions have also been created solely for the purpose of being included in major motion pictures. These are often very well received amongst mainstream music fans.\n\nClassical music and opera are the very foundation of what our modern music is based upon. Considering the huge impact they have had on our current society, it is without doubt that we can expect them to continue to remain important for centuries to come.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. They still make their presence felt.",
+                  "C. They will not fade away from the public eye.",
+                  "B. They have given way to electronic music.",
+                  "D. They are no longer relevant to teenagers’ lives."
+                ],
+                "question": "What does the author think of classical music and opera in today’s world?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It can be difficult for many classical music fans to appreciate.",
+                  "B. It can be seen as an indicator of refinement on classical music.",
+                  "C. It caters to society’s taste in music in a more subtle way than classical music.",
+                  "D. It contains elements similar to those in some masterpieces of classical music."
+                ],
+                "question": "What do we learn about much of the popular music currently produced?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. To illustrate how to tell a story using music.",
+                  "B. To present the simplest definition of opera.",
+                  "C. To show the relevance of opera and classical music.",
+                  "D. To justify the necessity of using orchestras in opera."
+                ],
+                "question": "Why does the author mention the invention of the rock opera?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. There are few types of music for movie producers to choose from.",
+                  "B. They are considered to be the most expressive type of music.",
+                  "C. They are well received by movie fans from all over the world.",
+                  "D. They are essential for movies to become the world’s greatest hits."
+                ],
+                "question": "Why are classical music pieces still used as background music in modern movies?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. It could not have come into being without classical music and opera as its foundation.",
+                  "B. It cannot outcompete classical music and opera in its impact on our current society.",
+                  "C. It will not enjoy as much popularity as classical music and opera among music fans.",
+                  "D. It might not be able to rival classical music and opera in importance for centuries to come."
+                ],
+                "question": "What do we learn about our modern music?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose your university is conducting a survey to collect students’ opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "近年来，中国东北地区正在大力开发冰雪资源。例如，哈尔滨利用丰富的冰雪资源打造了极具地方特色的“冰雪大世界”，让游客在欣赏冰雪之美的同时也能体验当地独特的民俗文化。如今，曾令人畏惧的冰天雪地正吸引着四面八方的游客，成为深受欢迎的旅游胜地。冰雪旅游业正为当地的经济发展做出越来越大的贡献。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_AAA.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_HDTPU76.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_3_qoW6fDj.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\r\n00:00:00,000 --> 00:00:07,260\r\nCollege English Test, Band 4, Part 2, Listening Comprehension.\r\n大学英语四级考试（CET-4），第二部分，听力理解。\r\n\r\n2\r\n00:00:08,200 --> 00:00:16,059\r\nSection A, Directions. In this section, you will hear three news reports. At the end of each\r\n第一节，说明。在本节中，你将听到三篇新闻报道。在每篇\r\n\r\n3\r\n00:00:16,059 --> 00:00:23,040\r\nnews report, you will hear two or three questions. Both the news report and the questions will\r\n新闻报道结束时，你将听到两到三个问题。新闻报道和问题都将\r\n\r\n4\r\n00:00:23,040 --> 00:00:24,760\r\nbe spoken only once.\r\n只播放一遍。\r\n\r\n5\r\n00:00:25,320 --> 00:00:30,160\r\nAfter you hear a question, you must choose the best answer from the four choices,\r\n听完问题后，你必须从四个选项中选出最佳答案，\r\n\r\n6\r\n00:00:30,680 --> 00:00:39,220\r\nmarked A, B, C, and D. Then mark the corresponding letter on Answer Sheet 1 with a single\r\n选项标记为 A、B、C 和 D。然后在答题卡 1 上相应的字母中心划一条\r\n\r\n7\r\n00:00:39,220 --> 00:00:40,600\r\nline through the center.\r\n单线进行涂黑。\r\n\r\n8\r\n00:00:41,940 --> 00:00:43,640\r\nNews report 1.\r\n新闻报道 1。\r\n\r\n9\r\n00:00:44,540 --> 00:01:01,120\r\nA Florida teenager and an Atlanta woman won the overall men's and women's divisions Saturday\r\n一名佛罗里达州的青少年和一名亚特兰大的女性在周六举行的\r\n \r\n10\r\n00:00:51,020 --> 00:00:54,220\r\nat the annual 7-mile bridge run.\r\n一年一度的“七里桥长跑赛”中分别获得了男子组和女子组的总冠军。\r\n\r\n11\r\n00:00:54,720 --> 00:01:01,120\r\nVaclav Berse, 15, of Big Pine Key, Florida, finished first overall.\r\n来自佛罗里达州大松礁、年仅 15 岁的瓦茨拉夫·伯塞获得全场第一名。\r\n\r\n12\r\n00:01:01,720 --> 00:01:08,800\r\nHe completed the race in 41 minutes and one second and claimed the top spot in the men's division.\r\n他以 41 分 01 秒的成绩完成了比赛，夺得男子组冠军。\r\n\r\n13\r\n00:01:09,420 --> 00:01:13,200\r\nBerse won third place in the 2022 race.\r\n伯塞曾在 2022 年的比赛中获得第三名。\r\n\r\n14\r\n00:01:13,760 --> 00:01:16,180\r\nHe is a student at Marathon High School.\r\n他是马拉松高中的一名学生。\r\n\r\n15\r\n00:01:16,180 --> 00:01:24,180\r\nJoanna Stevens, 28, of Atlanta, completed the course in 41 minutes and 12 seconds.\r\n来自亚特兰大、28 岁的乔安娜·史蒂文斯以 41 分 12 秒的成绩完成了赛程。\r\n\r\n16\r\n00:01:25,080 --> 00:01:29,040\r\nShe won the Women's Division title and placed second overall.\r\n她赢得了女子组冠军，并在总排名中位列第二。\r\n\r\n17\r\n00:01:29,640 --> 00:01:33,820\r\nThe race drew competitors from 41 US states.\r\n这场比赛吸引了来自美国 41 个州的参赛者。\r\n\r\n18\r\n00:01:34,380 --> 00:01:40,220\r\nThere were also runners from other countries, including Canada, the UK and Switzerland.\r\n还有来自其他国家的选手，包括加拿大、英国和瑞士。\r\n\r\n19\r\n00:01:40,220 --> 00:01:47,940\r\nThe run closed the span between the middle and lower keys to traffic for three hours Saturday.\r\n周六，比赛使得中部礁岛和下部礁岛之间的路段禁行了三个小时。\r\n\r\n20\r\n00:01:48,820 --> 00:01:54,920\r\nThe April contest is one of the most popular running events in the South Eastern United States.\r\n这项四月份的赛事是美国东南部最受欢迎的跑步活动之一。\r\n\r\n21\r\n00:01:55,340 --> 00:02:00,820\r\nThe race field filled within minutes after online registration opened in January.\r\n自一月份开启在线报名后，名额在几分钟内就被填满了。\r\n\r\n22\r\n00:02:02,520 --> 00:02:06,940\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n问题 1 和 2 是基于你刚刚听到的新闻报道。\r\n\r\n23\r\n00:02:07,540 --> 00:02:08,380\r\nQuestion 1.\r\n问题 1。\r\n\r\n24\r\n00:02:08,380 --> 00:02:13,860\r\nWhat does the news report say about Vaclav Berse and Joanna Stevens?\r\n新闻报道中关于瓦茨拉夫·伯塞和乔安娜·史蒂文斯提到了什么？\r\n\r\n25\r\n00:02:28,260 --> 00:02:33,240\r\nQuestion 2. What do we learn about the April contest?\r\n问题 2。关于这项四月份的赛事，我们了解到了什么？\r\n\r\n26\r\n00:02:47,920 --> 00:02:56,480\r\nNews Report 2. British Astronaut Tim Peake is stepping down permanently from his role as a European\r\n新闻报道 2。英国宇航员蒂姆·皮克将永久卸任其作为欧洲\r\n \r\n27\r\n00:02:56,480 --> 00:03:02,940\r\nastronaut. He's going to take up a full-time position as Ambassador for Science and Space\r\n宇航员的职务。他将转而担任科学与太空大使的全职职位，\r\n\r\n28\r\n00:03:02,940 --> 00:03:10,980\r\ninstead. Work he's been doing since 2019. The former British Army Air Corps helicopter pilot\r\n这是他自 2019 年以来一直在做的工作。这位前英国陆军航空兵直升机飞行员\r\n\r\n29\r\n00:03:10,980 --> 00:03:18,520\r\nwas selected as a European Space Agency astronaut in 2009. He flew to the Space Station\r\n于 2009 年入选欧洲航天局宇航员。他于 2015 年飞往空间站，\r\n\r\n30\r\n00:03:18,520 --> 00:03:27,280\r\nfor a six-month tour in 2015. The tour saw him control a robot on Earth remotely from orbit.\r\n进行了为期六个月的任务。在任务期间，他在轨道上远程控制了地球上的机器人。\r\n\r\n31\r\n00:03:27,280 --> 00:03:30,300\r\nHe also helped dock two spacecraft.\r\n他还协助了两艘航天器的对接。\r\n\r\n32\r\n00:03:31,180 --> 00:03:35,740\r\nTim said, being an astronaut has been the most extraordinary experience.\r\n蒂姆说，成为一名宇航员是一次极其不平凡的经历。\r\n\r\n33\r\n00:03:36,580 --> 00:03:41,720\r\nI've had the privilege of working with an exceptional team of individuals during the past\r\n在过去的 13 年里，我有幸在航天局与一个非常优秀的团队\r\n\r\n34\r\n00:03:41,720 --> 00:03:43,360\r\n13 years with the agency.\r\n共同工作。\r\n\r\n35\r\n00:03:43,940 --> 00:03:47,080\r\nIt has been incredibly exciting and rewarding.\r\n这非常令人兴奋且收获颇丰。\r\n\r\n36\r\n00:03:47,760 --> 00:03:53,600\r\nBy assuming the role of an ambassador for human flights to space, I'll continue to support\r\n通过担任载人航天大使这一角色，我将继续支持\r\n\r\n37\r\n00:03:53,600 --> 00:03:58,040\r\nthe European and the UK Space Agencies.\r\n欧洲和英国的航天局。\r\n\r\n38\r\n00:03:58,480 --> 00:04:02,620\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n问题 3 和 4 是基于你刚刚听到的新闻报道。\r\n\r\n39\r\n00:04:03,180 --> 00:04:08,080\r\nQuestion 3. What do we learn from the news report about Tim Peake?\r\n问题 3。从新闻报道中我们了解到了关于蒂姆·皮克的什么信息？\r\n\r\n40\r\n00:04:22,400 --> 00:04:29,180\r\nQuestion 4. What does Tim Peake say about his work with the European Space Agency?\r\n问题 4。蒂姆·皮克如何评价他在欧洲航天局的工作？\r\n\r\n41\r\n00:04:43,720 --> 00:04:45,620\r\nNews Report 3.\r\n新闻报道 3。\r\n\r\n42\r\n00:04:46,440 --> 00:04:53,280\r\nAn Asda store in Wales is now home to five cats, after they wandered in and made themselves\r\n威尔士的一家阿斯达（Asda）超市现在成了五只猫的家，它们在溜进超市后\r\n\r\n43\r\n00:04:53,280 --> 00:04:53,900\r\ncomfortable.\r\n生活得很惬意。\r\n\r\n44\r\n00:04:54,840 --> 00:05:00,440\r\nThe supermarket is known for its loyal customers, but now has a different kind of visitor\r\n这家超市以其忠实的顾客而闻名，但现在却有了一种在过去一年里\r\n\r\n45\r\n00:05:00,440 --> 00:05:03,100\r\nthat has appeared over the last year.\r\n不断出现的另类“访客”。\r\n\r\n46\r\n00:05:03,100 --> 00:05:11,400\r\nRegular shoppers at the supermarket are familiar with the sight of several cats, settling down in the shop aisles.\r\n经常光顾这家超市的顾客对几只猫在商店走廊里安顿下来的景象已经习以为常了。\r\n\r\n47\r\n00:05:12,240 --> 00:05:19,660\r\nThe unusual situation started about 12 months ago, when one cat routinely started visiting the store.\r\n这种情况始于大约 12 个月前，当时有一只猫开始经常光顾这家店。\r\n\r\n48\r\n00:05:20,540 --> 00:05:28,660\r\nLocal newspapers reported that puzzled customers posted on Facebook groups to try to find out if the cat was lost.\r\n当地报纸报道称，困惑的顾客在 Facebook 群组里发帖，试图弄清楚这只猫是否走失了。\r\n\r\n49\r\n00:05:28,660 --> 00:05:35,080\r\nBut its owner assured the concerned customers, it was very much loved and fed at home.\r\n但猫的主人向关心的顾客保证，它在家里非常受宠，且有充足的食物。\r\n\r\n50\r\n00:05:35,660 --> 00:05:37,960\r\nIt just enjoyed visiting the shop.\r\n它只是喜欢逛店而已。\r\n\r\n51\r\n00:05:39,020 --> 00:05:44,380\r\nStaff did their best to discourage the pet from hanging around, but instead of leaving\r\n工作人员尽力阻止宠物在店里逗留，但它不仅没有离开\r\n\r\n52\r\n00:05:44,380 --> 00:05:48,300\r\nand never coming back, it invited its friends around.\r\n再也不回来，反而邀请了它的朋友们过来。\r\n\r\n53\r\n00:05:49,100 --> 00:05:54,240\r\nThere are now at least five different cats who come almost on a daily basis.\r\n现在至少有五只不同的猫几乎每天都会来。\r\n\r\n54\r\n00:05:54,240 --> 00:06:01,140\r\nThey visit the store so much that staff have been forced to put up signs, asking their\r\n由于它们来得太频繁，工作人员不得不贴出告示，要求\r\n\r\n55\r\n00:06:01,140 --> 00:06:03,040\r\ncustomers not to feed them.\r\n顾客不要喂食它们。\r\n\r\n56\r\n00:06:30,460 --> 00:06:37,700\r\nQuestion 6. What did some customers think when they saw the first cat routinely appear\r\n问题 6。当一些顾客看到第一只猫经常出现在店里时，他们是怎么想的？\r\n\r\n57\r\n00:06:37,700 --> 00:06:38,640\r\nin the store?\r\n \r\n\r\n58\r\n00:05:52,740 --> 00:06:57,620\r\nQuestion 7. What are customers asked not to do?\r\n问题 7。顾客被要求不要做什么？",
+  "conversations_transcript": "1\r\n00:00:02,119 --> 00:00:12,940\r\nSection B, Directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions.\r\n第二节，说明。在本节中，你将听到两段长对话。在每段对话结束时，你将听到四个问题。\r\n\r\n2\r\n00:00:13,640 --> 00:00:22,380\r\nBoth the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices,\r\n对话和问题都只播放一遍。听完问题后，你必须从四个选项中选出最佳答案，\r\n\r\n3\r\n00:00:22,380 --> 00:00:32,520\r\nMark the A, B, C, and D. Then mark the corresponding letter on Answer Sheet 1 with a single line through the center.\r\n选项标记为 A、B、C 和 D。然后在答题卡 1 上相应的字母中心划一条单线进行涂黑。\r\n\r\n4\r\n00:00:34,060 --> 00:00:35,420\r\nConversation 1\r\n对话 1\r\n\r\n5\r\n00:00:35,420 --> 00:00:39,260\r\nI've been thinking about moving off campus next semester.\r\n我一直在考虑下学期搬到校外去住。\r\n\r\n6\r\n00:00:40,220 --> 00:00:42,300\r\nHmm, I don't know if that's a good idea.\r\n嗯，我不知道这是否是个好主意。\r\n\r\n7\r\n00:00:42,820 --> 00:00:48,740\r\nAs your mother and I would worry about you living all by yourself in an apartment so far from home.\r\n我和你妈会担心你一个人住在离家那么远的公寓里。\r\n\r\n8\r\n00:00:48,740 --> 00:00:53,040\r\nAnd then there's the expense too. I'm not sure we can afford it.\r\n而且还有开销问题。我不确定我们是否负担得起。\r\n\r\n9\r\n00:00:53,560 --> 00:00:55,640\r\nWell, I wouldn't be alone actually.\r\n嗯，其实我不是一个人住。\r\n\r\n10\r\n00:00:56,180 --> 00:01:00,000\r\nThree of my friends from the dormitory would share the place with me.\r\n宿舍里的三个朋友会和我合租。\r\n\r\n11\r\n00:01:00,400 --> 00:01:04,459\r\nAnd with four of us, it wouldn't cost anymore than living in the dorm.\r\n我们四个人一起分担，费用不会比住校内宿舍多。\r\n\r\n12\r\n00:01:05,180 --> 00:01:06,540\r\nAre you sure about that?\r\n你确定吗？\r\n\r\n13\r\n00:01:06,780 --> 00:01:11,160\r\nRents in big cities are high, and then there's the cost of electricity and gas.\r\n大城市的房租很高，而且还有电费和燃气费。\r\n\r\n14\r\n00:01:11,460 --> 00:01:13,040\r\nHave you factored those in?\r\n你把这些都考虑进去了吗？\r\n\r\n15\r\n00:01:13,320 --> 00:01:17,220\r\nWe've budgeted for those, and for internet and transportation.\r\n我们已经把这些预算进去了，还有网费和交通费。\r\n\r\n16\r\n00:01:17,820 --> 00:01:24,120\r\nAnd, if we move far enough from the city center, the rent is low enough for us to afford\r\n而且，如果我们搬到离市中心足够远的地方，房租就低到我们可以负担\r\n \r\n17\r\n00:01:24,120 --> 00:01:25,140\r\nall of it.\r\n所有费用。\r\n\r\n18\r\n00:01:25,460 --> 00:01:27,580\r\nWhat about the commutes to and from campus?\r\n那往返学校的通勤呢？\r\n\r\n19\r\n00:01:28,060 --> 00:01:32,680\r\nIt sounds like you'll be wasting several hours every day on the road instead of studying.\r\n听起来你每天会把好几个小时浪费在路上，而不是学习。\r\n\r\n20\r\n00:01:33,400 --> 00:01:38,160\r\nIt's about an hour to campus, but there's no reason I can't study on the bus.\r\n去学校大约需要一小时，但我没理由不能在公交车上学习。\r\n\r\n21\r\n00:01:38,680 --> 00:01:43,720\r\nAfter all, I did that during high school, and my commute was even longer then.\r\n毕竟我高中时就是这么做的，那时的通勤时间甚至更长。\r\n\r\n22\r\n00:01:43,720 --> 00:01:50,900\r\nThat's true, but I'm not sure why you want to leave campus and go through all that trouble when the cost is the same.\r\n这倒是事实，但我不确定既然花费一样，你为什么想搬离校区去费那个劲。\r\n\r\n23\r\n00:01:51,300 --> 00:02:05,060\r\nFor a lot of reasons, we'd have a kitchen so we could cook ourselves, and we'd each have our own bedroom, where we could study, instead of going to the library, we'd just have more space and privacy.\r\n有很多原因，我们会有厨房可以自己做饭，而且每个人都有独立的卧室可以学习，不用再去图书馆，我们的空间和隐私会更多。\r\n\r\n24\r\n00:02:05,840 --> 00:02:11,600\r\nI'm not convinced that the benefits are greater than the disadvantages, but I'll discuss this with you another time.\r\n我并不觉得利大于弊，但我会再找时间跟你讨论这个。\r\n\r\n25\r\n00:02:11,600 --> 00:02:17,380\r\nQuestions 8-11 are based on the conversation you have just heard.\r\n问题 8-11 是基于你刚刚听到的对话。\r\n\r\n26\r\n00:02:18,300 --> 00:02:23,360\r\nQuestion 8. What has the woman been thinking of doing next semester?\r\n问题 8。这位女士一直在考虑下学期做什么？\r\n\r\n27\r\n00:02:37,540 --> 00:02:42,920\r\nQuestion 9. What does the man suggest the woman take into consideration?\r\n问题 9。这位男士建议女士考虑什么？\r\n\r\n28\r\n00:02:57,580 --> 00:03:04,140\r\nQuestion 10. What does the woman say she did during high school?\r\n问题 10。这位女士说她高中时做了什么？\r\n\r\n29\r\n00:03:16,640 --> 00:03:21,980\r\nQuestion 11. What does the man say he'll do at the end of the conversation?\r\n问题 11。这位男士在对话结束时说他会做什么？\r\n\r\n30\r\n00:03:37,880 --> 00:03:42,480\r\nGood morning. I'm looking for a present for my nephew, Lawrence.\r\n早上好。我想给我的侄子劳伦斯挑一件礼物。\r\n\r\n31\r\n00:03:43,200 --> 00:03:45,480\r\nHi. Do you have anything in mind?\r\n你好。你有什么心仪的选项吗？\r\n\r\n32\r\n00:03:45,480 --> 00:03:52,320\r\nI'm not sure. No. Do you know what boys aged around 10 typically like?\r\n不确定。不知道。你知道 10 岁左右的男孩通常喜欢什么吗？\r\n\r\n33\r\n00:03:53,140 --> 00:03:58,560\r\nFor that age group, our biggest seller this year has been this action figure. It's called\r\n针对那个年龄段，我们今年卖得最好的是这个动作玩偶。它叫\r\n \r\n34\r\n00:03:58,560 --> 00:04:01,000\r\nBobo Man and it's incredibly popular.\r\n“波波超人（Bobo Man）”，它非常受欢迎。\r\n\r\n35\r\n00:04:01,460 --> 00:04:02,600\r\nDoes it do anything?\r\n它有什么功能吗？\r\n\r\n36\r\n00:04:03,200 --> 00:04:09,040\r\nNot by itself. It has no batteries if that's what you mean. There's a Bobo Man cartoon,\r\n它自己不会动。如果你是指这个的话，它不需要电池。有一部《波波超人》动画片，\r\n \r\n37\r\n00:04:09,040 --> 00:04:14,500\r\npopular amongst young children you see, and this toy is the lead character from the show.\r\n在小孩子里很流行，这个玩具就是剧中的主角。\r\n\r\n38\r\n00:04:15,200 --> 00:04:21,620\r\nOh, I understand now. I've never heard of it, but I do know little Lawrence loves cartoons.\r\n噢，我明白了。我没听说过这个，但我确实知道小劳伦斯爱看动画片。\r\n\r\n39\r\n00:04:22,560 --> 00:04:26,540\r\nDo you have any other popular toys? Perhaps something educational?\r\n你还有其他受欢迎的玩具吗？也许是一些有教育意义的？\r\n\r\n40\r\n00:04:27,360 --> 00:04:32,500\r\nYes, of course. Right over here we have dozens of puzzles for children of all ages.\r\n当然有。这边有几十种适合各年龄段孩子的拼图。\r\n\r\n41\r\n00:04:33,140 --> 00:04:38,840\r\nThey are fun, great for exercising the mind, and can be played either alone or in groups.\r\n它们很有趣，能锻炼大脑，既可以一个人玩，也可以成群玩。\r\n\r\n42\r\n00:04:38,840 --> 00:04:45,720\r\nI like this sort of idea. Lawrence has a sister who is slightly older, so maybe a game\r\n我喜欢这种想法。劳伦斯有一个大一点的姐姐，所以也许一个\r\n \r\n43\r\n00:04:45,720 --> 00:04:47,740\r\nthat they can play together would be good.\r\n能让他们一起玩的游戏会很好。\r\n\r\n44\r\n00:04:48,600 --> 00:04:53,660\r\nWhat do you think of battleships then? It's a total classic. It has been around since\r\n那你觉得“海战棋（Battleships）”怎么样？这绝对是经典。它从\r\n \r\n45\r\n00:04:53,660 --> 00:04:55,420\r\nthe 1930s.\r\n20世纪30年代就有了。\r\n\r\n46\r\n00:04:55,600 --> 00:04:58,260\r\nOh yeah, we had one of those when growing up.\r\n噢，对，我们小时候就玩过那个。\r\n\r\n47\r\n00:04:58,600 --> 00:05:04,620\r\nOf course you did. Everyone did. And kids enjoy it just as much today as you and I did\r\n当然玩过，大家都玩过。现在的孩子和我们小时候一样喜欢它。\r\n \r\n48\r\n00:05:04,620 --> 00:05:07,940\r\nwhen we were young. Some games just never get old.\r\n有些游戏永远不会过时。\r\n\r\n49\r\n00:04:07,940 --> 00:05:15,740\r\nI suppose you are right. I have fond memories playing battleship when it was raining outside and we had to stay indoors.\r\n我想你是对的。我有很多美好的回忆，以前下雨天待在室内就玩海战棋。\r\n\r\n50\r\n00:05:15,740 --> 00:05:18,460\r\nThat's decided then. How much?\r\n那就定这个了。多少钱？\r\n\r\n51\r\n00:05:19,340 --> 00:05:21,880\r\n19 pounds and 90 pence please.\r\n请付 19 英镑 90 便士。\r\n\r\n52\r\n00:05:22,280 --> 00:05:25,520\r\nThere you are. Have a nice day. Thank you. You too.\r\n给你。祝你有愉快的一天。谢谢，你也是。\r\n\r\n53\r\n00:05:26,360 --> 00:05:31,159\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n问题 12-15 是基于你刚刚听到的对话。\r\n\r\n54\r\n00:05:31,600 --> 00:05:34,500\r\nQuestion 12. What is the woman doing?\r\n问题 12。这位女士正在做什么？\r\n\r\n55\r\n00:05:48,620 --> 00:05:50,060\r\nQuestion 13.\r\n问题 13。\r\n\r\n56\r\n00:05:50,920 --> 00:05:54,600\r\nHow does the man describe Bobo Man the action figure?\r\n这位男士如何描述“波波超人”动作玩偶？\r\n\r\n57\r\n00:06:08,800 --> 00:06:14,920\r\nQuestion 14. What kind of game does the woman think would be good for Lawrence?\r\n问题 14。这位女士认为什么样的游戏对劳伦斯有好处？\r\n\r\n58\r\n00:06:28,920 --> 00:06:35,060\r\nQuestion 15. What do we learn from the conversation about the game battleships?\r\n问题 15。关于海战棋游戏，我们从对话中了解到了什么？",
+  "passages_transcript": "没问题，这是为您翻译并整理后的 SRT 对照格式。这部分包含大学英语四级（CET-4）听力理解第三部分（Section C）的三篇短文及其问题：\r\n\r\n---\r\n\r\n1\r\n00:00:01,180 --> 00:00:16,880\r\nSection C, directions. In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n第三节，说明。在本节中，你将听到三篇短文。在每篇短文结束时，你将听到三到四个问题。短文和问题都只播放一遍。\r\n\r\n2\r\n00:00:16,880 --> 00:00:32,280\r\nAfter you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on Answer Sheet 1 with a single line through the center.\r\n听完问题后，你必须从标记为 A、B、C 和 D 的四个选项中选出最佳答案。然后在答题卡 1 上相应的字母中心划一条单线进行涂黑。\r\n\r\n3\r\n00:00:33,540 --> 00:00:40,780\r\nPassage 1. We assume that if we offer our customers more choices, then they'll be more likely to buy our products.\r\n短文 1。我们假设如果向顾客提供更多选择，他们就更有可能购买我们的产品。\r\n\r\n4\r\n00:00:40,780 --> 00:00:47,840\r\nBut here's the paradox of choice. If a person is presented with too many choices, they are actually less likely to buy.\r\n但这就是“选择悖论”：如果一个人面对太多的选择，他们实际购买的可能性反而会降低。\r\n\r\n5\r\n00:00:47,840 --> 00:00:55,300\r\nIn 2012, psychologists published a study about jams. On a regular day at a local food market,\r\n2012 年，心理学家发表了一项关于果酱的研究。在当地食品市场的一个普通日子里，\r\n\r\n6\r\n00:00:55,300 --> 00:01:02,400\r\npeople would find a display table with 24 different kinds of jams.\r\n人们会看到一个摆放着 24 种不同果酱的展示台。\r\n\r\n7\r\n00:01:02,400 --> 00:01:10,060\r\nThen, on another day, at that same food market, people were given only six different types of jam choices.\r\n然后，在另一天，在同一个市场，人们只得到了 6 种不同果酱的选择。\r\n\r\n8\r\n00:01:10,060 --> 00:01:17,240\r\nGuess which display table led to more sales? The study found that while the bigger display table created more interest,\r\n猜猜哪个展示台带来的销量更多？研究发现，虽然较大的展示台引起了更多关注，\r\n\r\n9\r\n00:01:17,240 --> 00:01:23,180\r\npeople were almost 10 times less likely to purchase a jar of jam than in the case of the smaller display.\r\n但人们购买果酱的可能性比在较小展示台的情况下低了近 10 倍。\r\n\r\n10\r\n00:01:23,180 --> 00:01:30,200\r\nCustomer satisfaction takes a hit as well. In the study, the bigger display of jams leads to lower customer satisfaction than the smaller display.\r\n顾客满意度也受到了影响。研究中，果酱展示越多，顾客的满意度反而比展示少时更低。\r\n\r\n11\r\n00:01:30,200 --> 00:01:37,020\r\nIn an extensive study published in 2015, researchers analyzed a total of 99 choice studies\r\n在 2015 年发表的一项广泛研究中，研究人员分析了总共 99 项关于选择的研究，\r\n\r\n12\r\n00:01:37,020 --> 00:01:44,140\r\nand specifically looked at those cases in which reducing choices helped to boost sales.\r\n并专门研究了那些减少选择有助于提高销量的案例。\r\n\r\n13\r\n00:01:44,140 --> 00:01:51,460\r\nThey found four rules that motivate consumers to buy: when people want to make a quick and easy choice,\r\n他们发现了促使消费者购买的四条规则：当人们想要做出快速简便的选择时；\r\n\r\n14\r\n00:01:51,460 --> 00:01:58,940\r\nwhen the product is complex, when it's difficult to compare alternatives and when consumers don't have clear preferences.\r\n当产品很复杂时；当难以比较替代品时；以及当消费者没有明确偏好时。\r\n\r\n15\r\n00:01:58,940 --> 00:02:15,040\r\nSo as you can see, when it comes to choices, less is more.\r\n所以如你所见，在选择这件事上，少即是多。\r\n\r\n16\r\n00:02:15,720 --> 00:02:26,500\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n问题 16 至 18 是基于你刚刚听到的短文。\r\n\r\n17\r\n00:02:21,180 --> 00:02:26,500\r\nQuestion 16. What do we learn from the passage about the paradox of choice?\r\n问题 16。关于“选择悖论”，我们从短文中了解到了什么？\r\n\r\n18\r\n00:02:40,220 --> 00:02:48,260\r\nQuestion 17. What did the psychologists want to find out in their 2012 study about Jams?\r\n问题 17。心理学家在 2012 年关于果酱的研究中想探究什么？\r\n\r\n19\r\n00:03:02,020 --> 00:03:08,740\r\nQuestion 18. What is the finding of an extensive study published in 2015?\r\n问题 18。2015 年发表的那项广泛研究的发现是什么？\r\n\r\n20\r\n00:03:23,600 --> 00:03:30,120\r\nPassage 2. The New Year has come and gone, and many may have already forgotten what they had resolved to do on January 1.\r\n短文 2。新年来了又走，许多人可能已经忘记了他们在 1 月 1 日下定的决心。\r\n\r\n21\r\n00:03:30,120 --> 00:03:38,640\r\nBut if that resolution was to volunteer more, now is the best time to start.\r\n但如果那个决心是多做志愿者，那么现在就是开始的最佳时机。\r\n\r\n22\r\n00:03:39,720 --> 00:03:46,220\r\nVolunteering can drop after the holiday season, and by February, some organizations lack the volunteers they had in surplus just a month ago.\r\n假期过后，志愿服务可能会减少。到了二月，一些机构甚至缺乏一个月前还过剩的志愿者。\r\n\r\n23\r\n00:03:50,580 --> 00:03:57,820\r\nAccording to one survey, only 26% of Americans volunteer, despite reports that many Americans view volunteering as worthwhile.\r\n根据一项调查，只有 26% 的美国人参加志愿活动，尽管有报道称许多美国人认为志愿服务是值得的。\r\n\r\n24\r\n00:04:00,800 --> 00:04:02,140\r\nWhy such a disconnect?\r\n为什么会有这样的脱节？\r\n\r\n25\r\n00:04:02,960 --> 00:04:07,360\r\nMost people cite time and conflicting work schedules as major barriers.\r\n大多数人将时间限制和工作安排冲突列为主要障碍。\r\n\r\n26\r\n00:04:08,220 --> 00:04:13,820\r\nBut employees and employers would actually benefit if companies made employee volunteering part of the job.\r\n但如果公司将员工志愿服务作为工作的一部分，员工和雇主实际上都会受益。\r\n\r\n27\r\n00:04:13,820 --> 00:04:21,079\r\nResearchers have found donating our time and talent to others can lower blood pressure, boost happiness, and improve mental and physical health.\r\n研究人员发现，向他人捐赠时间和才华可以降低血压，提升幸福感，并改善身心健康。\r\n\r\n28\r\n00:04:25,740 --> 00:04:31,200\r\nStudies have also linked employee volunteer programs with more productive employees.\r\n研究还将员工志愿服务计划与更高的生产力联系起来。\r\n\r\n29\r\n00:04:32,020 --> 00:04:38,900\r\nWith so much emphasis on employee wellness these days, company volunteer programs could be the perfect 2025 resolution.\r\n现在大家如此强调员工福祉，公司志愿服务计划可能是 2025 年完美的决心目标。\r\n\r\n30\r\n00:04:38,900 --> 00:04:46,820\r\nBut for volunteering to benefit employees and the workplace, the entire organization needs to be involved.\r\n但为了让志愿服务惠及员工和职场，整个组织都需要参与其中。\r\n\r\n31\r\n00:04:46,820 --> 00:04:53,640\r\nBy allowing employees to donate their time during work hours, the workplace becomes an outlet for personal fulfillment, without affecting personal time.\r\n通过允许员工在工作时间内捐赠时间，职场变成了个人成就感的出口，且不占用个人时间。\r\n\r\n32\r\n00:05:00,340 --> 00:05:07,100\r\nIn one survey, 89% of employees perceived companies that sponsored volunteer activities as creating a better working environment.\r\n在一次调查中，89% 的员工认为赞助志愿活动的公司创造了更好的工作环境。\r\n\r\n33\r\n00:05:10,520 --> 00:05:15,200\r\nAnd 75% said volunteering was critical to their well-being.\r\n75% 的人表示志愿服务对他们的福祉至关重要。\r\n\r\n34\r\n00:05:16,360 --> 00:05:22,640\r\nQuestions 19-21 are based on the passage you have just heard.\r\n问题 19 至 21 是基于你刚刚听到的短文。\r\n\r\n35\r\n00:05:23,460 --> 00:05:26,240\r\nQuestion 19. What do many Americans think of volunteering?\r\n问题 19。许多美国人如何看待志愿服务？\r\n\r\n36\r\n00:05:40,040 --> 00:05:48,120\r\nQuestion 20. How could companies ensure both employees and employers benefit from volunteering?\r\n问题 20。公司如何确保员工和雇主都能从志愿服务中受益？\r\n\r\n37\r\n00:06:01,920 --> 00:06:10,000\r\nQuestion 21. What did 75% of employees say about volunteering in a survey?\r\n问题 21。在一次调查中，75% 的员工关于志愿服务说了什么？\r\n\r\n38\r\n00:06:24,320 --> 00:06:25,860\r\nPassage 3\r\n短文 3\r\n\r\n39\r\n00:06:25,860 --> 00:06:34,100\r\nThe vast majority of the UK's 200,000 tonnes of retail sector annual food waste comes from supermarkets.\r\n英国零售业每年产生的 20 万吨食物浪费中，绝大部分来自超市。\r\n\r\n40\r\n00:06:34,100 --> 00:06:39,900\r\nBut it's a problem that impacts independent luxury food suppliers too.\r\n但这也是一个影响独立高级食品供应商的问题。\r\n\r\n41\r\n00:06:40,200 --> 00:06:41,520\r\nThe scale is small. It's estimated at less than 1% of the UK's food waste total.\r\n虽然规模较小，估计不到英国食物浪费总量的 1%。\r\n\r\n42\r\n00:06:48,040 --> 00:06:51,220\r\nBut the quality from these suppliers is high.\r\n但这些供应商提供的产品质量很高。\r\n\r\n43\r\n00:06:51,780 --> 00:06:57,740\r\nEverything, from specialist cheeses to sought-after coffee beans, gets thrown away every day in the current food system.\r\n在目前的食品体系中，从特制奶酪到备受青睐的咖啡豆，每天都有各种产品被扔掉。\r\n\r\n44\r\n00:06:59,760 --> 00:07:04,840\r\nThis is where French entrepreneur Sophie Andre comes in.\r\n这就是法国企业家索菲·安德烈发挥作用的地方。\r\n\r\n45\r\n00:07:05,220 --> 00:07:12,440\r\nIn 2016, she moved to London and began by setting up a business delivering luxury handmade food across the city.\r\n2016 年，她搬到伦敦，开始创办一家在全市配送高级手工食品的公司。\r\n\r\n46\r\n00:07:14,720 --> 00:07:18,120\r\n\"Food delivery seems to be a big thing here,\" she says.\r\n她说：“送餐服务在这里似乎是一件大事。”\r\n\r\n47\r\n00:07:18,720 --> 00:07:21,720\r\n\"So, I started delivering products by bicycle.\"\r\n“于是，我开始用自行车配送产品。”\r\n\r\n48\r\n00:07:22,300 --> 00:07:27,660\r\nTalking with local producers, I learned that a small part of the production is sometimes wasted due to problems with size or shape,\r\n通过与当地生产商交谈，我了解到有时一小部分产品会因为尺寸或形状问题被浪费，\r\n\r\n49\r\n00:07:27,660 --> 00:07:33,960\r\nbut the quality of the products remains unchanged.\r\n但产品的品质保持不变。\r\n\r\n50\r\n00:07:35,100 --> 00:07:40,940\r\nUnlike many food waste projects that have sprung up in recent years, the idea is not simply to redistribute waste food but to provide a high-quality product.\r\n与近年来涌现的许多食物浪费项目不同，她的想法不仅仅是重新分配浪费的食物，而是提供高质量的产品。\r\n\r\n51\r\n00:07:45,620 --> 00:07:51,840\r\nAndre's company, Elisia, offers breakfast and snacks specifically aimed at business meetings and events.\r\n安德烈的公司 Elisia 提供专门针对商务会议和活动的早餐和零食。\r\n\r\n52\r\n00:07:52,860 --> 00:08:00,740\r\nElisia uses waste products to create simple, natural, straightforward meals and snacks.\r\nElisia 利用（因外观等原因产生的）剩余产品来制作简单、天然、直接的膳食和零食。\r\n\r\n53\r\n00:08:01,500 --> 00:08:04,700\r\nPerhaps unlike other waste food, the supply is regular.\r\n也许与其他浪费的食物不同，这种供应是定期的。\r\n\r\n54\r\n00:08:05,620 --> 00:11:00,600\r\nSuppliers will always have a certain amount of surplus, so the menus remain regular too. Andre believes this benefits both her business and her customers.\r\n供应商总会有一定数量的余量，因此菜单也能保持固定。安德烈认为这不仅有利于她的生意，也有利于她的顾客。\r\n\r\n55\r\n00:08:16,820 --> 00:08:21,920\r\nQuestions 22-25 are based on the passage you have just heard.\r\n问题 22 至 25 是基于你刚刚听到的短文。\r\n\r\n56\r\n00:08:21,920 --> 00:08:28,380\r\nQuestion 22. What do we learn about the UK's retail sector food waste?\r\n问题 22。关于英国零售业的食物浪费，我们了解到了什么？\r\n\r\n57\r\n00:08:42,640 --> 00:08:48,360\r\nQuestion 23. What does Sophie Andre's business do in London?\r\n问题 23。索菲·安德烈的公司在伦敦从事什么业务？\r\n\r\n58\r\n00:09:02,080 --> 00:09:10,500\r\nQuestion 24. In what way does Sophie Andre's business differ from many food waste projects?\r\n问题 24。索菲·安德烈的公司在哪些方面与许多食物浪费项目不同？\r\n\r\n59\r\n00:09:24,360 --> 00:09:30,720\r\nQuestion 25. Why will suppliers always have a certain amount of surplus?\r\n问题 25。为什么供应商总会有一定数量的余量？\r\n\r\n60\r\n00:09:44,760 --> 00:09:47,000\r\nThat's the end of listening comprehension.\r\n听力理解部分到此结束。",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "",
+  "passages_transcript_zh": ""
+}

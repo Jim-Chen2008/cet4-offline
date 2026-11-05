@@ -1,0 +1,682 @@
+{
+  "id": 32,
+  "exam": 32,
+  "exam_details": {
+    "id": 32,
+    "title": "2021年12月四级真题第3套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2021,
+    "month": 12,
+    "version": "三",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-27T10:11:58.510000+08:00",
+    "updated_at": "2025-04-27T10:11:58.510000+08:00",
+    "exam_id": 32,
+    "submission_count": 0,
+    "cet_content_id": 32,
+    "has_draft": true
+  },
+  "created_at": "2025-04-27T10:16:42.907000+08:00",
+  "updated_at": "2025-12-08T21:04:47.953619+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. She was pierced by a chicken bone.",
+              "B. She was coughing all the time.",
+              "C. She suffered from lung cancer.",
+              "D. She suffered from shock."
+            ],
+            "question": "What was the woman's problem?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. By eating chicken soup daily.",
+              "B. Through regular exercising.",
+              "C. Through a surgical operation.",
+              "D. By using traditional Chinese medicine."
+            ],
+            "question": "How was the woman's problem eventually solved?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. It was born 13 years ago.",
+              "B. It was Alice Gray's lovely pet.",
+              "C. It got injured in a big bushfire.",
+              "D. It ran away into a nearby forest."
+            ],
+            "question": "What does the news report say about the white sheep Prickles?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. They rebuilt the fencing around their farm.",
+              "B. They spent seven years replanting their farm.",
+              "C. They claimed damages for their heavy losses.",
+              "D. They installed a camera to monitor sheep activity."
+            ],
+            "question": "What did the family do after the bush fires?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. The disappearance of some gold and diamonds.",
+              "B. The transfer of tons of precious metal by air.",
+              "C. The crash of a Russian cargo airplane.",
+              "D. The loss of gold from an airplane."
+            ],
+            "question": "What is the news report mainly about?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. It made an emergency landing.",
+              "B. It informed the local police at once.",
+              "C. It contacted the goldmine company.",
+              "D. It had a crew member fix the problem."
+            ],
+            "question": "What do the aircraft do when the incident happened?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. They will cooperate with the police.",
+              "B. They had checked the plane carefully.",
+              "C. They will be questioned by the police.",
+              "D. They took some gold bars and diamonds."
+            ],
+            "question": "What does the news reports say about the technical engineers who worked on the plane before takeoff?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. For the company's records.",
+              "B. For future training purposes.",
+              "C. To follow the company's rule.",
+              "D. To ensure information security."
+            ],
+            "question": "Why does the man have his conversation with the woman recorded?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. To check her customer reference number.",
+              "B. To inquire about the price of office chairs.",
+              "C. To get her money back for the returned chair.",
+              "D. To make complaints about its customer service."
+            ],
+            "question": "What is the woman's purpose of calling the furniture company?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. She had to update its information.",
+              "B. She forgot where she had left it.",
+              "C. She lost it about three days ago.",
+              "D. She was issued a new card."
+            ],
+            "question": "What does the woman say about her bank card?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Reconsider her options for payment methods.",
+              "B. Make a specific note on the company's system.",
+              "C. Update her bank card details on the company's website.",
+              "D. Upload her personal information to the company's website."
+            ],
+            "question": "What does the man advise the woman to do?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. He is feeling exhausted.",
+              "B. He is tired of cooking.",
+              "C. He has to work late.",
+              "D. He wants to try Asian foods."
+            ],
+            "question": "Why isn't the man going to cook?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Book a table.",
+              "B. Order a delivery.",
+              "C. Download a menu.",
+              "D. Locate a restaurant."
+            ],
+            "question": "What does the man say he'll do on his phone?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. It is not tasty.",
+              "B. It is not healthy.",
+              "C. It is too oily.",
+              "D. It is too spicy."
+            ],
+            "question": "What does the woman think of Indian food?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. She is too concerned about money.",
+              "B. She is too weight-conscious.",
+              "C. She is too picky about food.",
+              "D. She is too eager to please."
+            ],
+            "question": "What does the man think of the woman?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Owners' personalities affect their cats' behaviour and wellbeing.",
+              "B. Parents' personalities can affect the personalities of their children.",
+              "C. Parents and cat owners alike experience high levels of anxiety.",
+              "D. More and more people are treating pet cats like their children."
+            ],
+            "question": "What do we learn from the new study by the University of Lincoln?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Give their pets behavioural training.",
+              "B. Provide their pets with the best care.",
+              "C. Know their pets' feelings and desires.",
+              "D. Interact with their pets in novel ways."
+            ],
+            "question": "What does the passage say most pet owners want to do?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. More convincing explanation.",
+              "B. More extensive sampling.",
+              "C. Collection of more data.",
+              "D. Further investigation."
+            ],
+            "question": "What does the passage say is still needed to understand the effects of owners' personalities on their pets?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. People should do more running than mere walking.",
+              "B. Running is the best exercise for extending one's life.",
+              "C. People should exercise at least 60 minutes everyday.",
+              "D. Running is the easiest form of exercise for most people."
+            ],
+            "question": "What does the new review of studies claim?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Improving their brain function.",
+              "B. Regulating their breathing rate.",
+              "C. Slowing down their ageing process.",
+              "D. Accelerating their blood circulation."
+            ],
+            "question": "What is one effect that running has on people according to recent research?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. They found it easy to control their emotions.",
+              "B. They struggled to handle negative emotions.",
+              "C. They were more eager to enjoy a movie.",
+              "D. They were less affected by sad movies."
+            ],
+            "question": "What did another study find about the participants after they had a 30 minute jog?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. He is a tour guide.",
+              "B. He is a famous architect.",
+              "C. He is a local entrepreneur.",
+              "D. He is the owner of the Hill House."
+            ],
+            "question": "What do we learn about the speaker?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. He studied the blueprints of other famous buildings.",
+              "B. He inquired about his client's family background.",
+              "C. He observed his client's life and habits.",
+              "D. He took a tour of his client's old home."
+            ],
+            "question": "What did the architect do before beginning his design?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. A house made of timber and brick.",
+              "B. A house with a lot of free space.",
+              "C. A house of the current fashion.",
+              "D. A house of a unique design."
+            ],
+            "question": "What did the architect's client mainly want?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. They are well preserved and in pretty good shape.",
+              "B. They are copies built to the architect's designs.",
+              "C. They were designed by another architect.",
+              "D. They were badly damaged but restored."
+            ],
+            "question": "What do we learn about the pieces of furniture in the children's bedrooms?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "　　The sheets are damp with sweat. You're cold, but your heart is racing as if a killer just chased you down a dark street. It was just a nightmare, you tell yourself; there's nothing to be afraid of. But you're still filled with __26__.\n\n　　Given how unsettling and haunting nightmares can be, is there a way for dreamers to __27__ or even turn off, these bad dreams as they happen?\n\n　　Research is __28__, but some studies suggest that people who can master lucid dreaming—that is, the ability to be __29__ that a nightmare is happening and possibly even control it without waking up—may hold the __30__.\n\n　　Doctors __31__ don't consider occasional nightmares a problem. They can just be symptoms of a sleep disorder that can __32__ from an unpleasant experience, stress, or certain drugs.\n\n　　To treat the disorder, there are a number of medicines and therapies that are backed by __33__ research, according to the American Academy of Sleep Medicine, which analyzed the available research on the treatment of nightmare disorder in a recent __34__ published in the Journal of Clinical Sleep Medicine.\n\n　　However, nightmares are complicated, and researchers are still struggling to understand them, said Dr. Rachel Salas, an expert on sleep disorders and an associate professor at Johns Hopkins Medicine in Baltimore. What we do know is that people __35__ to have different kinds of nightmares at different points during the sleep cycle.",
+        "word_bank": [
+          "amount",
+          "answer",
+          "avoid",
+          "aware",
+          "depart",
+          "drastically",
+          "fear",
+          "limited",
+          "mechanical",
+          "result",
+          "rigorous",
+          "review",
+          "tend",
+          "timidity",
+          "typically"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Many years' surveys reveal that young people in America are going to the cinema much less often than they used to."
+          },
+          {
+            "id": 37,
+            "content": "Survey analysis shows American teens now spend their leisure time on digital devices rather than reading printed books."
+          },
+          {
+            "id": 38,
+            "content": "The number of senior high schoolers not reading books for pleasure in a year increased three times over 20 years."
+          },
+          {
+            "id": 39,
+            "content": "Many scholars claim that spending time on electronic devices doesn't necessarily mean a decrease of time for other activities."
+          },
+          {
+            "id": 40,
+            "content": "Most people spend much more time interacting with digital media than they did ten years ago."
+          },
+          {
+            "id": 41,
+            "content": "The author claims that it will be a great loss if we no longer read books and longer articles."
+          },
+          {
+            "id": 42,
+            "content": "Over a decade or so, American teens' social media use shifted from an occasional activity to a routine one."
+          },
+          {
+            "id": 43,
+            "content": "A more disturbing trend in America today is that teens are spending far less time reading than around four decades ago."
+          },
+          {
+            "id": 44,
+            "content": "Some five years ago, high school seniors in America generally spent more than six hours a day on electronic devices."
+          },
+          {
+            "id": 45,
+            "content": "It was found that American youngsters today don't socialize nearly as much as the earlier generations."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Most of us spend much more time with digital media than we did a decade ago. But today's teens have grown up with smartphones. Compared with teens a couple of decades ago, the way they interact with traditional media like books and movies is fundamentally different."
+          },
+          {
+            "id": "B",
+            "content": "Analysis of surveys of over one million teens in the United States collected since 1976 reveals a major shift in how teens are spending their leisure time. Paper books are being ignored, in favor of screens. Digital devices are changing other behaviors, too. More and more, young people choose spending time on their electronic devices over engaging in other activities, regardless of the type. Indeed, by 2016, the average American high school senior said they spent six hours a day writing text messages, on social media, and online during their free time. And that covers just three activities, and if other digital media activities were included, that estimate would no doubt rise."
+          },
+          {
+            "id": "C",
+            "content": "Teens did not always spend that much time with digital media. Online time has doubled since 2006, and social media use has moved from a periodic activity to a daily one in the same period. By 2016, nearly nine out of ten young women in the 12th grade said they visited social media sites every day. Meanwhile, time spent playing video games rose from under an hour a day to an hour and a half on average. One out of ten American 8th grade students in 2016 spent 40 hours a week or more playing video games. Let me emphasize that this is equal to the time most adults spend per week at work."
+          },
+          {
+            "id": "D",
+            "content": "If teens are spending so much time using electronic devices, does that mean they have to give up some other activities? Maybe not. Over the years, many scholars have insisted that time online does not necessarily take away time spent engaging with traditional media or on other activities. Some people, they argue, are just more interested in certain kinds of media and entertainment. Thus, using more of one type of media does not necessarily mean less of the other."
+          },
+          {
+            "id": "E",
+            "content": "That may be true, but that still does not tell us much about what happens across a whole generation of people when time spent on digital media grows. Large surveys conducted over the course of many years tell us that American youth are not going to the cinema nearly as often as they did in the past. While 70 percent of 8th and 10th grade students used to go to the movies once a month or more, now only about half do this. More and more, watching a movie is something teens choose to do on their electronic devices. Why is this a problem? One reason is that going to the cinema is generally a social activity. Now, watching movies is something that most teens do alone. This fits a larger pattern. In another analysis, researchers found that today's teens go out with their friends much less often than previous generations did."
+          },
+          {
+            "id": "F",
+            "content": "But the trends related to movies are less disturbing compared with the change in how teens spend their time. Research has revealed an enormous decline in reading. In 1980, about 60 percent of senior high school students said they read a book, newspaper or magazine every day that was not assigned for school. By 2016, only 16 percent did. This is a huge drop and it is important to note that this was not merely a decline in reading paper books, newspapers or magazines. The survey allowed for reading materials on a digital device."
+          },
+          {
+            "id": "G",
+            "content": "Indeed, the number of senior high school students who said they had not read any books for pleasure in the last year was one out of three by 2016. That is triple the number from two decades ago. For today's youth, books, newspapers and magazines have less and less of a presence in their daily lives. Of course, teens are still reading. But they are generally reading short texts. Most of them are not reading long articles or books that explore deep themes and require critical thinking and reflection. Perhaps not accidentally, in 2016 reading scores were the lowest they have ever been since 1972."
+          },
+          {
+            "id": "H",
+            "content": "This might present problems for young people later on. When high school students go on to college, their past and current reading habits will influence their academic performance. Imagine going from reading texts as short as one or two sentences to trying to read entire books written in complex language and containing sophisticated ideas. Reading and comprehending longer books and chapters takes practice, and American teens are no longer getting that practice."
+          },
+          {
+            "id": "I",
+            "content": "So how can this problem be solved? Should parents and teachers take away teens' smartphones and replace them with paper books? Probably not. Research has shown that smartphones are currently American teens' main form of social communication. This means that, without a smartphone, teens are likely to feel isolated from their peers. However, that does not mean teens need to use electronic devices as often as they do now. Data connecting excessive digital media time to mental health issues suggests a limit of two hours a day of free time spent with screens, a restriction that will also allow time for other activities—like going to the movies with friends or reading longer, more complicated texts."
+          },
+          {
+            "id": "J",
+            "content": "The latter is especially important. I would argue that of all the changes brought about by the widespread use of digital devices, the huge decline in reading is likely to have the biggest negative impact on today's teens because reading books and longer articles is one of the best ways to learn critical thinking. It helps people to understand complex issues and to separate fact from fiction. Thus, deep reading is crucial for being a good citizen, a successful college student and a productive employee. If serious reading dies, a lot will go with it."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "　　Have you ever wondered how acceptable it is to hug or touch someone？While it may sound safe to avoid all physical contact so as not to offend anyone，the lack of touching might imply cold attitudes or indifference in interpersonal relationships.\n\n　　So, what should we do？The simple answer is to thoroughly learn unique cultural norms for physical contact. In nonverbal communication terminology（术语），physical contact and the study of touching are generally referred to as haptics.\n\n　　Haptics in communication often suggest the level of intimacy. They are usually classified into two groups：high-contact and low-contact.\n\n　　Asia and quite surprisingly the United States，Canada and Britain belong to low-contact cultures. People from the rest of the world，such as Latin America，are considered to be in high- contact cultures where they tend to expect touching in social interactions and feel more comfortable with physical closeness. Despite the classification，there are more complex factors such as relational closeness，gender，age，and context that can affect how someone views physical contact.\n\n　　One common French custom of greetings is cheek-kissing，but it is mostly restricted to friends，close acquaintances and family members. While cheek-kissing for Latin Americans is also a universal greeting form，it does not require such a high degree of relational closeness. However，gender matters more for them because cheek-kissing often only happens between women or a man and a woman but not two men.\n\n　　In contrast，in certain Arabian，African，and Asian countries，men can publicly hold hands or show physical affection as signs of brotherhood or friendship while these behaviors may suggest a romantic relationship in other parts of the world. Although men's touching is more normal in these cultures，physical contact between persons of opposite sexes who are not family members is negatively perceived in Arabian countries.\n\n　　These factors could definitely affect the degree to which someone is comfortable with tactile （触觉的）communication and physical intimacy. Therefore，if you are someone who loves to show physical affection，you should not be afraid to show it or drastically change your behaviors—just ask for consent beforehand!",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Its role in interpersonal relationships is getting increasingly important.",
+                  "B. It is becoming more acceptable to many who used to think it offensive.",
+                  "C. Its absence might suggest a lack of warmth in interpersonal relationships.",
+                  "D. It might prompt different responses from people of different social backgrounds."
+                ],
+                "question": "What does the author say in the first paragraph about physical contact？"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. What social class people belong to.",
+                  "B. How civilized the communicators are.",
+                  "C. What family background people come from.",
+                  "D. How close the communicators' relationships are."
+                ],
+                "question": "What does physical contact in communication suggest？"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. They are sensitive to the way people express their emotions.",
+                  "B. They take touching as a cultural norm in social interactions.",
+                  "C. They attach great importance to close ties among people.",
+                  "D. They tend to be more open in interpersonal relationships."
+                ],
+                "question": "What do we learn about people in high-contact cultures？"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. Men can show friendship in public through physical affection.",
+                  "B. Non-traditional romantic relationships are simply unacceptable.",
+                  "C. Physical contact between unfamiliar people is negatively perceived.",
+                  "D. People of different ages and genders show affection in different ways."
+                ],
+                "question": "What do we learn about social customs in Arabian countries？"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Lay emphasis on nonverbal communication.",
+                  "B. Learn to use appropriate body language first.",
+                  "C. Pay attention to the differences between genders.",
+                  "D. Take other people's preference into consideration."
+                ],
+                "question": "What does the author tell us to do concerning tactile communication？"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "　　From climate change to the ongoing pandemic（大流行病）and beyond，the issues facing today's world are increasingly complex and dynamic. Yet solving problems like these requires new approaches that extend beyond traditional ways of thinking. A study led by Yale Professor of Psychology，Paul O'Keefe，found that having a growth mindset（思维倾向）of interest may spark this type of innovation.\n\n　　Professor O'Keefe established in earlier studies that people hold different beliefs about the nature of interest. Those with a growth mindset of interest tend to believe that interests can be developed and cultivated，while those with a fixed mindset of interest tend to believe that interests are inherent（与生俱有的）and simply need to be found.' Building on these findings，the latest research examined how a growth mindset of interest can boost integrative thinking across the traditional disciplinary boundaries of arts and sciences.\n\n　　For example，in one task，research participants were instructed to create new college majors by combining two or more existing academic Arts or Science programs at their university. After coding and analyzing the ideas they generated，the team found that people with a growth mindset of interest were more likely to bridge programs across the arts and sciences to create new majors like computational economics rather than creating majors that drew from only one of those areas，like computational chemistry.\n\n　　As Professor O'Keefe pointed out，“This research provides a useful direction for organizations whose products and services call for integrated and creative solutions. Take smartphones for example. You need not only computer science and engineering knowledge，but also an understanding of psychology and visual design to create a better product. Employees with a growth mindset maybe more likely to devise innovative ideas that bridge multiple areas of knowledge to achieve better solutions.”\n\n　　The benefits of a growth mindset of interest may also extend to those seeking employment. This is a pressing issue because many people are becoming unemployed due to the COVID- 19 pandemic. Having a growth mindset of interest can help job seekers expand their interests and become more adaptable to different fields，and take the initiative to learn new skills.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It faces problems that are getting more varied and complicated.",
+                  "B. It has done away with many of the traditional ways of thinking.",
+                  "C. It is undergoing radical and profound changes.",
+                  "D. It is witnessing various types of innovations"
+                ],
+                "question": "What does the author say about the world today？"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. Pcople's interests tend to change with age.",
+                  "B. People's interests determine their mindsets.",
+                  "C. People are divided about the nature of interest.",
+                  "D. People of different ages have different mindsets."
+                ],
+                "question": "What did Professor O'Keefe find in his earlier studies？"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. How boundaries can be removed between arts and science disciplines.",
+                  "B. How feasible it is to create new disciplines like computational economics.",
+                  "C. How students in arts and sciences view the two types of mindset of interest.",
+                  "D. How a growth mindset of interest can contribute to cross-disciplinary thinking."
+                ],
+                "question": "What is the focus of Professor O'Keefe's recent research？"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Hi-tech products are needed in interdisciplinary research.",
+                  "B. Improved technology gives birth to highly popular products.",
+                  "C. Making innovative products needs multidisciplinary knowledge.",
+                  "D. Hi-tech products can boost people's integrative thinking."
+                ],
+                "question": "What does the author want to illustrate with the example of smartphones？"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Learning practical skills.",
+                  "B. Broadening their interests.",
+                  "C. Staying safe in the pandemic.",
+                  "D. Knowing their pressing issues."
+                ],
+                "question": "What is the author's suggestion to those who are seeking employment？"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions：Suppose you have just participated in a school project of collecting used books on campus.You are now to write a report about the project，which may include its aim，organizers ， participants and activities.You will have 30 minutes to write the report. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "都江堰（Dujiangyan）坐落在成都平原西部的岷江上，距成都市约50公里，始建于公元前三世纪。它的独特之处在于无需用堤坝调控水流。两千多年来，都江堰一直有效地发挥着防洪与灌溉作用，使成都平原成为旱涝保收的沃土和中国最重要的粮食产地之一，都江堰工程体现了我国人民与自然和谐共存的智慧，是全世界年代最久、仍在使用、无坝控水的水利工程。",
+    "directions": "Directions：For this part ，you are allowed 30 minutes to translate a passage from Chinese into English.You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_hRDnLGs.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_bdFeDSK.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_2_hKii97C.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:09,660\r\nCollege English Test, Band 4, Part 2, Listening comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:10,440 --> 00:00:19,080\r\nIn this section, you will hear three news reports. At the end of each news report, you will hear two or three questions.\r\n\r\n3\r\n00:00:19,080 --> 00:00:24,180\r\nBoth the news report and the questions will be spoken only once.\r\n\r\n4\r\n00:00:24,780 --> 00:00:30,420\r\nAfter you hear a question, you must choose the best answer from the four choices,\r\n\r\n5\r\n00:00:30,860 --> 00:00:40,420\r\nMark II, B, C, and D. Then mark the corresponding letter on Answer Sheet 1 with a single line through this enter.\r\n\r\n6\r\n00:00:40,420 --> 00:00:48,860\r\nNews report 1. A 22-year-old Chinese woman who suffered from a persistent cough was shocked\r\n\r\n7\r\n00:00:48,860 --> 00:00:54,780\r\nto learn that she had a piece of chicken bone lodged in her lung. The unnamed woman\r\n\r\n8\r\n00:00:54,780 --> 00:00:59,740\r\nfrom the province of Shandong started to have coughing problems when she was seven or eight\r\n\r\n9\r\n00:00:59,740 --> 00:01:08,000\r\nyears old. For 14 years, she made numerous hospital visits. However, no doctor could identify\r\n\r\n10\r\n00:01:08,000 --> 00:01:14,700\r\nat any problem. Her uncontrollable coughing was a mystery. Finally, the woman got a full\r\n\r\n11\r\n00:01:14,700 --> 00:01:20,360\r\nbody scan at a hospital in the city of Qingdao. This special medical procedure revealed\r\n\r\n12\r\n00:01:20,360 --> 00:01:26,480\r\nshe had a chicken bone stuck in her lung. Doctors performed surgery and removed the bone.\r\n\r\n13\r\n00:01:27,020 --> 00:01:37,600\r\nThe simple procedure went smoothly and the woman has recovered fully. With the bone,\r\n\r\n14\r\n00:01:37,600 --> 00:01:40,020\r\nfrom that annoying cough.\r\n\r\n15\r\n00:01:40,960 --> 00:01:46,040\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n16\r\n00:01:46,800 --> 00:01:47,900\r\nQuestion 1.\r\n\r\n17\r\n00:01:48,300 --> 00:01:49,920\r\nWhat was the woman's problem?\r\n\r\n18\r\n00:02:05,240 --> 00:02:06,380\r\nQuestion 2.\r\n\r\n19\r\n00:02:06,380 --> 00:02:10,220\r\nHow was the woman's problem eventually solved?\r\n\r\n20\r\n00:02:25,440 --> 00:02:27,080\r\nNews report 2\r\n\r\n21\r\n00:02:27,080 --> 00:02:29,340\r\nA white sheep named Prickles\r\n\r\n22\r\n00:02:29,340 --> 00:02:37,180\r\nThat ran away from an Australian farm during the 2013 bushfires recently returned home.\r\n\r\n23\r\n00:02:37,640 --> 00:02:42,940\r\nAccording to Farmer Alice Gray, Prickles was only a lamb when she ran away.\r\n\r\n24\r\n00:02:43,320 --> 00:02:50,320\r\nThe bushfires that hit the area back then destroyed a large part of her family's massive property.\r\n\r\n25\r\n00:02:50,920 --> 00:02:53,260\r\nThey thought Prickles had died in the fire.\r\n\r\n26\r\n00:02:53,260 --> 00:02:59,840\r\nBut instead, the young sheep escaped into a 200 acre forest near the farm.\r\n\r\n27\r\n00:03:00,520 --> 00:03:05,340\r\nOnce the fires were over, the family had to fix the damage done to the farm.\r\n\r\n28\r\n00:03:05,780 --> 00:03:12,580\r\nAs it was such a large property, this included rebuilding about 50 kilometers of fencing.\r\n\r\n29\r\n00:03:13,120 --> 00:03:18,680\r\nIt was this huge fencing that prevented prickles from finding her way back.\r\n\r\n30\r\n00:03:18,680 --> 00:03:22,680\r\nOver the years, the family spotted her a few times.\r\n\r\n31\r\n00:03:23,080 --> 00:03:27,600\r\nThey even recorded her with cameras installed to monitor deer activity.\r\n\r\n32\r\n00:03:28,180 --> 00:03:32,160\r\nBut while they knew prickles was alive, they couldn't find her.\r\n\r\n33\r\n00:03:32,500 --> 00:03:35,420\r\nAnd never expected her to return by herself.\r\n\r\n34\r\n00:03:36,140 --> 00:03:39,160\r\nSeven years later, they were proven wrong.\r\n\r\n35\r\n00:03:39,780 --> 00:03:44,060\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n36\r\n00:03:44,720 --> 00:03:45,700\r\nQuestion 3.\r\n\r\n37\r\n00:03:45,700 --> 00:03:50,280\r\nWhat does the news report say about the white sheep prickles?\r\n\r\n38\r\n00:04:04,880 --> 00:04:09,260\r\nQuestion 4. What does the family do after the bush fires?\r\n\r\n39\r\n00:04:24,360 --> 00:04:26,000\r\nNews Report 3.\r\n\r\n40\r\n00:04:26,620 --> 00:04:32,660\r\nTons of gold have fallen out the sky in Russia, after a cargo plane malfunctioned in\r\n\r\n41\r\n00:04:32,660 --> 00:04:33,660\r\nmidair this morning.\r\n\r\n42\r\n00:04:34,160 --> 00:04:41,640\r\nThe aircraft was carrying 265 million pounds worth of gold and diamonds when the door flew\r\n\r\n43\r\n00:04:41,640 --> 00:04:45,000\r\nopen, sending the precious metal back to Earth.\r\n\r\n44\r\n00:04:45,880 --> 00:04:51,620\r\nAccording to the official news agency, Russian authorities have recovered more than 170\r\n\r\n45\r\n00:04:51,620 --> 00:04:54,880\r\ngold bars weighing 20 kilograms each.\r\n\r\n46\r\n00:04:55,480 --> 00:05:01,320\r\nThe plane was travelling from Yakuza airport in a major diamond producing region to the\r\n\r\n47\r\n00:05:01,320 --> 00:05:05,040\r\ncity across Nau Yurask in Siberia.\r\n\r\n48\r\n00:05:05,380 --> 00:05:11,380\r\nHowever, the aircraft made an emergency landing in Magan, after it began losing some of\r\n\r\n49\r\n00:05:11,380 --> 00:05:18,320\r\nvaluable cargo. Reports suggest some bars of gold was scattered up to 15 miles away from\r\n\r\n50\r\n00:05:18,320 --> 00:05:26,000\r\nthe airport. Nine tons of gold on plain A N 12 belonged to a gold mine company. Please have\r\n\r\n51\r\n00:05:26,000 --> 00:05:31,160\r\nsealed off the runway and say it is unclear if it was an accident or an attempted robbery.\r\n\r\n52\r\n00:05:31,940 --> 00:05:41,360\r\nTechnical engineers who worked on the plane prior to take off are reportedly going to be\r\n\r\n53\r\n00:05:41,360 --> 00:05:43,860\r\nThe news report you have just heard.\r\n\r\n54\r\n00:05:44,500 --> 00:05:45,500\r\nQuestion 5.\r\n\r\n55\r\n00:05:46,040 --> 00:05:48,360\r\nWhat is the news report mainly about?\r\n\r\n56\r\n00:06:03,440 --> 00:06:04,730\r\nQuestion 6.\r\n\r\n57\r\n00:06:05,580 --> 00:06:08,730\r\nWhat do the aircraft do when the incident happened?\r\n\r\n58\r\n00:06:23,770 --> 00:06:30,710\r\nQuestion 7. What does the news reports say about the technical engineers who worked\r\n\r\n59\r\n00:06:30,710 --> 00:06:32,810\r\non the plane before take off.",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:00,940 --> 00:00:12,460\r\nSection B, directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions.\r\n\r\n2\r\n00:00:13,060 --> 00:00:23,260\r\nBoth the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices,\r\n\r\n3\r\n00:00:23,260 --> 00:00:28,940\r\nMarch A, B, C and D. Then mark the corresponding letter\r\n\r\n4\r\n00:00:28,940 --> 00:00:33,000\r\nI answer sheet 1 with a single line through the center.\r\n\r\n5\r\n00:00:33,540 --> 00:00:35,000\r\nConversation 1\r\n\r\n6\r\n00:00:35,000 --> 00:00:38,900\r\nHello, you're through to customer service. This is Michael speaking.\r\n\r\n7\r\n00:00:39,340 --> 00:00:43,940\r\nBefore we continue, I just want to make you aware that this call is being recorded\r\n\r\n8\r\n00:00:43,940 --> 00:00:46,840\r\nand may be used in the future for training purposes.\r\n\r\n9\r\n00:00:47,400 --> 00:00:48,960\r\nWhat can I help you with today?\r\n\r\n10\r\n00:00:49,420 --> 00:00:51,720\r\nHi, my name is Jean Seaman.\r\n\r\n11\r\n00:00:51,720 --> 00:00:57,600\r\nI recently bought an office chair from your company, but I returned it about a week ago.\r\n\r\n12\r\n00:00:57,860 --> 00:01:02,220\r\nI'm just calling to inquire when I will be able to get my money back.\r\n\r\n13\r\n00:01:02,480 --> 00:01:08,260\r\nIt says on your website that your company will pay back the money within three working\r\n\r\n14\r\n00:01:08,260 --> 00:01:11,240\r\ndays of view receiving the returned item.\r\n\r\n15\r\n00:01:11,620 --> 00:01:15,820\r\nBut it's been five working days and I haven't received anything.\r\n\r\n16\r\n00:01:16,220 --> 00:01:18,060\r\nI'm sorry to hear that, Mr. Seaman.\r\n\r\n17\r\n00:01:18,600 --> 00:01:20,580\r\nWhat's your customer reference number please?\r\n\r\n18\r\n00:01:20,580 --> 00:01:24,880\r\nIt's 389-460.\r\n\r\n19\r\n00:01:25,560 --> 00:01:27,940\r\nOkay, 389-460.\r\n\r\n20\r\n00:01:28,180 --> 00:01:33,100\r\nI'm just looking on the system here and according to our records, the chair you returned\r\n\r\n21\r\n00:01:33,100 --> 00:01:36,060\r\nwas received by our warehouse on Friday morning.\r\n\r\n22\r\n00:01:36,300 --> 00:01:42,120\r\nThe payment was made on Wednesday, but this seems to be a problem with your card number.\r\n\r\n23\r\n00:01:42,540 --> 00:01:43,820\r\nMy card number?\r\n\r\n24\r\n00:01:44,180 --> 00:01:47,580\r\nOh, maybe it has something to do with my new card.\r\n\r\n25\r\n00:01:47,820 --> 00:01:49,860\r\nIt was sent to me on Tuesday.\r\n\r\n26\r\n00:01:49,860 --> 00:01:54,060\r\nMaybe the bank cancelled my old one before you made the payment.\r\n\r\n27\r\n00:01:54,880 --> 00:01:58,580\r\nWell, you'll need to update your card details directly on our website.\r\n\r\n28\r\n00:01:58,940 --> 00:02:03,900\r\nJust make sure you logged in and then under the description of your personal information,\r\n\r\n29\r\n00:02:04,220 --> 00:02:07,640\r\nyou should see an option for updating payment methods.\r\n\r\n30\r\n00:02:08,240 --> 00:02:11,280\r\nI am logged in and I'll give that a go.\r\n\r\n31\r\n00:02:11,600 --> 00:02:16,560\r\nI'll make a note here on the system for you so that the payment will be made tomorrow morning.\r\n\r\n32\r\n00:02:16,940 --> 00:02:18,380\r\nThank you very much.\r\n\r\n33\r\n00:02:18,380 --> 00:02:24,640\r\nQuestions 8 to 11 are based on the conversation you have just heard. Question 8,\r\n\r\n34\r\n00:02:25,040 --> 00:02:28,680\r\nwhy does the man have his conversation with the woman recorded?\r\n\r\n35\r\n00:02:43,840 --> 00:02:48,860\r\nQuestion 9. What is the woman's purpose of calling the furniture company?\r\n\r\n36\r\n00:03:03,579 --> 00:03:09,100\r\nQuestion 10. What does the woman say about her bank card?\r\n\r\n37\r\n00:03:23,839 --> 00:03:28,500\r\nQuestion 11. What is the man advised the woman to do?\r\n\r\n38\r\n00:03:44,200 --> 00:03:45,480\r\nConversation 2\r\n\r\n39\r\n00:03:45,480 --> 00:03:47,100\r\nI'm getting a bit hungry\r\n\r\n40\r\n00:03:47,100 --> 00:03:52,960\r\nYes, me too. I'm starving. Are you going to prepare a meal for us?\r\n\r\n41\r\n00:03:53,360 --> 00:03:59,620\r\nNo, sorry. I'm actually pretty worn out. Let's just go out somewhere close to eat.\r\n\r\n42\r\n00:04:00,200 --> 00:04:05,740\r\nWell, I think we should stay in and save some cash. Can we get a meal delivered?\r\n\r\n43\r\n00:04:05,740 --> 00:04:12,020\r\nYeah, great. I'll use that food delivery app on my phone. What do you want?\r\n\r\n44\r\n00:04:12,740 --> 00:04:16,560\r\nFried chicken, hamburgers or fish and chips.\r\n\r\n45\r\n00:04:17,079 --> 00:04:21,180\r\nOh, can we stay away from the junk food? How about something healthy?\r\n\r\n46\r\n00:04:23,000 --> 00:04:26,120\r\nOkay. Well, there's a place that does salads.\r\n\r\n47\r\n00:04:26,760 --> 00:04:30,300\r\nLet me have a look at that. Yeah, that looks delicious.\r\n\r\n48\r\n00:04:30,300 --> 00:04:35,460\r\nBut, to be honest, I'd prefer something hot, not cold.\r\n\r\n49\r\n00:04:36,160 --> 00:04:37,520\r\nHow about Indian food?\r\n\r\n50\r\n00:04:37,980 --> 00:04:39,920\r\nThat's not the kind of hot I mean.\r\n\r\n51\r\n00:04:40,280 --> 00:04:44,100\r\nI'm just not a fan of sauces that make me sweat and cry.\r\n\r\n52\r\n00:04:44,560 --> 00:04:45,840\r\nI need something mild.\r\n\r\n53\r\n00:04:46,620 --> 00:04:50,500\r\nOkay, so would you consider Mexican?\r\n\r\n54\r\n00:04:51,220 --> 00:04:54,340\r\nOh no, sorry, there's also very hot pepper in that.\r\n\r\n55\r\n00:04:54,720 --> 00:04:57,400\r\nWould you like some Italian food, perhaps?\r\n\r\n56\r\n00:04:57,400 --> 00:05:02,560\r\nIt's a bit heavy, but it's great food for a cold night like this.\r\n\r\n57\r\n00:05:03,180 --> 00:05:05,800\r\nPizza, spaghetti with creamy sauce?\r\n\r\n58\r\n00:05:06,180 --> 00:05:11,660\r\nI know it's really tasty and great comfort food, but it's too fattening for me.\r\n\r\n59\r\n00:05:11,940 --> 00:05:14,360\r\nI'm trying to keep a slim figure, you know?\r\n\r\n60\r\n00:05:14,900 --> 00:05:17,560\r\nOh, you're really difficult to please.\r\n\r\n61\r\n00:05:18,220 --> 00:05:21,300\r\nWell, there's a nice Chinese restaurant that delivers.\r\n\r\n62\r\n00:05:21,700 --> 00:05:25,000\r\nYes, I love Chinese food. Let me see.\r\n\r\n63\r\n00:05:25,000 --> 00:05:28,440\r\nOh, it's 15 kilometers away.\r\n\r\n64\r\n00:05:28,800 --> 00:05:30,680\r\nThat's a bit too far away.\r\n\r\n65\r\n00:05:30,900 --> 00:05:33,040\r\nDo you feel like Vietnamese food then?\r\n\r\n66\r\n00:05:33,340 --> 00:05:34,260\r\nYeah, awesome.\r\n\r\n67\r\n00:05:34,640 --> 00:05:37,160\r\nIt's healthy and we can afford it.\r\n\r\n68\r\n00:05:37,440 --> 00:05:37,740\r\nGreat.\r\n\r\n69\r\n00:05:38,280 --> 00:05:40,980\r\nLet's order Vietnamese right away.\r\n\r\n70\r\n00:05:41,440 --> 00:05:46,840\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n\r\n71\r\n00:05:47,420 --> 00:05:48,400\r\nQuestion 12.\r\n\r\n72\r\n00:05:48,900 --> 00:05:50,760\r\nWhy isn't the band going to cook?\r\n\r\n73\r\n00:06:05,880 --> 00:06:11,280\r\nQuestion 13. What does the man say he'll do on his phone?\r\n\r\n74\r\n00:06:26,100 --> 00:06:31,260\r\nQuestion 14. What does the woman think of Indian food?\r\n\r\n75\r\n00:06:46,460 --> 00:06:49,980\r\nQuestion 15. What does the man think of,",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:00,000 --> 00:00:11,680\r\nSection C, directions. In this section, you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:12,140 --> 00:00:25,780\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices, marked A, B, C and D.\r\n\r\n3\r\n00:00:25,780 --> 00:00:32,400\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:33,300 --> 00:00:39,200\r\nPassage 1. A new study carried out by the University of Lincoln has found a link between\r\n\r\n5\r\n00:00:39,200 --> 00:00:44,720\r\nthe personalities of cat owners and the behaviour and well-being of their cats.\r\n\r\n6\r\n00:00:45,580 --> 00:00:55,420\r\nThe finding suggests that just as a parent's personality can affect the personality of a\r\n\r\n7\r\n00:00:55,420 --> 00:01:03,380\r\nOwners defined as individuals with high levels of anxiety, fear, anger, depression, and\r\n\r\n8\r\n00:01:03,380 --> 00:01:07,740\r\nloneliness were more likely to have cats with behavioral issues.\r\n\r\n9\r\n00:01:08,440 --> 00:01:14,460\r\nSuch cats displayed more aggressive and anxious behavioral styles as well as more stress-related\r\n\r\n10\r\n00:01:14,460 --> 00:01:15,040\r\nsickness.\r\n\r\n11\r\n00:01:15,700 --> 00:01:20,400\r\nThey were also more likely to have an ongoing medical condition and be overweight.\r\n\r\n12\r\n00:01:20,400 --> 00:01:28,160\r\nThe research also found that mentally well-adjusted owners had karma, happier and healthier\r\n\r\n13\r\n00:01:28,160 --> 00:01:34,920\r\ncats. The researchers explained that many owners regard their pets as a family member\r\n\r\n14\r\n00:01:34,920 --> 00:01:42,200\r\nand form close social bonds with them. The majority of owners want to provide the best care\r\n\r\n15\r\n00:01:42,200 --> 00:01:47,640\r\nfor their pets, and is therefore possible that pets could be affected by the way their\r\n\r\n16\r\n00:01:47,640 --> 00:01:54,280\r\nis interact with and manage them. The study highlights an important relationship between our\r\n\r\n17\r\n00:01:54,280 --> 00:02:01,740\r\npersonalities and the well-being of our pets. Further research is needed to investigate the causal\r\n\r\n18\r\n00:02:01,740 --> 00:02:08,520\r\nnature of this relationship and to look at how owners personalities are directly influencing\r\n\r\n19\r\n00:02:08,520 --> 00:02:17,620\r\ntheir pets behaviour and well-being. It is possible that the well-being of pets is driven by the\r\n\r\n20\r\n00:02:17,620 --> 00:02:21,420\r\nNot simply by their conscious decisions and behaviors.\r\n\r\n21\r\n00:02:22,540 --> 00:02:27,680\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n\r\n22\r\n00:02:28,240 --> 00:02:29,400\r\nQuestion 16.\r\n\r\n23\r\n00:02:30,140 --> 00:02:34,060\r\nWhat do we learn from the new study by the University of Lincoln?\r\n\r\n24\r\n00:02:48,980 --> 00:02:54,980\r\nQuestion 17. What does the passage say most pet owners want to do?\r\n\r\n25\r\n00:03:09,840 --> 00:03:17,060\r\nQuestion 18. What does the passage say is still needed to understand the effects of owners\r\n\r\n26\r\n00:03:17,060 --> 00:03:23,900\r\npersonalities on their pets.\r\n\r\n27\r\n00:03:34,440 --> 00:03:35,960\r\nPassaged 2.\r\n\r\n28\r\n00:03:36,420 --> 00:03:40,260\r\n160 minute run can add seven hours to your life.\r\n\r\n29\r\n00:03:40,680 --> 00:03:43,820\r\nThis was a claim made by the Times last week.\r\n\r\n30\r\n00:03:43,820 --> 00:03:48,920\r\nThe claim was based on a new review of studies about the effects of running.\r\n\r\n31\r\n00:03:49,460 --> 00:03:55,800\r\nThe review concluded that on average runners live three years longer than non-runners,\r\n\r\n32\r\n00:03:56,320 --> 00:04:01,320\r\nand that running does more to extend life than any other form of exercise.\r\n\r\n33\r\n00:04:01,980 --> 00:04:04,760\r\nBut there's more to running than its health benefits.\r\n\r\n34\r\n00:04:05,520 --> 00:04:11,220\r\nResearch published in recent years has shown that running changes your brain and mind\r\n\r\n35\r\n00:04:11,220 --> 00:04:13,060\r\nin some fascinating ways.\r\n\r\n36\r\n00:04:13,060 --> 00:04:17,700\r\nFrom increasing your brain function to regulating your emotions.\r\n\r\n37\r\n00:04:18,740 --> 00:04:27,060\r\nHowever, the precise effects vary according to whether you engage in short, fast running, or long distance running.\r\n\r\n38\r\n00:04:27,640 --> 00:04:37,280\r\nFor example, in one study, researchers compared participants' ability to learn new words after several minutes of intense running,\r\n\r\n39\r\n00:04:37,280 --> 00:04:45,420\r\nAnd after 40 minutes of gentle running, participants were able to learn 20% faster after the intense running,\r\n\r\n40\r\n00:04:45,780 --> 00:04:50,580\r\nand they showed a superior memory when tested again a week later.\r\n\r\n41\r\n00:04:51,440 --> 00:04:59,660\r\nIn another study, researchers asked volunteers to jog for 30 minutes and then showed them clips from a sad movie.\r\n\r\n42\r\n00:05:00,120 --> 00:05:07,140\r\nParticipants who usually struggled to handle negative emotions were more intensely affected by the sad clips.\r\n\r\n43\r\n00:05:07,280 --> 00:05:09,040\r\nJust as you expect.\r\n\r\n44\r\n00:05:09,700 --> 00:05:14,580\r\nBut crucially, this was less so if they had completed the 30-minute jog.\r\n\r\n45\r\n00:05:15,320 --> 00:05:22,060\r\nThe researchers said moderate exercise appears to have helped those participants to be less vulnerable\r\n\r\n46\r\n00:05:22,060 --> 00:05:24,780\r\nto the impact of the sad movie.\r\n\r\n47\r\n00:05:25,480 --> 00:05:29,920\r\nQuestion's 19-21, a base on the passage you have just heard.\r\n\r\n48\r\n00:05:30,800 --> 00:05:31,660\r\nQuestion 19.\r\n\r\n49\r\n00:05:32,540 --> 00:05:34,920\r\nWhat do the new review of studies claim?\r\n\r\n50\r\n00:05:49,840 --> 00:05:57,160\r\nQuestion 20. What is one effect that running has on people according to recent research?\r\n\r\n51\r\n00:06:12,280 --> 00:06:20,420\r\nQuestion 21. What did another study find about the participants after they had a 30 minute\r\n\r\n52\r\n00:06:22,060 --> 00:06:22,900\r\njog.\r\n\r\n53\r\n00:06:36,280 --> 00:06:37,540\r\nPassaged 3.\r\n\r\n54\r\n00:06:38,360 --> 00:06:40,880\r\nWelcome to the tour of the Hill House.\r\n\r\n55\r\n00:06:41,400 --> 00:06:48,040\r\nThis house built in 1904 is one of the most well-known works of Charles Hill, the famous\r\n\r\n56\r\n00:06:48,040 --> 00:06:48,760\r\narchitect.\r\n\r\n57\r\n00:06:48,760 --> 00:06:53,440\r\nIt was designed and built for a local entrepreneur and his family.\r\n\r\n58\r\n00:06:54,120 --> 00:07:00,040\r\nBefore starting the tour, let me give you a brief introduction about the design of this amazing\r\n\r\n59\r\n00:07:00,040 --> 00:07:00,620\r\nbuilding.\r\n\r\n60\r\n00:07:01,240 --> 00:07:07,820\r\nPrior to beginning his design, the architect spent some time in the client's old home, observing\r\n\r\n61\r\n00:07:07,820 --> 00:07:10,140\r\ntheir life and studying their habits.\r\n\r\n62\r\n00:07:10,680 --> 00:07:14,980\r\nThis meant that he could design the house according to the needs of the family.\r\n\r\n63\r\n00:07:14,980 --> 00:07:22,060\r\nThe client's main desire was to have a home with a unique design, so the architect was given\r\n\r\n64\r\n00:07:22,060 --> 00:07:23,340\r\ncomplete freedom.\r\n\r\n65\r\n00:07:24,020 --> 00:07:28,920\r\nThe building style is radically different from what was the fashion of the period.\r\n\r\n66\r\n00:07:29,680 --> 00:07:34,580\r\nAt the time, most large homes were constructed of timber and brick.\r\n\r\n67\r\n00:07:34,980 --> 00:07:40,840\r\nThis one, however, is made of concrete, a novel construction material in those days.\r\n\r\n68\r\n00:07:40,840 --> 00:07:47,040\r\nThe interior of the house, including fittings and furniture, was also designed by the same\r\n\r\n69\r\n00:07:47,040 --> 00:07:47,780\r\nperson.\r\n\r\n70\r\n00:07:48,160 --> 00:07:51,820\r\nMost of the furniture you will see is original and in good condition.\r\n\r\n71\r\n00:07:52,700 --> 00:07:58,980\r\nHowever, those pieces in the children's bedrooms are copies built to the designs of the\r\n\r\n72\r\n00:07:58,980 --> 00:07:59,540\r\narchitect.\r\n\r\n73\r\n00:08:00,320 --> 00:08:05,640\r\nFortunately, all the blueprints for both the building and its contents have been preserved,\r\n\r\n74\r\n00:08:06,220 --> 00:08:09,060\r\nso we've been able to replace badly damaged furniture.\r\n\r\n75\r\n00:08:09,060 --> 00:08:12,780\r\nLet's begin our tour starting from the rooms.\r\n\r\n76\r\n00:08:13,280 --> 00:08:18,980\r\nQuestions 22 to 25 are based on the passage you have just heard.\r\n\r\n77\r\n00:08:19,480 --> 00:08:23,140\r\nQuestion 22. What do we learn about the speaker?\r\n\r\n78\r\n00:08:37,960 --> 00:08:44,140\r\nQuestion 23. What do the architect do before beginning his design?\r\n\r\n79\r\n00:08:58,740 --> 00:09:06,020\r\nQuestion 24. What do the architects client mainly want?\r\n\r\n80\r\n00:09:19,000 --> 00:09:23,120\r\nQuestion 25. What do we learn about the\r\n\r\n81\r\n00:09:23,120 --> 00:09:26,560\r\nthe pieces of furniture in the children's bedrooms.\r\n\r\n82\r\n00:09:41,760 --> 00:09:44,160\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

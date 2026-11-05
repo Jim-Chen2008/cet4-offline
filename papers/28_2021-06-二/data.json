@@ -1,0 +1,686 @@
+{
+  "id": 28,
+  "exam": 28,
+  "exam_details": {
+    "id": 28,
+    "title": "2021年06月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2021,
+    "month": 6,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T22:33:53.129000+08:00",
+    "updated_at": "2025-04-26T22:33:53.129000+08:00",
+    "exam_id": 28,
+    "submission_count": 0,
+    "cet_content_id": 28,
+    "has_draft": false
+  },
+  "created_at": "2025-04-26T23:10:01.359000+08:00",
+  "updated_at": "2025-04-26T23:10:01.359000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. See the Pope",
+              "B. Go to Newcastle",
+              "C. Travel to Germany",
+              "D. Tour an Italian city"
+            ],
+            "question": "What did the old man attempt to do?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. He was taken to hospital in an ambulance.",
+              "B. His car hit a sign and was badly damaged.",
+              "C. His GPS system went out of order.",
+              "D. He ended up in the wrong place."
+            ],
+            "question": "What finally happened to the old man?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Scotland will reach the national target in carbon emissions reduction ahead of schedule.",
+              "B. Glasgow City Council has made a deal with ScottishPower on carbon emissions.",
+              "C. Glasgow has pledged to take the lead in reducing carbon emissions in the UK.",
+              "D. First Minister Nicola Sturgeon urged ScottishPower to reduce carbon emissions."
+            ],
+            "question": "What do we learn from the news report?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. Glasgow needs to invest in new technologies to reach its goal.",
+              "B. Glasgow is going to explore new sources of renewable energy.",
+              "C. Stricter regulation is needed in transforming Glasgow s economy.",
+              "D. It’s necessary to create more low-emission zones as soon as possible."
+            ],
+            "question": "What did Scottish powers chief executive say ahead of the all-energy conference?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. It donates money to overpopulated animal shelters.",
+              "B. It permits employees to bring cats into their office.",
+              "C. It gives 5,000 yen to employees who keep pet cats.",
+              "D. It allows workers to do whatever their hearts desire."
+            ],
+            "question": "What do we learn from the news report about the Japanese IT firm?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. Keep cats off the street.",
+              "B. Rescue homeless cats.",
+              "C. Volunteer to help in animal shelters.",
+              "D. Contribute to a fund for cat protection."
+            ],
+            "question": "What does Fukuda encourage his employees to do?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. It has contributed tremendously to the firm’s fame.",
+              "B. It has helped a lot to improve animals’ well-being.",
+              "C. It has led some other companies to follow suit.",
+              "D. It has resulted in damage to office equipment."
+            ],
+            "question": "What does the news reports say about the firm’s policy?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. Find out where Jimmy is.",
+              "B. Borrow money from Jimmy.",
+              "C. Make friends with Jimmy.",
+              "D. Ask Jimmy what is to be done."
+            ],
+            "question": "What does the man want to do?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. He was unsure what kind of fellow Jimmy was.",
+              "B. He was working on a study project with Jimmy.",
+              "C. He wanted to make a sincere apology to Jimmy.",
+              "D. He wanted to invite her to join in a study project."
+            ],
+            "question": "What do we learn about the man who came to see the woman yesterday?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. He got a ticket for speeding.",
+              "B. He got his car badly damaged.",
+              "C. He was involved in a traffic accident.",
+              "D. He had an operation for his injury."
+            ],
+            "question": "What did Jimmy say happened to him one day?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. He needed to make some donation to charity.",
+              "B. He found the 60 pounds in his pocket missing.",
+              "C. He wanted to buy a gift for his mother’s birthday.",
+              "D. He wanted to conceal something from his parents."
+            ],
+            "question": "Why did Jimmy borrow money according to the man?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. Shopping delivery.",
+              "B. Shopping online.",
+              "C. Where he goes shopping.",
+              "D. How often he does shopping."
+            ],
+            "question": "What did the woman want to ask Max about?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Searching in the aisles.",
+              "B. Dealing with the traffic.",
+              "C. Driving too long a distance.",
+              "D. Getting one’s car parked."
+            ],
+            "question": "What does the man think is a problem with shopping and supermarkets?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. The after-sales service.",
+              "B. The replacement policy.",
+              "C. The quality of food products.",
+              "D. The damage to the packaging."
+            ],
+            "question": "What is the woman's concern about shopping online?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. It saves money.",
+              "B. It offers more choice.",
+              "C. It increases the joy of shopping.",
+              "D. It is less time-consuming."
+            ],
+            "question": "What does the man find about shopping online?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. They have little talent for learning math.",
+              "B. They need medical help for math anxiety.",
+              "C. They need extra help to catch up in the math class.",
+              "D. They have strong negative emotions towards math."
+            ],
+            "question": "What did a recent study find about some British children?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. It will gradually pass away without teachers’ help.",
+              "B. It affects low performing children only.",
+              "C. It is related to a child’s low intelligence.",
+              "D. It exists mostly among children from poor families."
+            ],
+            "question": "What is the widespread misunderstanding about math anxiety?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. Most of them have average to strong math ability.",
+              "B. Most of them get timely help from their teachers.",
+              "C. They will regain confidence with counselling.",
+              "D. They are mostly secondary school students."
+            ],
+            "question": "What does the passage say about British students with math anxiety?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Social media addiction is a threat to our health.",
+              "B. Too many people are addicted to smartphones.",
+              "C. Addiction to computer games is a disease.",
+              "D. Computer games can be rather addictive."
+            ],
+            "question": "What conclusion has the world health organization come to recently?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. They prioritize their favored activity over what they should do.",
+              "B. They do their favored activity whenever and wherever possible.",
+              "C. They are unaware of the damage their behavior is doing to them.",
+              "D. They are unable to get rid of their addiction without professional help."
+            ],
+            "question": "What is said of people with addictive behavior?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. It may be less damaging than previously believed.",
+              "B. There will never be agreement on its harm to people.",
+              "C. It may prove to be beneficial to developing creativity.",
+              "D. There is not enough evidence to classify it as a disease."
+            ],
+            "question": "What do some behaviour experts think of addiction to computer games?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. They are relatively uniform in color and design.",
+              "B. They appear more formal than other passports.",
+              "C. They are a shade of red bordering on brown.",
+              "D. They vary in color from country to country."
+            ],
+            "question": "What do we learn about most European passports?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. They must endure wear and tear.",
+              "B. They must be of the same size.",
+              "C. They must be made from a rare material.",
+              "D. They must follow some common standards."
+            ],
+            "question": "What does the passage say about the design of passports?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. They look more traditional.",
+              "B. They look more official.",
+              "C. They are favored by airlines.",
+              "D. They are easily identifiable."
+            ],
+            "question": "Why are dark colors chosen for passport covers?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. For beauty.",
+              "B. For variety.",
+              "C. For visibility.",
+              "D. For security."
+            ],
+            "question": "What is one special function of the images inside many passports?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Social isolation poses more health risks than obesity or smoking 15 cigarettes a day, according to research published by Brigham Young University. The __26__ is that loneliness is a huge, if silent, risk factor.\n\nLoneliness affects physical health in two ways. First, it produces stress hormones that can lead to many health problems. Second, people who live alone are less likely to go to the doctor __27__, to exercise or to eat a healthy diet.\n\nPublic health experts in many countries are __28__ how to address widespread loneliness in our society. Last year Britain even appointed a minister for loneliness. “Loneliness __29__ almost every one of us at some point,” its minister for loneliness Baroness Barran said. “It can lead to very serious health __30__ for individuals who become isolated and disconnected.”\n\nBarran started a “Let’s Talk Loneliness” campaign that __31__ difficult conversations across Britain. He is now supporting “__32__ benches,” which are public seating areas where people are encouraged to go and chat with one another. The minister is also __33__ to stop public transportation from being cut in ways that leave people isolated. More than one fifth of adults in both the United States and Britain said in a 2018 __34__ that they often or always feel lonely.\n\nMore than half of American adults are unmarried, and researchers have found that even among those who are married, 30% of relationships are __35__ strained. A quarter of Americans now live alone, and as the song says, one is the loneliest plumber.",
+        "word_bank": [
+          "abruptly",
+          "appointments",
+          "consequences",
+          "debating",
+          "dimensions",
+          "friendly",
+          "hindered",
+          "idiom",
+          "implication",
+          "pushing",
+          "severely",
+          "sparked",
+          "splitting",
+          "survey",
+          "touches"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "It is difficult for anumeric people to keep track of the change in numbers even when the total is very small."
+          },
+          {
+            "id": 37,
+            "content": "Human numerical instincts are not so superior to those of other mammals as is generally believed."
+          },
+          {
+            "id": 38,
+            "content": "The author emphasizes being anumeric does not affect one’s cognitive ability."
+          },
+          {
+            "id": 39,
+            "content": "In the long history of mankind, humans who use numbers are a very small minority."
+          },
+          {
+            "id": 40,
+            "content": "An in-depth study of differences between human languages contributes to a true understanding of cognitive differences between cultures."
+          },
+          {
+            "id": 41,
+            "content": "A conclusion has been drawn from many experiments that anumeric people have a hard time distinguishing quantities."
+          },
+          {
+            "id": 42,
+            "content": "Making quantitative distinctions is not an inborn skill."
+          },
+          {
+            "id": 43,
+            "content": "Every aspect ofour lives is affected by numbers."
+          },
+          {
+            "id": 44,
+            "content": "Larger numbers are said to be built upon smaller numbers."
+          },
+          {
+            "id": 45,
+            "content": "It takes great efforts for children to grasp the concept of number words."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Numbers do not exist in all cultures. There are numberless hunter-gatherers in Amazonia, living along branches of the world’s largest river tree. Instead of using words for precise quantities, these people rely exclusively on terms similar to “a few” or “some.” In contrast, our own lives are governed by numbers. As you read this, you are likely aware of what time it is, how old you are, your checking account balance, your weight and so on. The exact numbers we think with impact everything in our lives."
+          },
+          {
+            "id": "B",
+            "content": "But, in a historical sense, number-conscious people like us are the unusual ones. For the bulk of our species’ approximately 200,000-year lifespan, we had no means of precisely representing quantities. What’s more, the 7,000 or so languages that exist today vary dramatically in how they utilize numbers."
+          },
+          {
+            "id": "C",
+            "content": "Speakers of anumeric, or numberless, languages offer a window into how the invention of numbers reshaped the human experience. Cultures without numbers, or with only one or two precise numbers, include the Mundunuku and Piraha in Amazonia. Researchers have also studied some adults in Nicaragua who were never taught number words. Without numbers, healthy human adults struggle to precisely distinguish and recall quantities as low as four. In an experiment, a researcher will place nuts into a can one at a time and then remove them one by one. The person watching is asked to signal when all the nuts have been removed. Responses suggest that anumeric people have some trouble keeping track of how many nuts remain in the can, even if there are only four or five in total."
+          },
+          {
+            "id": "D",
+            "content": "This and many other experiments have led to a simple conclusion: When people do not have number words, they struggle to make quantitative distinctions that probably seem natural to someone like you or me. While only a small portion. of the world’s languages are anumeric or nearly anumeric, they demonstrate that number words are not a human universal."
+          },
+          {
+            "id": "E",
+            "content": "It is worth stressing that these anumeric people are cognitively (在认知方面) normal, well-adapted to the surroundings they have dominated for centuries. As a child, I spent some time living with anumeric people, the Piraha who live along the banks of the black Maici River. Like other outsiders, I was continually impressed by their superior understanding of the ecology we shared. Y et numberless people struggle with tasks that require precise discrimination between quantities. Perhaps this should be unsurprising. After all, without counting, how can someone tell whether there are, say, seven or eight coconuts (椰子) in a tree? Such seemingly straightforward distinctions become blurry through numberless eyes."
+          },
+          {
+            "id": "F",
+            "content": "This conclusion is echoed by work with anumeric children in industrialized societies. Prior to being spoon-fed number words, children can only approximately discriminate quantities beyond three. We must be handed the cognitive tools of numbers before we can consistently and easily recognize higher quantities. In fact, acquiring the exact meaning of number words is a painstaking process that takes children years. Initially, kids learn numbers much like they learn letters. They recognize that numbers are organized sequentially, but have little awareness of what each individual number means. With time, they start to understand that a given number represents a quantity greater by one than the number coming before it. This “successor principle” is part of the foundation of our numerical (数字 的) cognition, but requires extensive practice to understand."
+          },
+          {
+            "id": "G",
+            "content": "None of us, then, is really a “numbers person.” We are not born to handle quantitative distinctions skillfully. In the absence of the cultural traditions that fill our lives with numbers from infancy, we would all struggle with even basic quantitative distinctions. Number words and their written forms transform our quantitative reasoning as they are introduced into our cognitive experience by our parents, peers and school teachers. The process seems so normal that we sometimes think of it as a natural part of growing up, but it is not. Human brains come equipped with certain quantitative instincts that are refined with age, but these instincts are very limited."
+          },
+          {
+            "id": "H",
+            "content": "Compared with other mammals, our numerical instincts are not as remarkable as many assume. We even share some basic instinctual quantitative reasoning with distant non- mammalian relatives like birds. Indeed, work with some other species suggests they too can refine their quantitative thought if they are introduced to the cognitive power tools we call numbers."
+          },
+          {
+            "id": "I",
+            "content": "So, how did we ever invent “unnatural” numbers in the first place? The answer is, literally, at your fingertips. The bulk of the world’s languages use base-10, base-20 or base-5 number systems. That is, these smaller numbers are the basis of larger numbers. English is a base-10 or decimal (十进制的) language, as evidenced by words like 14 (“four” + “10”) and 31 (“three” X “10” + “one”). We speak a decimal language because an ancestral tongue, proto-Indo-European, was decimally based. Proto-Indo-European was decimally oriented because, as in so many cultures, our ancestors’ hands served as the gateway to the realization that “five fingers on one hand is the same as five fingers on the other.” Such momentary thoughts were represented in words and passed down across generations. This is why the word “five” in many languages is derived from the word for “hand.” Most number systems, then, are the by-product of two key factors: the human capacity for language and our inclination for focusing on our hands and fingers. This manual fixation—an indirect by-product of walking upright on two legs—has helped yield numbers in most cultures, but not all."
+          },
+          {
+            "id": "J",
+            "content": "Cultures without numbers also offer insight into the cognitive influence of particular numeric traditions. Consider what time it is. Your day is ruled by minutes and seconds, but these concepts are not real in any physical sense and are nonexistent to numberless people. Minutes and seconds are the verbal and written representations of an uncommon base—60 number system used in ancient Mesopotamia. They reside in our minds, numerical artifacts (人工制品) that not all humans inherit conceptually."
+          },
+          {
+            "id": "K",
+            "content": "Research on the language of numbers shows， more and more， that one of our species’ key characteristics is tremendous linguistic (语言的) and cognitive diversity. If we are to truly understand how much our cognitive lives differ cross-culturally, we must continually explore the depths of our species’ linguistic diversity."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Sugar shocked. That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar’s role in heart disease—and put the spotlight(注意的中心) squarely on dietary fat.\n\nWhat might surprise consumers is just how many present-day nutrition studies are still funded by the food industry. Nutrition scholar Marion Nestle of New York University spent a year informally tracking industry-funded studies on food. “Roughly 90% of nearly 170 studies favored the sponsor’s interest,” Nestle tells us. Other systematic reviews support her conclusions.\n\nFor instance, studies funded by Welch Foods—the brand behind Welch’s 100% Grape Juice—found that drinking Concord grape juice daily may boost brain function. Another, funded by Quaker Oats, concluded, as a Daily Mail story put it, that “hot oatmeal (燕麦粥) breakfast keeps you full for longer.”\n\nLast year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink. Coca-Cola also released data detailing its funding of several medical institutions and associations between 2010 and 2015.\n\n“It’s certainly a problem that so much research in nutrition and health is funded by industry,” says Bonie Liebman, director of nutrition at the Center for Science in the Public Interest. “When the food industry pays for research, it often gets what it pays for.” And what it pays for is often a pro-industry finding.\n\nGiven this environment, consumers should be skeptical (怀疑的) when reading the latest finding in nutrition science and ignore the latest study that pops up on your news feed. “Rely on health experts who’ve reviewed all the evidence,” Liebman says, pointing to the official government Dietary Guidelines, which are based on reviews of hundreds of studies.\n\n“And that expert advice remains pretty simple,” says Nestle. “We know what healthy diets are lots of vegetables, not too much junk food, balanced calories. Everything else is really difficult to do experimentally.”",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They raised public awareness of the possible causes of heart disease.",
+                  "B. They turned public attention away from the health risks of sugar to fat.",
+                  "C. They placed the sugar industry in the spotlight with their new findings.",
+                  "D. They conducted large-scale research on the role of sugar in people’s health."
+                ],
+                "question": "What did Harvard scientists do 50 years ago?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. They took her a full year to track and analyze.",
+                  "B. Most of them are based on systematic reviews.",
+                  "C. They depend on funding from the food industries.",
+                  "D. Nearly all of them serve the purpose of the funders."
+                ],
+                "question": "What does Marion Nestle say about present-day nutrition studies?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Exercise is more important to good health than diet.",
+                  "B. Choosing what to eat and drink is key to weight control.",
+                  "C. Drinking Coca-Cola does not contribute to weight gain.",
+                  "D. The food industry plays a major role in fighting obesity."
+                ],
+                "question": "What did Coca-Cola funded studies claim?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It simply focuses on nutrition and health.",
+                  "B. It causes confusion among consumers.",
+                  "C. It rarely results in objective findings.",
+                  "D. It runs counter to the public interest."
+                ],
+                "question": "What does Liebman say about industry-funded research?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Follow their intuition in deciding what to eat.",
+                  "B. Be doubtful of diet experts’ recommendations.",
+                  "C. Ignore irrelevant information on their news feed.",
+                  "D. Think twice about new nutrition research findings."
+                ],
+                "question": "What is the author s advice to consumers?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Success was once defined as being able to stay at a company for a long time and move up the corporate ladder. The goal was to reach the top, accumulate wealth and retire to a life of ease. My father is a successful senior executive. In 35 years, he worked for only three companies.\n\nWhen I started my career, things were already different. If you weren’t changing companies every three or four years, you simply weren’t getting ahead in your career. But back then, if you were a consultant or freelancer (自 由职业者)， people would wonder what was wrong with you. They would assume you had problems getting a job.\n\nToday, consulting or freelancing for five businesses at the same time is a badge of honor. It shows how valuable an individual is. Many companies now look to these “ultimate professionals” to solve problems their full-time teams can’t. Or they save money by hiring “top-tier (顶尖的) experts” only for particular projects.\n\nWorking at home or in cafes, starting businesses of their own, and even launching business ventures that eventually may fail, all indicate “initiative,” “creativity,” and “adaptability,” which are desirable qualities in today s workplace. Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients.\n\nWho are these people? They are artists， writers, programmers, providers of office services and career advice. What’s needed now is a marketplace platform specifically designed to bring freelancers and clients together. Such platforms then become a place to feature the most experienced, professional, and creative talent. This is where they conduct business, where a sense of community reinforces the culture and values of the gig economy (零工经济)， and where success is rewarded with good reviews that encourage more business.\n\nSlowly but surely, these platforms create a bridge between traditional enterprises and this emerging economy. Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. How long people took to reach the top of their career.",
+                  "B. How people accumulated wealth in his father ‘s time.",
+                  "C. How people viewed success in his father’s time.",
+                  "D. How long people usually stayed in a company."
+                ],
+                "question": "What does the author use the example of his father to illustrate?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It was considered a fashion at that time.",
+                  "B. It was a way to advance in their career.",
+                  "C. It was a response to the changing job market.",
+                  "D. It was difficult to keep a job for long."
+                ],
+                "question": "Why did people often change jobs when the author started his career?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. They are often regarded as most treasured talents.",
+                  "B. They are able to bring their potential into fuller play.",
+                  "C. They have control over their life and work schedules.",
+                  "D. They feel proud of being outstanding problem-solver."
+                ],
+                "question": "What does the author say about people now working for several businesses at the same time?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Who is capable of solving problems with ease.",
+                  "B. How people can be more focused and productive.",
+                  "C. What kind of people can contribute more to them.",
+                  "D. Why some people are more passionate about work."
+                ],
+                "question": "What have businesses come to recognize now?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. It may force companies to reform their business practice.",
+                  "B. It may soon replace the traditional economic model.",
+                  "C. It will drive technological progress on a global scale.",
+                  "D. It will bring about radical economic and social changes"
+                ],
+                "question": "What does the author say about the gig economy?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay titled “Is technology making people lazy?” The statement given below is for your reference. You should write at least 120 words but no more than 180 words. Many studies claim that computers distract people, make them lazy thinkers and even lower their work efficiency.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "普洱(Pu’er)茶深受中国人喜爱。 最好的普洱茶产自 云南的西双版纳(Xishuangbanna)， 那里的气 候和环境为普洱茶树的生长提供了最佳条件。 普洱茶颜色较深， 味道与其他许多茶截然不同。 普 洱茶泡(brew)的时间越长越有味道。 许多爱喝茶的人尤其喜欢其独特的香味和口感。 普洱茶含有多 种有益健康的元素， 常饮普洱茶有助于保护心脏和血管， 还有减肥、 消除疲劳和促进消化的功效。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_9Dje3BO.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_fEJ6WC8.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_8GNQxGP.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:08,800\r\nCollege English Test Band 4, Part 2, Listening Comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:09,960 --> 00:00:17,060\r\nIn this section, you'll hear three news reports. At the end of each news report, you'll hear two or three questions.\r\n\r\n3\r\n00:00:17,900 --> 00:00:26,760\r\nBoth the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices,\r\n\r\n4\r\n00:00:26,760 --> 00:00:35,140\r\nMark A, B, C, and D. Then Mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n5\r\n00:00:35,140 --> 00:00:36,300\r\nthrough the center.\r\n\r\n6\r\n00:00:38,240 --> 00:00:40,420\r\nNews report 1.\r\n\r\n7\r\n00:00:41,140 --> 00:00:47,840\r\nIn 81 year old man ended up in Germany by accident. After trying to get from Newcastle,\r\n\r\n8\r\n00:00:48,280 --> 00:00:54,700\r\nGreat Britain, to Rome, Italy. The old age pensioner was on a mission to see the Pope,\r\n\r\n9\r\n00:00:54,700 --> 00:01:00,360\r\nwho is head of the Catholic Church and decided to make his way there by car.\r\n\r\n10\r\n00:01:01,160 --> 00:01:05,519\r\nHe was surprised when his GPS system told him he had arrived.\r\n\r\n11\r\n00:01:06,380 --> 00:01:10,520\r\nAlthough there were no signs of any of the famous buildings or architecture.\r\n\r\n12\r\n00:01:11,560 --> 00:01:15,120\r\nThe man parked but didn't put on the handbrake of his car properly.\r\n\r\n13\r\n00:01:16,380 --> 00:01:21,080\r\nHis car rolled backwards and in a striking display of irony,\r\n\r\n14\r\n00:01:21,080 --> 00:01:23,680\r\nHit a sign, saying, Rome.\r\n\r\n15\r\n00:01:24,960 --> 00:01:30,000\r\nThe small town in North Germany, he had mistakenly plugged into the GPS system.\r\n\r\n16\r\n00:01:30,780 --> 00:01:35,180\r\nPolice said that the car had come to a halt after hitting the sign.\r\n\r\n17\r\n00:01:36,000 --> 00:01:40,880\r\nBut did not appear to be seriously damaged, although an ambulance was called to check\r\n\r\n18\r\n00:01:40,880 --> 00:01:41,980\r\non the pensioner.\r\n\r\n19\r\n00:01:42,660 --> 00:01:48,640\r\nThe man who lives in the UK and is originally Italian might have been confused by the fact\r\n\r\n20\r\n00:01:48,640 --> 00:01:53,800\r\nthat Rome is written Roma in Italian and Rome in German.\r\n\r\n21\r\n00:02:18,799 --> 00:02:23,380\r\nQuestion 2. What finally happened to the old man?\r\n\r\n22\r\n00:02:37,920 --> 00:02:44,720\r\nNews report 2. Glasgow has pledged to become the first carbon neutral city in the UK.\r\n\r\n23\r\n00:02:44,720 --> 00:02:50,740\r\nThe city's Council and Scottish power have announced a range of strategies in an attempt\r\n\r\n24\r\n00:02:50,740 --> 00:02:55,720\r\nto reduce carbon emissions ahead of the new national target of 2045.\r\n\r\n25\r\n00:02:56,620 --> 00:03:02,240\r\nFirst Minister, Nicholas Sturgeon, welcomed the pledge and said, today's announcement\r\n\r\n26\r\n00:03:02,240 --> 00:03:08,340\r\nbetween Scottish power and Glasgow City Council to make Glasgow the UK's first net-zero\r\n\r\n27\r\n00:03:08,340 --> 00:03:10,940\r\ncity is a very welcome step.\r\n\r\n28\r\n00:03:10,940 --> 00:03:17,460\r\nRaging our goals will need exactly this kind of partnership approach, with government, business,\r\n\r\n29\r\n00:03:18,080 --> 00:03:22,140\r\nlocal authorities and citizens all playing their part.\r\n\r\n30\r\n00:03:23,240 --> 00:03:28,500\r\nSpeaking ahead of the all energy conference being held in Glasgow, Scottish power chief\r\n\r\n31\r\n00:03:28,500 --> 00:03:35,020\r\nexecutive Keith Anderson said, we have a large supply of renewable energy on our doorstep\r\n\r\n32\r\n00:03:35,020 --> 00:03:40,420\r\nand one of the only two low-emission zones in action across the UK.\r\n\r\n33\r\n00:03:41,140 --> 00:03:47,040\r\nNow, we need to invest in the technologies and programs that transform the rest of\r\n\r\n34\r\n00:03:47,040 --> 00:03:51,960\r\nBlades goes economy and make us net zero before anyone else.\r\n\r\n35\r\n00:03:52,700 --> 00:03:57,160\r\nQuestions 3 and 4 are based on the news report you have just heard?\r\n\r\n36\r\n00:03:58,320 --> 00:03:59,300\r\nQuestion 3.\r\n\r\n37\r\n00:03:59,740 --> 00:04:01,620\r\nWhat do we learn from the news report?\r\n\r\n38\r\n00:04:16,600 --> 00:04:24,060\r\nQuestion 4. What did Scottish powers chief executive say ahead of the all-energy conference?\r\n\r\n39\r\n00:04:39,000 --> 00:04:41,460\r\nNews Report 3.\r\n\r\n40\r\n00:04:42,000 --> 00:04:48,720\r\nA Japanese IT firm has officially introduced an office cat policy to combat the stressful\r\n\r\n41\r\n00:04:48,720 --> 00:04:50,600\r\nenvironment of the workplace.\r\n\r\n42\r\n00:04:51,800 --> 00:04:57,920\r\nA total of nine furry friends freely wander around in the office and do whatever their\r\n\r\n43\r\n00:04:57,920 --> 00:04:59,240\r\nlittle hearts desire.\r\n\r\n44\r\n00:04:59,240 --> 00:05:06,700\r\nHe did no boo Fukata, who heads the firm, introduced the pet policy upon request from one\r\n\r\n45\r\n00:05:06,700 --> 00:05:11,520\r\nof his employees, allowing staff to bring their own cats to work.\r\n\r\n46\r\n00:05:12,540 --> 00:05:17,060\r\nEmployee Eriito is grateful for the animal's comforting ways.\r\n\r\n47\r\n00:05:17,900 --> 00:05:20,160\r\nCats are sleeping just beside us.\r\n\r\n48\r\n00:05:20,360 --> 00:05:22,100\r\nIt's healing, she said.\r\n\r\n49\r\n00:05:22,920 --> 00:05:28,340\r\nNot only does Fukuda encourage bringing cats to the job, but he also encourages his\r\n\r\n50\r\n00:05:28,340 --> 00:05:33,140\r\nemployees to rescue cats from overpopulated shelters or streets.\r\n\r\n51\r\n00:05:34,240 --> 00:05:40,480\r\nHe gives 5,000 yen about 45 US dollars a month to those who rescue a cat.\r\n\r\n52\r\n00:05:41,540 --> 00:05:44,380\r\nWhile the positives are many, there's still some obstacles.\r\n\r\n53\r\n00:05:45,720 --> 00:05:50,900\r\nSometimes a cat will walk on a phone and cut off the call, or they shut down the computers\r\n\r\n54\r\n00:05:50,900 --> 00:05:54,120\r\nby walking onto the off switch, ethoses.\r\n\r\n55\r\n00:05:54,800 --> 00:05:59,220\r\nStill, cats in the workplace have been a tremendous success for the company.\r\n\r\n56\r\n00:05:59,960 --> 00:06:03,920\r\nThe policy has led to various other companies doing the same.\r\n\r\n57\r\n00:06:04,840 --> 00:06:08,840\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n58\r\n00:06:09,620 --> 00:06:10,560\r\nQuestion 5.\r\n\r\n59\r\n00:06:11,120 --> 00:06:14,560\r\nWhat do we learn from the news report about the Japanese IT firm?\r\n\r\n60\r\n00:06:29,440 --> 00:06:35,100\r\nQuestion 6. What does Fukuda encourage his employees to do?\r\n\r\n61\r\n00:06:48,520 --> 00:06:53,300\r\nQuestion 7. What does the news reports say about the firm's policy?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,220 --> 00:00:16,520\r\nSection B, Directions. In this section you will hear two long conversations. At the end of each conversation you will hear four questions. Both the conversation and the questions will be spoken only once.\r\n\r\n2\r\n00:00:16,520 --> 00:00:22,580\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:22,580 --> 00:00:30,380\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:30,380 --> 00:00:34,060\r\nthrough the center. Conversation 1\r\n\r\n5\r\n00:00:34,060 --> 00:00:36,260\r\nHas Jibby been coming in lately?\r\n\r\n6\r\n00:00:36,880 --> 00:00:41,180\r\nNo, I haven't seen him around. Why has he been causing any trouble?\r\n\r\n7\r\n00:00:41,180 --> 00:00:47,560\r\nNot that I know of, but I need to see him because my friends and I lent him some money last month,\r\n\r\n8\r\n00:00:47,940 --> 00:00:49,700\r\nand we haven't heard from him since.\r\n\r\n9\r\n00:00:50,480 --> 00:00:55,300\r\nI heard he comes here a lot, so I thought I'd come in and check with you.\r\n\r\n10\r\n00:00:55,920 --> 00:00:56,860\r\nWell, that's funny.\r\n\r\n11\r\n00:00:57,280 --> 00:01:00,480\r\nSome other fellow came in asking for Jimmy just yesterday.\r\n\r\n12\r\n00:01:01,060 --> 00:01:03,640\r\nA real nervous, pushy type of fellow.\r\n\r\n13\r\n00:01:04,260 --> 00:01:07,920\r\nSaying he needed Jimmy for some steady project they were working on.\r\n\r\n14\r\n00:01:07,920 --> 00:01:14,040\r\nBut I can't quite remember what it was all about. Is this a lot of money we're talking about here?\r\n\r\n15\r\n00:01:14,620 --> 00:01:20,920\r\nNo, just 60 pounds between the three of us, but still a bit too much to just let go.\r\n\r\n16\r\n00:01:21,540 --> 00:01:31,460\r\nHe told us he'd got into an accident. Nothing serious, mind you, but he damaged someone's car and wanted to get some money together to make up for the damage he'd caused.\r\n\r\n17\r\n00:01:31,460 --> 00:01:35,760\r\nHmm, isn't that sort of thing usually covered by insurance?\r\n\r\n18\r\n00:01:36,940 --> 00:01:42,360\r\nAnd then if he still wanted to give money as some sort of apology or something, he probably\r\n\r\n19\r\n00:01:42,360 --> 00:01:45,460\r\nshouldn't have to go around borrowing it from people.\r\n\r\n20\r\n00:01:45,940 --> 00:01:48,040\r\nYou think Jim is just making it all up?\r\n\r\n21\r\n00:01:48,540 --> 00:01:53,320\r\nSee, I did think it was a bit weird for him to be asking for money for that sort of thing,\r\n\r\n22\r\n00:01:53,740 --> 00:01:56,540\r\nand his story was a bit vague to begin with.\r\n\r\n23\r\n00:01:56,540 --> 00:02:00,860\r\nBut I thought maybe he doesn't want his parents to know about what happened.\r\n\r\n24\r\n00:02:01,640 --> 00:02:04,160\r\nSo he'd rather come to us and keep things quiet.\r\n\r\n25\r\n00:02:04,780 --> 00:02:10,060\r\nAnyway, Jimmy's a good guy, so we didn't make a fuss about it.\r\n\r\n26\r\n00:02:10,620 --> 00:02:14,720\r\nQuestions 8 to 11 are based on the conversation you have just heard?\r\n\r\n27\r\n00:02:15,540 --> 00:02:16,460\r\nQuestion 8.\r\n\r\n28\r\n00:02:16,920 --> 00:02:18,560\r\nWhat does the man want to do?\r\n\r\n29\r\n00:02:34,000 --> 00:02:38,620\r\nQuestion 9. What do we learn about the man who came to see the woman yesterday?\r\n\r\n30\r\n00:02:53,839 --> 00:02:58,060\r\nQuestion 10. What did Jimmy say happened to him one day?\r\n\r\n31\r\n00:03:13,180 --> 00:03:19,600\r\nQuestion 11. Why did Jimmy borrow money according to the man?\r\n\r\n32\r\n00:03:41,940 --> 00:03:46,360\r\nI've never done it before and I know that you've been doing it for ages.\r\n\r\n33\r\n00:03:46,980 --> 00:03:49,760\r\nSure, I love getting my shopping delivered.\r\n\r\n34\r\n00:03:50,360 --> 00:03:52,660\r\nIt makes life so much simpler.\r\n\r\n35\r\n00:03:53,280 --> 00:03:58,740\r\nNo carrying heavy shopping bags in the rain or trying to park the car in those huge supermarket\r\n\r\n36\r\n00:03:58,740 --> 00:03:59,620\r\ncar parks.\r\n\r\n37\r\n00:04:00,140 --> 00:04:03,280\r\nThen not being able to find it again after you come out of the shops.\r\n\r\n38\r\n00:04:03,980 --> 00:04:05,560\r\nBut there must be some problems.\r\n\r\n39\r\n00:04:06,100 --> 00:04:08,980\r\nI mean, how do you know that you won't get bad fruit?\r\n\r\n40\r\n00:04:09,320 --> 00:04:11,200\r\nOr that the eggs won't be broken?\r\n\r\n41\r\n00:04:11,980 --> 00:04:13,180\r\nOh, come on.\r\n\r\n42\r\n00:04:13,180 --> 00:04:18,300\r\nThe food is exactly the same as the stuff you buy in a conventional shop.\r\n\r\n43\r\n00:04:18,779 --> 00:04:21,760\r\nThey aren't going to deliver you food that is out of date.\r\n\r\n44\r\n00:04:22,340 --> 00:04:27,180\r\nAnd, if you get a broken egg, well, that could happen in a conventional shop too.\r\n\r\n45\r\n00:04:28,180 --> 00:04:29,940\r\nIf anything, it's really wrong.\r\n\r\n46\r\n00:04:30,280 --> 00:04:35,820\r\nYou can just take photographs of the damage and they will give you the money back or replace the item.\r\n\r\n47\r\n00:04:36,720 --> 00:04:41,460\r\nHow about delivery fees? Is it not more expensive to get everything delivered?\r\n\r\n48\r\n00:04:42,000 --> 00:04:48,000\r\nI actually found that it was cheaper for me as I live quite far away from my local supermarket,\r\n\r\n49\r\n00:04:48,700 --> 00:04:52,580\r\nso with the deliveries I'm actually saving on petrol.\r\n\r\n50\r\n00:04:53,080 --> 00:04:54,360\r\nI never thought of that.\r\n\r\n51\r\n00:04:54,600 --> 00:04:58,280\r\nIf you aren't driving your own car, then you are saving on fuel.\r\n\r\n52\r\n00:04:58,900 --> 00:05:00,680\r\nRight, you've convinced me.\r\n\r\n53\r\n00:05:01,080 --> 00:05:03,940\r\nI'm going to go on the computer now and give it a try.\r\n\r\n54\r\n00:05:04,460 --> 00:05:07,740\r\nSo which supermarket do you think is the best to order from?\r\n\r\n55\r\n00:05:08,380 --> 00:05:10,560\r\nOh no, that's definitely up to you.\r\n\r\n56\r\n00:05:10,560 --> 00:05:13,060\r\nOtherwise, will the hero day?\r\n\r\n57\r\n00:05:13,660 --> 00:05:18,060\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n58\r\n00:05:18,960 --> 00:05:22,700\r\nQuestion 12- What did the woman want to ask Max about?\r\n\r\n59\r\n00:05:37,659 --> 00:05:43,160\r\nQuestion 13. What does the man think is a problem with shopping and supermarkets?\r\n\r\n60\r\n00:05:58,120 --> 00:06:03,360\r\nQuestion 14. What is the woman's concern about shopping online?\r\n\r\n61\r\n00:06:18,160 --> 00:06:21,980\r\nQuestion 15. What does the man find about",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,059 --> 00:00:15,380\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n\r\n2\r\n00:00:15,840 --> 00:00:29,020\r\nAfter you hear a question, you must choose the best answer. From the four choices marked A, B, C, and D, then mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n3\r\n00:00:30,020 --> 00:00:37,400\r\nPassage 1. A recent study found that 10% of British children suffer from math and anxiety.\r\n\r\n4\r\n00:00:37,820 --> 00:00:43,720\r\nThis means they have overwhelming negative emotions towards the subject, ranging from\r\n\r\n5\r\n00:00:43,720 --> 00:00:50,480\r\nrage to despair. Other emotions triggered by math include feelings of tension and frustration.\r\n\r\n6\r\n00:00:51,420 --> 00:00:57,520\r\nPhysical symptoms include a racing heart or struggling to catch breath. The phenomenon\r\n\r\n7\r\n00:00:57,520 --> 00:01:03,560\r\nof math anxiety, its characterised as a general sense of feeling that the subject is hard\r\n\r\n8\r\n00:01:03,560 --> 00:01:09,040\r\ncompared with other subjects, leading to a subsequent lack or loss of confidence.\r\n\r\n9\r\n00:01:10,060 --> 00:01:14,580\r\nThe researchers said they investigated individuals' attitudes towards mathematics\r\n\r\n10\r\n00:01:14,580 --> 00:01:20,560\r\nbecause of what could be referred to as a mathematics crisis in the UK.\r\n\r\n11\r\n00:01:21,340 --> 00:01:27,100\r\nThere is a widespread misunderstanding that only low-performing children suffer from math anxiety.\r\n\r\n12\r\n00:01:27,520 --> 00:01:33,420\r\nPeople automatically assume children are anxious about math because they are poor achievers.\r\n\r\n13\r\n00:01:34,240 --> 00:01:42,280\r\nIn fact, more than three quarters of children with high levels of math and anxiety are normal to high achievers.\r\n\r\n14\r\n00:01:43,360 --> 00:01:48,600\r\nProbably their math and anxiety will go unnoticed because their performance is good.\r\n\r\n15\r\n00:01:49,300 --> 00:01:53,260\r\nBut, in the long term, their performance is negatively affected.\r\n\r\n16\r\n00:01:53,260 --> 00:02:00,200\r\nSo a real danger here is that children who are completely able to do math at a normal level\r\n\r\n17\r\n00:02:00,200 --> 00:02:03,120\r\nmay keep away from it because they feel anxious.\r\n\r\n18\r\n00:02:04,420 --> 00:02:09,840\r\nMath and Zarty can severely disrupt students' performance in the subject in both primary\r\n\r\n19\r\n00:02:09,840 --> 00:02:11,440\r\nand secondary school.\r\n\r\n20\r\n00:02:12,280 --> 00:02:18,320\r\nBut importantly, and surprisingly, this new study suggests that the majority of students\r\n\r\n21\r\n00:02:18,320 --> 00:02:23,980\r\nExperiencing, math and zati have normal to high math ability.\r\n\r\n22\r\n00:02:24,880 --> 00:02:28,940\r\nQuestion 16 to 18 are based on the passage you have just heard.\r\n\r\n23\r\n00:02:29,740 --> 00:02:34,460\r\nQuestion 16 What did a recent study find about some British children?\r\n\r\n24\r\n00:02:49,040 --> 00:02:55,020\r\nQuestion 17 What is the widespread misunderstanding about math anxiety?\r\n\r\n25\r\n00:03:10,119 --> 00:03:15,960\r\nQuestion 18 What does the passage say about British students with math anxiety?\r\n\r\n26\r\n00:03:31,239 --> 00:03:36,980\r\nPassage 2 People spend a lot of time using phones and computers.\r\n\r\n27\r\n00:03:38,460 --> 00:03:42,760\r\nMuch of that time is devoted to text messages and social media.\r\n\r\n28\r\n00:03:43,440 --> 00:03:47,120\r\nBut many people choose to spend their time playing computer games.\r\n\r\n29\r\n00:03:47,120 --> 00:03:53,140\r\nFor years, parents and teachers have worried that these games might be addictive.\r\n\r\n30\r\n00:03:54,200 --> 00:04:00,540\r\nAnd now, the World Health Organization has recognized addiction to computer games as a disease.\r\n\r\n31\r\n00:04:02,000 --> 00:04:11,740\r\nThe organization explains that this decision reflects general agreement among experts around the world that some people have a problem with these games.\r\n\r\n32\r\n00:04:11,740 --> 00:04:16,380\r\nThey show a pattern of behavior characterized by a lack of control.\r\n\r\n33\r\n00:04:17,640 --> 00:04:22,120\r\nSuch people make computer games a priority over their responsibilities.\r\n\r\n34\r\n00:04:23,180 --> 00:04:28,500\r\nThey may play games instead of attending school or work or socializing.\r\n\r\n35\r\n00:04:29,740 --> 00:04:32,300\r\nAccording to the World Health Organization experts,\r\n\r\n36\r\n00:04:32,940 --> 00:04:38,420\r\npeople's use of computer games is different from their use of the internet, social media,\r\n\r\n37\r\n00:04:38,840 --> 00:04:39,800\r\nand online shopping.\r\n\r\n38\r\n00:04:39,800 --> 00:04:46,720\r\nThese experts claim there is not sufficient data to indicate that people's reliance on those\r\n\r\n39\r\n00:04:46,720 --> 00:04:48,800\r\nother activities is an addiction.\r\n\r\n40\r\n00:04:50,060 --> 00:04:53,740\r\nBut they argue that playing computer games to access is different.\r\n\r\n41\r\n00:04:54,780 --> 00:04:56,700\r\nThis behavior can become a disorder.\r\n\r\n42\r\n00:04:57,940 --> 00:05:02,840\r\nTo meet the new definition for addiction, the behavior must damage a person's relationships\r\n\r\n43\r\n00:05:03,210 --> 00:05:05,860\r\nor performance at school or work.\r\n\r\n44\r\n00:05:05,860 --> 00:05:09,120\r\nAnd this must last for at least a year.\r\n\r\n45\r\n00:05:10,200 --> 00:05:12,820\r\nStill, not all behavior experts agree.\r\n\r\n46\r\n00:05:13,680 --> 00:05:16,660\r\nSome argue that there is not enough research on the subject.\r\n\r\n47\r\n00:05:17,720 --> 00:05:22,400\r\nThus, they claim it is too early to call computer game addiction a disorder.\r\n\r\n48\r\n00:05:23,320 --> 00:05:27,580\r\nQuestions 19-21 are based on the passage you have just heard.\r\n\r\n49\r\n00:05:28,580 --> 00:05:29,660\r\nQuestion 19.\r\n\r\n50\r\n00:05:30,420 --> 00:05:34,100\r\nWhat conclusion has the world health organization come to recently?\r\n\r\n51\r\n00:05:49,320 --> 00:05:54,620\r\nQuestion 20. What is said of people with addictive behavior?\r\n\r\n52\r\n00:06:09,720 --> 00:06:16,560\r\nQuestion 21. What do some behaviour experts think of addiction to computer games?\r\n\r\n53\r\n00:06:31,300 --> 00:06:39,120\r\nPassage 3 Maybe you carry the most powerful passport in the world, or perhaps the rarest\r\n\r\n54\r\n00:06:39,120 --> 00:06:39,640\r\npassport.\r\n\r\n55\r\n00:06:39,640 --> 00:06:49,260\r\nWhatever the case, your passport will likely be one of four colours. Red, blue, green, or black.\r\n\r\n56\r\n00:06:49,840 --> 00:06:55,900\r\nAlthough there are slight variations. Switzerland's passport is dark red, for example.\r\n\r\n57\r\n00:06:56,840 --> 00:07:05,340\r\nWhile most European countries prefer a shade of red that's almost brown, there are no official rules regarding passport colours.\r\n\r\n58\r\n00:07:05,340 --> 00:07:10,420\r\nBut countries follow a certain set of norms when designing them.\r\n\r\n59\r\n00:07:11,120 --> 00:07:16,940\r\nThe International Civil Aviation Organization, which works to define the principles of air travel,\r\n\r\n60\r\n00:07:17,220 --> 00:07:23,340\r\nsuggests that countries use a suitable type, size and style for official documents like\r\n\r\n61\r\n00:07:23,340 --> 00:07:24,000\r\npassports.\r\n\r\n62\r\n00:07:24,780 --> 00:07:28,700\r\nThere are also a few compulsory aspects of passports.\r\n\r\n63\r\n00:07:29,780 --> 00:07:32,820\r\nThey must be made from a material that bends.\r\n\r\n64\r\n00:07:32,820 --> 00:07:39,020\r\nThey should be able to be read by machine at temperatures ranging from 10 degrees Celsius\r\n\r\n65\r\n00:07:39,020 --> 00:07:46,340\r\nto 50 degrees Celsius and conditions where the air can be extremely dry or moist.\r\n\r\n66\r\n00:07:47,540 --> 00:07:53,100\r\nDespite these existing recommendations, there is nothing regarding the cover colour.\r\n\r\n67\r\n00:07:53,820 --> 00:07:54,040\r\nWhy?\r\n\r\n68\r\n00:07:54,880 --> 00:08:00,220\r\nSimply put, countries stick to darker and more conservative colours because they appear\r\n\r\n69\r\n00:08:00,220 --> 00:08:01,160\r\nmore official.\r\n\r\n70\r\n00:08:01,160 --> 00:08:08,240\r\nand they can also hide dirt and wear. While there's little innovation when it comes to passport\r\n\r\n71\r\n00:08:08,240 --> 00:08:15,120\r\ncover colour, the saying cannot be said for the pages. The passports of many countries contain\r\n\r\n72\r\n00:08:15,120 --> 00:08:21,460\r\nimages of their well-known geographical features and wildlife, which also function as security\r\n\r\n73\r\n00:08:21,460 --> 00:08:25,740\r\nfeatures, as some are only visible under a special light.\r\n\r\n74\r\n00:08:25,740 --> 00:08:31,400\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n75\r\n00:08:32,100 --> 00:08:36,500\r\nQuestion 22. What do we learn about most European passports?\r\n\r\n76\r\n00:08:51,580 --> 00:08:57,500\r\nQuestion 23. What does the passage say about the design of passports?\r\n\r\n77\r\n00:09:12,780 --> 00:09:19,200\r\nQuestion 24. Why are dark colors chosen for passport covers?\r\n\r\n78\r\n00:09:34,000 --> 00:09:41,220\r\nQuestion 25. What is one special function of the images inside many passports?\r\n\r\n79\r\n00:09:56,660 --> 00:09:59,140\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

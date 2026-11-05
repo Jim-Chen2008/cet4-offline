@@ -1,0 +1,703 @@
+{
+  "id": 11,
+  "exam": 11,
+  "exam_details": {
+    "id": 11,
+    "title": "2023年3月四级真题第3套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2023,
+    "month": 3,
+    "version": "三",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-25T22:47:09.785000+08:00",
+    "updated_at": "2025-04-25T22:47:40.922000+08:00",
+    "exam_id": 11,
+    "submission_count": 0,
+    "cet_content_id": 11,
+    "has_draft": false
+  },
+  "created_at": "2025-04-25T22:54:59.374000+08:00",
+  "updated_at": "2025-04-25T22:57:57.786000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. A proposed policy allowing Africans to travel in Africa without a visa.",
+              "B. An agreement among 13 African countries to set up a free-trade zone.",
+              "C. A plan to invite all African countries to join the African Union.",
+              "D. An important initiative to permit tourists to visit Africa without a visa."
+            ],
+            "question": "What is the news report mainly about?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. It will attract more investments from all over the world.",
+              "B. It will help many African countries reduce trade deficits.",
+              "C. It will reduce the cost of trade between African countries.",
+              "D. It will allow Africans to play a bigger role in world trade."
+            ],
+            "question": "What benefit will a free trade deal bring to African economy?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Cooling down volcanic rock with sea water.",
+              "B. Storing carbon dioxide underground as a gas.",
+              "C. Capturing carbon dioxide and burying it under the sea.",
+              "D. Pumping carbon dioxide underground to form stone."
+            ],
+            "question": "What new way of tackling climate change is introduced in the news report?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. Lack of burying ground.",
+              "B. Long time for processing.",
+              "C. High consumption of water.",
+              "D. Enormous cost of energy."
+            ],
+            "question": "What is a potential difficulty in applying the new technique?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. It varies with the seasons.",
+              "B. It has been on the decline.",
+              "C. It has caused nationwide concern.",
+              "D. It is ninety grams daily on average."
+            ],
+            "question": "What does the news report say about French people's bread consumption?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. They emphasize food variety.",
+              "B. They prefer French stick loaves.",
+              "C. They do more cooking than men.",
+              "D. They favor diets lower in calories."
+            ],
+            "question": "What do we learn about French women from the report?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. They bake more bread at home.",
+              "B. They spend less time eating breakfast.",
+              "C. They eat more fruit than they used to.",
+              "D. They put jam instead of butter on bread."
+            ],
+            "question": "What is said about lifestyle changes of the French people?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. After the rush hour.",
+              "B. Early in the morning.",
+              "C. As soon as possible.",
+              "D. Around lunch time."
+            ],
+            "question": "When would the man like to leave for London?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. Two first class seats.",
+              "B. Two seats together.",
+              "C. One window seat.",
+              "D. One seat near the exit."
+            ],
+            "question": "What is the man's other request?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. In the middle of the platform.",
+              "B. At the far end of the platform.",
+              "C. Behind the yellow line.",
+              "D. In the waiting room."
+            ],
+            "question": "Where should the man wait for the train?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Wait in a queue for his turn.",
+              "B. Go to the baggage claim area.",
+              "C. Pay an extra fee for the service.",
+              "D. Give the ticket to the train guard."
+            ],
+            "question": "What should the man do to collect the bicycles?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. Almost all of them were operating at a deficit.",
+              "B. They have all been turned into movie theatres.",
+              "C. Nearly all of them closed down decades ago.",
+              "D. They have adapted to meet fashion changes."
+            ],
+            "question": "What do we learn about HAP factories in Britain?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. It shows foreign movies exclusively.",
+              "B. It shows movies from the 1950s.",
+              "C. It is the oldest theatre in London.",
+              "D. It is located next to a hat factory."
+            ],
+            "question": "What is special about Cube Movie Theater?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. They wear hats on social occasions.",
+              "B. They don't speak foreign languages.",
+              "C. They enjoy watching foreign movies.",
+              "D. They don't go to movie theatres often."
+            ],
+            "question": "What does the man say about most people in London?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. They are meant mostly for immigrants.",
+              "B. They attract large crowds of young Londoners.",
+              "C. They are hard for English people to appreciate.",
+              "D. They have an English translation on the screen."
+            ],
+            "question": "What does the woman say about foreign movies shown in London?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. She doesn't think smartphones can replace tablets.",
+              "B. She incorporates smartphones into her teaching.",
+              "C. She cannot stop children using smartphones.",
+              "D. She regards smartphones as a distraction."
+            ],
+            "question": "What does Astrid Natalie, a secondary school math teacher, think about using smartphones in the classroom?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. To enforce school discipline.",
+              "B. To make students concentrate.",
+              "C. To help children grow up to be professionals.",
+              "D. To cultivate children's good study habits."
+            ],
+            "question": "Why does Helen Lockhart, a registered nurse, support a complete ban on smart phone use in the classroom?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. Use books and pens only.",
+              "B. Cut down their screen time.",
+              "C. Make full use of electronic devices.",
+              "D. Learn to use the internet for research."
+            ],
+            "question": "What should students do in the classroom, according to Richard Stone, an English teacher?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. By cleaning the kitchen floor.",
+              "B. By looking after her baby brother.",
+              "C. By helping her mother do the dishes.",
+              "D. By helping her brother wash windows."
+            ],
+            "question": "How did Kate earn the reward from her mother?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. She ordered a large number of dolls.",
+              "B. She checked if a purple doll was ordered.",
+              "C. She mistakenly canceled her mom's order.",
+              "D. She ordered a more expensive doll instead."
+            ],
+            "question": "What did Kate do after her mother left the room?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. They asked the children's hospital to pick them.",
+              "B. They took all of them to the children's hospital.",
+              "C. They opened all of them one by one.",
+              "D. They discussed where to keep them."
+            ],
+            "question": "What did Kate's family do after the packages arrived?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. The time one starts school.",
+              "B. The classroom atmosphere.",
+              "C. The school that one attends.",
+              "D. The relationship with classmates."
+            ],
+            "question": "According to recent research conducted in Australia, what has a lasting impact on one's life?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. To help parents decide when to send their children to school.",
+              "B. To find causes for differences in the participants'performance.",
+              "C. To identify students having potential to be professional athletes.",
+              "D. To offer constructive suggestions for making educational policies."
+            ],
+            "question": "What was the purpose of the Australian research?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. Political leaders.",
+              "B. Financial analysts.",
+              "C. Professional athletes.",
+              "D. High-school students."
+            ],
+            "question": "Who were the participants and the researchers first study?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Leadership ability.",
+              "B. Commitment to work.",
+              "C. Risk-taking",
+              "D. Self-confidence."
+            ],
+            "question": "According to the researchers, what is one characteristic of successful people?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "It's a fantasy that goes back centuries:a message in a bottle,carried ashore from far-off lands.Authors, artists and children __26__ have dreamed of such a gift from the sea.\n\nThis time,though,it's not a bottle that washes ashore.It's eggs-thousands of little toy eggs.\n\nThat's what happened on the German island of Langegoog this week.\n\nLying just off the North Sea coast,it found itself. __27__ by an invasion of colored plastic eggs—much to the __28__ of local children,because the eggs contained toys.\n\nPolice __29__ the eggs came from a freighter that lost part of its cargo during an unusually __30__ storm,the worst to hit Germany's northeastern coast since 2006.\n\nAt any rate,what was lost has now been found by many of the community's littlest residents.\n\n“The surprise eggs have found their way to freedom,”said Mayor Uwe Garrels.However,the joy of the moment. __31__ off soon.\n\n“At first I thought this was a wonder,because everything was so __32__,but then we realized that this is a huge __33__ in the end,\"said the mayor.He also noted the plastic bags and other materials that have washed ashore on the island can cause serious problems for. __34__\n\nStill,all these little eggs contained an extra treat with their toys.They __35__ notes from afar.\n\nThere was just one problem for the German children who received them:They were written in Russian.",
+        "word_bank": [
+          "wore",
+          "intense",
+          "human",
+          "suspect",
+          "effective",
+          "struck",
+          "similar",
+          "quantity",
+          "registered",
+          "reinforces",
+          "revealed",
+          "delight",
+          "colorful",
+          "mess",
+          "wildlife",
+          "alike",
+          "permanently",
+          "prescribes",
+          "readily",
+          "narration",
+          "neutral",
+          "specific",
+          "speculate",
+          "adaptable",
+          "closed",
+          "distribution",
+          "interact",
+          "significant"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Many people today still find name hyphenation upon marriage unacceptable."
+          },
+          {
+            "id": 37,
+            "content": "As a compromise,a bride will in most cases adopt a name that combines the couple's last names."
+          },
+          {
+            "id": 38,
+            "content": "The bride should consider adopting her groom's last name whether he feels strongly about it or not."
+          },
+          {
+            "id": 39,
+            "content": "Making preparations for marriage causes a lot of stress."
+          },
+          {
+            "id": 40,
+            "content": "Hyphenating the last names could be a win-win solution should arguments arise about what name to adopt upon marriage"
+          },
+          {
+            "id": 41,
+            "content": "It used to be considered socially unacceptable for a bride to retain her maiden name."
+          },
+          {
+            "id": 42,
+            "content": "The bride who adopts a hyphenated last name after marriage can maintain connections with their past achievements."
+          },
+          {
+            "id": 43,
+            "content": "Hyphenating names allows the bride to preserve her own identity while respecting tradition."
+          },
+          {
+            "id": 44,
+            "content": "No matter what name the bride adopts,it is most important that the newly weds truly love each other."
+          },
+          {
+            "id": 45,
+            "content": "Legally speaking,the bride is free to choose whatever name she prefers."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Congratulations on deciding to get married!While being married is great and wonderful,the act of getting married can be quite stressful.There is the planning of the ceremony itself,the merging(合并)of two households and all of the details involved in that.You also have to take the time to apply for your marriage license and then decide whether or not you are going to keep your last name or change it."
+          },
+          {
+            "id": "B",
+            "content": "This is where a lot of people have trouble.Once upon a time,it was just customary for a bride to take her groom's last name as her own and abandon her maiden name completely.The act of keeping her own last name was considered taboo(禁忌)and people's eyebrows would raise right off their faces when they found out that the bride was even considering something so radical.Over time,though,more and more women are deciding to keep their last names."
+          },
+          {
+            "id": "C",
+            "content": "There are a lot of reasons to want to keep your own last name.Hopefully you have a supportive groom who understands why this idea is the most appealing to you.A lot of times,though,the act of keeping your name is still something that causes concern.Even if your groom is fine with it,his family (or your own)might not be so understanding."
+          },
+          {
+            "id": "D",
+            "content": "There are a couple of ways to compromise on the issue.You could choose an entirely new last name for the two of you to share.This way neither of you gets\"your\"way and you both have to deal with the legalities of going through a name change.Most of the time,though,the most popular compromise is to hyphenate your last name and the last name of your groom.For example,if your groom's name is John Smith and your name is Kate Jones,you would name yourself Kate Jones-Smith or Kate Smith-Jones.This allows you to keep going by your own last name while legally adopting your husband's last name at the same time."
+          },
+          {
+            "id": "E",
+            "content": "The compromise is the biggest reason that so many women choose to hyphenate their last names.It is a way of you keeping your own identity while also making your future husband happy.It allows you to stay connected to accomplishments that you achieved before you got married.For example,many women who choose to hyphenate do so partially because they have earned higher educational degrees and certifications under their maiden names.They might have also had things published or publicized and want to stay connected to that identity.Hyphenating your last name can help you bridge the gap between your personal and professional lives.Many women who opt to simply keep their own names do so because they don't want to give up all that they have accomplished professionally.Adopting their husband's last name makes it hard for them to claim ownership of these accomplishments personally because they happened under their“other”name."
+          },
+          {
+            "id": "F",
+            "content": "While tradition is one thing,there isn't any logical reason to completely change your name.Keeping your name and joining it to your husband's through hyphenation is as legal as simply adopting his name or as simply keeping your own and leaving his out of the picture entirely."
+          },
+          {
+            "id": "G",
+            "content": "Probably the most important reason to consider hyphenation is your identity.You've spent your whole life building your identity under a certain name.Obviously you will still be you even if you've taken on your husband's last name and omitted yours entirely.At the same time,your name is associated with the identity you've built up and hyphenation allows you to respect that while also respecting tradition and your husband's family's identity."
+          },
+          {
+            "id": "H",
+            "content": "If you care about outside opinions on your name,you should know that a large portion of today's society is annoyed by the hyphenated name.Some people find it“snobby”(势利的)and others simply find it irritating because they have a hard time remembering which last name they are supposed to say first.Some people even believe that not simply adopting your husband's last name is a huge sign of disrespect and a lack of commitment."
+          },
+          {
+            "id": "I",
+            "content": "It is possible that your future husband will find this choice offensive.Some men,regardless of how you might feel about such things,are traditionalists and feel that it is simply \"right\"for the woman to take the man's last name as her own.Whether your future husband insisting on your adopting his last name is a red flag to you or not,it is still something that you should take into consideration."
+          },
+          {
+            "id": "J",
+            "content": "There are all sorts of reasons to hyphenate your name or not to hyphenate your name.The basis for each of these things,however,is whether or not you are willing to make a compromise when it comes to changing your name.The hyphenation is the epitome(体现)of a compromise.One spouse wants a complete name change.The other spouse wants no name change.Hyphenating the two names is a way for each person to,at least a little bit,“win”the argument."
+          },
+          {
+            "id": "K",
+            "content": "And don't forget the legal stuff!Making the decision is just part of the process.From there you are going to have to legally change your name all over the place.You'll need to change your name at the bank,with social security,with your credit cards,on your driver's license,at the gym….everywhere.It's easy to get overwhelmed just thinking about it."
+          },
+          {
+            "id": "L",
+            "content": "What matters,of course,is that the two of you are going to be happily married—hopefully for the rest of your lives.At the end of the day,whether you each keep your names,whether you come up with an entirely new name for the two of you to share or whether you hyphenate your current last names,what matters is that you love each other and are going to be joining your lives together.Try to remember that as you are staring at the application for your marriage license and filling out the portion that reads“name after you get married”(or whatever the legalese for that might be)."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "It's good to be smart.After all,intelligent people earn more money,accumulate more wealth,and even live longer.But there's another side to the story.The brightest people and strongest leaders sometimes make errors others don't,especially in situations that require common sense.\n\nTravis Bradberry,president at TalentSmart,explained in his post Why Smart People Act So Stupid that “Rational thinking and intelligence don't tend to go hand in hand.Intelligent people are more prone to silly mistakes because of blind spots in how they use logic.These blind spots exist because smart people tend to be overconfident in their reasoning abilities.\"They are so used to being right and having quick answers that they don't even realise when they're making a mess by answering without thinking things through.\n\nA lifetime of praise leads smart people to develop too much faith in their intelligence and abilities.They often fail to recognise when they need help,and when they do recognise it,they tend to believe that no one else is capable of providing it.\n\n“It's hard for anyone to graciously accept the fact that they're wrong.It's even harder for smart people because they grow so used to being right all the time that it becomes a part of their identity,\"Bradberry wrote.\"For smart people,being wrong can feel like a personal attack,and being right,a necessity.\"\n\nSmart people also have a hard time accepting feedback.They tend to undervalue the opinions of others, which means they have trouble believing that anyone is qualified to give them useful feedback.Not only does this tendency hinder their growth and performance,it can lead to harmful relationships,both personally and professionally.\n\nSmart people develop overachieving personalities because things come so easily to them.They simply don't understand how hard some people have to work to accomplish the same things,and because of that,they push people too hard.They set the bar too high,and when people take too long or don't get things quite right,they assume it's due to a lack of effort.So they push even harder.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They can make silly mistakes in straightforward situations.",
+                  "B. They usually turn a blind eye to their own weaknesses.",
+                  "C. They are admired by people around them.",
+                  "D. They can differ in their personalities."
+                ],
+                "question": "What do we learn from the passage about the brightest people?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Their irrational way of thinking.",
+                  "B. Too much faith in their ability to think.",
+                  "C. Their ignorance of behavioural science.",
+                  "D. Too much concern about their work."
+                ],
+                "question": "What accounts for the existence of intelligent people's logical blind spots?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. They shift the blame to others.",
+                  "B. They graciously accept the facts.",
+                  "C. They may feel shocked.",
+                  "D. They may get offended."
+                ],
+                "question": "How do smart people react when they are found to be wrong?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. They may suffer in their professional and private life.",
+                  "B. They may lose faith in their administrative abilities.",
+                  "C. They may commit more errors than ever before.",
+                  "D. They may experience a lot of emotional stress."
+                ],
+                "question": "What may happen to smart people who find it difficult to accept suggestions?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. They put a lot of effort into their work.",
+                  "B. They set higher goals for themselves.",
+                  "C. They are under increasing pressure.",
+                  "D. They take less time to get things done."
+                ],
+                "question": "What is said about those working with or under overachieving people?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Of the endless troubles that come with being driven from one's home country,losing educational certificates may seem small.But it isn't.Refugees who settle in other countries often find themselves unable to continue on their previous career path due to a new set of employer standards or skills requirements.To solve this problem, the U.S.State Department is posing a solution:online learning.\n\nThe State Department will announce a partnership with an online education platform called Coursera.The platform will allow refugees worldwide to take thousands of online courses for free.“Coursera for Refugees” will be available for any non-profit group that supports refugees in any country,as well as individual refugees. They can apply for fully funded access to Coursera's course catalog,which means they can take all of the platform's classes and obtain professional certificates for free.The platform currently offers professor-led lectures on a broad range of topics,from data science to fashion design.\n\nAs the world migrant crisis intensifies,employment is becoming a global concern.The new program aims to aid refugees by offering\"important skills that will help them in the global economy,\"Evan Ryan,U.S.assistant secretary of state for educational and cultural affairs,said on a press call last week.\"What we don't want to do is not act,”added Coursera chief operations officer Lila Ibrahim.\n\nThe idea isn't without problems.For one,starting a new career path isn't as simple as watching a few videos and obtaining an online certificate;even those looking to continue previous careers can't simply rely on an online lecture to get them up-to-date on standards,policies,and practices.For another,most of the classes on Coursera are in English,and though there are plans to add translations,language barriers can be a big obstacle.Then there are the questions over the value of massive open online courses (MOOCs)themselves—both for refugees and for average learners.\n\nBut it's still early days and there are signs of hope.In 2015,a joint study found 72%of people taking the MOOCs saw career benefits afterwards.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. To enable them to settle down in host countries.",
+                  "B. To allow them to learn as many job skills as possible.",
+                  "C. To offer them a platform to pursue advanced degrees.",
+                  "D. To help them to meet new employment standards."
+                ],
+                "question": "Why is the U.S.State Department launching an online learning program for refugees?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It provides refugees with a wide range of courses free of charge.",
+                  "B. It offers free online data services for refugees around the world.",
+                  "C. It allows refugees to obtain degrees in various academic fields.",
+                  "D. It supplies refugees with a great variety of job opportunities."
+                ],
+                "question": "What do we know about “Coursera for Refugees”?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. Instability increases in host countries.",
+                  "B. The global economic crisis intensifies.",
+                  "C. A lot more refugees die during migration.",
+                  "D. Refugees find it more difficult to get a job."
+                ],
+                "question": "What does the passage say is a consequence of the global migrant crisis?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Cultural environment.",
+                  "B. Changed academic requirements.",
+                  "C. Lack of language skills.",
+                  "D. Difference in teaching platforms."
+                ],
+                "question": "What does the author say causes refugees'dificulty in taking online courses?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. They helped solve learners'financial problems.",
+                  "B. They benefited most of the learners.",
+                  "C. They changed some learners'career path.",
+                  "D. They provided the most needed vocational skills."
+                ],
+                "question": "What did the joint study find about the MOOCs several years ago?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose you have attended a lecture delivered by a famous scholar.Write a report to the campus newspaper,summarizing its most important points.You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "近年来，越来越多的城市居民为农村的田园风光所吸引，利用节假日到乡村旅游。他们住在农民家中，品尝具有当地风味的农家饭菜。有些游客还参与采摘瓜果等活动，亲身感受收获的喜悦。乡村旅游能够有效地帮助游客舒缓压力，放松心情，增进身心健康。实际上，这种旅游形式不仅能使城市游客受益，同时也能增加农民的收入，促进农村经济发展。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_tiNkCAF.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_KLG7m0W.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_cPMh52o.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:09,220\r\nCollege English Test, Band 4, Part 2, Listening Comprehension, Section A, Directions.\r\n\r\n2\r\n00:00:10,060 --> 00:00:17,780\r\nIn this section, you will hear three news reports. At the end of each news report, you will hear two or three questions.\r\n\r\n3\r\n00:00:18,400 --> 00:00:28,080\r\nBoth the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices,\r\n\r\n4\r\n00:00:28,080 --> 00:00:37,480\r\nmarked A, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n5\r\n00:00:38,520 --> 00:00:45,100\r\nUse report 1. African leaders planned to turn the continent into a continent without borders.\r\n\r\n6\r\n00:00:46,240 --> 00:00:51,100\r\nThey will introduce a single passport policy allowing free movement between countries.\r\n\r\n7\r\n00:00:51,100 --> 00:00:57,860\r\nThe idea from the African Union has been modeled on the EU-Shengen Free Movement Deal.\r\n\r\n8\r\n00:00:58,980 --> 00:01:05,000\r\nEurope has abolished many internal borders. This enables visa-free movement across the continent.\r\n\r\n9\r\n00:01:06,200 --> 00:01:11,640\r\nCurrently, 13 African countries have visa-free deals in place with each other.\r\n\r\n10\r\n00:01:12,300 --> 00:01:15,960\r\nThese allow citizens to visit another country without a visa.\r\n\r\n11\r\n00:01:17,100 --> 00:01:19,100\r\nSome countries offer visas on arrival.\r\n\r\n12\r\n00:01:19,100 --> 00:01:26,220\r\nIn contrast, Americans are able to travel to 20 of the continent's countries without a visa,\r\n\r\n13\r\n00:01:26,760 --> 00:01:28,940\r\nor secure a visa on arrival.\r\n\r\n14\r\n00:01:30,160 --> 00:01:36,440\r\nThe African Union, which represents 54 states, wants to abolish the requirement of a visa\r\n\r\n15\r\n00:01:36,440 --> 00:01:39,520\r\nfor Africans visiting other African countries.\r\n\r\n16\r\n00:01:40,340 --> 00:01:45,340\r\nIt also wants to establish a free trade deal across the continent in the near future.\r\n\r\n17\r\n00:01:45,340 --> 00:01:50,280\r\nAs trade within the African continent, cost more than any other region.\r\n\r\n18\r\n00:01:51,980 --> 00:01:55,860\r\nQuestions 1 and 2 are based on the news report you have just heard?\r\n\r\n19\r\n00:01:56,480 --> 00:01:59,740\r\nQuestion 1. What is the news report mainly about?\r\n\r\n20\r\n00:02:14,760 --> 00:02:20,620\r\nQuestion 2. What benefit will a free trade deal bring to African economy?\r\n\r\n21\r\n00:02:35,540 --> 00:02:37,940\r\nNews Report 2.\r\n\r\n22\r\n00:02:38,680 --> 00:02:44,660\r\nResearchers in Iceland found a new way of tackling climate change by pumping carbon dioxide\r\n\r\n23\r\n00:02:44,660 --> 00:02:47,440\r\nunderground and turning it into stone.\r\n\r\n24\r\n00:02:48,460 --> 00:02:54,920\r\nOther carbon capture and storage methods store carbon dioxide as a gas, but problems include\r\n\r\n25\r\n00:02:54,920 --> 00:02:57,500\r\na high cost and concern about leaks.\r\n\r\n26\r\n00:02:57,500 --> 00:03:07,180\r\nThis new method of barring carbon dioxide and turning it into stone is cheaper and more secure the Guardian reports.\r\n\r\n27\r\n00:03:08,600 --> 00:03:23,060\r\nTo turn carbon dioxide into stone, researchers with the Carb-Fix project pumped the gas into volcanic rock and sped up the natural process in which the volcanic rock reacts with gas and forms carbon minerals.\r\n\r\n28\r\n00:03:23,060 --> 00:03:26,900\r\nThe gas turned into solid in just two years.\r\n\r\n29\r\n00:03:27,480 --> 00:03:31,460\r\nMuch faster than the hundreds or thousands of years researchers had predicted.\r\n\r\n30\r\n00:03:32,640 --> 00:03:36,740\r\nThe research took place at Iceland's Hela Shidi power plant.\r\n\r\n31\r\n00:03:37,460 --> 00:03:43,660\r\nAlready, the project in Iceland has been increased in scale to bury 10,000 tons of carbon dioxide\r\n\r\n32\r\n00:03:43,660 --> 00:03:44,500\r\neach year.\r\n\r\n33\r\n00:03:45,440 --> 00:03:50,820\r\nOne potential difficulty is that for each ton of carbon dioxide buried, the technique\r\n\r\n34\r\n00:03:50,820 --> 00:03:53,100\r\nrequires 25 tons of water.\r\n\r\n35\r\n00:03:54,000 --> 00:03:57,860\r\nHowever, the lead researcher said sea water could be used.\r\n\r\n36\r\n00:03:59,280 --> 00:04:02,920\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n37\r\n00:04:03,680 --> 00:04:04,660\r\nQuestion 3.\r\n\r\n38\r\n00:04:05,160 --> 00:04:08,560\r\nWhat new method has been developed to help fight climate change?\r\n\r\n39\r\n00:04:23,219 --> 00:04:29,040\r\nQuestion 4. What is a potential difficulty in applying the new technique?\r\n\r\n40\r\n00:04:43,640 --> 00:04:51,040\r\nNews report 3 People in France are keeping away from the narrow French stick-loaf in favor\r\n\r\n41\r\n00:04:51,040 --> 00:04:55,860\r\nof healthier cheaper options and Miller's Association has said.\r\n\r\n42\r\n00:04:55,860 --> 00:05:02,040\r\nThe National Association of French Millers says bread consumption is on the decline.\r\n\r\n43\r\n00:05:02,820 --> 00:05:07,100\r\nWith French people eating 9 grams less than in the previous year.\r\n\r\n44\r\n00:05:08,060 --> 00:05:13,620\r\nThe association is concerned about the effects this trend will have on their trade, and\r\n\r\n45\r\n00:05:13,620 --> 00:05:16,020\r\nsuggests three reasons why it is happening.\r\n\r\n46\r\n00:05:17,120 --> 00:05:20,500\r\nFirstly, the association cited changing diets.\r\n\r\n47\r\n00:05:21,020 --> 00:05:24,260\r\nIn particular, this switched to those low in calories.\r\n\r\n48\r\n00:05:24,260 --> 00:05:27,920\r\nas a factor in the reduction of bread consumption.\r\n\r\n49\r\n00:05:29,360 --> 00:05:33,960\r\nThis could explain why the difference in consumption between genders is so big.\r\n\r\n50\r\n00:05:35,000 --> 00:05:40,600\r\nNowadays, men eat an approximate average of 140 grams of bread daily,\r\n\r\n51\r\n00:05:41,400 --> 00:05:44,060\r\nwhereas women eat 80 to 90 grams.\r\n\r\n52\r\n00:05:45,380 --> 00:05:49,400\r\nThe second reason they say is lifestyle changes in the country,\r\n\r\n53\r\n00:05:49,400 --> 00:05:56,920\r\nWith people dedicating less time to breakfast, when bread would traditionally be eaten with butter and jam.\r\n\r\n54\r\n00:05:58,400 --> 00:06:02,680\r\nFinally, the rising cost of bread is considered to be a factor.\r\n\r\n55\r\n00:06:03,460 --> 00:06:10,640\r\nWith the price of a French stick loaf, increasing by nearly 25% in the last 10 years.\r\n\r\n56\r\n00:06:12,020 --> 00:06:16,080\r\nQuestions 5-7 are based on the news report you have just heard?\r\n\r\n57\r\n00:06:16,080 --> 00:06:22,360\r\nQuestion 5. What does the news report say about French people's bread consumption?\r\n\r\n58\r\n00:06:37,620 --> 00:06:42,320\r\nQuestion 6. What do we learn about French women from the report?\r\n\r\n59\r\n00:06:57,320 --> 00:07:02,840\r\nQuestion 7 What is said about lifestyle changes of the French people?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:01,959 --> 00:00:16,059\r\nSection B, directions. In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once.\r\n\r\n2\r\n00:00:16,600 --> 00:00:29,760\r\nAfter you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet 1 with the single line through the center.\r\n\r\n3\r\n00:00:31,060 --> 00:00:37,280\r\nConversation 1. Next, please. Yes, I'd like to book two train tickets to London\r\n\r\n4\r\n00:00:37,280 --> 00:00:42,620\r\ntomorrow morning, please. Okay, what time would you like to go? Well, after the\r\n\r\n5\r\n00:00:42,620 --> 00:00:48,460\r\nrush hour I think, we'd like to avoid the crowds if possible. So probably some time\r\n\r\n6\r\n00:00:48,460 --> 00:00:55,980\r\naround 10 o'clock. No problem, just give me a minute. There's one here at 947, then\r\n\r\n7\r\n00:00:55,980 --> 00:00:59,820\r\nat 10-12 and then a third at 10-26.\r\n\r\n8\r\n00:01:00,700 --> 00:01:03,620\r\nThe one at 12 minutes past 10 sounds good.\r\n\r\n9\r\n00:01:04,040 --> 00:01:04,260\r\nAlright.\r\n\r\n10\r\n00:01:04,980 --> 00:01:07,580\r\nWould you like to sit in first or second class?\r\n\r\n11\r\n00:01:08,040 --> 00:01:09,220\r\nSecond class is fine.\r\n\r\n12\r\n00:01:09,560 --> 00:01:09,820\r\nThanks.\r\n\r\n13\r\n00:01:10,480 --> 00:01:13,280\r\nIs there any chance we could have a window seat for one of those?\r\n\r\n14\r\n00:01:13,500 --> 00:01:14,140\r\nNo problem.\r\n\r\n15\r\n00:01:14,820 --> 00:01:17,560\r\nAnd I've booked those seats next to each other for you.\r\n\r\n16\r\n00:01:17,900 --> 00:01:21,560\r\nThe total price is 36 pounds, 50 cents.\r\n\r\n17\r\n00:01:22,100 --> 00:01:23,400\r\nIs there anything else?\r\n\r\n18\r\n00:01:23,400 --> 00:01:27,560\r\nYes, actually, we'll be taking our bicycles with us.\r\n\r\n19\r\n00:01:27,800 --> 00:01:29,220\r\nWhat is the arrangement for that?\r\n\r\n20\r\n00:01:29,400 --> 00:01:30,520\r\nAnd will it cost extra?\r\n\r\n21\r\n00:01:31,020 --> 00:01:32,360\r\nIt's no extra cost.\r\n\r\n22\r\n00:01:32,520 --> 00:01:33,840\r\nThe price will be the same.\r\n\r\n23\r\n00:01:34,360 --> 00:01:37,340\r\nAll you need to do is wait at the far end of the platform.\r\n\r\n24\r\n00:01:38,120 --> 00:01:42,800\r\nWhen the train arrives, tell the train guard where you're going, and he will help you secure\r\n\r\n25\r\n00:01:42,800 --> 00:01:46,020\r\nthe bicycles in the last carriage and give you a ticket.\r\n\r\n26\r\n00:01:46,780 --> 00:01:50,280\r\nThen you can walk down through the train to your carriage and take your seats.\r\n\r\n27\r\n00:01:50,280 --> 00:01:55,080\r\nWhen you arrive in London, hand the ticket to the guard and he will return the bicycle\r\n\r\n28\r\n00:01:55,080 --> 00:01:56,120\r\nto you.\r\n\r\n29\r\n00:01:56,420 --> 00:01:57,520\r\nThank you for the information.\r\n\r\n30\r\n00:01:57,860 --> 00:01:59,000\r\nThat's very helpful.\r\n\r\n31\r\n00:02:00,220 --> 00:02:04,500\r\nQuestions 8-11 are based on the conversation you have just heard.\r\n\r\n32\r\n00:02:05,060 --> 00:02:06,140\r\nQuestion 8.\r\n\r\n33\r\n00:02:06,480 --> 00:02:08,639\r\nWhen would the man like to leave for London?\r\n\r\n34\r\n00:02:23,920 --> 00:02:27,620\r\nQuestion 9. What is the man's other request?\r\n\r\n35\r\n00:02:42,720 --> 00:02:46,620\r\nQuestion 10. Where should the man wait for the train?\r\n\r\n36\r\n00:03:01,720 --> 00:03:06,040\r\nQuestion 11. What should the man do to collect the bicycles?\r\n\r\n37\r\n00:03:22,420 --> 00:03:23,470\r\nConversation 2\r\n\r\n38\r\n00:03:23,820 --> 00:03:30,340\r\nGood morning. Our guest today is Karen Brooke. Karen is the managing director of\r\n\r\n39\r\n00:03:30,340 --> 00:03:35,760\r\nCube Movie Theater located on Underhill Road. Thank you for coming Karen.\r\n\r\n40\r\n00:03:36,140 --> 00:03:41,100\r\nThank you for having me. So tell us about your cinema. Cube Movie Theater.\r\n\r\n41\r\n00:03:41,440 --> 00:03:50,260\r\nSure. Cube Movie Theater has been around now for 11 years. It's located in what used to be a\r\n\r\n42\r\n00:03:50,260 --> 00:03:57,600\r\nYeah, there used to be many hat factories in Britain and tell around the 1950s, but fashion\r\n\r\n43\r\n00:03:57,600 --> 00:04:03,420\r\nchanged and most people stopped wearing hats. So practically all of those factories had to\r\n\r\n44\r\n00:04:03,420 --> 00:04:10,920\r\nclose down. This one in particular was closed for 47 years before we transformed it into a movie theater.\r\n\r\n45\r\n00:04:11,320 --> 00:04:17,360\r\nI see. I hear there's something else that makes your theater special. What is it that sets you apart\r\n\r\n46\r\n00:04:17,360 --> 00:04:23,340\r\nfrom other theaters. We are the only movie theater in the whole country that only shows foreign\r\n\r\n47\r\n00:04:23,340 --> 00:04:29,520\r\nmovies. Is there enough demand for that? I would have thought that in London most people don't\r\n\r\n48\r\n00:04:29,520 --> 00:04:35,480\r\nspeak foreign languages. Sure, there's enough demand. The fact that we have been open and in business\r\n\r\n49\r\n00:04:35,480 --> 00:04:41,960\r\nfor all these years proves it. London is a very large and international city. There are lots of\r\n\r\n50\r\n00:04:41,960 --> 00:04:48,380\r\npeople interested in watching such movies. Furthermore, I might add, all movies come with English\r\n\r\n51\r\n00:04:48,380 --> 00:04:53,840\r\ntext at the bottom of the screen. So even if you don't understand what the actors say, you\r\n\r\n52\r\n00:04:53,840 --> 00:05:00,080\r\ncan still read it. Of course. What movie are you showing right now? This week we're showing\r\n\r\n53\r\n00:05:00,080 --> 00:05:03,120\r\na musical from Pakistan. It's very popular.\r\n\r\n54\r\n00:05:04,420 --> 00:05:11,540\r\nQuestions 12 to 15 are based on the conversation you have just heard. Question 12. What do we\r\n\r\n55\r\n00:05:11,540 --> 00:05:14,200\r\nlearn about half factories in Britain.\r\n\r\n56\r\n00:05:29,060 --> 00:05:29,920\r\nQuestion 13.\r\n\r\n57\r\n00:05:30,920 --> 00:05:33,520\r\nWhat is special about Cube Movie Theater?\r\n\r\n58\r\n00:05:48,740 --> 00:05:50,100\r\nQuestion 14.\r\n\r\n59\r\n00:05:51,080 --> 00:05:53,540\r\nWhat does the man say about most people in London?\r\n\r\n60\r\n00:06:09,080 --> 00:06:10,020\r\nQuestion 15.\r\n\r\n61\r\n00:06:10,020 --> 00:06:14,260\r\nWhat does the woman say about foreign movies shown in London?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,419 --> 00:00:15,500\r\nSection C, directions. In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n\r\n2\r\n00:00:16,140 --> 00:00:23,820\r\nAfter you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:23,820 --> 00:00:29,580\r\nThen mark the corresponding letter on answer sheet 1 with the single line through the center.\r\n\r\n4\r\n00:00:30,760 --> 00:00:31,880\r\nPassage 1\r\n\r\n5\r\n00:00:31,880 --> 00:00:37,720\r\nLove them or hate them, smart phones have become an integral part of our daily lives.\r\n\r\n6\r\n00:00:38,160 --> 00:00:40,460\r\nBut should they be left outside the classroom?\r\n\r\n7\r\n00:00:41,580 --> 00:00:49,260\r\nNick Gibb, Minister for School Standards in England, believes schools should ban their pupils from bringing in smart phones.\r\n\r\n8\r\n00:00:50,099 --> 00:00:56,020\r\nAstrid Natalie, a secondary school math teacher, incorporates phones into her classroom.\r\n\r\n9\r\n00:00:57,020 --> 00:01:02,320\r\nMy school doesn't have money for tablets, she says. When students use their phones for\r\n\r\n10\r\n00:01:02,320 --> 00:01:07,880\r\nresearch, they learn they have a powerful tool in their hands. If we stop children using\r\n\r\n11\r\n00:01:07,880 --> 00:01:14,320\r\nphones, we're rejecting something they care about. Meanwhile, Helen Lockhart, a registered\r\n\r\n12\r\n00:01:14,320 --> 00:01:18,980\r\nnurse working for community education, supports a complete ban.\r\n\r\n13\r\n00:01:19,620 --> 00:01:23,720\r\nI'm banned from mobile use at work, and my phone must be handed in.\r\n\r\n14\r\n00:01:24,160 --> 00:01:29,420\r\nIf I'm caught with it in my pocket, I will be subject to disciplinary procedure, which\r\n\r\n15\r\n00:01:29,420 --> 00:01:30,860\r\nwill impact on my career.\r\n\r\n16\r\n00:01:31,660 --> 00:01:36,540\r\nWe need to teach children how to behave like the professionals they're striving to become.\r\n\r\n17\r\n00:01:37,500 --> 00:01:42,240\r\nRichard Stone and English teacher thinks there should be a clear separation between school\r\n\r\n18\r\n00:01:42,240 --> 00:01:42,860\r\nand home.\r\n\r\n19\r\n00:01:42,860 --> 00:01:46,340\r\nStudents should do things differently in the two environments.\r\n\r\n20\r\n00:01:47,140 --> 00:01:51,040\r\nChildren are getting more than enough screen time in their lives without the need to bring\r\n\r\n21\r\n00:01:51,040 --> 00:01:52,460\r\ntheir phone into the classroom.\r\n\r\n22\r\n00:01:53,460 --> 00:01:59,380\r\nThe internet is too easy and too unreliable or research tool, so let's leave phones and\r\n\r\n23\r\n00:01:59,380 --> 00:02:03,080\r\nlaptops at home and show them a different world in their lessons.\r\n\r\n24\r\n00:02:03,740 --> 00:02:06,260\r\nOne of books and pens, he says.\r\n\r\n25\r\n00:02:07,160 --> 00:02:11,180\r\nQuestion 16-18 are based on the passage you have just heard.\r\n\r\n26\r\n00:02:11,180 --> 00:02:17,580\r\nQuestion 16. What do we learn about Astrid Natalie, a secondary school math teacher?\r\n\r\n27\r\n00:02:32,740 --> 00:02:41,120\r\nQuestion 17. Why does Helen Lockhart, a registered nurse, support a complete ban on smart phone use in the\r\n\r\n28\r\n00:02:42,380 --> 00:02:43,260\r\nclassroom\r\n\r\n29\r\n00:02:56,960 --> 00:03:00,820\r\nQuestion 18. What should students do in the classroom\r\n\r\n30\r\n00:03:00,820 --> 00:03:03,940\r\naccording to Richard Stone and English teacher?\r\n\r\n31\r\n00:03:19,760 --> 00:03:25,900\r\nPassage 2. Kate, a six-year-old girl, helped her brother Wash Windows to get a reward\r\n\r\n32\r\n00:03:25,900 --> 00:03:32,060\r\npromised by her mother. A purple doll that she wanted. She watched her mother order the\r\n\r\n33\r\n00:03:32,060 --> 00:03:38,160\r\ndoll online. The next day, Kate asked if she could check the shipping status, so her mom\r\n\r\n34\r\n00:03:38,160 --> 00:03:43,520\r\nclicked on the webpage, and then walked out of the room. Kate saw that her doll would\r\n\r\n35\r\n00:03:43,520 --> 00:03:49,700\r\nbe arriving the next afternoon, but then she noticed something else. Suggestions about other\r\n\r\n36\r\n00:03:49,700 --> 00:03:57,500\r\ndolls and toys she could order. 15 minutes and a few clicks later, with more than $350 worth\r\n\r\n37\r\n00:03:57,500 --> 00:04:08,140\r\nof dolls in her cart, Kate placed the order, and ran off to play. The next day, while\r\n\r\n38\r\n00:04:08,140 --> 00:04:09,380\r\ndolls on the way.\r\n\r\n39\r\n00:04:09,820 --> 00:04:14,260\r\nShe was able to cancel two of them, but it was too late to cancel the rest.\r\n\r\n40\r\n00:04:14,940 --> 00:04:17,579\r\nShe told her daughter that they were going to be returned.\r\n\r\n41\r\n00:04:18,500 --> 00:04:23,600\r\nWhen the packages arrived, Kate wanted to open them, but her parents said no.\r\n\r\n42\r\n00:04:24,180 --> 00:04:29,040\r\nInstead of sending back the dolls, her father suggested giving them to the local children's\r\n\r\n43\r\n00:04:29,040 --> 00:04:29,380\r\nhospital.\r\n\r\n44\r\n00:04:30,360 --> 00:04:35,620\r\nSo the next week, Kate's family loaded up their car and took all the dolls to the playroom\r\n\r\n45\r\n00:04:35,620 --> 00:04:36,960\r\nat the children's hospital.\r\n\r\n46\r\n00:04:37,599 --> 00:04:43,380\r\nKate was depressed at first, but then she sat with some girl patients and they opened\r\n\r\n47\r\n00:04:43,380 --> 00:04:50,260\r\nup all the boxes together, laughing and playing. She had a lot of fun and learned a really\r\n\r\n48\r\n00:04:50,260 --> 00:04:51,180\r\ngood lesson.\r\n\r\n49\r\n00:04:52,260 --> 00:04:59,860\r\nQuestions 19-21 are based on the passage you have just heard. Question 19, how did Kate\r\n\r\n50\r\n00:04:59,860 --> 00:05:01,540\r\nearn the reward from her mother?\r\n\r\n51\r\n00:05:16,820 --> 00:05:21,460\r\nQuestion 20. What did Kate do after her mother left the room?\r\n\r\n52\r\n00:05:36,400 --> 00:05:42,060\r\nQuestion 21. What did Kate's family do after the packages arrived?\r\n\r\n53\r\n00:05:57,360 --> 00:05:58,760\r\nPassage 3.\r\n\r\n54\r\n00:05:59,560 --> 00:06:03,680\r\nCan the date you were born affect how successful your life is?\r\n\r\n55\r\n00:06:04,520 --> 00:06:08,500\r\nAccording to recent research done in Australia, the answer is yes.\r\n\r\n56\r\n00:06:09,340 --> 00:06:14,540\r\nThe researchers found that the time when a person starts school has an enduring impact\r\n\r\n57\r\n00:06:14,540 --> 00:06:15,560\r\non their lives.\r\n\r\n58\r\n00:06:15,560 --> 00:06:21,920\r\nThose who are relatively old compared to their classmates have certain advantages over them.\r\n\r\n59\r\n00:06:22,580 --> 00:06:26,620\r\nPrevious research has found older students achieve better results.\r\n\r\n60\r\n00:06:27,460 --> 00:06:33,620\r\nThey are also more likely to attend university and become professional athletes, chief executives,\r\n\r\n61\r\n00:06:34,260 --> 00:06:35,960\r\nand even important politicians.\r\n\r\n62\r\n00:06:37,240 --> 00:06:42,280\r\nBut the Australian researchers wanted to discover what was driving these differences.\r\n\r\n63\r\n00:06:42,280 --> 00:06:48,960\r\nThey suspected older, more mature students obtained more self-confidence than their peers,\r\n\r\n64\r\n00:06:49,360 --> 00:06:51,040\r\nbecause they achieved better grades.\r\n\r\n65\r\n00:06:52,280 --> 00:06:55,120\r\nTo test this out, they conducted two studies.\r\n\r\n66\r\n00:06:56,080 --> 00:07:01,060\r\nOne was with high school students and the other with more than 1,000 Australian adults.\r\n\r\n67\r\n00:07:01,680 --> 00:07:04,720\r\nAge between 24 and 60 years old.\r\n\r\n68\r\n00:07:04,720 --> 00:07:10,920\r\nIn the first study, more than 600 high school students were surveyed about their tendency\r\n\r\n69\r\n00:07:10,920 --> 00:07:13,320\r\nto take risks and feel confident.\r\n\r\n70\r\n00:07:14,420 --> 00:07:19,740\r\nIn the second study, those born on both sides of the cut-off date for starting school\r\n\r\n71\r\n00:07:19,740 --> 00:07:24,040\r\nwere asked to complete online math questions and rate their performance.\r\n\r\n72\r\n00:07:25,120 --> 00:07:30,260\r\nThey were also asked about the risks they took while writing bicycles and managing their\r\n\r\n73\r\n00:07:30,260 --> 00:07:30,780\r\nfinances.\r\n\r\n74\r\n00:07:30,780 --> 00:07:38,460\r\nThe researchers found that older students displayed greater risk-taking tendencies, while\r\n\r\n75\r\n00:07:38,460 --> 00:07:41,540\r\nrisk-taking can be considered a negative attribute.\r\n\r\n76\r\n00:07:42,000 --> 00:07:48,020\r\nIt's also a characteristic of successful people, including athletes, political leaders,\r\n\r\n77\r\n00:07:48,720 --> 00:07:49,560\r\nand entrepreneurs.\r\n\r\n78\r\n00:07:51,060 --> 00:07:55,700\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n79\r\n00:07:56,380 --> 00:07:57,220\r\nQuestion 22.\r\n\r\n80\r\n00:07:57,220 --> 00:08:04,220\r\nAccording to recent research conducted in Australia, what has a lasting impact on one's life?\r\n\r\n81\r\n00:08:19,340 --> 00:08:23,940\r\nQuestion 23. What was the purpose of the Australian research?\r\n\r\n82\r\n00:08:38,740 --> 00:08:44,460\r\nQuestion 24. Who were the participants and the researchers first study?\r\n\r\n83\r\n00:08:59,280 --> 00:09:07,180\r\nQuestion 25. According to the researchers, what is one characteristic of successful people?\r\n\r\n84\r\n00:09:21,980 --> 00:09:24,360\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

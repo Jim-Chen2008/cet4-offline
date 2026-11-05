@@ -1,0 +1,690 @@
+{
+  "id": 15,
+  "exam": 15,
+  "exam_details": {
+    "id": 15,
+    "title": "2023年12月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2023,
+    "month": 12,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-26T15:31:53.449000+08:00",
+    "updated_at": "2025-04-26T15:31:53.449000+08:00",
+    "exam_id": 15,
+    "submission_count": 0,
+    "cet_content_id": 15,
+    "has_draft": true
+  },
+  "created_at": "2025-04-26T16:35:59.530000+08:00",
+  "updated_at": "2026-05-24T11:07:25.864727+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. Their brains work in harmony.",
+              "B. They are generally the same age.",
+              "C. Their interests are quite similar.",
+              "D. They have the same ethnic background."
+            ],
+            "question": "What does the news report say about friends' brains?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. It can be touching.",
+              "B. It is hard to predict.",
+              "C. It can work both ways.",
+              "D. It resembles family ties."
+            ],
+            "question": "What does the news report say about the relationship between friends?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. Search fbr their half-brothers.",
+              "B. Identify their biological fathers.",
+              "C. Find out more about their ancestry.",
+              "D. See whether they are actually related."
+            ],
+            "question": "What did both Alan Robinson and Walter McDonald attempt to do on DNA matching websites?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. They were both given up for adoption.",
+              "B. They were born to the same mother.",
+              "C. They flew 737 airplanes as pilots.",
+              "D. They were both 60 years of age."
+            ],
+            "question": "What did the news report say about Alan Robinson and Walter McDonald?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. One of his friends was caught littering.",
+              "B. Other tourists refused to join in the cleanup.",
+              "C. The beautiful beach was spoiled with lots of trash.",
+              "D. The kilometer-long beach was practically deserted."
+            ],
+            "question": "What made the Australian tourist feel sad?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. A passerby.",
+              "B. A local woman.",
+              "C. The beach authorities.",
+              "D. One of the five tourists."
+            ],
+            "question": "Who put the good deed video on the internet?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. The tourists' good deed was not noticed by the locals.",
+              "B. Some natives were selling poor-quality food to tourists.",
+              "C. The number of tourists to the beach is on a steady decline.",
+              "D. It was tourists not natives who were cleaning up the beach."
+            ],
+            "question": "Why did one local woman say she was embarrassed?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. He has to play football with workmates.",
+              "B. He has got some books to read.",
+              "C. He is going to visit a friend.",
+              "D. He is physically unfit for it."
+            ],
+            "question": "Why can't The man go for a run Saturday morning."
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. To teach kids about animal protection.",
+              "B. To learn how popular zoos could be.",
+              "C. To see some rare animals in cages.",
+              "D. To give her little nephew a treat."
+            ],
+            "question": "Why is the woman's whole family going to the zoo next Saturday?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. He enjoys excellent health.",
+              "B. He is keen on extreme sports.",
+              "C. He coaches tennis players every week.",
+              "D. He spends most of his time in the gym."
+            ],
+            "question": "What do we learn about Dan from the man's description?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Tending to his swollen ankle.",
+              "B. Concentrating on reading.",
+              "C. Writing three book reports.",
+              "D. Planning Christmas celebrations."
+            ],
+            "question": "What has the man been doing since last weekend?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. It is being debated by hundreds of retirees.",
+              "B. It is attracting many people's attention.",
+              "C. It partly records his own experience.",
+              "D. It argues for postponing retirement."
+            ],
+            "question": "What do we learn about the man's book published recently?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. One should foresee a financial crisis.",
+              "B. One should trust financial planners, figures.",
+              "C. One should have one million dollars to retire.",
+              "D. One should start saving as early as possible."
+            ],
+            "question": "What do the articles the woman read recommend?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. It doesn't need to be permanent.",
+              "B. It shouldn't be considered risky.",
+              "C. It helps to reduce travel expenses.",
+              "D. It is the way to quit a job one hates."
+            ],
+            "question": "What does the man say about retirement?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. By keeping close contact with one's employers.",
+              "B. By retiring when one reaches sixty years old.",
+              "C. By investing half of one's monthly income.",
+              "D. By following the counsel of financial planners."
+            ],
+            "question": "How does the man say his proposal about retirement can be carried out?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. They tended to be easily anticipated by those belonging to their own race.",
+              "B. They tended to be arbitrarily judged by individuals of opposing groups.",
+              "C. They were readily shared among members of the same social or racial group.",
+              "D. They were influenced by the presence of someone from an outsider group."
+            ],
+            "question": "What was the finding of the new research from America about consumers' food choices?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. When they tried to make a positive impression on the researchers.",
+              "B. When an unknown student from another university was present.",
+              "C. When an experimenter from the research team took notice.",
+              "D. When they were offered both candy and fruit as a snack."
+            ],
+            "question": "When did 31% of students in the experiment select the healthier option?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. By advertising its social benefits.",
+              "B. By teaching consumers diet strategies.",
+              "C. By supporting struggling consumers.",
+              "D. By maintaining its positive image."
+            ],
+            "question": "How could a healthy diet be promoted according to the findings of the new research?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. The academic and learning issues struggling students encounter.",
+              "B. The risk students face due to a history of mental health problems.",
+              "C. The effect of interacting with therapy dogs on students under pressure.",
+              "D. The work universities are doing to help students succeed academically."
+            ],
+            "question": "What does the recent study led by Patricia Pendry into examine?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Their communicative skills.",
+              "B. Their executive functioning.",
+              "C. Their academic networking.",
+              "D. Their leadership capacities."
+            ],
+            "question": "What did the new study measure in the participants?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Rid students of their anxiety.",
+              "B. Add to some students’ stress.",
+              "C. Contribute little to typical students’ success.",
+              "D. Help students with mental issues pull through."
+            ],
+            "question": "What does Patricia Pendry think traditional stress management programs may do?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Work hard and plan carefully.",
+              "B. Attempt to succeed at any cost.",
+              "C. Aim high and expect great results.",
+              "D. Remain optimistic even in difficulty."
+            ],
+            "question": "What do entrepreneurs have to do when taking risks according to the passage?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. Regarding failure as something inevitable.",
+              "B. Trying out innovative marketing strategies.",
+              "C. Venturing into sectors never explored before.",
+              "D. Being willing to experiment with novel ideas."
+            ],
+            "question": "What does the passage say is key to business growth?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. Expect future success so as to move forward.",
+              "B. Learn from our failure and forge ahead.",
+              "C. Distinguish between good and bad risks.",
+              "D. Examine our strategies and find out weaknesses."
+            ],
+            "question": "What are we advised to do when we fail?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Fresher offers.",
+              "B. Safer operation.",
+              "C. More challenges.",
+              "D. Less competition."
+            ],
+            "question": "What does it mean to risk taking businesses when most people tend to avoid risk?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Exercising for just 10 minutes a week is linked to a longer life, according to a new study published\nin The British Journal of Sports Medicine.\nSeveral recent studies have found that even low-intensity exercise, done for a short amount of time,\ncan have a meaningful __26__ on health. Still, the idea that exercising for just 10 minutes a week may\nbe enough to increase your lifespan is novel. It’s also somewhat __27__ , since the federal physical\nactivity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of\n__28__ exercise each week.\nThe study was based on data from more than 88,000 U.S. adults who __29__ in the National Health\nInterview Survey between 1997 and 2008.\nContrary to some research that has found an __30__ limit to the amount of exercise that is healthy,\nthe researchers found that there was __31__ no limit to the longevity (长寿) benefits of exercise. Even\nthe small group of people who got 10 times the amount of exercise recommended by the federal\ngovernment had a 46% lower __32__ of death than the least active group.\nStill, observational studies like this one cannot prove cause and effect; they can only find __33__ .\nThe researchers also were not able to __34__ for certain lifestyle factors that could affect lifespan,\nincluding dietary habits and changes in physical activity over time. Despite these __35__ , the study’s\nresults are yet another indication of the power of physical activity, even in small amounts.",
+        "word_bank": [
+          "adjust",
+          "alter",
+          "approximately",
+          "controversial",
+          "coordinates",
+          "impact",
+          "limitations",
+          "operating",
+          "participated",
+          "patterns",
+          "seemingly",
+          "risk",
+          "upper",
+          "moderate",
+          "populated"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "One consequence of climate change is that some people may not have adequate access to certain foods."
+          },
+          {
+            "id": 37,
+            "content": "People around the world are eating foods more similar than what they used to eat."
+          },
+          {
+            "id": 38,
+            "content": "A recent news report talked about scientific efforts to help crops survive droughts through genetic engineering."
+          },
+          {
+            "id": 39,
+            "content": "It is predicted that climate change will affect the availability and price of quality chocolate."
+          },
+          {
+            "id": 40,
+            "content": "People wonder if certain crops and foodstuffs could disappear like some animal species due to climate change."
+          },
+          {
+            "id": 41,
+            "content": "Although farms in the US can move a bit northward, crop yields may decrease."
+          },
+          {
+            "id": 42,
+            "content": "One possible solution to the food security problem is diversification of diet."
+          },
+          {
+            "id": 43,
+            "content": "It remains unsettled whether the global food supply problem can be solved by creating heat-tolerant crops through genetic engineering."
+          },
+          {
+            "id": 44,
+            "content": "Poor people may have to give up eating certain foods because of their high prices."
+          },
+          {
+            "id": 45,
+            "content": "A number of existing farming technologies could be used to reduce the negative effect of climate change on food production."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Earlier this year, scientists warmed that one in six animal species could go extinct (灭绝的) due to climate change. Could the same thing happen to our crops and other foodstuffs too?"
+          },
+          {
+            "id": "B",
+            "content": "It’s clear that farmers in many parts of the world are going to find things harder in the coming decades. Last week, BBC Future explored one scientist’s efforts to help crops cope with the increased probability of droughts. By using the genes from resurrection (复活) plants, Jill Farrant of the University of Cape Town is exploring whether she can design crops to survive for much longer periods without water."
+          },
+          {
+            "id": "C",
+            "content": "But if we can’t find ways to protect other foods, will they survive climate change? Fortunately, there is some good news on this front. Despite alarmist headlines about “foods that are going extinct,” there is no evidence that major food types like beans, chocolate, wine, corn or wheat will cease to exist."
+          },
+          {
+            "id": "D",
+            "content": "But that doesn’t mean it’s all good news for future food. We will probably have to change where we grow certain crops, as some regions get too hot. The disadvantage, obviously, is that local farmers will suffer under this situation. And some people may struggle to get the same access to certain foods. “Even if overall food production may be unaffected, food security can still be impacted,” says Margaret Walsh, a scientist at the US Department of Agriculture’s Climate Change Program Office. In other words, even if a certain food is still grown on some corner of the Earth, it doesn’t mean that everyone will continue to have the same degree of access as today."
+          },
+          {
+            "id": "E",
+            "content": "Overall, the yields of many foods, from staples to life-enhancing extras such as coffee and chocolate, will likely be impacted by climate change too. How those decreases will be felt will depend on the degree of warming and the crop in question, but in general, “anything over about 30°C is very bad for crops,” says Wolfram Schlenker, an associate professor of international and public affairs at Columbia University. For example, statistical studies that he and a colleague built of corn and soybean (大豆) production in the US show a steep decline after crossing the 30°C temperature threshold (临界点) ."
+          },
+          {
+            "id": "F",
+            "content": "In the US—the world’s largest producer of corn and soybeans—farms can move north to some degree, Schlenker says. But eventually, yields will likely suffer because the soil north of Iowa A. adjust I. participated\nB. alter J. patterns\nC. approximately K. populated\nD. controversial L. risk\nE. coordinates M. seemingly\nF. impact N. type\nG. limitations O. upper\nH. moderate\ndeclines in quality-a legacy of glacial (冰川 的) expansion. Other studies, including studies of wheat\nin India and corm in Africa, also found that there is a threshold above which yields sharply decline: crops can adapt and move, but only to a point. “What’s common to all studies is the finding that extreme heat is damaging to crop growth, although exact cutoffs vary by crop,” Schlenker says. “If predictions for the end of the century are true, though, I think a lot of agricultural areas in the US will see significant hits.”"
+          },
+          {
+            "id": "G",
+            "content": "Under current conditions, about 4% of the world’s croplands experience drought in any given year, but by the end of the century those conditions are forecasted to jump to about 18% per year. Some studies indicate that horticulture crops—generally, everything besides staples—may be impacted most severely, largely because they tend to be confined to a smaller geographic area. Researcher Andrew Jarvis and his colleagues found that 80% of coffee-growing zones in Central America and Brazil could become unsuitable by 2050, for example, while climate change will likely have “great impacts” on cocoa (可可粉) production in West Africa. “High quality chocolate will be less available in the future, and if you want it, you’ll have to pay a lot more for it,” Jarvis says."
+          },
+          {
+            "id": "H",
+            "content": "This means that for those who can afford it, some foods will simply cost them more in the future. But for poorer people, those same price jumps will likely cause certain foods to go extinct from their diets. “The more you reduce, the shorter the supply, and the higher the price will jump,” Schlenker says."
+          },
+          {
+            "id": "I",
+            "content": "Another potential climate change induced problem is our dependence on commodity crops—wheat, soybeans, corn and rice—which currently provide humanity with 75% of its calories, either directly or indirectly through the animals we raise on those crops. Jarvis and his colleagues also found that, over the past five decades, the world has seen an increasing standardisation of diets; the foods we eat globally today are 36% more similar than they were in 1961. While this can be good news for the world’s poorest people who now consume more calories, protein and fat than in the past, homogeneity (同 一性) and over-dependence on a handful of staples leaves us vulnerable to threats such as drought, disease and pests- all of which are predicted to worsen in many parts of the world as a result of climate change."
+          },
+          {
+            "id": "J",
+            "content": "There are ways we could soften the coming blow to the global food supply, however. Like Farrant’s work with resurrection crops, a number of companies, organisations and researchers are aiming to create drought-and temperature-resistant crops through genetic engineering and conventional breeding. For now, the jury is still out as to how successful those endeavours will be. “The people at Monsanto who I’ve talked to are much more optimistic that they’ll be able to engineer heat-tolerant crops,” Schlenker says. “On the other hand, scientists at the USDA who I’ve spoken with are much more cautious.”"
+          },
+          {
+            "id": "K",
+            "content": "Until genetic engineering comes to fruition, other strategies might also help in some places, including applying more fertiliser, implementing better irrigation, using machinery that gets crops out of the field faster or installing storage facilities to delay spoilage. “Many places could benefit a great deal just by using technologies that already exist,” Walsh says. “General farm management can go a long way toward easing changes.”"
+          },
+          {
+            "id": "L",
+            "content": "Finally, diversifying our diet away from heat-sensitive wheat, corn, rice and other crops could also help. “We’ve seen profound changes in the last decades in what we eat largely as a result of international trade, and I think that trend toward more diversification will continue,” Jarvis says. “Depending on a greater number of plant species creates a more vigorous and less risky food system—and one that provides a broader range of nutritional requirements.”"
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "One of my bad habits is saying “busy” when people ask me how I’m doing. Sometimes it’s because I actually am busy, but other times it’s because that’s what I think I’m supposed to say. That’s what important people say. That’s what people who get promoted say. But working long hours doesn’t drive better results. Never taking a vacation won’t lead to a promotion. So why are we so proud to talk about how busy we are all the time?\nIn 2016, researchers from Columbia, Harvard, and Georgetown conducted a study to figure it out. They found busy people are perceived to be of high status, and interestingly, these status attributions are heavily influenced by our own beliefs about social mobility. In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing.\nThat’s why we feel like we have to appear busy, and there’s a real perception that if someone is knee-deep in meetings, emails, and stress, then they’re probably a big deal. This culture of busyness is making it hard for employees to find work-life balance. According to a recent study, one in five highly engaged employees is at risk of burnout ( 精疲力竭) .\nPersonally, I’m going to stop saying “busy” when people ask me how 1 am. It sounds self-righteous (自以为是的) and sets the wrong tone. Phrases like “I have limited access to email” and “I’ll respond as soon as I get back” sound like you’re being held against your will from working as opposed to making the most of your time off.\nThat’s why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip. You can share loud and proud that you won’t be checking email until you’re back. Managers need to think twice about emailing their teams on the weekend and talking about\nhow busy they are. Leaders should take time off themselves and encourage employees to do the same.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. He just follows successful people’s example.",
+                  "B. He is actually proud to be fully occupied.",
+                  "C. He thinks everyone should be devoted to work.",
+                  "D. He believes busyness ensures accomplishments."
+                ],
+                "question": "What is a reason for the author to be in the habit of saying “busy” when asked how he is doing?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. Our status can be attributed to our social mobility.",
+                  "B. We hold the belief that hard work leads to success.",
+                  "C. Our own opportunity for success never comes easily.",
+                  "D. We find few people of high status have time for leisure."
+                ],
+                "question": "Why do we tend to think that busy people are of high status?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. It places employees in endless meetings, emails and stress.",
+                  "B. It compels some 20% of employees to appear always busy.",
+                  "C. It distorts many employees’ belief of what a satisfying life is.",
+                  "D. It does much harm to many busy employees’ well-being."
+                ],
+                "question": "What do we learn about the culture of busyness from a recent study?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. One is too busy to check all emails in time.",
+                  "B. One is opposed to the prevailing work culture.",
+                  "C. One is forced by circumstances to stop working.",
+                  "D. One is simply enjoying their time off work."
+                ],
+                "question": "What do such utterances as “I have limited access to email” sound like according to the author?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. To enable busy employees to spend less time checking emails.",
+                  "B. To ensure employees as well as employers truly have time off.",
+                  "C. To stop managers from talking about how busy their teams usually are.",
+                  "D. To encourage both employers and employees to answer emails promptly."
+                ],
+                "question": "Why did the author and his colleagues launch the Out of office Email Generator?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Female employees consistently pay lower airfares than men do for the same flights because they\ntend to book earlier.\nWe compared the airfare paid by employees in the same position within a company for the same\nclass of travel and used a common statistical technique to account for other factors that might affect\ndifferences in airfares. We found that women paid on average $18 less per ticket than their male\ncolleagues. Further investigation allowed us to conclude that this gap is largely explained by the fact that\nwomen tended to book earlier than men, 1.8 days on average.\nWe wanted to determine what was causing these gender differences in booking business trips so we\ntested a variety of possible explanations, such as women choosing to plan ahead or male frequent\ntravelers being inclined to book late. None of these explained away the gender gap, so we applied data\ncollected from surveys that express consumer preferences that play a central role in economic decisions,\nsuch as patience and risk avoidance.\nWe found that only the concept of “negative reciprocity”—in which an employee who feels unfairly\ntreated engages in negative behaviors, such as spending their company’s money less carefully—explains\nthese differences. The surveys showed men tend to exhibit more of these negative behaviors than women.\nThis isn’t to say that all men engage in these behaviors—or that booking relatively late is a sign of\nabnormal behavior. It only means that the gender gap disappears when we plug in the negative reciprocity\nvariable.\nPrior research on negative reciprocity among workers found that it can result in lower employee\nmotivation, business performance and workplace morale (士气) and culture.\nOur results show another way these negative behaviors can manifest themselves, like in airline\nbookings, and add to evidence that women are less likely to engage in them.\nCompanies spend significant sums of money on business travel. While that $18 difference per ticket\nmay seem small, it adds up. Our analysis suggests early booking by women can translate into savings of\n$1 million a year for a large multinational company with 20,000 regular travelers.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It is largely attributed to women booking earlier than men.",
+                  "B. It is largely explained by women’s choosing cheaper fights.",
+                  "C. It is mainly accounted for by male employees’ readiness to pay more.",
+                  "D. It is due to the fact that women care more about their company’s money."
+                ],
+                "question": "What did the author’s team conclude about the gender difference in airfares from their further investigation?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. What made male frequent travelers book air tickets late.",
+                  "B. What caused women to plan ahead in booking business trips.",
+                  "C. What motivated women to book cheaper flights.",
+                  "D. What accounted for the gender gap in airfares."
+                ],
+                "question": "What did the researchers want to determine by testing a variety of possible explanations?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. Both men and women were found to engage in negative behaviors.",
+                  "B. Neither men nor women viewed booking late as a bad behavior.",
+                  "C. The gender difference in airfare expenses no longer existed.",
+                  "D. The gender gap tended to narrow to a significant degree."
+                ],
+                "question": "What happened when the negative reciprocity variable was taken into account?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. It can do more harm to the workplace than to employees.",
+                  "B. It contributes to the male-female divide in the workplace.",
+                  "C. It proves to be counterproductive in a number of ways.",
+                  "D. It can result in increasing labor-management conflicts."
+                ],
+                "question": "What did prior research on negative reciprocity among workers find?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. It can help companies increase their savings significantly.",
+                  "B. It can duly contribute to companies’ business performance.",
+                  "C. It can translate women’s booking practice into men’s behavior.",
+                  "D. It can enhance large multinational companies’ competitiveness."
+                ],
+                "question": "What does the author emphasize about their analysis in the last paragraph?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on a campus event that has impressed them most. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "中国政府十分重视人民的健康饮食(diet)。 通过大力提倡健康饮食，人们对合理营养增进健康的重要性有了 更加深刻的认识。“吃得安全，吃得营养，吃得健康”是人民对美好生活的基本需要，是提升人民幸福感的必然要求，也为食品产业的发展提供了新机遇。目前，各级政府都在采取多种举措确保人民饮食健康，推进健康中国的建设。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.\nYou should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_PaNP2UP.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_G0cA69K.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_Vzdz2SK.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:24,520\r\nCollege English Test, Band 4, Part 2, Listening Comprehension, Section A, Directions. In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once.\r\n\r\n2\r\n00:00:24,520 --> 00:00:31,100\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:31,100 --> 00:00:39,500\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:39,500 --> 00:00:40,600\r\nthrough the center.\r\n\r\n5\r\n00:00:41,960 --> 00:00:48,220\r\nNew report 1. How do you notice how similar you are to your friends? It may be because\r\n\r\n6\r\n00:00:48,220 --> 00:00:54,440\r\nyour brains operate in harmony with each other. We know that friends are more likely to\r\n\r\n7\r\n00:00:54,440 --> 00:01:00,860\r\nthe same age, gender, and ethnic background as each other. Now it seems their brains\r\n\r\n8\r\n00:01:00,860 --> 00:01:08,800\r\nare like two. Researchers at the University of California scanned the brains of 42 classmates\r\n\r\n9\r\n00:01:08,800 --> 00:01:15,460\r\nwhile they watched videos intended to provoke varying responses. Some people might find a\r\n\r\n10\r\n00:01:15,460 --> 00:01:21,560\r\nromantic scene touching, for instance, while others would feel it was embarrassing. The\r\n\r\n11\r\n00:01:21,560 --> 00:01:27,520\r\nActivity of friends' brains was more similar than that of people who didn't know each other,\r\n\r\n12\r\n00:01:28,060 --> 00:01:33,020\r\nparticularly in regions involved in attention, emotion and language.\r\n\r\n13\r\n00:01:34,040 --> 00:01:39,400\r\nThis similarity was strong enough that it could be used to predict whether two people were\r\n\r\n14\r\n00:01:39,400 --> 00:01:41,160\r\nalready friends or not.\r\n\r\n15\r\n00:01:42,120 --> 00:01:44,680\r\nThe relationship probably goes two ways.\r\n\r\n16\r\n00:01:45,320 --> 00:01:48,100\r\nWe are drawn to people who think like us.\r\n\r\n17\r\n00:01:48,100 --> 00:01:55,120\r\nWe then influence their thoughts over time, which may push their brain activity into more\r\n\r\n18\r\n00:01:55,120 --> 00:01:57,620\r\nclosely resembling our own.\r\n\r\n19\r\n00:02:26,320 --> 00:02:32,760\r\nQuestion 2. What does the news report say about the relationship between friends?\r\n\r\n20\r\n00:02:47,700 --> 00:02:50,360\r\nNews Report 2\r\n\r\n21\r\n00:02:50,360 --> 00:02:57,560\r\nTwo men who have been best friends for 60 years have just realized they are actually brothers.\r\n\r\n22\r\n00:02:57,560 --> 00:03:05,580\r\nIt's reported that Alan Robinson and Walter McDonald met in the sixth grade at a school in Hawaii.\r\n\r\n23\r\n00:03:06,140 --> 00:03:08,680\r\nThey have been best friends ever since.\r\n\r\n24\r\n00:03:09,640 --> 00:03:13,540\r\nAlan was given away for adoption soon after he was born,\r\n\r\n25\r\n00:03:14,040 --> 00:03:16,060\r\nand Walter never knew his father.\r\n\r\n26\r\n00:03:17,020 --> 00:03:21,520\r\nSo recently, they made separate attempts on DNA matching websites\r\n\r\n27\r\n00:03:21,520 --> 00:03:23,880\r\nto discover more about their ancestry.\r\n\r\n28\r\n00:03:23,880 --> 00:03:30,260\r\nWalter was astonished to find that he matched with website user Robby 737.\r\n\r\n29\r\n00:03:31,240 --> 00:03:36,560\r\nHe knew immediately that this was his best friend, Alan, whose friends call him Robby,\r\n\r\n30\r\n00:03:36,880 --> 00:03:40,220\r\nand flew 737 airplanes when he was a pilot.\r\n\r\n31\r\n00:03:41,000 --> 00:03:45,000\r\nThe pair were born to the same mother 15 months apart.\r\n\r\n32\r\n00:03:46,560 --> 00:03:50,960\r\nQuestions 3 and 4 are based on the news reports you have just heard.\r\n\r\n33\r\n00:03:50,960 --> 00:04:00,240\r\nQuestion 3. What did both Alan Robinson and Walter McDonald attempt to do on DNA matching websites?\r\n\r\n34\r\n00:04:15,000 --> 00:04:21,920\r\nQuestion 4. What did the news report say about Alan Robinson and Walter McDonald?\r\n\r\n35\r\n00:04:37,160 --> 00:04:39,280\r\nNewt Report 3.\r\n\r\n36\r\n00:04:39,440 --> 00:04:45,560\r\nAmid all the election drama air pollution problems and disease outbreaks, five tourists\r\n\r\n37\r\n00:04:45,560 --> 00:04:47,880\r\ncould work is being spread online.\r\n\r\n38\r\n00:04:48,720 --> 00:04:54,280\r\nYesterday, two male and three female tourists were spotted walking the kilometre-long\r\n\r\n39\r\n00:04:54,280 --> 00:04:56,000\r\nbeach picking up trash.\r\n\r\n40\r\n00:04:56,000 --> 00:05:01,640\r\nOne of the male tourists from Australia commented that although there was a lot of trash,\r\n\r\n41\r\n00:05:01,960 --> 00:05:03,360\r\nnobody was doing anything.\r\n\r\n42\r\n00:05:04,220 --> 00:05:07,460\r\nThe beach was not as nice or beautiful as it should be.\r\n\r\n43\r\n00:05:07,700 --> 00:05:11,900\r\nHe felt so sad to see such a gorgeous place littered with so much trash.\r\n\r\n44\r\n00:05:12,860 --> 00:05:18,220\r\nThus, he and his friends decided to grab a few trash bags and clean it all up.\r\n\r\n45\r\n00:05:18,800 --> 00:05:23,340\r\nA man passing by decided to video their good deed and put it on the internet.\r\n\r\n46\r\n00:05:23,340 --> 00:05:28,720\r\nIt was unclear where the rest of the group was from, but they were most likely traveling\r\n\r\n47\r\n00:05:28,720 --> 00:05:29,460\r\ntogether.\r\n\r\n48\r\n00:05:30,400 --> 00:05:35,260\r\nOne local woman commonsed on being embarrassed that tourists were cleaning up their beach.\r\n\r\n49\r\n00:05:35,880 --> 00:05:40,460\r\nAnother mentioned that it was actually the natives who brought fruit and drinks, then\r\n\r\n50\r\n00:05:40,460 --> 00:05:42,280\r\nleft trash all along the island.\r\n\r\n51\r\n00:05:43,380 --> 00:05:47,860\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n52\r\n00:05:47,860 --> 00:05:52,940\r\nQuestion 5. Why did one of the male tourists feel sad?\r\n\r\n53\r\n00:06:07,880 --> 00:06:12,420\r\nQuestion 6. Who put the good deed video on the internet?\r\n\r\n54\r\n00:06:27,280 --> 00:06:28,920\r\nQuestion 7.\r\n\r\n55\r\n00:06:29,580 --> 00:06:32,660\r\nWhy did one local woman say she was embarrassed?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:00,940 --> 00:00:07,360\r\nSection B, directions, in this section you will hear two long conversations.\r\n\r\n2\r\n00:00:08,220 --> 00:00:17,020\r\nAt the end of each conversation you will hear four questions, both the conversation and the questions will be spoken only once.\r\n\r\n3\r\n00:00:17,800 --> 00:00:26,360\r\nAfter you hear a question you must choose the best answer from the four choices, Marked A, B, C, and D.\r\n\r\n4\r\n00:00:26,360 --> 00:00:32,980\r\nThen, mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n5\r\n00:00:34,559 --> 00:00:35,760\r\nConversation 1\r\n\r\n6\r\n00:00:35,760 --> 00:00:43,100\r\nHello Benjamin, Dan and I will be going for a run along the canal Saturday morning. Would you like to join us?\r\n\r\n7\r\n00:00:43,520 --> 00:00:48,040\r\nI'd love to, but I hurt my ankle last weekend playing football with work colleagues.\r\n\r\n8\r\n00:00:48,560 --> 00:00:50,260\r\nOh dear, is it serious?\r\n\r\n9\r\n00:00:50,920 --> 00:00:56,340\r\nNo, not at all. I landed badly during a fall and twisted it a little, but it's no big deal.\r\n\r\n10\r\n00:00:56,340 --> 00:01:02,580\r\nIt's just a little swollen and I should be fine for next Saturday if you still want to go for a jog then.\r\n\r\n11\r\n00:01:02,980 --> 00:01:05,920\r\nI won't be here next Saturday. I'm going to the zoo.\r\n\r\n12\r\n00:01:06,140 --> 00:01:12,740\r\nThe zoo? Yeah, my little nephew turned six and he loves the zoo. So the whole family is going.\r\n\r\n13\r\n00:01:13,280 --> 00:01:16,880\r\nOh, okay then. I haven't been to a zoo since I was a kid.\r\n\r\n14\r\n00:01:17,480 --> 00:01:24,480\r\nThey are nowhere near as popular as they used to be when we were children. I personally feel sorry for the poor animals,\r\n\r\n15\r\n00:01:24,480 --> 00:01:30,480\r\nStuck in cages, but there's no denying they are fun and educational for children.\r\n\r\n16\r\n00:01:31,220 --> 00:01:33,320\r\nDo you know if Dan will be around next Saturday?\r\n\r\n17\r\n00:01:33,920 --> 00:01:39,640\r\nYeah, I think he will. Just send him a text message. He's always keen on physical activities.\r\n\r\n18\r\n00:01:40,420 --> 00:01:47,880\r\nThat's true. That is extremely fert and healthy. He goes to the gym most days, plus 10 is 2 or 3 times a week.\r\n\r\n19\r\n00:01:48,760 --> 00:01:52,840\r\nSo what have you been doing to stay busy while you've had that swollen ankle?\r\n\r\n20\r\n00:01:52,840 --> 00:02:00,000\r\nI've been catching up on some reading. I was given three books over Christmas and I'm only now getting around to reading them.\r\n\r\n21\r\n00:02:01,380 --> 00:02:05,280\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n22\r\n00:02:05,980 --> 00:02:10,120\r\nQuestion 8. Why can't the man go for a run Saturday morning?\r\n\r\n23\r\n00:02:25,500 --> 00:02:31,460\r\nQuestion 9. Why is the woman's whole family going to the zoo next Saturday?\r\n\r\n24\r\n00:02:46,720 --> 00:02:51,360\r\nQuestion 10. What do we learn about Dan from the Man's Description?\r\n\r\n25\r\n00:03:06,540 --> 00:03:11,720\r\nQuestion 11. What has the man been doing since last weekend?\r\n\r\n26\r\n00:03:28,480 --> 00:03:35,940\r\nOur guest on today's booktalk is John Black, the author of the new best seller, Retire\r\n\r\n27\r\n00:03:35,940 --> 00:03:36,620\r\nEarly.\r\n\r\n28\r\n00:03:37,160 --> 00:03:38,660\r\nThanks for having me on the show, Lisa.\r\n\r\n29\r\n00:03:38,660 --> 00:03:45,060\r\nJohn, your book is getting a lot of attention, partly because you write that most people\r\n\r\n30\r\n00:03:45,060 --> 00:03:48,040\r\ncan retire by 40. Is that realistic?\r\n\r\n31\r\n00:03:49,260 --> 00:03:54,660\r\nDefinitely. When researching this book, I interviewed hundreds of people who retired by 40.\r\n\r\n32\r\n00:03:55,280 --> 00:04:01,000\r\nOkay, but how much money does a person need to retire? I've read articles recommending\r\n\r\n33\r\n00:04:01,000 --> 00:04:04,320\r\n$1 million as a good figure for retirement.\r\n\r\n34\r\n00:04:04,320 --> 00:04:09,420\r\nWhile most financial planners do give numbers, I don't think that's useful.\r\n\r\n35\r\n00:04:09,720 --> 00:04:14,360\r\nAs people are living in different areas with different costs of living and have different\r\n\r\n36\r\n00:04:14,360 --> 00:04:19,420\r\nneeds and wants, which is why I suggest that people aim for financial independence.\r\n\r\n37\r\n00:04:20,160 --> 00:04:22,660\r\nWhat do you mean by financial independence?\r\n\r\n38\r\n00:04:23,180 --> 00:04:26,620\r\nHaving investment income that's greater than monthly expenses.\r\n\r\n39\r\n00:04:27,480 --> 00:04:29,140\r\nThat sounds risky to me.\r\n\r\n40\r\n00:04:29,140 --> 00:04:33,880\r\nWhat if an accident happens or you get ill and need medical treatment?\r\n\r\n41\r\n00:04:34,680 --> 00:04:37,320\r\nShouldn't people have extra cash for emergencies?\r\n\r\n42\r\n00:04:38,840 --> 00:04:43,060\r\nToo many people spend their lives working on jobs they hate because they're afraid.\r\n\r\n43\r\n00:04:43,580 --> 00:04:45,380\r\nSo I counsel people to take risks.\r\n\r\n44\r\n00:04:46,200 --> 00:04:51,360\r\nRetirement doesn't have to be permanent and if people need to, they can go back to work.\r\n\r\n45\r\n00:04:52,020 --> 00:04:57,100\r\nBut it's not always easy to get back into the workforce after an extended absence.\r\n\r\n46\r\n00:04:57,100 --> 00:05:02,360\r\nTrue, but if you keep current with your skills, you will be attracted to employers.\r\n\r\n47\r\n00:05:03,280 --> 00:05:09,200\r\nMaybe, but how can anyone save enough to retire by 40 when most people can't retire at 60?\r\n\r\n48\r\n00:05:10,240 --> 00:05:15,840\r\nSimple, by cutting housing, food and transport expenses, and investing half your monthly income.\r\n\r\n49\r\n00:05:16,340 --> 00:05:17,640\r\nThat sounds impossible.\r\n\r\n50\r\n00:05:18,360 --> 00:05:21,500\r\nI admitted difficult, but it has worked for thousands.\r\n\r\n51\r\n00:05:22,400 --> 00:05:27,580\r\nQuestion 12-15 are based on the conversation you have just heard.\r\n\r\n52\r\n00:05:28,500 --> 00:05:33,200\r\nQuestion 12. What do we learn about the man's book published recently?\r\n\r\n53\r\n00:05:48,060 --> 00:05:53,360\r\nQuestion 13. What do the articles the woman read recommend?\r\n\r\n54\r\n00:06:08,440 --> 00:06:13,060\r\nQuestion 14. What does the man say about retirement?\r\n\r\n55\r\n00:06:28,179 --> 00:06:34,720\r\nQuestion 15. How does the man say his proposal about retirement can be carried out?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:00,000 --> 00:00:15,320\r\nSection C, directions. In this section you will hear three passages. At the end of each passage you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n\r\n2\r\n00:00:15,320 --> 00:00:21,180\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:21,180 --> 00:00:30,240\r\nA, B, C and D. Then mark the corresponding letter on Ansuchit 1 with a single line through\r\n\r\n4\r\n00:00:30,240 --> 00:00:31,020\r\nthe center.\r\n\r\n5\r\n00:00:32,400 --> 00:00:39,220\r\nPassage 1. New research from America studies the role that the presence of individuals from\r\n\r\n6\r\n00:00:39,220 --> 00:00:44,740\r\ndifferent social or racial groups has in influencing consumers food choices.\r\n\r\n7\r\n00:00:45,580 --> 00:00:51,300\r\nThis research found college students were more likely to choose healthy food in the\r\n\r\n8\r\n00:00:51,300 --> 00:00:56,360\r\npresence of an observer of a different race, as opposed to an observer from their own\r\n\r\n9\r\n00:00:56,360 --> 00:00:56,820\r\nrace.\r\n\r\n10\r\n00:00:57,500 --> 00:01:02,420\r\nThe same was true when they were with someone from a different university compared to someone\r\n\r\n11\r\n00:01:02,420 --> 00:01:03,540\r\nfrom their own.\r\n\r\n12\r\n00:01:03,540 --> 00:01:10,860\r\nResearchers say, this was because participants anticipated more negative judgment from an outsider group.\r\n\r\n13\r\n00:01:11,560 --> 00:01:15,880\r\nIn contrast, they felt less judged by members of their own group.\r\n\r\n14\r\n00:01:16,640 --> 00:01:22,200\r\nIn one experiment, participants were offered the choice between candy and fruit as a snack.\r\n\r\n15\r\n00:01:23,200 --> 00:01:26,400\r\nWhen in the presence of an unknown student from their own university,\r\n\r\n16\r\n00:01:27,160 --> 00:01:30,740\r\nonly 12% of students selected the healthier option.\r\n\r\n17\r\n00:01:30,740 --> 00:01:37,780\r\nHowever, this number was 31% when in the presence of an unknown student from another university.\r\n\r\n18\r\n00:01:38,800 --> 00:01:42,740\r\nOther experiments showed similar results based on racial group.\r\n\r\n19\r\n00:01:43,460 --> 00:01:44,960\r\nWhat's the reason for this pattern?\r\n\r\n20\r\n00:01:46,040 --> 00:01:51,240\r\nThe study found that people feel judged to a larger extent by members of other groups.\r\n\r\n21\r\n00:01:52,380 --> 00:01:57,600\r\nBecause of this, they strategically use healthy food choices to make a positive impression.\r\n\r\n22\r\n00:01:57,600 --> 00:02:05,060\r\nThere have been many attempts to help consumers make healthier choices, but consumers often\r\n\r\n23\r\n00:02:05,060 --> 00:02:12,340\r\nstruggle to maintain a healthy diet. This research finds that one way to promote a healthy diet\r\n\r\n24\r\n00:02:12,340 --> 00:02:16,660\r\ncould be to advertise the social benefits of healthy choices.\r\n\r\n25\r\n00:02:18,240 --> 00:02:23,000\r\nQuestion 16-18 Are based on the passage you have just heard?\r\n\r\n26\r\n00:02:23,000 --> 00:02:30,780\r\nQuestion 16. What was the finding of the new research from America about consumers' food choices?\r\n\r\n27\r\n00:02:45,480 --> 00:02:53,460\r\nQuestion 17. When did 31% of students in the experiment select the healthier option?\r\n\r\n28\r\n00:03:08,460 --> 00:03:15,780\r\nQuestion 18. How could a healthy diet be promoted according to the findings of the new research?\r\n\r\n29\r\n00:03:31,100 --> 00:03:37,940\r\nPassage 2. For college students under pressure, a dog may be the best stress fighter around,\r\n\r\n30\r\n00:03:38,220 --> 00:03:40,600\r\naccording to the finding of a recent study.\r\n\r\n31\r\n00:03:41,580 --> 00:03:46,060\r\nIt's a really powerful finding, said Patricia Pendry, who led the study.\r\n\r\n32\r\n00:03:46,760 --> 00:03:51,860\r\nUniversities are doing a lot of great work trying to help students succeed academically,\r\n\r\n33\r\n00:03:52,700 --> 00:03:58,500\r\nespecially those who may be at risk due to a history of mental health issues or academic\r\n\r\n34\r\n00:03:58,500 --> 00:04:04,140\r\nand learning issues. This study shows that traditional stress management approaches\r\n\r\n35\r\n00:04:04,140 --> 00:04:09,680\r\naren't as effective for this population compared with programs that focus on providing\r\n\r\n36\r\n00:04:09,680 --> 00:04:16,740\r\nopportunities to interact with therapy dogs. The researchers measured executive functioning\r\n\r\n37\r\n00:04:16,740 --> 00:04:23,280\r\nin the students involved in the study. Executive function is a term for the skills one needs\r\n\r\n38\r\n00:04:23,280 --> 00:04:27,520\r\nto plan, organize, motivate, concentrate, and memorize.\r\n\r\n39\r\n00:04:28,200 --> 00:04:31,720\r\nThese are skills students need to succeed in college.\r\n\r\n40\r\n00:04:33,160 --> 00:04:36,480\r\nThe researchers found that students who were most at risk\r\n\r\n41\r\n00:04:36,480 --> 00:04:39,700\r\nhad the most improvements in executive functioning\r\n\r\n42\r\n00:04:39,700 --> 00:04:42,620\r\nafter interacting with therapy dogs.\r\n\r\n43\r\n00:04:43,260 --> 00:04:47,860\r\nThese results remained when researchers followed up six weeks later.\r\n\r\n44\r\n00:04:48,960 --> 00:04:52,020\r\nMany universities provide academic stress management\r\n\r\n45\r\n00:04:52,020 --> 00:04:58,400\r\nprograms and workshops. These are traditionally very similar to college classes. They often\r\n\r\n46\r\n00:04:58,400 --> 00:05:04,180\r\ntalk about ways to get more sleep, set goals, or manage stress, or anxiety.\r\n\r\n47\r\n00:05:05,320 --> 00:05:10,580\r\nPendry acknowledges that these are really important topics and these workshops help\r\n\r\n48\r\n00:05:10,580 --> 00:05:16,200\r\ntypical students succeed. But they're less helpful for struggling students. Pendry\r\n\r\n49\r\n00:05:16,200 --> 00:05:22,000\r\nbelieves those students may experience the programs as another lecture and feel even more\r\n\r\n50\r\n00:05:23,320 --> 00:05:28,700\r\nQuestion 19-21 are based on the passage you have just heard.\r\n\r\n51\r\n00:05:29,540 --> 00:05:35,560\r\nQuestion 19-What does the recent study led by Patricia Pendry into examine?\r\n\r\n52\r\n00:05:50,780 --> 00:05:55,760\r\nQuestion 20. What did the new study measure in the participants?\r\n\r\n53\r\n00:06:10,760 --> 00:06:19,360\r\nQuestion 21. What does Patricia Pendry think traditional stress management programs may do?\r\n\r\n54\r\n00:06:33,840 --> 00:06:41,320\r\nPassage 3 Taking risks in business does not mean going into business blindly and\r\n\r\n55\r\n00:06:41,320 --> 00:06:43,240\r\nthen expecting great results.\r\n\r\n56\r\n00:06:43,240 --> 00:06:51,080\r\nOn the contrary, taking risks and entrepreneurship involves careful planning and hard work.\r\n\r\n57\r\n00:06:52,220 --> 00:06:58,900\r\nNobody can really be sure if risks will be met with success, no matter how calculated they may be.\r\n\r\n58\r\n00:06:59,680 --> 00:07:06,180\r\nBut this should not stop you from taking risks as risks are necessary if you want your business to succeed.\r\n\r\n59\r\n00:07:06,180 --> 00:07:13,520\r\nSome risks may not work out, but an optimistic risk taker will always look at failure\r\n\r\n60\r\n00:07:13,520 --> 00:07:15,600\r\nas an opportunity to learn.\r\n\r\n61\r\n00:07:16,820 --> 00:07:21,400\r\nThe willingness to experiment with new ideas is key to business growth.\r\n\r\n62\r\n00:07:22,480 --> 00:07:26,560\r\nAs the old saying goes, nothing ventured, nothing gained.\r\n\r\n63\r\n00:07:28,060 --> 00:07:31,700\r\nFailure will teach you how to think and plan strategically.\r\n\r\n64\r\n00:07:31,700 --> 00:07:40,240\r\nBut just remember that not all risks are good ones, and when you fail, learn from it and move forward.\r\n\r\n65\r\n00:07:41,460 --> 00:07:49,240\r\nSince most people tend to avoid risk, businesses that are brave enough to take risks already have a competitive advantage.\r\n\r\n66\r\n00:07:50,380 --> 00:07:55,900\r\nThey are the ones setting the standard with new ideas, fresh offers, and bold inventions.\r\n\r\n67\r\n00:07:56,580 --> 00:08:01,000\r\nRisk takers are best at adapting in difficult times.\r\n\r\n68\r\n00:08:02,020 --> 00:08:08,560\r\nSimply put, when most individuals stay away from risk, it means less competition for risk takers.\r\n\r\n69\r\n00:08:09,780 --> 00:08:15,860\r\nWe don't know if you'll achieve what these risk takers have achieved, but for as long as you want to stay safe,\r\n\r\n70\r\n00:08:16,260 --> 00:08:21,620\r\nand for as long as you're content with where your business is right now, you will never find out.\r\n\r\n71\r\n00:08:22,440 --> 00:08:27,640\r\nQuestion 22-25 are based on the passage you have just heard.\r\n\r\n72\r\n00:08:28,440 --> 00:08:35,059\r\nQuestion 22. What do entrepreneurs have to do when taking risks according to the passage?\r\n\r\n73\r\n00:08:49,960 --> 00:08:55,420\r\nQuestion 23. What does the passage say is key to business growth?\r\n\r\n74\r\n00:09:10,400 --> 00:09:15,480\r\nQuestion 24. What are we advised to do when we fail?\r\n\r\n75\r\n00:09:30,240 --> 00:09:37,840\r\nQuestion 25. What does it mean to risk taking businesses when most people tend to avoid\r\n\r\n76\r\n00:09:37,840 --> 00:09:38,340\r\nrisk?\r\n\r\n77\r\n00:09:53,480 --> 00:09:55,960\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

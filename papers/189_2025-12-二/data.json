@@ -1,0 +1,682 @@
+{
+  "id": 84,
+  "exam": 189,
+  "exam_details": {
+    "id": 189,
+    "title": "2025年12月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2025,
+    "month": 12,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2026-01-29T13:30:43.478004+08:00",
+    "updated_at": "2026-01-31T15:19:13.546026+08:00",
+    "exam_id": 189,
+    "submission_count": 0,
+    "cet_content_id": 84,
+    "has_draft": false
+  },
+  "created_at": "2026-01-31T14:38:23.713144+08:00",
+  "updated_at": "2026-06-12T22:44:39.883331+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A) It has gone up sharply.",
+              "B) It has been fluctuating.",
+              "C) It has risen because of bird flu.",
+              "D) It has been consumers' concern."
+            ],
+            "question": "What does the news report say about the price of eggs?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A) They don't want to abandon their eggs.",
+              "B) They don't know they will be heavily fined.",
+              "C) They don't know they are forbidden to bring eggs.",
+              "D) They don't declare their eggs during the inspection."
+            ],
+            "question": "Why are some travelers heavily fined?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A) It is no longer critical of younger customers.",
+              "B) It has banned kids under 10 from dining there.",
+              "C) It is no longer as noisy and crowded as before.",
+              "D) It has implemented a decision to expand business."
+            ],
+            "question": "What change has the restaurant made?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A) It is fully aware of frequent customers' feelings.",
+              "B) It caters to the tastes of different customers.",
+              "C) It is entitled to adopt any rules it wants.",
+              "D) It should announce its decisions online."
+            ],
+            "question": "What does the restaurant claim regarding its new policy?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A) A missing pet.",
+              "B) A grown-up snake.",
+              "C) A huge animal skin.",
+              "D) A snake specialist."
+            ],
+            "question": "What was found according to the report?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A) In a government office.",
+              "B) In a deserted house.",
+              "C) At a local zoo.",
+              "D) At a construction site."
+            ],
+            "question": "Where was the snake found?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A) Figuring out where it came from.",
+              "B) Curing it of any possible diseases.",
+              "C) Protecting its babies against harm.",
+              "D) Determining how to catch it safely."
+            ],
+            "question": "What are the authorities trying to do now?"
+          }
+        ],
+        "description": "News Reports",
+        "question_groups": [
+          {
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A) The man doesn't agree Hannah is poor.",
+              "B) The man doesn't believe what she says.",
+              "C) The man doesn't think she can be a millionaire.",
+              "D) The man doesn't consider her to be trustworthy."
+            ],
+            "question": "What is the man's attitude towards Hannah's story?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A) She no longer has any money left.",
+              "B) She has been betrayed by her family.",
+              "C) She can no longer hold on to her job.",
+              "D) She has been robbed of 5 million Euros."
+            ],
+            "question": "What is Hannah's financial situation according to the conversation?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A) Fortune.",
+              "B) Family.",
+              "C) Harmony.",
+              "D) Happiness."
+            ],
+            "question": "What does the woman value more than fortune?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A) Divorce her.",
+              "B) Leave home.",
+              "C) Buy her a more expensive model.",
+              "D) Let the best thing happen to them."
+            ],
+            "question": "What does the man suggest doing?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A) He is not outstanding in Science and Math.",
+              "B) He does not have a strong academic record.",
+              "C) He is not yet mature enough to live on his own.",
+              "D) He does not like Westwood Elementary School."
+            ],
+            "question": "Why is the woman hesitant about sending Jake to the school?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A) It is too far away.",
+              "B) It is newly opened.",
+              "C) It lacks outdoor sports facilities.",
+              "D) It has too few first-class teachers."
+            ],
+            "question": "What is a characteristic of the school mentioned?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A) It has a beautiful campus.",
+              "B) It is within walking distance.",
+              "C) It has a wonderful arts program.",
+              "D) It is helpful to Jake's breathing problems."
+            ],
+            "question": "What program does the school offer?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A) Asking Jake which school he himself prefers to enroll in.",
+              "B) Thinking twice about what is best for Jake's education next year.",
+              "C) Consulting her mother about which school Jake is to attend.",
+              "D) Sending Jake to the school near the home of the man's mother."
+            ],
+            "question": "What is the final decision regarding Jake's schooling?"
+          }
+        ],
+        "description": "Long Conversations",
+        "question_groups": [
+          {
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A) It is time consuming.",
+              "B) It is unfit for crucial issues.",
+              "C) It relies too much on solid data.",
+              "D) It dulls a leader's sense of urgency."
+            ],
+            "question": "What is a disadvantage of the decision-making process discussed?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A) Depend on digital technology.",
+              "B) Make assumptions and guesses.",
+              "C) Ignore others' thoughts and ideas.",
+              "D) Lay emphasis on thinking flexibly."
+            ],
+            "question": "What should leaders avoid doing according to the passage?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A) Maximizing the advantage of available resources.",
+              "B) Minimizing the possibility of a wrong decision.",
+              "C) Discovering new potential markets.",
+              "D) Perfecting promotional strategies."
+            ],
+            "question": "What is the goal of the strategy mentioned?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A) She is one of the world's best-known pianists.",
+              "B) She celebrated her 110th birthday this April.",
+              "C) She moved to the U. S. at a young age.",
+              "D) She is the world's oldest individual."
+            ],
+            "question": "What is true about the woman mentioned in the passage?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A) Being always active on social media.",
+              "B) Doing regular and vigorous exercise.",
+              "C) Playing the piano from a young age.",
+              "D) Following a specific diet every day."
+            ],
+            "question": "What has the woman been doing for a long time?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A) Eating as little as one can possibly manage.",
+              "B) Having the ability to forget things selectively.",
+              "C) Figuring out the positive properties of each food item.",
+              "D) Knowing how to remember major events in one's life."
+            ],
+            "question": "What does the woman suggest is key to her longevity?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A) The ability to learn.",
+              "B) The first day of school.",
+              "C) How teachers perceive them.",
+              "D) Where they sit in the classroom."
+            ],
+            "question": "What was the focus of the study mentioned in the passage?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A) They often received close attention from the instructors.",
+              "B) They obtained the highest grade average in their class.",
+              "C) They actually wanted a clear vision of the blackboard.",
+              "D) They scored higher than students sitting behind them."
+            ],
+            "question": "What did the study find about students sitting in the front?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A) A higher grade average among all students of a class.",
+              "B) A better connection between instructors and students.",
+              "C) A stronger support for a student-centered teaching approach.",
+              "D) A more favorable atmosphere for effective classroom learning."
+            ],
+            "question": "What is a benefit of sitting in the front according to the passage?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A) They may experience some unwanted stress.",
+              "B) They may try hard to show their preparedness.",
+              "C) They may receive extra attention from the instructor.",
+              "D) They may feel helpless when called on by the instructor."
+            ],
+            "question": "What is a potential negative effect mentioned?"
+          }
+        ],
+        "description": "Passages",
+        "question_groups": [
+          {
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Some music inspires you to move your feet, some inspires you to get out there and change the world. In any case, it's __26__ to say that music moves people in special ways.\nIf you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which __27__ to you like a sting in your brain.\nIt turns out that ASMR is pretty special. According to a __28__ published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's. Alzheimer's __29__ to put people into layers of confusion, and the study confirms that music can sometimes __30__ lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality... if only for a short while. ASMR is powerful stuff!\nThis phenomenon has been __31__ several times but rarely studied properly. One of the most famous examples of this is the story of 92-year-old Henry Dryer, who comes out of dementia(痴呆) while listening to songs from his youth.\nJeff Anderson, associate professor in Radiology at the University of Utah and __32__ author on the study, says \"In our society, the diagnoses of dementia are __33__ resources to the maximum. No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more __34__, decrease the cost of care and improve a patient's __35__ of life.\"",
+        "word_bank": [
+          "actually",
+          "consequently",
+          "contributing",
+          "fair",
+          "feels",
+          "manageable",
+          "mends",
+          "observed",
+          "phase",
+          "plotting",
+          "quality",
+          "recently",
+          "taxing",
+          "tends",
+          "yielded"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Certain gaming skills meet the requirements of the armed forces in Britain."
+          },
+          {
+            "id": 37,
+            "content": "One veteran player has applied his gaming skills to his real-world business and owes his success partly to a game company."
+          },
+          {
+            "id": 38,
+            "content": "According to a researcher, bad reputation about games will probably limit a gamer's chances of landing a job."
+          },
+          {
+            "id": 39,
+            "content": "Businesses are beginning to realise gaming skills are applicable to their employees' work."
+          },
+          {
+            "id": 40,
+            "content": "A physicist admits gaming has contributed to his computer knowledge and skills of solving problems."
+          },
+          {
+            "id": 41,
+            "content": "Game Academy proposes to help gamers develop their skills using critical thinking."
+          },
+          {
+            "id": 42,
+            "content": "One who enjoys playing games that require management skills to win might possess more qualities of a manager."
+          },
+          {
+            "id": 43,
+            "content": "In more conventional views, gaming is a time-wasting activity pursued by young boys."
+          },
+          {
+            "id": 44,
+            "content": "It is suggested that gaming skills be included in a résumé if they enhance a job applicant's appeal."
+          },
+          {
+            "id": 45,
+            "content": "Many gamers know their passion for playing games has shaped their identity."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé. But why not? Businesses are waking up to the skills games can bring to the workplace."
+          },
+          {
+            "id": "B",
+            "content": "One start-up is convinced that the skills learned by playing games—hard-won through years of training and battle—can be applied to real-life work situations. And Game Academy reckons its belief is backed up by hard data. Do you enjoy unusual puzzle games like Portal, or tower defence games like Defense Grid? The team has found that IT workers play those more than average. But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers."
+          },
+          {
+            "id": "C",
+            "content": "Game Academy’s idea is simple: analyse games’ habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes—skills they can practise and refine in-game. And there is already a growing acceptance that gaming skills are transferable."
+          },
+          {
+            "id": "D",
+            "content": "Even the military is hiring games. “The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,” according to a Royal Air Force spokesperson. Those skills are part of what the Royal Air Force is looking for “in a variety of roles”. “Skills acquired through gaming can be very relevant to certain areas.”"
+          },
+          {
+            "id": "E",
+            "content": "“There are plenty of soft skills that games can utilise in a professional setting, such as teamwork, problem solving and strategic planning,” says Ryan Gardner, a regional director with Hays recruitment. But does that really mean your top 100 ranking in Overwatch should go down in your résumé? “It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,” Mr. Gardner says."
+          },
+          {
+            "id": "F",
+            "content": "Two years ago, a Glasgow University study made headlines for suggesting gaming could make students more successful. But “the research hasn't really changed minds, at least not yet,” says one of the authors of the study, Dr. Matthew Barr. He's now writing a book on the topic. “For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job. But if someone can explain how they've led a team in an online game, for example, they may be able to persuade an employer that this is useful,” says Dr Barr."
+          },
+          {
+            "id": "G",
+            "content": "Playing games casually is unlikely to help your career prospects. But part of Game Academy's suggestion is to transform casual games into “conscious” ones, applying critical thinking to developing their skills. “We see gameplay as a resource of talent,” says co-founder David Barrie. “Why can't we put in our résumé our gaming victories and achievements?” he asks. “If they say they want leadership—why can't I point to my years of leading World of Warcraft raids?”"
+          },
+          {
+            "id": "H",
+            "content": "There are already plenty of games out there who know that their hobby has made them who they are. Earlier this year, Matthew Ricci told gaming site Kotaku: “If you're playing EVE Online you basically already have an MBA.” Often made fun of in gaming circles as a “spreadsheet simulator (电子表格模拟器)”, the economy of the fictional EVE universe is driven by real market principles. If you want to build a new spaceship, the raw material has to be mined by another player. Manufacturing costs come into effect, and commodities fluctuate in price based on demand and the distance to haul the commodity."
+          },
+          {
+            "id": "I",
+            "content": "Mr. Ricci, who had always dreamed of being the boss of his own company, ran an in-game corporation comprising hundreds of players. Eventually, he realised he could transfer his skills to real-life business—instead of doing it for free. He restructured Zentech, once a taxation vehicle for his father's business, and it is now in its fourth year helping international brands enter the Canadian market. EVE teaches skills like creativity, leadership, organisation, and conflict resolution, he maintains. He credits his success to his family, his strong desire to run his own business—and “a damn good company in Iceland that made a damn good game”."
+          },
+          {
+            "id": "J",
+            "content": "Digital entrepreneur and business consultant Mia Bennett says: “In more traditional settings, gaming is still imagined to be the pursuit of teenage boys—a waste of time.” But there are some links to skills like “decision-making, the ability to anticipate and future planning,” she says. “It also helps with meta-skills—learning how to learn, experimentation, and creative thinking.”"
+          },
+          {
+            "id": "K",
+            "content": "Twelve years into his career, Mark Long, a radiotherapy physicist with the NHS in Surrey, doesn't get as much gaming time as he used to. “I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon (光子) blasters, but that's not quite the reality.” Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. Gaming also encouraged a competitive spirit—and that, he believes, translates. “When creating treatment plans, the aim is to optimise the radiation dose to the tumour and restrict it as much as possible to healthy surrounding tissues and organs,” he says. It's about “repeating the process, but each time doing something slightly different to improve the result”. Not unlike achieving a high score or a perfect run. “Most videogames are essentially puzzles to solve,” he says. “And problem-solving is a big part of my job.”"
+          },
+          {
+            "id": "L",
+            "content": "Over at Game Academy, Mr. Barrie is aware they still have a mountain to climb. “The employer community will need the science,” he says, but confesses he only became a true believer when he started asking players about their biggest in-game achievements. “The scale and scope of their answers were amazing,” he says. “But ask them the same about their work, and they don't know.” “The engagement and powerful skills that people get playing a game—why can't work be like that?” he asks."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Junk food is now a staple of many Americans' diets. Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise. But recent studies show a lack of exercise is not to blame for rising obesity rates. Bad diets are.\nInterventions (干预) to help reduce junk food consumption are especially important for children and teenagers. Prevention is better than cure because obesity is so difficult to treat. Unfortunately, while health education has shown some success among young children, teens have been harder to reach.\nNow a large-scale study has tried an innovative approach to change teenagers' attitudes towards healthy eating, and the results are promising. The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers. In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice.\nTo do this, researchers had students read an article on the food industry. It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy. The article also explained how advertising campaigns specifically target very young and poor people, causing harm for these vulnerable groups. Afterwards, the participants read a fictional survey of teens who wanted to“fight back against the companies by buying and eating less processed food”.\nAfter the intervention, participants associated healthy eating with autonomy and social justice. The teenagers also rated healthy eating as being more appealing. Importantly, there were also some promising effects of the new intervention on actual behavior. A day later the students were offered a choice of snacks and drinks in a seemingly unrelated context. The teens chose healthy snacks and drinks (such as fruit or water) more often over unhealthy options (like biscuits and soda). Apparently associating a healthy diet with teenagers' own values seems to be a promising avenue to prevent obesity.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. They convey the idea that their products are ok if consumers exercise more.",
+                  "B. They send the message that bad diets are responsible for Americans' obesity.",
+                  "C. They usually feature sports stars to emphasize the benefits of their snack foods.",
+                  "D. They claim that lack of exercise is to blame for the increasing obesity rates."
+                ],
+                "question": "What do we learn about advertising campaigns from the snack food companies?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. It has shed light on teens' instinct for rebellion and autonomy.",
+                  "B. It has placed much more emphasis on cure than on prevention.",
+                  "C. It has contributed little to the campaigns against obesity.",
+                  "D. It has largely failed to turn teens away from junk food."
+                ],
+                "question": "What does the passage say about health education?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. They motivated teens to stay away from junk food only temporarily.",
+                  "B. They focused on the benefits young people would reap in the future.",
+                  "C. They were based on the assumption that motivation was the only key.",
+                  "D. They were incapable of appealing to teens' instinct for rebelliousness."
+                ],
+                "question": "What is a major flaw in previous interventions to help reduce junk food consumption?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It emphasizes people's sense of social responsibility.",
+                  "B. It cleverly exploits teenagers' personal weaknesses.",
+                  "C. It takes advantage of teenagers' natural inclination.",
+                  "D. It promises immediate rather than future benefits."
+                ],
+                "question": "In what way is the new intervention innovative?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. A totally different approach could be adopted to combat advertising campaigns for snack food.",
+                  "B. An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle.",
+                  "C. Obesity can be hopefully prevented by building links between teenagers' values and healthy eating.",
+                  "D. An innovative way to beat obesity is to expose food companies' manipulative and deceptive practices."
+                ],
+                "question": "What conclusion can be drawn from the new research?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams.\nBut scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages.\nSince your baby doesn't dream at this stage of brain development, it's safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life.\nAre you wondering, what do babies dream about? Good question, but the answer is nothing！\nSo, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall.\nFoulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too.\nDreams of very small kids are usually just snapshots(快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes,“Children's dream life… seems to be similar to their waking imagination and narration.” Kids ages 5——9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes'studies had no recollection of dreaming, a trend that continues through age 9.\nSo, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It is a sign of dreaming in adults and infants alike.",
+                  "B. It is essential to human beings' language learning.",
+                  "C. It determines the formation of connections in the brain.",
+                  "D. It performs a different function in babies than in adults."
+                ],
+                "question": "What do scientists think of REM?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. They occur often in people with an active imagination.",
+                  "B. They occur in people suffering from emotional stress.",
+                  "C. They vary in different stages of brain development.",
+                  "D. They appear in the sleep of both adults and infants."
+                ],
+                "question": "What can we infer about nightmares from the passage?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. To reveal the secrets of children's dreams.",
+                  "B. To see if children start dreaming at age two.",
+                  "C. To solve the mystery of dreaming and brain growth.",
+                  "D. To confirm the general consensus on when kids dream."
+                ],
+                "question": "What is the aim of psychologist David Foulkes' study?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. They feature strange animals.",
+                  "B. They are unsurprising to adults.",
+                  "C. They grow and evolve with age.",
+                  "D. They reflect kids' waking life."
+                ],
+                "question": "What are Foulkes' findings about kids' dreams?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. They have been roused against their will.",
+                  "B. They have been disturbed by a nightmare.",
+                  "C. They have trouble recollecting the images of their dreams.",
+                  "D. They have been affected by something other than dreaming."
+                ],
+                "question": "What can we assume about babies who appear upset upon waking?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose it is proposed that all university students should be required to learn academic writing. You are now to write a response by stating what you think of the proposal. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "近年来， “城市漫步( city walk)”在中国的年轻人中悄然兴起，已成为一种旅游新潮流。与传统旅游不同，城市漫步不追求在短时间内游览尽可能多的景点，而是随意行走或按照主题路线漫步在城市的大街小巷。漫步者品尝地道小吃，欣赏特色建筑，了解当地生活方式。他们还用相机或手机记录城市的风景和人物。这种旅游方式能让城市漫步者更深入了解城市的历史与文化。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split2_2TQtw5J.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split11_MODeWAI.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split21.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\r\n00:00:00,000 --> 00:00:12,140\r\nCollege English Test, and 4, Part 2, Listening Comprehension, Section A, Directions. In this section, you will hear\r\n大学英语考试，第四部分，第二部分，听力理解，A节，说明。在本节中，你将听到\r\n\r\n2\r\n00:00:12,140 --> 00:00:20,100\r\n3 news reports. At the end of each news report, you will hear 2 or 3 questions. Both the news\r\n3篇新闻报道。每篇新闻报道结束后，你将听到2到3个问题。新闻\r\n\r\n3\r\n00:00:20,100 --> 00:00:27,900\r\nreport and the questions will be spoken only once. After you hear a question, you must choose the best answer\r\n报道和问题都只播放一遍。听到问题后，你必须从\r\n\r\n4\r\n00:00:27,900 --> 00:00:35,920\r\nfrom the four choices marked A, B, C and D. Then mark the corresponding letter on\r\n标有A、B、C和D的四个选项中选择最佳答案。然后在\r\n\r\n5\r\n00:00:35,920 --> 00:00:39,160\r\nAnsysheet 1 with a single line through the center.\r\n答题纸1上，用一条直线穿过中心标记相应的字母。\r\n\r\n6\r\n00:00:40,280 --> 00:00:48,160\r\nNews report 1. Customs and border protection officials are seen arise in people illegally bringing\r\n新闻报道1。海关和边境保护官员发现，有人非法将\r\n\r\n7\r\n00:00:48,160 --> 00:00:55,600\r\neggs from Mexico into border states such as Texas. The U.S. average price for a dozen\r\n鸡蛋从墨西哥带入德克萨斯州等边境州的情况有所增加。上个月，美国一打\r\n\r\n8\r\n00:00:55,600 --> 00:01:05,060\r\nlarge eggs last month hit $4.25. That's more than double there are $1.78 price in December\r\n大鸡蛋的平均价格达到了4.25美元。这比2023年12月的1.78美元的价格\r\n\r\n9\r\n00:01:05,060 --> 00:01:16,040\r\n2023. Meanwhile, 30 eggs in Mexico sell for just $3.40. Those bringing eggs into the U.S.\r\n高出了一倍多。与此同时，在墨西哥，30个鸡蛋的售价仅为3.40美元。那些将鸡蛋带入美国的人\r\n\r\n10\r\n00:01:16,220 --> 00:01:23,320\r\nrisk fines of up to $10,000. But officials say they usually see and destroy the eggs.\r\n面临高达10,000美元的罚款风险。但官员表示，他们通常会看到并销毁这些鸡蛋。\r\n\r\n11\r\n00:01:23,320 --> 00:01:27,280\r\nThey also impose a $300 penalty.\r\n他们还会处以300美元的罚款。\r\n\r\n12\r\n00:01:28,280 --> 00:01:32,480\r\nThe Department of Agriculture banned eggs from Mexico in 2012.\r\n美国农业部在2012年禁止从墨西哥进口鸡蛋。\r\n\r\n13\r\n00:01:33,320 --> 00:01:35,700\r\nThis was due to the risk of bird flu.\r\n这是因为存在禽流感风险。\r\n\r\n14\r\n00:01:37,140 --> 00:01:43,320\r\nOfficials said, most people arriving at international borders with eggs are truthful about their purchases.\r\n官员表示，大多数带着鸡蛋抵达国际边境的人都会如实说明他们的购买情况。\r\n\r\n15\r\n00:01:44,280 --> 00:01:47,600\r\nThey simply don't know bringing eggs is not allowed.\r\n他们只是不知道不允许携带鸡蛋。\r\n\r\n16\r\n00:01:48,780 --> 00:01:52,020\r\nGenerally, the items are declared during the first inspection.\r\n一般来说，这些物品会在首次检查时申报。\r\n\r\n17\r\n00:01:52,020 --> 00:01:55,780\r\nThen the person can abandon the eggs without consequence.\r\n然后，这个人可以放弃这些鸡蛋而不会受到任何处罚。\r\n\r\n18\r\n00:01:56,600 --> 00:01:59,740\r\nA customs and border protection spokesperson said.\r\n海关和边境保护发言人说。\r\n\r\n19\r\n00:02:00,740 --> 00:02:04,280\r\nEven so, there have been a very small number of cases recently\r\n即便如此，最近还是发生了极少数的案例\r\n\r\n20\r\n00:02:04,540 --> 00:02:08,720\r\nwhen authorities discovered eggs during further inspections.\r\n当局在进一步检查中发现了鸡蛋。\r\n\r\n21\r\n00:02:10,460 --> 00:02:15,060\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n问题1和问题2基于你刚才听到的新闻报道。\r\n\r\n22\r\n00:02:16,040 --> 00:02:16,960\r\nQuestion 1.\r\n问题1。\r\n\r\n23\r\n00:02:16,960 --> 00:02:22,200\r\nWhat do we learn from the news report about the egg price in the US?\r\n从这篇关于美国鸡蛋价格的新闻报道中，我们了解到什么？\r\n\r\n24\r\n00:02:36,779 --> 00:02:44,200\r\nQuestion 2. What does the news report say about most people arriving at American borders\r\n问题2。关于大多数带着鸡蛋抵达美国边境的人，这篇新闻报道说了什么？\r\n\r\n25\r\n00:02:44,200 --> 00:02:45,140\r\nwith eggs?\r\n新闻报道2。\r\n\r\n26\r\n00:03:00,019 --> 00:03:02,420\r\nNews Report 2.\r\n美国的一家餐厅Netty's House在网站上宣布\r\n\r\n27\r\n00:03:02,900 --> 00:03:08,540\r\nNetty's House, a restaurant in America, has been hit with criticism after announcing on\r\n不再欢迎10岁以下的儿童后，受到了批评。\r\n\r\n28\r\n00:03:08,540 --> 00:03:12,700\r\ntheir website that children under the age of 10 are no longer welcome.\r\n餐厅给出的理由包括噪音水平、高脚椅空间不足、\r\n\r\n29\r\n00:03:14,200 --> 00:03:19,420\r\nAmong the reasons given for the decision, the restaurant cited noise levels lack of space\r\n清理混乱的场面，以及孩子们在餐厅里乱跑带来的责任。\r\n\r\n30\r\n00:03:19,420 --> 00:03:25,020\r\nfor high chairs, cleaning up crazy messes, and the liability of kids running around the\r\n他们决定是时候采取控制措施了。这个决定并非\r\n\r\n31\r\n00:03:25,020 --> 00:03:31,060\r\nrestaurants. They decided that it was time to take control. The decision wasn't made\r\n轻易做出的，但最近发生的一些事件促使他们实施了这项新政策。\r\n\r\n32\r\n00:03:31,060 --> 00:03:36,980\r\nlightly, but some recent events pushed them to implement this new policy. Responding\r\n在帖子下方的评论中，有人说这太离谱了。\r\n\r\n33\r\n00:03:36,980 --> 00:03:42,580\r\nto the post, one person commented that it is messed up beyond another level. Children\r\n孩子们就是孩子们。妈妈们很累，没时间做饭。\r\n\r\n34\r\n00:03:42,580 --> 00:03:48,480\r\nare children. Moms are tired, and don't have time to cook. Not welcoming children\r\n不欢迎10岁以下的孩子是对家庭的彻底侮辱。\r\n\r\n35\r\n00:03:48,480 --> 00:03:54,340\r\non the 10 is a complete slap in the face to families. He felt so disappointed in his\r\n他对这家餐厅感到非常失望。\r\n\r\n36\r\n00:03:54,340 --> 00:03:59,300\r\nestablishment. There are others, however, who showed support for the restaurant's decision.\r\n然而，也有其他人对餐厅的决定表示支持。\r\n\r\n37\r\n00:03:59,900 --> 00:04:03,240\r\nThey said it has the right to implement any rules it wants.\r\n他们说餐厅有权实施任何它想实施的规则。\r\n\r\n38\r\n00:04:04,640 --> 00:04:09,060\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n问题3和问题4基于你刚才听到的新闻报道。\r\n\r\n39\r\n00:04:10,380 --> 00:04:15,920\r\nQuestion 3. What do we learn from the news report about the restaurant, Netty's House?\r\n问题3。关于Netty's House餐厅，我们从这篇新闻报道中了解到什么？\r\n\r\n40\r\n00:04:30,660 --> 00:04:36,640\r\nQuestion 4. What do supporters say in response to the restaurants new policy?\r\n问题4。支持者对餐厅的新政策作何回应？\r\n\r\n41\r\n00:04:51,500 --> 00:04:59,460\r\nNews Report 3. Security officers were searching a suburb in Australia, where an adult snake\r\n新闻报道3。安全官员正在澳大利亚的一个郊区搜寻一条成年蛇，\r\n\r\n42\r\n00:04:59,460 --> 00:05:06,280\r\nwas believed to be wandering after the discovery of a huge freshly shed snake skin. The\r\n据信，有人发现了一张巨大的、新鲜蜕下的蛇皮后，这条蛇可能正在那里游荡。\r\n\r\n43\r\n00:05:06,280 --> 00:05:11,800\r\nskin was found at a construction site, and the government wrote to residents to warn them.\r\n这张蛇皮是在一个建筑工地上发现的，政府写信给居民警告他们。\r\n\r\n44\r\n00:05:11,800 --> 00:05:16,260\r\nThey were told to observe and if possible photograph the animal.\r\n他们被告知要观察，如果可能的话，给动物拍照。\r\n\r\n45\r\n00:05:16,920 --> 00:05:19,060\r\nIf it was moving, watch where it went.\r\n如果它在移动，注意它去了哪里。\r\n\r\n46\r\n00:05:19,700 --> 00:05:22,940\r\nIt was recommended not to make contact with the animal.\r\n建议不要与动物接触。\r\n\r\n47\r\n00:05:24,300 --> 00:05:28,980\r\nThe type of snake was determined to be one of the world's largest snake species.\r\n经确定，这条蛇是世界上最大的蛇类之一。\r\n\r\n48\r\n00:05:29,860 --> 00:05:33,580\r\nIt is not poisonous, but can still attack and kill its victims.\r\n它没有毒，但仍然可以攻击并杀死受害者。\r\n\r\n49\r\n00:05:34,880 --> 00:05:40,780\r\nThis type of snake is classified as a threat to humans, especially small children, as well\r\n这种蛇被认为是对人类，特别是对小孩和\r\n\r\n50\r\n00:05:40,780 --> 00:05:47,060\r\npets. They may carry viruses that are fatal to native snakes, which do not have resistance.\r\n宠物的一种威胁。它们可能携带对本地蛇来说是致命的病毒，因为本地蛇没有抵抗力。\r\n\r\n51\r\n00:05:48,120 --> 00:05:53,340\r\nIf officers found the snake, they would employ a licensed snake catcher to catch it,\r\n如果官员们找到蛇，他们会请有执照的捕蛇人来抓它，\r\n\r\n52\r\n00:05:53,580 --> 00:05:57,500\r\nand transport it to a specialist animal doctor. The government said,\r\n并把它送到专业的动物医生那里。政府说，\r\n\r\n53\r\n00:05:58,520 --> 00:06:02,600\r\nif caught, the snake would be examined to determine where it came from.\r\n如果抓到蛇，会检查它来自哪里。\r\n\r\n54\r\n00:06:02,880 --> 00:06:06,660\r\nHow long it had been in the area? What it had been eating?\r\n它在这个地区多久了？它吃了什么？\r\n\r\n55\r\n00:06:06,660 --> 00:06:12,800\r\nWhether it was carrying any diseases of concern and whether it had produced babies.\r\n它是否携带任何令人担忧的疾病，以及它是否产下了幼崽。\r\n\r\n56\r\n00:06:14,540 --> 00:06:18,860\r\nQuestions 5-7 are based on the news report you have just heard.\r\n问题 5-7 基于你刚才听到的新闻报道。\r\n\r\n57\r\n00:06:19,580 --> 00:06:24,640\r\nQuestion 5. What does the report say security officers were searching for?\r\n问题 5. 报道说保安人员在寻找什么？\r\n\r\n58\r\n00:06:39,300 --> 00:06:44,460\r\nQuestion 6. Where does the report say the discovery was made?\r\n问题 6. 报道说在哪里发现了这个东西？\r\n\r\n59\r\n00:06:59,059 --> 00:07:05,260\r\nQuestion 7. What did the government say would be done if security officers found\r\n问题 7. 政府说如果保安人员找到\r\n\r\n60\r\n00:07:05,260 --> 00:07:06,720\r\nwhat they were searching for?\r\n他们要找的东西会怎么做？",
+  "conversations_transcript": "1\r\n00:00:01,719 --> 00:00:29,480\r\nSection B, Directions. In this section, you will hear too long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C and D. Then mark the corresponding letter on Answersheet 1 with a single line through the center.\r\n第二部分，说明。\r\n这部分你会听到几段长对话。\r\n每段对话结束后，你会听到四个问题。\r\n对话和问题都只播放一遍。\r\n听完问题后，从A、B、C、D四个选项中选出最佳答案。\r\n然后在答题卡1上用一条线划过中心，标记出相应的字母。\r\n\r\n2\r\n00:00:31,339 --> 00:00:32,239\r\nconversation one.\r\n对话一。\r\n\r\n3\r\n00:00:32,860 --> 00:00:33,560\r\nPoor Hannah.\r\n可怜的汉娜。\r\n\r\n4\r\n00:00:34,260 --> 00:00:35,440\r\nWhy? What happened?\r\n为啥？咋了？\r\n\r\n5\r\n00:00:36,040 --> 00:00:41,140\r\nDidn't you hear? She won a TV competition and became a millionaire overnight.\r\n你没听说吗？她赢了电视比赛，一夜之间成了百万富翁。\r\n\r\n6\r\n00:00:41,800 --> 00:00:44,580\r\nNo way. That's incredible. Are you kidding?\r\n不会吧，太不可思议了，你在开玩笑吗？\r\n\r\n7\r\n00:00:45,100 --> 00:00:51,220\r\nNo, I'm serious. I swear it. She went on a TV show where they quiz on general knowledge.\r\n不，我说真的。我发誓。她去参加了一个电视节目，节目里会问一些常识问题。\r\n\r\n8\r\n00:00:51,660 --> 00:00:53,140\r\nAnd she won first prize.\r\n她得了第一名。\r\n\r\n9\r\n00:00:53,520 --> 00:00:56,940\r\nWow. That's so lucky of her. How much did she win?\r\n哇，她太幸运了，她赢了多少钱？\r\n\r\n10\r\n00:00:56,940 --> 00:01:01,400\r\nI'm not sure of the exact figure, but it's a few million euros.\r\n具体数字我不确定，但大概是几百万欧元。\r\n\r\n11\r\n00:01:01,980 --> 00:01:04,760\r\nMaybe five million euros after tax.\r\n税后大概五百万欧元吧。\r\n\r\n12\r\n00:01:05,360 --> 00:01:06,620\r\nI can't believe it.\r\n真不敢相信。\r\n\r\n13\r\n00:01:06,860 --> 00:01:08,440\r\nYou're really not joking, are you?\r\n你不是在开玩笑吧，真的吗？\r\n\r\n14\r\n00:01:08,760 --> 00:01:10,260\r\nHonestly, look at my face.\r\n说真的，看看我的脸。\r\n\r\n15\r\n00:01:10,600 --> 00:01:12,780\r\nA friend Hannah won a ton of money.\r\n朋友汉娜赢了一大笔钱。\r\n\r\n16\r\n00:01:14,860 --> 00:01:17,200\r\nThen why were you saying poor Hannah?\r\n那你干嘛说可怜的汉娜？\r\n\r\n17\r\n00:01:17,700 --> 00:01:20,900\r\nWell, it turns out that she's spent it all already.\r\n好吧，结果是她已经把钱花光了。\r\n\r\n18\r\n00:01:21,580 --> 00:01:22,800\r\nFive million euros?\r\n五百万欧元？\r\n\r\n19\r\n00:01:23,300 --> 00:01:24,580\r\nHow is that even possible?\r\n这怎么可能？\r\n\r\n20\r\n00:01:24,580 --> 00:01:32,700\r\nShe bought a house for herself and her husband, a house for her parents, and then a house for each of her four brothers and sisters.\r\n她给自己和丈夫买了栋房，给父母买了栋房，然后给她的四个兄弟姐妹每人买了栋房。\r\n\r\n21\r\n00:01:33,660 --> 00:01:37,900\r\nAnd then she bought her husband a ridiculously expensive sports car.\r\n然后她给老公买了辆贵的离谱的跑车。\r\n\r\n22\r\n00:01:39,560 --> 00:01:40,460\r\nAre they all happy?\r\n他们都开心吗？\r\n\r\n23\r\n00:01:40,980 --> 00:01:42,580\r\nBecause that's what matters, isn't it?\r\n因为这才是重要的，不是吗？\r\n\r\n24\r\n00:01:43,040 --> 00:01:45,280\r\nI know for a fact, Hannah isn't.\r\n我确信，汉娜不是。\r\n\r\n25\r\n00:01:45,580 --> 00:01:49,760\r\nYou see, she was planning to quit the job she hates and retire early.\r\n你看，她计划辞掉她讨厌的工作，提前退休。\r\n\r\n26\r\n00:01:50,360 --> 00:01:52,700\r\nBut now that she ran out of money, she can't.\r\n但现在她没钱了，她不行了。\r\n\r\n27\r\n00:01:53,440 --> 00:01:59,660\r\nBasically, she miscalculated how fast she was burning through the money, and she's now full\r\n基本上，她没算准花钱的速度，现在已经没钱了。\r\n\r\n28\r\n00:01:59,660 --> 00:02:00,480\r\nof regret.\r\n感到遗憾。\r\n\r\n29\r\n00:02:01,160 --> 00:02:03,260\r\nWhy don't they sell that flashy new car?\r\n他们为什么不卖那辆花哨的新车呢？\r\n\r\n30\r\n00:02:03,760 --> 00:02:07,160\r\nShe wants to, but her husband refuses to get rid of it.\r\n她是想，但她老公不肯扔掉它。\r\n\r\n31\r\n00:02:07,340 --> 00:02:12,040\r\nHe says the car is the best thing that has ever happened to him, and if she sells it,\r\n他说这车是他遇到过最好的事，要是她卖了\r\n\r\n32\r\n00:02:12,140 --> 00:02:13,440\r\nhe will divorce her.\r\n他会和她离婚。\r\n\r\n33\r\n00:02:14,740 --> 00:02:19,200\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n第8到11题基于你刚才听到的对话。\r\n\r\n34\r\n00:02:19,920 --> 00:02:20,960\r\nQuestion 8.\r\n问题 8。\r\n\r\n35\r\n00:02:20,960 --> 00:02:24,800\r\nWhy does the woman say she swears it?\r\n这女的为啥说她发誓？\r\n\r\n36\r\n00:02:39,280 --> 00:02:43,500\r\nQuestion 9. What do we learn about Hannah from the conversation?\r\n问题 9. 从对话中我们能了解到汉娜什么？\r\n\r\n37\r\n00:02:58,340 --> 00:03:03,160\r\nQuestion 10. What does the man think really matters to people?\r\n问题 10. 这个男的觉得对人们来说什么才是最重要的？\r\n\r\n38\r\n00:03:17,620 --> 00:03:25,460\r\nQuestion 11. What does Hannah's say he'll do if she sells the new car.\r\n问题 11. 汉娜的丈夫说如果她卖掉新车，他就答应。\r\n\r\n39\r\n00:03:40,220 --> 00:03:41,420\r\nConversation 2\r\n对话 2\r\n\r\n40\r\n00:03:41,420 --> 00:03:46,860\r\nIf you have time right now, I think we need to sit down and discuss what exactly we are\r\n如果你现在有空，我觉得我们需要坐下来好好谈谈我们到底在做什么\r\n\r\n41\r\n00:03:46,860 --> 00:03:49,640\r\ngoing to do for Jake's education next year.\r\n明年杰克的教育要怎么办。\r\n\r\n42\r\n00:03:49,640 --> 00:03:54,260\r\nI've been thinking it over, and I'd like to send him to Westwood Elementary.\r\n我一直在考虑，我想送他去西木小学。\r\n\r\n43\r\n00:03:55,340 --> 00:03:56,740\r\nYou mean that boarding school?\r\n你说的是寄宿学校吗？\r\n\r\n44\r\n00:03:57,060 --> 00:04:00,820\r\nI thought we agreed that we would not be sending him away at such a young age.\r\n我以为我们说好了，不会在他这么小的时候把他送走。\r\n\r\n45\r\n00:04:01,120 --> 00:04:06,100\r\nI admit that their academic record is very strong with many outstanding awards for achievements,\r\n我承认他们的学业记录很强，有很多杰出成就奖\r\n\r\n46\r\n00:04:06,460 --> 00:04:11,040\r\nin science and math, but he is just not mature enough to live on his own at this point.\r\n他在科学和数学方面很厉害，但他现在还不够成熟，不能自己生活。\r\n\r\n47\r\n00:04:11,640 --> 00:04:14,320\r\nWhat about enrolling him in Lakeview school?\r\n要不让他去湖景学校报名？\r\n\r\n48\r\n00:04:14,320 --> 00:04:20,339\r\nThey do have a great outdoor campus where he could finally learn all those outdoor sports\r\n他们的确有个很棒的户外校园，他终于可以在那里学到所有户外运动了\r\n\r\n49\r\n00:04:20,339 --> 00:04:22,000\r\nyou have been wanting him to try.\r\n你一直想让他试试。\r\n\r\n50\r\n00:04:22,680 --> 00:04:28,020\r\nWith so much greenery and fresh air, I think his current breeding problems would probably\r\n有这么多绿色植物和新鲜空气，我想他目前的繁殖问题可能会\r\n\r\n51\r\n00:04:28,020 --> 00:04:28,660\r\ndisappear.\r\n消失。\r\n\r\n52\r\n00:04:29,660 --> 00:04:34,820\r\nThey did just open though, so I don't think I feel comfortable having our son in the first\r\n他们确实刚开业，所以我不觉得把我们的儿子送到第一所学校会很舒服\r\n\r\n53\r\n00:04:34,820 --> 00:04:36,800\r\nclass of a brand new school.\r\n一所全新学校的班级。\r\n\r\n54\r\n00:04:37,300 --> 00:04:37,540\r\nYeah.\r\n是啊。\r\n\r\n55\r\n00:04:38,200 --> 00:04:42,980\r\nThe classrooms would probably smell like paint, making the air in the school all stuffy.\r\n教室里可能都是油漆味，让学校里的空气都变得很闷。\r\n\r\n56\r\n00:04:42,980 --> 00:04:48,260\r\nWhat about our local school then? They have a wonderful arts program that would really\r\n那我们当地的学校怎么样？他们有一个很棒的艺术项目，可以真正地\r\n\r\n57\r\n00:04:48,260 --> 00:04:54,140\r\nchallenge Jake in terms of creativity and imagination. Being practically next door, one\r\n在创造力和想象力方面挑战杰克。实际上就在隔壁，我们中的一个\r\n\r\n58\r\n00:04:54,140 --> 00:04:57,600\r\nof us could take into school every day before going to work.\r\n我们每天上班前都可以带他去学校。\r\n\r\n59\r\n00:04:58,220 --> 00:05:03,720\r\nI don't know. They have a reputation of being overly strict with the students. Not to mention\r\n我不知道。他们给人的印象是对学生过于严格。更别提\r\n\r\n60\r\n00:05:03,720 --> 00:05:09,180\r\nthe overwhelming amount of homework they assign, which would lead to a lot of pressure for\r\n他们布置的家庭作业太多了，这会给我们带来很多压力\r\n\r\n61\r\n00:05:09,180 --> 00:05:13,420\r\nand me. What if we sent him to the place near your mother's house?\r\n和我。如果我们把他送到你母亲家附近的地方怎么样？\r\n\r\n62\r\n00:05:14,860 --> 00:05:19,480\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n第 12 至 15 题基于您刚才听到的对话。\r\n\r\n63\r\n00:05:20,040 --> 00:05:23,680\r\nQuestion 12. What does the man say about Jake?\r\n问题 12. 这名男子对杰克说了什么？\r\n\r\n64\r\n00:05:38,460 --> 00:05:45,260\r\nQuestion 13. Why does the woman feel uncomfortable about sending Jake to Lakeview school?\r\n问题 13. 这名女子为什么觉得把杰克送到湖景学校不舒服？\r\n\r\n65\r\n00:06:00,120 --> 00:06:04,880\r\nQuestion 14. What does the man say about their local school?\r\n问题 14. 这名男子对他们当地的学校说了什么？\r\n\r\n66\r\n00:06:19,540 --> 00:06:24,240\r\nQuestion 15. What does the woman suggest at the end of the conversation?\r\n问题 15. 这名女子在谈话结束时提出了什么建议？",
+  "passages_transcript": "1\r\n00:00:01,419 --> 00:00:11,040\r\nSection C, directions, in this section you will hear three passages. At the end of each passage, you will hear three or four questions.\r\nC部分，说明，这部分你将听到三段文章。每段文章结束后，你将听到三到四个问题。\r\n\r\n2\r\n00:00:11,860 --> 00:00:24,040\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.\r\n文章和问题都只播放一遍。听完问题后，你必须从A、B、C和D四个选项中选择最佳答案。\r\n\r\n3\r\n00:00:24,040 --> 00:00:29,780\r\nThen mark the corresponding letter on Answer Sheet 1 with a single line through the center.\r\n然后在答题卡1上用一条直线穿过中心来标记相应的字母。\r\n\r\n4\r\n00:00:31,120 --> 00:00:32,040\r\nPassage 1.\r\n文章1。\r\n\r\n5\r\n00:00:33,300 --> 00:00:41,600\r\nAnolitical decision-making is a decision-making approach where a manager makes important business decisions only with solid data.\r\n分析性决策是一种决策方法，在这种方法中，管理者只根据可靠的数据做出重要的商业决策。\r\n\r\n6\r\n00:00:42,280 --> 00:00:50,100\r\nThis style contrasts with more instinctively the ship styles, where managers make many decisions using instinct or opinion.\r\n这种风格与更凭直觉的风格形成对比，在凭直觉的风格中，管理者使用直觉或意见做出许多决策。\r\n\r\n7\r\n00:00:50,100 --> 00:00:56,780\r\nWhile analytical decision-makers benefit from a deliberate, thoughtful approach, this style\r\n虽然分析性决策者受益于深思熟虑的方法，但这种风格\r\n\r\n8\r\n00:00:56,780 --> 00:00:58,420\r\nalso has some shortcomings.\r\n也有一些缺点。\r\n\r\n9\r\n00:00:59,800 --> 00:01:04,239\r\nA key flaw with analytical decision-making is that it takes time.\r\n分析性决策的一个主要缺陷是它需要时间。\r\n\r\n10\r\n00:01:04,879 --> 00:01:09,540\r\nWhile this approach is beneficial when you have the time and the decision is important,\r\n当你有时间和决策很重要时，这种方法是有益的，\r\n\r\n11\r\n00:01:10,300 --> 00:01:12,440\r\nit is problematic when time is crucial.\r\n但当时间至关重要时，它就成了问题。\r\n\r\n12\r\n00:01:13,400 --> 00:01:18,560\r\nAn analytical decision-makers struggle with deadlines and a sense of urgency with decisions.\r\n分析性决策者在截止日期和决策的紧迫感方面存在困难。\r\n\r\n13\r\n00:01:19,360 --> 00:01:25,220\r\nsituations where you need more timely action, decisions based on some information and\r\n在需要更及时行动的情况下，基于一些信息和\r\n\r\n14\r\n00:01:25,220 --> 00:01:32,000\r\ninstinct may work better. The desire to be right is a major driver of analytical decision\r\n直觉的决策可能更好。力求正确是分析性决策的主要驱动力。\r\n\r\n15\r\n00:01:32,000 --> 00:01:38,460\r\nmaking. Leaders who use this style don't want to make mistakes. This commitment's one\r\n使用这种风格的领导者不想犯错误。这种承诺是\r\n\r\n16\r\n00:01:38,460 --> 00:01:44,840\r\nright way of thinking or doing things hinders the manager's flexibility. Inflexibility\r\n正确的思考或做事方式会阻碍管理者的灵活性。不灵活\r\n\r\n17\r\n00:01:44,840 --> 00:01:49,640\r\ncauses you to ignore or avoid listening to the thoughts and ideas of others.\r\n导致你忽略或避免倾听他人的想法和意见。\r\n\r\n18\r\n00:01:50,240 --> 00:01:53,600\r\nYou only want to utilize hard data or facts.\r\n你只想利用硬数据或事实。\r\n\r\n19\r\n00:01:54,760 --> 00:02:00,600\r\nDespite its restrictions, analytical decision-making does have several key strengths, by relying\r\n尽管存在局限性，但分析性决策确实有几个关键优势，通过依赖\r\n\r\n20\r\n00:02:00,600 --> 00:02:04,700\r\non facts and data, you minimize your potential for a wrong decision.\r\n事实和数据，你可以最大限度地减少做出错误决策的可能性。\r\n\r\n21\r\n00:02:05,260 --> 00:02:09,520\r\nYou also get away from the habit of making guesses or following instincts.\r\n你还可以摆脱猜测或追随直觉的习惯。\r\n\r\n22\r\n00:02:09,520 --> 00:02:15,720\r\nData-based technology enables business leaders to look to hard evidence in analyzing\r\n基于数据的技术使商业领袖能够着眼于确凿的证据来分析\r\n\r\n23\r\n00:02:15,720 --> 00:02:20,900\r\ntarget markets and promotional strategies rather than making assumptions or guesses\r\n目标市场和促销策略，而不是对有效的方法进行假设或猜测。\r\n\r\n24\r\n00:02:20,900 --> 00:02:22,280\r\non what works.\r\n第16至18题基于你刚才听到的文章。\r\n\r\n25\r\n00:02:23,540 --> 00:02:27,600\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n第16题。\r\n\r\n26\r\n00:02:28,440 --> 00:02:29,340\r\nQuestion 16.\r\n文章说分析性决策的主要缺陷是什么？\r\n\r\n27\r\n00:02:30,180 --> 00:02:34,620\r\nWhat does the passage say is a major flaw of analytical decision-making?\r\n第17题。当领导者致力于分析性决策时，他们倾向于做什么？\r\n\r\n28\r\n00:02:49,700 --> 00:02:56,360\r\nQuestion 17. What does a leader tend to do when they are committed to analytical decision-making?\r\n第18题。分析性决策的一个关键优势是什么？\r\n\r\n29\r\n00:03:11,320 --> 00:03:17,020\r\nQuestion 18. What is a key strength of analytical decision making?\r\n文章2。活过100岁的秘诀是什么？\r\n\r\n30\r\n00:03:31,680 --> 00:03:36,380\r\nPassage 2. What is the secret to living past 100?\r\n弹钢琴是世界上最长寿的人认为有助于\r\n\r\n31\r\n00:03:36,380 --> 00:03:42,360\r\nPlain the piano is among the things the world's oldest person believes has contributed\r\n她长寿的因素之一。\r\n\r\n32\r\n00:03:42,360 --> 00:03:43,960\r\nto her long life.\r\nBranya Smurera现在115岁零320天。\r\n\r\n33\r\n00:03:45,000 --> 00:03:50,860\r\nBranya Smurera is now 115 years and 320 days old.\r\n这意味着她比任何其他在世的人都活得更久。\r\n\r\n34\r\n00:03:51,440 --> 00:03:55,280\r\nThat means she's been alive longer than any other living individual.\r\nBranya出生于1907年4月4日的美国，但她的家人搬到了西班牙，\r\n\r\n35\r\n00:03:56,300 --> 00:04:04,040\r\nBranya's was born in the United States on April 4, 1907, but her family moved to Spain,\r\n他们最初来自那里，当时她还是个小孩子。\r\n\r\n36\r\n00:04:04,040 --> 00:04:07,520\r\nWhere they were originally from, when she was a young child.\r\n从那以后她一直住在那里。\r\n\r\n37\r\n00:04:08,340 --> 00:04:10,120\r\nShe has lived there ever since.\r\n这位115岁的老人在社交媒体上很活跃，经常分享她生活中的点滴。\r\n\r\n38\r\n00:04:10,960 --> 00:04:17,519\r\nThe 115-year-old is active on social media, regularly sharing aspects of her life.\r\n她还分享了一些她长寿的秘诀。\r\n\r\n39\r\n00:04:18,420 --> 00:04:21,740\r\nShe also shares some of her secrets to living so long.\r\n这些包括从小就开始弹钢琴。\r\n\r\n40\r\n00:04:22,620 --> 00:04:25,340\r\nThese include playing the piano from a young age.\r\n不幸的是，她不得不在七年前108岁时放弃了这项练习。\r\n\r\n41\r\n00:04:26,000 --> 00:04:31,020\r\nUnfortunately, she had to give up the practice seven years ago at 108.\r\n她长寿的其他秘诀是，她在晚年之前一直过着积极的生活方式，\r\n\r\n42\r\n00:04:31,840 --> 00:04:38,520\r\nher other secrets for living a long life, she led an active lifestyle until her later years,\r\n但从未遵循特定的饮食习惯。很多人问我，我遵循什么饮食习惯才能活这么久，\r\n\r\n43\r\n00:04:38,860 --> 00:04:45,360\r\nbut has never followed a specific diet. Many people ask me what diet I follow to live so\r\nBrunnus写道，我总是吃得很少，但什么都吃，而且我从来没有\r\n\r\n44\r\n00:04:45,360 --> 00:04:51,940\r\nmany years, Brunnus wrote, I have always eaten little, but everything, and I have never\r\n遵循任何计划。但她每天都吃酸奶，她说酸奶对身体有无数的\r\n\r\n45\r\n00:04:51,940 --> 00:04:58,520\r\nfollowed any plan. But she does eat yogurt every day, which she said has an infinite number\r\n积极特性。她还说，长寿的秘诀\r\n\r\n46\r\n00:04:58,520 --> 00:05:04,320\r\nof positive properties for the body. She has also said that the secret to a long life\r\n是知道如何选择忘记什么。如果我们记住一切，生活是不可能的\r\n\r\n47\r\n00:05:04,320 --> 00:05:10,400\r\nis knowing how to choose what to forget. Life would be impossible if we remembered everything\r\n她说。\r\n\r\n48\r\n00:05:10,400 --> 00:05:11,820\r\nshe said.\r\n第19至21题基于你刚才听到的文章。\r\n\r\n49\r\n00:05:13,000 --> 00:05:17,880\r\nQuestions 19 to 21 are based on the passage you have just heard.\r\n第19题。我们从Branya's Marera那里了解到什么？\r\n\r\n50\r\n00:05:18,260 --> 00:05:22,140\r\nQuestion 19. What do we learn about Branya's Marera?\r\n\r\n\r\n51\r\n00:05:36,840 --> 00:05:43,560\r\nQuestion 20. What is one of Branya's Moreras secrets to living a long life?\r\n问题20：布兰雅·莫雷拉长寿的秘诀是什么？\r\n\r\n52\r\n00:05:58,580 --> 00:06:06,040\r\nQuestion 21. What does Branya Smurera think also contributes to a long life?\r\n问题21：布兰雅·斯穆雷拉认为什么也有助于长寿？\r\n\r\n53\r\n00:06:21,140 --> 00:06:22,420\r\nPassage 3\r\n段落3\r\n\r\n54\r\n00:06:22,420 --> 00:06:27,580\r\nIt's the first day of school and your teacher tells you to find a seat in the classroom\r\n今天是开学第一天，你的老师让你在教室里找个座位。\r\n\r\n55\r\n00:06:27,580 --> 00:06:33,780\r\nWhere do you sit? Does it matter? Yes, it does matter where you sit in your classroom,\r\n你坐在哪里？这重要吗？是的，在教室里你坐在哪里很重要，\r\n\r\n56\r\n00:06:34,360 --> 00:06:40,000\r\nso choose and choose carefully. Studies report that where you sit in the classroom can\r\n所以要仔细选择。研究表明，你在教室里的座位会\r\n\r\n57\r\n00:06:40,000 --> 00:06:45,200\r\nimpact your ability to learn and the way your teacher perceives you. Guess what else?\r\n影响你的学习能力和老师对你的看法。猜猜还有什么？\r\n\r\n58\r\n00:06:45,600 --> 00:06:52,180\r\nYou're great. Then what is the best seat in the classroom? In one study, students who\r\n你很棒。那么教室里最好的座位是哪里？在一项研究中，学生\r\n\r\n59\r\n00:06:52,180 --> 00:06:57,300\r\nsat in the front and center of the classroom received a higher grade average and scored\r\n坐在教室的前面和中间，他们的平均成绩更高，考试成绩也更高，而那些坐在教室后面的学生则不然。\r\n\r\n60\r\n00:06:57,300 --> 00:07:01,120\r\nhigher on tests, the most sitting towards the back of the classroom.\r\n明白了吗。\r\n\r\n61\r\n00:07:01,960 --> 00:07:02,640\r\nGet this.\r\n坐在教室中间的学生也比坐在后面的学生得分高。\r\n\r\n62\r\n00:07:03,340 --> 00:07:08,800\r\nStudents sitting in the middle of the classroom also outscored students sitting behind them.\r\n这项研究表明，学生们能更清楚地看到黑板，并且能够\r\n\r\n63\r\n00:07:09,320 --> 00:07:13,660\r\nThis study gathered that students had a clearer vision of the Blackboard and were able\r\n更加专注于老师。\r\n\r\n64\r\n00:07:13,660 --> 00:07:15,700\r\nto focus more attention on the instructor.\r\n通过坐在前排和中间，学生们也能听得更清楚。\r\n\r\n65\r\n00:07:16,640 --> 00:07:20,880\r\nBy sitting front and center, students were able to hear better too.\r\n老师说，他们也和坐在前排的学生建立了更好的联系。\r\n\r\n66\r\n00:07:21,440 --> 00:07:26,220\r\nThe instructor said that they also formed a better connection with the students who sat in\r\n但是当你坐在前排时，你可能会被老师更多地提问，主要是因为\r\n\r\n67\r\n00:07:34,379 --> 00:07:39,940\r\nBut when you sit in the front row, you may be called on more by your teacher, mainly due\r\n你更容易被看到。\r\n\r\n68\r\n00:07:39,940 --> 00:07:42,220\r\nto the fact that you are easier to see.\r\n所以对于那些没有准备好的学生和那些非常害羞的学生来说，这种关注\r\n\r\n69\r\n00:07:42,860 --> 00:07:48,320\r\nSo for students who are not prepared and for those who are extremely shy, the attention\r\n可能会导致一些不必要的压力。\r\n\r\n70\r\n00:07:48,320 --> 00:07:50,640\r\ncould cause some unwanted stress.\r\n问题22-25基于你刚才听到的段落。\r\n\r\n71\r\n00:07:51,620 --> 00:07:56,780\r\nQuestions 22-25 are based on the passage you have just heard.\r\n问题22：根据演讲者所说，什么对学生来说非常重要？\r\n\r\n72\r\n00:07:57,500 --> 00:08:02,860\r\nQuestion 22. What is of great importance to students according to the speaker?\r\n问题23：一项研究发现，坐在教室中间的学生怎么样？\r\n\r\n73\r\n00:08:17,660 --> 00:08:24,540\r\nQuestion 23. What did one study find about students seated in the middle of the classroom?\r\n问题24：接触、可见性和更多的互动可能会带来什么？\r\n\r\n74\r\n00:08:39,299 --> 00:08:47,260\r\nQuestion 24. What can I contact, visibility, and more interaction probably bring about?\r\n问题25：我们从坐在教室前排的非常害羞的学生身上学到了什么？\r\n\r\n75\r\n00:09:02,420 --> 00:09:09,920\r\nQuestion 25. What do we learn about extremely shy students sitting in the front row of the classroom?\r\n听力理解到此结束。\r\n\r\n76\r\n00:09:25,120 --> 00:09:27,520\r\nThat's the end of listening comprehension.",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "",
+  "passages_transcript_zh": ""
+}

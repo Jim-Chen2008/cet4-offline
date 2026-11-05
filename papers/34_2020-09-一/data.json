@@ -1,0 +1,690 @@
+{
+  "id": 34,
+  "exam": 34,
+  "exam_details": {
+    "id": 34,
+    "title": "2020年09月四级真题第1套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2020,
+    "month": 9,
+    "version": "一",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-27T11:00:21.401000+08:00",
+    "updated_at": "2025-04-27T11:27:47.551000+08:00",
+    "exam_id": 34,
+    "submission_count": 0,
+    "cet_content_id": 34,
+    "has_draft": true
+  },
+  "created_at": "2025-04-27T11:47:19.567000+08:00",
+  "updated_at": "2025-12-08T21:30:03.712446+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. Ship traffic in the Atlantic.",
+              "B. Warm currents in the ocean.",
+              "C. Exhaust from cars in Europe.",
+              "D. Particles emitted by power plants."
+            ],
+            "question": "What do we learn from the news report about the study?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. They need to be taken seriously.",
+              "B. They have a huge effect on fishery.",
+              "C. They might be causing trouble to air flights.",
+              "D. They may be affecting the world’s climate."
+            ],
+            "question": "What do NASA officials think about the thick clouds?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. To appeal for higher wages.",
+              "B. To demand better health care.",
+              "C. To call for a permanent security guard.",
+              "D. To dismiss the bad-tempered supervisor."
+            ],
+            "question": "For what purpose did the staff at a supermarket in Melbourne sign a letter?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. It had already taken strong action.",
+              "B. It would put customers’ needs first.",
+              "C. It would take their appeal seriously.",
+              "D. It was seeking help from the police."
+            ],
+            "question": "What did the spokesman of the supermarket say regarding the employees demand?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. The road was flooded.",
+              "B. The road was blocked.",
+              "C. The road was frozen with snow.",
+              "D. The road was covered with spilled gas."
+            ],
+            "question": "What did drivers on the motorway to water or find?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. A truck plunged into a pool of liquid chocolate.",
+              "B. The heavy snow made driving very difficult.",
+              "C. The truck driver dozed off while driving.",
+              "D. A truck hit a barrier and overturned."
+            ],
+            "question": "What does the report say about the accident?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. It was a long time before the cleanup was finished.",
+              "B. It was a hard task to remove the spilled substance.",
+              "C. It was fortunate that no passenger got injured.",
+              "D. It was difficult to contact the manufacturer."
+            ],
+            "question": "What did the firefighters representative tell the local TV?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. She wanted to save for a new phone.",
+              "B. She found it much safer to use cash.",
+              "C. She could enjoy discounts with cash.",
+              "D. She had been cheated using phone apps."
+            ],
+            "question": "Why did the woman decide to go back to cash for payment?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. They can save a lot more time and trouble.",
+              "B. They find it less difficult to make purchases.",
+              "C. They derive greater pleasure from buying things.",
+              "D. They are less aware of the value of their money."
+            ],
+            "question": "What happens when people use apps for payment?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. More valuable items.",
+              "B. More non-essential items.",
+              "C. Everyday necessities.",
+              "D. Electronic devices."
+            ],
+            "question": "According to the woman, what might the man tend to buy with payment apps?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. It can improve shopping efficiency.",
+              "B. It is altering the way of shopping.",
+              "C. It may lead to excessive spending.",
+              "D. It appeals more to younger people."
+            ],
+            "question": "What is the man think of electronic payment?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. He wanted to order some wooden furniture.",
+              "B. He had to change the furniture delivery time.",
+              "C. He had a problem with the furniture delivered.",
+              "D. He wanted the furniture store to give him a refund."
+            ],
+            "question": "Why did the man call the woman?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Send the furniture back to the store.",
+              "B. Describe the furniture he received.",
+              "C. Collect the furniture he ordered.",
+              "D. Buy another brand of furniture."
+            ],
+            "question": "What did the woman asked the man to do?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. Correct their mistake.",
+              "B. Improve their service.",
+              "C. Apologize to his wife.",
+              "D. Give the money back."
+            ],
+            "question": "What did the woman promise to do for the man?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. She recommended a new style.",
+              "B. She offered some gift to the man.",
+              "C. She apologized to the man once more.",
+              "D. She checked all the items with the man."
+            ],
+            "question": "What did the woman do at the end of the conversation?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. Reading books of wisdom.",
+              "B. Tidying up one’s home.",
+              "C. Sharing with others.",
+              "D. Donating to charity."
+            ],
+            "question": "What is Marie condos TV show about?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Things that make one happy.",
+              "B. Things that are becoming rare.",
+              "C. Things that occupy little space.",
+              "D. Things that cost a lot of money."
+            ],
+            "question": "What things can be kept in one's home, according to Marie Condo?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. It joined the city’s clean-up campaign.",
+              "B. It sold as many as fifty boxes of books.",
+              "C. It received an incredibly large number of donated books.",
+              "D. It did little business because of the unusual cold weather."
+            ],
+            "question": "What do we learn about one used bookstore this January?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. Give free meals to the homeless.",
+              "B. Provide shelter for the homeless.",
+              "C. Help the vulnerable to cook lunches.",
+              "D. Call for change in the local government."
+            ],
+            "question": "What does Mike Hanon do to help people in his town?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. Strengthen co-operation.",
+              "B. Promote understanding.",
+              "C. Win national support.",
+              "D. Follow his example."
+            ],
+            "question": "What does Mike hope others will do?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. Spreading news of his deeds.",
+              "B. Writing him thank-you notes.",
+              "C. Following the example he sets.",
+              "D. Sending him hand-made bags."
+            ],
+            "question": "How are people all over the country responding to what Mike is doing?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. To solve word search puzzles.",
+              "B. To send smartphone messages.",
+              "C. To test their eyesight using a phone app.",
+              "D. To install some audio equipment in a lab."
+            ],
+            "question": "What were the college students in both groups required to do in the study?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. They could not go on until the ringing stopped.",
+              "B. They could no longer concentrate on their task.",
+              "C. They grabbed the phone and called back right away.",
+              "D. They asked their experimenter to hang up the phone."
+            ],
+            "question": "What do we learn about many of the students in the second test group after the phone rang?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. A rise in emotional problems.",
+              "B. A decline in sports activities.",
+              "C. A reduction in the amount of sleep.",
+              "D. A decline in academic performance."
+            ],
+            "question": "According to the passage, what is the most dramatic impact of smartphone use?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Protect the eyesight of the younger generation.",
+              "B. Take effective measures to raise productivity.",
+              "C. Realize the disruptive effects of technology.",
+              "D. Ensure they have sufficient sleep every day."
+            ],
+            "question": "What does the speaker suggest people do?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "There’re three main types of financial stress people encounter. The first type is apparent in people being stressed about the __26__ ups and downs of investment markets—actually not so much the ups, but __27__ the downs. These people are usually unable or unprepared to endure the long haul.\nThe next common type of financial stress is that caused by debt. In a __28__ percentage of cases of debt⁃induced financial stress, credit cards and loans will be a central element. Often there’ll be a car loan and perhaps a mortgage, but credit cards often seem to be the gateway to debt⁃related financial difficulties for many.\nThe third type of stress and __29__ the least known is inherited financial stress, which is the most destructive. It is experienced by those who have grown up in households where their parents regularly __30__ and fought about money. Money therefore becomes a stressful topic, and so the thought of sitting down and planning is an unattractive __31__.\nThose suffering inherited financial anxiety __32__ to follow one of two patterns. Either they put their head in the sand: they would __33__ examining their financial statements, budgeting, and discussing financial matters with those closest to them. Alternatively, they would go to the other __34__, and micro⁃analyze everything, to the point of complete __35__. They’re convinced that whatever decision they make will be the wrong one.",
+        "word_bank": [
+          "appearance",
+          "argued",
+          "avoid",
+          "considerable",
+          "definitely",
+          "extreme",
+          "inaction",
+          "incredibly",
+          "normal",
+          "possibly",
+          "proposition",
+          "rebelled",
+          "statement",
+          "tend",
+          "traditional"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Increased use of digital devices steals away children’s playtime."
+          },
+          {
+            "id": 37,
+            "content": "Since the beginning of this century, an increasing amount of time has been shifted in public schools from recess to academic activities."
+          },
+          {
+            "id": 38,
+            "content": "It has been acknowledged that while kids may welcome pediatricians’ recommendation, their parents may doubt its feasibility."
+          },
+          {
+            "id": 39,
+            "content": "According to some professionals, deprivation of young children’s playtime will do harm not only to children themselves but to the country and the world."
+          },
+          {
+            "id": 40,
+            "content": "By playing with children, parents can prevent them from being harmed by stress."
+          },
+          {
+            "id": 41,
+            "content": "Playing with digital devices discourages kids from active discovery, according to pediatrician Dr. Michael Yogman."
+          },
+          {
+            "id": 42,
+            "content": "The suggestion of letting children simply play may sound like going backwards to parents who want to help build their children’s skills."
+          },
+          {
+            "id": 43,
+            "content": "Dr. Michael Yogman believes the idea that parents should carefully schedule children’s time may not be helpful to their growth."
+          },
+          {
+            "id": 44,
+            "content": "One quarter of teachers in an American city said that children in kindergartens had no time for playing freely."
+          },
+          {
+            "id": 45,
+            "content": "According to a pediatrician, no matter what kind of play children engage in, they are learning how to create things."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Imagine a drug that could enhance a child’s creativity and critical thinking. Imagine that this drug were simple to make, safe to take, and could be had for free. The nation’s leading pediatricians（ 儿科医生） say this miracle compound exists. In a new clinical report, they are urging doctors to prescribe it liberally to the children in their care."
+          },
+          {
+            "id": "B",
+            "content": "“This may seem old⁃fashioned, but there are skills to be learned when kids aren’t told what to do,” said Dr. Michael Yogman, a Harvard Medical School pediatrician who led the drafting of the call to arms. Whether it’s rough physical play, outdoor play or pretend play, kids derive important lessons from the chance to make things up as they go, he said."
+          },
+          {
+            "id": "C",
+            "content": "The advice, issued Monday by the American Academy of Pediatrics, may come as a shock to some parents. After spending years fretting （ 烦 恼） over which toys to buy, which apps to download and which skill⁃building programs to send their kids to after school, letting them simply play—or better yet, playing with them—could seem like a step backward. The pediatricians insist that it’s not. The academy’s guidance does not include specific recommendations for the dosing of play. Instead, it asks doctors to advise parents before their babies turn two that play is essential to healthy development."
+          },
+          {
+            "id": "D",
+            "content": "“ Play is not silly behavior,” the academy’s report declares. It fosters children’s creativity, cooperation and problem⁃solving skills—all of which are critical for a 21st⁃century workforce.\n４· ６ 　　　　\nWhen parents engage in play with their children, it builds a wall against the harmful effects of all kinds of stress, including poverty, the academy says. In the pediatricians’ view, essentially every life skill that’s valued in adults can be built up with play. “ Collaboration, negotiation, decision⁃making, creativity, leadership, and increased physical activity are just some of the skills and benefits children gain through play,” they wrote. The pediatricians’ appeal comes as kids are being squeezed by increasing academic demands at school and the constant invasion of digital media."
+          },
+          {
+            "id": "E",
+            "content": "The trends have been a long time coming. Between 1981 and 1997, detailed time⁃use studies showed that the time children spent at play declined by 25 percent. Since the adoption of sweeping education reforms in 2001, public schools have steadily increased the amount of time devoted to preparing for standardized tests. The focus on academic “ skills and drills” has cut deeply into recess （ 课间休息） and other time for free play."
+          },
+          {
+            "id": "F",
+            "content": "By 2009, a study of Los Angeles kindergarten classrooms found that five⁃year⁃olds were so burdened with academic requirements that they were down to an average of just 19 minutes per day of “choice time,” when they were permitted to play freely with blocks, toys or other children. One in four Los Angeles teachers reported there was no time at all for “ free play.” Increased academic pressures have left 30 percent of U.S. kindergarten classes without any recess. Such findings prompted the American Academy of Pediatrics to issue a policy statement in 2013 on the “crucial role of recess in school.”"
+          },
+          {
+            "id": "G",
+            "content": "Pediatricians aren’t the only ones who have noticed. In a report titled “Crisis in the Kindergarten,” a group of educators, health professionals and child advocates called the loss of play in early childhood “a tragedy, both for the children themselves and for our nation and the world.” Kids in play⁃based kindergartens “ end up equally good or better at reading and other intellectual skills, and they are more likely to become well⁃adjusted healthy people,” the Alliance for Childhood said in 2009. Indeed, new research demonstrates why playing with blocks might have been time better spent, Yogman said. The trial assessed the effectiveness of an early mathematics intervention（ 干 预） aimed at preschoolers. The results showed almost no gains in math achievement."
+          },
+          {
+            "id": "H",
+            "content": "Another playtime thief: the growing proportion of kids’ time spent in front of screens and digital devices, even among preschoolers. Last year, Common Sense Media reported that children up through age eight spent an average of two hours and 19 minutes in front of screens each day, including an average of 42 minutes a day for those under two. This increase of digital use comes with rising risks of obesity, sleep deprivation and cognitive （ 认知 的 ） , language and social⁃emotional delays, the American Academy of Pediatrics warned in 2016.\n４· ７"
+          },
+          {
+            "id": "I",
+            "content": "“I respect that parents have busy lives and it’s easy to hand a child an iPhone,” Yogman said. “But there’s a cost to that. For young children, it’s much too passive. And kids really learn better when they’re actively engaged and have to really discover things.”"
+          },
+          {
+            "id": "J",
+            "content": "The decline of play is a special hazard for the roughly 1 in 5 children in the United States who live in poverty. These 14 million children most urgently need to develop the resilience （ 韧劲） that is cultivated with play. Instead, Yogman said, they are disproportionately affected by some of the trends that are making play scarce: academic pressures at schools that need to improve test scores, outside play areas that are limited or unsafe, and parents who lack the time or energy to share in playtime."
+          },
+          {
+            "id": "K",
+            "content": "Yogman also worries about the pressures that squeeze playtime for more affluent kids. “ The notion that as parents we need to schedule every minute of their time is not doing them a great service,” he said. Even well⁃meaning parents may be “ robbing them of the opportunity to have that joy of discovery and curiosity—the opportunity to find things out on their own.”"
+          },
+          {
+            "id": "L",
+            "content": "Play may not be a hard sell to kids. But UCLA pediatrician Carlos Lerner acknowledged that the pediatricians’ new prescription may meet with skepticism （ 怀疑） from parents, who are anxious for advice on how to give their kids a leg up in the world. They should welcome the simplicity of the message, Lerner said. “ It’s liberating to be able to offer them this advice: that you spending time with your child and letting him play is one of the most valuable things you can do,” he said. “It doesn’t have to involve spending a lot of money or time, or joining a parenting group. It’s something we can offer that’s achievable. They just don’t recognize it right now as particularly valuable.”"
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Americans spend billions of dollars each year trying to change our weight with diets, gym memberships and plastic surgery.\nTrying to live up to the images of “perfect” models and movie heroes has a dark side: anxiety, depression, as well as unhealthy strategies for weight loss or muscle gain. It also has a financial cost. Having an eating disorder boosts annual health care costs by nearly US $ 2,000 per person.\nWhy is there both external and internal pressure to look “ perfect”? One reason is that society rewards people who are thin and healthy⁃looking. Researchers have shown that body mass index is related to wages and income. Especially for women, there is a clear penalty at work for being overweight or obese. Some studies have also found an impact for men, though a less noticeable one.\nWhile the research literature is clear that labor market success is partly based on how employers and customers perceive your body image, no one had explored the other side of the question. Does a person’s own perception of body image matter to earnings and other indicators of success in the workplace?\nOur recently published study answered this question by tracking a large national random sample of Americans over a critical time period when bodies change from teenage shape into adult form and\n４· ９\nwhen people build their identities.\nAs in other research, women in our sample tend to over⁃perceive weight—they think they’re heavier than they are—while men tend to under⁃perceive theirs.\nWe found no relationship between the average person’s self-perception of weight and labor market outcomes, although self-perceived weight can influence self-esteem （ 自 尊心） , mental health and health behaviors.\nWhile the continued gender penalty in the labor market is frustrating, our finding that misperceived weight does not harm workers is more heartening.\nSince employers’ perception of weight is what matters in the labor market, changing discrimination laws to include body type as a category would help. Michigan is the only state that prohibits discrimination on the basis of weight and height. We believe expanding such protections would make the labor market more fair and efficient.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Undergoing plastic surgeries in pursuit of beauty.",
+                  "B. Imitating the lifestyles of heroes and role models.",
+                  "C. Striving to achieve perfection regardless of financial cost.",
+                  "D. Attempting to meet society’s expectation of appearance."
+                ],
+                "question": "What does the author say may have an adverse impact on people?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. They are closely related to people’s social status.",
+                  "B. They have to do with people’s body weight and shape.",
+                  "C. They seem to matter much less to men than to women.",
+                  "D. They may not be equal to people’s contributions."
+                ],
+                "question": "What have researchers found out about people’s earnings?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Previous literature on indicators of competitiveness in the workplace.",
+                  "B. Traits that matter most in one’s pursuit of success in the labor market.",
+                  "C. Whether self⁃perception of body image impacts one’s workplace success.",
+                  "D. How bosses’ perception of body image impacts employees’ advancement."
+                ],
+                "question": "What does the author’s recent study focus on?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. Being overweight actually does not do much harm to the overall well⁃being of employees.",
+                  "B. People are not adversely affected in the workplace by false self⁃perception of body weight.",
+                  "C. Self⁃esteem helps to combat gender inequality in the workplace.",
+                  "D. Gender inequality continues to frustrate a lot of female employees."
+                ],
+                "question": "What is the finding of the author’s recent research?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Banning discrimination on the basis of employees’ body image.",
+                  "B. Expanding protection of women against gender discrimination.",
+                  "C. Helping employees change their own perception of beauty.",
+                  "D. Excluding body shape as a category in the labor contract."
+                ],
+                "question": "What does the author think would help improve the situation in the labor market?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Work⁃life balance is dead. By this, I’m not advocating that you should give up your quest to have a fulfilling career and a thriving personal life, and I am definitely not saying that you have to give up one to have the other. I also acknowledge that we have a work⁃life problem, but I’m arguing that the concept of balance has never been helpful, because it’s too limiting. You see, our language makes a difference, and how we refer to things matters because it affects our thinking and therefore our actions.\nAt the minimum, most of us work because we want to be able to support ourselves, our families, and the people around us. In the ideal world, we’re all doing work that we’re proud of and that provides meaning and purpose to us. But even if your job doesn’t give you shivers of joy with each new day, working is a part of what each of us does and the contribution we make to society. When you separate work and life, it’s a little bit harder to make that connection. But when you think of work as part of a full life and a complete experience, it becomes easier to see that success in one aspect often supports another.\nLosing your balance and falling isn’t pleasant. A goal to balance suggests that things could quickly get off balance, and that causes terrible outcomes. It’s more constructive to think of solutions that continue to evolve over shifts in life and work. Rather than falling or failing, you may have good days or better days or not⁃so⁃good days. These variations are normal, and it’s more useful to think of life as something that is ever evolving and changing, rather than a high⁃risk enterprise where things could go wrong with one misstep.\nHow we talk to ourselves matters, and how we talk about issues makes a difference. Let’s bury “work⁃life balance” and think bigger and better about work⁃life fulfillment to do a little less balancing and a lot more living.\n４· １１ 　　　",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. The hope of achieving a thriving life is impossible to realize.",
+                  "B. The pursuit of a fulfilling career involves personal sacrifice.",
+                  "C. The imbalance between work and life simply doesn’t exist anymore.",
+                  "D. The concept of work⁃life balance contributes little to a fulfilling life."
+                ],
+                "question": "What does the author suggest by saying “The work⁃life balance is dead”?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. It impacts how we think and behave.",
+                  "B. It changes with the passage of time.",
+                  "C. It reflects how we communicate.",
+                  "D. It differs from person to person."
+                ],
+                "question": "What does the author say about our use of language?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. We do work that betters the lives of our families and friends.",
+                  "B. We do work that gives us bursts of joy each new day.",
+                  "C. We do meaningful work that contributes to society.",
+                  "D. We do demanding work that brings our capacity into full play."
+                ],
+                "question": "What does the author say we do in an ideal world?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. It is cyclical.",
+                  "B. It is dynamic.",
+                  "C. It is fulfilling.",
+                  "D. It is risky."
+                ],
+                "question": "What does the author say about life?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Make life as simple as possible.",
+                  "B. Talk about balance in simpler terms.",
+                  "C. Balance life and work in a new way.",
+                  "D. Strive for a more fulfilling life."
+                ],
+                "question": "What does the author advise us to do?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions, For this part, you are allowed 30 minutes to write an essay on online libraries. You can start your essay with the sentence \"Online libraries are becoming increasingly popular\". You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "茅台（ Moutai） 是中国最有名的白酒，在新中国成立前夕，被选为国宴用酒。\n据说赤水沿岸的村民四千年前就开始酿造茅台。 在西汉时期，那里的人们生产出了高质量\n的茅台，并把它贡给皇帝。 自 唐朝开始，这种地方酒通过海上丝绸之路运往海外。\n茅台味道柔和，有一种特殊的香味；适量饮用可以帮助缓解疲劳， 有镇静作用， 因而广受国\n内外消费者的喜爱。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.\nYou should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_PIdT4kj.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_1_1.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split_2_LrbVUCl.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,000 --> 00:00:06,340\r\nCollege English Test, Band 4, Part 2, Listening Comprehension.\r\n\r\n2\r\n00:00:07,320 --> 00:00:13,360\r\nSection A, Directions. In this section you'll hear three new reports. At the end of each\r\n\r\n3\r\n00:00:13,360 --> 00:00:17,660\r\nnew user report you'll hear two or three questions. Both the new\r\n\r\n4\r\n00:00:17,660 --> 00:00:23,900\r\nuser report and the questions will be spoken only once. After you hear a question you must\r\n\r\n5\r\n00:00:23,900 --> 00:00:30,980\r\nchoose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding\r\n\r\n6\r\n00:00:30,980 --> 00:00:35,820\r\nletter on answer sheet 1 with a single line through the center.\r\n\r\n7\r\n00:00:36,740 --> 00:00:44,500\r\nNews report 1. Annasa Satellite orbiting over Portugal took photographs that reveal the effects\r\n\r\n8\r\n00:00:44,500 --> 00:00:50,900\r\nof pollution from ships. One of the photos shows a thin film of clouds above the brilliant\r\n\r\n9\r\n00:00:50,900 --> 00:00:57,380\r\nblue of the North Atlantic. Cut by white lines of thicker clouds that look like scars.\r\n\r\n10\r\n00:00:58,600 --> 00:01:05,780\r\nNASA officials explained those thicker clouds are signs of ship traffic below. When ships\r\n\r\n11\r\n00:01:05,780 --> 00:01:11,300\r\npower their way through the ocean, they pump exhaust into the atmosphere just as cars\r\n\r\n12\r\n00:01:11,300 --> 00:01:18,600\r\ndo. And those massive amounts of particles can cause clouds to form. Get enough of those\r\n\r\n13\r\n00:01:18,600 --> 00:01:23,800\r\nparticles in one place as from the exhaust of a ship, and they can lead to the creation\r\n\r\n14\r\n00:01:23,800 --> 00:01:27,280\r\nof new clouds easily visible from space.\r\n\r\n15\r\n00:01:28,240 --> 00:01:29,880\r\nThese clouds can be huge.\r\n\r\n16\r\n00:01:30,560 --> 00:01:34,380\r\nSome of them stretch hundreds of kilometers from end to end.\r\n\r\n17\r\n00:01:34,480 --> 00:01:35,960\r\nNASA officials said,\r\n\r\n18\r\n00:01:36,920 --> 00:01:41,960\r\nIt's likely that these sorts of clouds are having some effect on the global climate, according\r\n\r\n19\r\n00:01:41,960 --> 00:01:43,100\r\nto NASA officials.\r\n\r\n20\r\n00:01:43,100 --> 00:01:47,320\r\nBut scientists aren't yet sure what effect it has.\r\n\r\n21\r\n00:02:15,299 --> 00:02:20,800\r\nQuestion 2. What do NASA officials think about the thick clouds?\r\n\r\n22\r\n00:02:35,640 --> 00:02:38,120\r\nNews Report 2.\r\n\r\n23\r\n00:02:38,420 --> 00:02:44,560\r\nStarved at a suburban supermarket in Melbourne, say they feel unsafe at work after security\r\n\r\n24\r\n00:02:44,560 --> 00:02:45,900\r\nguards were removed.\r\n\r\n25\r\n00:02:45,900 --> 00:02:53,800\r\nThis came after a series of physical attacks and verbal abuse by customers. More than 50 workers\r\n\r\n26\r\n00:02:53,800 --> 00:02:59,960\r\nat the store have signed a letter calling for a permanent security guard following a series\r\n\r\n27\r\n00:02:59,960 --> 00:03:05,720\r\nof incidents including a customer threatening to attack a supervisor with a knife.\r\n\r\n28\r\n00:03:06,820 --> 00:03:13,180\r\nA security worker had guarded the store each night from 7pm until 12am.\r\n\r\n29\r\n00:03:13,180 --> 00:03:17,340\r\nBut that had stopped suddenly on Monday, in Pleoise said.\r\n\r\n30\r\n00:03:18,100 --> 00:03:23,800\r\nOne worker said an angry customer had thrown a chicken at his head after complaining about\r\n\r\n31\r\n00:03:23,800 --> 00:03:26,080\r\nhow long she had waited to be served.\r\n\r\n32\r\n00:03:26,800 --> 00:03:32,460\r\nAnother worker said the lack of protection at the store made her feel uncomfortable at work.\r\n\r\n33\r\n00:03:33,180 --> 00:03:39,300\r\nHowever, the spokesman of the supermarket said the store had taken strong action in response\r\n\r\n34\r\n00:03:39,300 --> 00:03:40,060\r\nto incidents.\r\n\r\n35\r\n00:03:40,060 --> 00:03:46,720\r\nWe have found very few instances of bad customer behavior at our store in the past year.\r\n\r\n36\r\n00:03:47,100 --> 00:03:53,600\r\nIn the rare cases we have seen bad behavior, we have taken strong action in response, including\r\n\r\n37\r\n00:03:53,600 --> 00:03:55,840\r\nbanning a customer from the store.\r\n\r\n38\r\n00:03:56,940 --> 00:04:01,600\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n\r\n39\r\n00:04:02,480 --> 00:04:03,620\r\nQuestion 3.\r\n\r\n40\r\n00:04:03,620 --> 00:04:08,880\r\nFor what purpose did the staff at a supermarket in Melbourne sign a letter?\r\n\r\n41\r\n00:04:23,800 --> 00:04:30,040\r\nQuestion 4. What did the spokesman of the supermarket say regarding the employees demand?\r\n\r\n42\r\n00:04:45,039 --> 00:04:52,020\r\nNews Report 3. Drivers on their way to the Polish capital of Warsaw on Wednesday\r\n\r\n43\r\n00:04:52,020 --> 00:04:59,660\r\nmorning found the road blocked by an unusual obstacle. Tons of liquid chocolate that spilled\r\n\r\n44\r\n00:04:59,660 --> 00:05:07,020\r\nonto the motorway. A truck carrying the sweet load, hit a road barrier and overturned, blocking\r\n\r\n45\r\n00:05:07,020 --> 00:05:14,440\r\ntwo lanes. The cracked tank spilled a pool of rapidly hardening chocolate, which quickly\r\n\r\n46\r\n00:05:14,440 --> 00:05:20,080\r\ncovered the width of the road. While the driver was taken to hospital with a broken arm,\r\n\r\n47\r\n00:05:20,700 --> 00:05:26,440\r\nfirefighters struggled to remove a reported 12 tons of solid chocolate from the road.\r\n\r\n48\r\n00:05:26,440 --> 00:05:34,320\r\nA representative for the firefighters told the local TV that removing the chocolate was worse than dealing with snow.\r\n\r\n49\r\n00:05:35,200 --> 00:05:44,120\r\nAfter contacting the chocolate manufacturer, the firefighters resorted to spraying hot, pressurized water to get rid of the sticky substance.\r\n\r\n50\r\n00:05:45,160 --> 00:05:56,140\r\nThe local TV also noted that the cleanup spanned more than a mile, because drivers simply drove through the chocolate after the crash, leaving a long chocolate trail.\r\n\r\n51\r\n00:05:56,140 --> 00:06:03,220\r\nBut despite the sticky situation, firefighters and police attending to the cleanup were reportedly\r\n\r\n52\r\n00:06:03,220 --> 00:06:05,620\r\ncheerful about the long task ahead.\r\n\r\n53\r\n00:06:06,600 --> 00:06:10,460\r\nAfter all, who could be mad about 12 tons of chocolate?\r\n\r\n54\r\n00:06:11,940 --> 00:06:16,220\r\nQuestions 5-7 are based on the news report you have just heard.\r\n\r\n55\r\n00:06:16,940 --> 00:06:17,740\r\nQuestion 5.\r\n\r\n56\r\n00:06:18,260 --> 00:06:21,360\r\nWhat did drivers on the motorway to water or find?\r\n\r\n57\r\n00:06:35,979 --> 00:06:37,640\r\nQuestion 6.\r\n\r\n58\r\n00:06:38,120 --> 00:06:40,940\r\nWhat does the report say about the accident?\r\n\r\n59\r\n00:06:56,140 --> 00:07:01,560\r\nQuestion 7. What did the firefighters representative tell the local TV?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:00,860 --> 00:00:17,380\r\nSection B, Directions. In this section you will hear two long conversations. At the end of each conversation you will hear four questions. Both the conversation and the questions will be spoken only once.\r\n\r\n2\r\n00:00:17,380 --> 00:00:23,660\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:23,660 --> 00:00:31,580\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:31,580 --> 00:00:32,680\r\nthrough the center.\r\n\r\n5\r\n00:00:34,520 --> 00:00:40,380\r\nConversation 1 Lisa, why did you pay for your meal with cash instead of the payment\r\n\r\n6\r\n00:00:40,380 --> 00:00:41,700\r\napps on your phone?\r\n\r\n7\r\n00:00:41,700 --> 00:00:47,880\r\nWell, I've gone back to cash. I'm only using payment apps if that's the only option.\r\n\r\n8\r\n00:00:48,460 --> 00:00:53,920\r\nI'm trying to save money for a new phone, and I find that using cash rather than payment apps\r\n\r\n9\r\n00:00:53,920 --> 00:00:55,200\r\nhelps me to save.\r\n\r\n10\r\n00:00:55,800 --> 00:01:00,940\r\nBut how? Money is money, isn't it? I don't think it matters whether you take it out\r\n\r\n11\r\n00:01:00,940 --> 00:01:05,920\r\nof the bank and put it in your wallet, or simply transfer it from your bank account to\r\n\r\n12\r\n00:01:05,920 --> 00:01:07,900\r\nthe seller's bank account using an app.\r\n\r\n13\r\n00:01:07,900 --> 00:01:14,340\r\nNo, I believe it does matter. It's a psychological phenomenon. I believe we have less\r\n\r\n14\r\n00:01:14,340 --> 00:01:20,140\r\nconnection with the value of our money when we just tap the approved buttons on our phones.\r\n\r\n15\r\n00:01:20,820 --> 00:01:25,880\r\nYou might have a point, since I stopped carrying cash around and started using my phone\r\n\r\n16\r\n00:01:25,880 --> 00:01:31,860\r\napps to pay, I may have developed a tendency to buy more small or non-essential items.\r\n\r\n17\r\n00:01:32,400 --> 00:01:37,480\r\nThat's highly possible. Think about the amount of time we spend with our phones in our\r\n\r\n18\r\n00:01:37,480 --> 00:01:40,180\r\nand all the things we do with our phones.\r\n\r\n19\r\n00:01:40,940 --> 00:01:45,720\r\nIt sometimes seems that our phone is buying the product for us, not ourselves.\r\n\r\n20\r\n00:01:46,540 --> 00:01:49,160\r\nSo cash is payment affects our ability to budget?\r\n\r\n21\r\n00:01:50,080 --> 00:01:51,260\r\nI believe so.\r\n\r\n22\r\n00:01:51,500 --> 00:01:53,720\r\nIf we spend a hundred-year-old earning cash,\r\n\r\n23\r\n00:01:54,140 --> 00:01:58,200\r\nwe realize that we don't have that hundred-year-old earning to spend on something else.\r\n\r\n24\r\n00:01:58,700 --> 00:02:00,320\r\nBut if we're spending electronically,\r\n\r\n25\r\n00:02:01,120 --> 00:02:03,480\r\nwe are less likely to make that mental calculation.\r\n\r\n26\r\n00:02:03,480 --> 00:02:08,600\r\nI stopped using my credit card because I found I was spending excessively.\r\n\r\n27\r\n00:02:08,940 --> 00:02:12,420\r\nPerhaps they should take the same approach you're paying using my phone.\r\n\r\n28\r\n00:02:12,680 --> 00:02:13,780\r\nIt's worth considering.\r\n\r\n29\r\n00:02:15,020 --> 00:02:18,920\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n\r\n30\r\n00:02:19,640 --> 00:02:24,020\r\nQuestion 8. Why did the woman decide to go back to cash for payment?\r\n\r\n31\r\n00:02:38,940 --> 00:02:45,080\r\nQuestion 9. What happens when people use apps for payment according to the woman?\r\n\r\n32\r\n00:02:59,580 --> 00:03:03,400\r\nQuestion 10. What might the man tend to buy?\r\n\r\n33\r\n00:03:03,400 --> 00:03:05,540\r\nwith payment apps.\r\n\r\n34\r\n00:03:19,519 --> 00:03:24,300\r\nQuestion 11. What is the man think of electronic payment?\r\n\r\n35\r\n00:03:40,380 --> 00:03:41,740\r\nCondensation 2\r\n\r\n36\r\n00:03:41,740 --> 00:03:47,680\r\nHello Mr. Brown, I was expecting your call. My secretary told me you were having some problems\r\n\r\n37\r\n00:03:47,680 --> 00:03:50,080\r\nwith the wooden table. Is that right?\r\n\r\n38\r\n00:03:51,260 --> 00:03:55,080\r\nNo, no, the table is fine. The problem is the chairs.\r\n\r\n39\r\n00:03:56,140 --> 00:03:59,940\r\nOh, the chairs. So what exactly is the issue?\r\n\r\n40\r\n00:03:59,940 --> 00:04:07,020\r\nWell, put simply, these are not the chairs my wife and I selected in your store last week.\r\n\r\n41\r\n00:04:07,600 --> 00:04:10,200\r\nThere must have been some confusion with our order.\r\n\r\n42\r\n00:04:10,800 --> 00:04:16,760\r\nOh, I see. I'm looking through my files now, and I see that the delivery was this morning.\r\n\r\n43\r\n00:04:17,079 --> 00:04:17,800\r\nIs that correct?\r\n\r\n44\r\n00:04:18,320 --> 00:04:18,880\r\nYes.\r\n\r\n45\r\n00:04:19,560 --> 00:04:23,500\r\nDo you mind describing the chairs that were delivered to your apartment, Mr. Brown?\r\n\r\n46\r\n00:04:24,360 --> 00:04:29,540\r\nSure. These have a flat back with a rounded top and a very heavy.\r\n\r\n47\r\n00:04:29,540 --> 00:04:33,000\r\nThey like brown and look kind of cheap.\r\n\r\n48\r\n00:04:33,720 --> 00:04:37,900\r\nThe ones we ordered were dark brown to match the table.\r\n\r\n49\r\n00:04:38,760 --> 00:04:44,540\r\nRight, of course, it says here you purchase the Arlington table and four Milano chairs.\r\n\r\n50\r\n00:04:45,080 --> 00:04:48,180\r\nAs you said, there must have been some confusion with the order.\r\n\r\n51\r\n00:04:48,540 --> 00:04:49,660\r\nI'm terribly sorry.\r\n\r\n52\r\n00:04:50,300 --> 00:04:55,200\r\nWe will send a van to collect those four and replace them with the Milano you purchased.\r\n\r\n53\r\n00:04:55,940 --> 00:04:58,580\r\nWill tomorrow 9 a.m. be okay, Mr. Brown?\r\n\r\n54\r\n00:04:58,580 --> 00:05:02,160\r\nYes, that would be great. Thank you.\r\n\r\n55\r\n00:05:02,300 --> 00:05:06,020\r\nGood. Did everything else you ordered for us arrive okay?\r\n\r\n56\r\n00:05:06,580 --> 00:05:08,760\r\nYes, I think so. Let me check.\r\n\r\n57\r\n00:05:09,580 --> 00:05:11,860\r\nThe mirror and two paintings are here.\r\n\r\n58\r\n00:05:12,440 --> 00:05:15,600\r\nThe two coffee tables are also here and a sofa.\r\n\r\n59\r\n00:05:16,480 --> 00:05:21,920\r\nYes, we haven't noticed anything else wrong on this thing, but if we do, we will certainly let you know.\r\n\r\n60\r\n00:05:22,240 --> 00:05:26,700\r\nOkay, great. Once again, I'm sorry for the confusion and trouble caused.\r\n\r\n61\r\n00:05:26,700 --> 00:05:32,140\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n62\r\n00:05:32,900 --> 00:05:36,560\r\nQuestion 12. Why did the man call the woman?\r\n\r\n63\r\n00:05:51,360 --> 00:05:52,700\r\nQuestion 13.\r\n\r\n64\r\n00:05:52,700 --> 00:06:01,840\r\nWhat do the women ask the man to do?\r\n\r\n65\r\n00:06:11,360 --> 00:06:12,360\r\nQuestion 14.\r\n\r\n66\r\n00:06:13,040 --> 00:06:16,540\r\nWhat do the women promise to do for the man?\r\n\r\n67\r\n00:06:31,800 --> 00:06:32,800\r\nQuestion 15.\r\n\r\n68\r\n00:06:33,700 --> 00:06:36,980\r\nWhat did the woman do at the end of the conversation?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:00,000 --> 00:00:17,000\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.\r\n\r\n2\r\n00:00:17,000 --> 00:00:23,640\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n\r\n3\r\n00:00:23,640 --> 00:00:31,880\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\n\r\n4\r\n00:00:31,880 --> 00:00:32,920\r\nthrough the center.\r\n\r\n5\r\n00:00:33,820 --> 00:00:43,280\r\nPassage 1. Do you have too much stuff? Are you dare we say it? Untidy? Say hello to a TV\r\n\r\n6\r\n00:00:43,280 --> 00:00:51,200\r\nshow called Tiding Up with Mary Condo. A home improvement show based on her wildly popular\r\n\r\n7\r\n00:00:51,200 --> 00:00:59,240\r\nbook, the life-changing magic of Tiding Up. In the show, Marie Condo acts as a tiny garbage\r\n\r\n8\r\n00:00:59,240 --> 00:01:06,220\r\nfairy for messy people, visiting their houses to share the wisdom of the Konmari method.\r\n\r\n9\r\n00:01:07,000 --> 00:01:12,380\r\nThis method is simple in theory, but can be endlessly complex and practice.\r\n\r\n10\r\n00:01:13,640 --> 00:01:19,620\r\nYou divide all the stuff in your house, all of it into several categories, and then examine\r\n\r\n11\r\n00:01:19,620 --> 00:01:23,840\r\neach item, all of them to see if it sparks joy.\r\n\r\n12\r\n00:01:24,840 --> 00:01:26,920\r\nIf it does, you keep it.\r\n\r\n13\r\n00:01:27,300 --> 00:01:31,240\r\nIf it doesn't, you thank it, and neatly discard it.\r\n\r\n14\r\n00:01:31,240 --> 00:01:36,300\r\nSo, is the TV show inspiring people to tidy up?\r\n\r\n15\r\n00:01:36,840 --> 00:01:40,360\r\nFirst hand accounts seem to indicate a small wave of people\r\n\r\n16\r\n00:01:40,360 --> 00:01:44,520\r\nbringing piles of donation bags to used good stores.\r\n\r\n17\r\n00:01:45,640 --> 00:01:50,100\r\nOne store received thousands of bags of used possessions in one day.\r\n\r\n18\r\n00:01:50,860 --> 00:01:54,200\r\nJanuary is usually the stores slow-season for donations\r\n\r\n19\r\n00:01:54,200 --> 00:01:57,500\r\nbecause it's cold and people don't want to bother,\r\n\r\n20\r\n00:01:58,060 --> 00:01:59,320\r\nbut not this January.\r\n\r\n21\r\n00:01:59,320 --> 00:02:06,460\r\nPeople seemed determined to clean up their homes. One used bookstore received a\r\n\r\n22\r\n00:02:06,460 --> 00:02:12,020\r\nmonth's worth of books in donations in a week when a man gave over 50 boxes of\r\n\r\n23\r\n00:02:12,020 --> 00:02:18,600\r\nbooks from his home. It seems Maurice TV show is having a big impact after all.\r\n\r\n24\r\n00:02:19,900 --> 00:02:24,640\r\nQuestion 16 to 18 are based on the passage you have just heard.\r\n\r\n25\r\n00:02:24,640 --> 00:02:30,580\r\nQuestion 16. What is Marie Condos TV show about?\r\n\r\n26\r\n00:02:45,040 --> 00:02:50,880\r\nQuestion 17. What things can be kept in one's home, according to Marie Kondo?\r\n\r\n27\r\n00:03:05,780 --> 00:03:12,060\r\nQuestion 18. What do we learn about one used bookstore this January?\r\n\r\n28\r\n00:03:27,860 --> 00:03:34,820\r\nPassage 2 At just 12 years old, Mike Hanan is making a difference in his community.\r\n\r\n29\r\n00:03:35,700 --> 00:03:37,400\r\nOne lunch at a time.\r\n\r\n30\r\n00:03:38,320 --> 00:03:44,720\r\nMike's lunches of love has fed more than 2,000 of the town's most vulnerable residents.\r\n\r\n31\r\n00:03:45,900 --> 00:03:52,020\r\nMike delivers meals to the homeless. It's like a way to give people joy, maybe spark\r\n\r\n32\r\n00:03:52,020 --> 00:03:56,820\r\nsomething in them that can change them. Mike told WBCTV,\r\n\r\n33\r\n00:03:57,800 --> 00:04:04,560\r\nthe mayor of Mike's town feels that Mike is a great community leader, especially in such times\r\n\r\n34\r\n00:04:04,560 --> 00:04:12,160\r\nof so much negative news, while his father commented on how proud he was of his son. Yet,\r\n\r\n35\r\n00:04:12,640 --> 00:04:19,200\r\nMike isn't looking for praise, but kindness in return. He hopes his acts of charity will\r\n\r\n36\r\n00:04:19,200 --> 00:04:23,520\r\ninfluence others to spread positive actions in their own towns.\r\n\r\n37\r\n00:04:25,020 --> 00:04:31,860\r\nMike includes a handwritten message of joy on each bag, his message and star power has spread\r\n\r\n38\r\n00:04:31,860 --> 00:04:33,380\r\nall over the country.\r\n\r\n39\r\n00:04:34,380 --> 00:04:42,080\r\nTo date, his online page to raise funds has brought in more than $44,000 and counting, raising\r\n\r\n40\r\n00:04:42,080 --> 00:04:49,500\r\nmore than $17,000 in just one day, with the help of many famous actors and others.\r\n\r\n41\r\n00:04:50,880 --> 00:04:56,700\r\nPeople from all over the country are sending special handcrafted bags to help the young man\r\n\r\n42\r\n00:04:56,700 --> 00:04:59,300\r\nwith his mission to help those in need.\r\n\r\n43\r\n00:04:59,300 --> 00:05:03,640\r\nMany are hoping the simple act of kindness spreads.\r\n\r\n44\r\n00:05:04,500 --> 00:05:10,220\r\nMike is seen as hope for the future of the town, the country, and the world.\r\n\r\n45\r\n00:05:10,900 --> 00:05:15,480\r\nQuestions 19-21 are based on the passage you have just heard.\r\n\r\n46\r\n00:05:16,080 --> 00:05:21,020\r\nQuestion 19-What does Mike Hanon do to help people in his town?\r\n\r\n47\r\n00:05:35,840 --> 00:05:43,200\r\nQuestion 20. What does Mike hope others will do?\r\n\r\n48\r\n00:05:54,820 --> 00:06:00,600\r\nQuestion 21. How are people all over the country responding to what Mike is doing?\r\n\r\n49\r\n00:06:15,479 --> 00:06:23,600\r\nPassage 3. In a recent study carried out by psychologists on the disruptive effect of smartphones.\r\n\r\n50\r\n00:06:24,460 --> 00:06:33,100\r\nTwo groups of college students were given word search puzzles. The first group was told to complete the puzzles with its participants\r\n\r\n51\r\n00:06:33,100 --> 00:06:39,180\r\nsmartphones in their line of sight. The second group, however, was told that the phones\r\n\r\n52\r\n00:06:39,180 --> 00:06:44,880\r\nwould interfere with the equipment in the experiment and would need to be moved away from\r\n\r\n53\r\n00:06:44,880 --> 00:06:51,260\r\nthe testing area. Midway through the second groups solving of the puzzles, the experiment\r\n\r\n54\r\n00:06:51,260 --> 00:06:56,820\r\nhad called one of the phones and let it ring for a while before hanging up. Many of\r\n\r\n55\r\n00:06:56,820 --> 00:07:02,860\r\nthe students in that group were unable to focus from then on, becoming anxious and performing\r\n\r\n56\r\n00:07:02,860 --> 00:07:05,640\r\nmore poorly than the first group.\r\n\r\n57\r\n00:07:06,540 --> 00:07:12,180\r\nUse of electronics has also been known to lead to a decline in human interactions.\r\n\r\n58\r\n00:07:13,180 --> 00:07:20,140\r\nRather than having real life conversations, many express emotions and engage in deep conversations\r\n\r\n59\r\n00:07:20,140 --> 00:07:22,820\r\nthrough social media sites.\r\n\r\n60\r\n00:07:23,420 --> 00:07:30,360\r\nMany students use their phones and computers during class for non-academic activities, which\r\n\r\n61\r\n00:07:30,360 --> 00:07:31,940\r\nleads to poor grades.\r\n\r\n62\r\n00:07:31,940 --> 00:07:38,400\r\nPerhaps the most dramatic impact is the reduction in the amount of sleep, which leads to poor\r\n\r\n63\r\n00:07:38,400 --> 00:07:40,060\r\nhealth and weight gain.\r\n\r\n64\r\n00:07:40,880 --> 00:07:42,780\r\nTechnology is a great tool.\r\n\r\n65\r\n00:07:43,820 --> 00:07:47,140\r\nHowever, it's important to recognise its downside.\r\n\r\n66\r\n00:07:48,200 --> 00:07:53,560\r\nLack of sleep, reduction of productivity and weight gain are only a few.\r\n\r\n67\r\n00:07:54,300 --> 00:07:59,920\r\nIf we are not careful about all these minor problems right now, the effect on the future\r\n\r\n68\r\n00:07:59,920 --> 00:08:03,100\r\ngeneration is going to be much bigger.\r\n\r\n69\r\n00:08:31,300 --> 00:08:38,580\r\nQuestion 23 What do we learn about many of the students in the second test group after the phone rang?\r\n\r\n70\r\n00:08:53,480 --> 00:08:54,840\r\nQuestion 24\r\n\r\n71\r\n00:08:54,840 --> 00:09:01,160\r\nAccording to the passage, what is the most dramatic impact of smartphone use?\r\n\r\n72\r\n00:09:15,260 --> 00:09:21,000\r\nQuestion 25. What does the speaker suggest people do?\r\n\r\n73\r\n00:09:35,780 --> 00:09:38,560\r\nThis is the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}

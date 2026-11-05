@@ -1,0 +1,686 @@
+{
+  "id": 85,
+  "exam": 190,
+  "exam_details": {
+    "id": 190,
+    "title": "2025年12月四级真题第3套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2025,
+    "month": 12,
+    "version": "三",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2026-01-29T13:31:31.650407+08:00",
+    "updated_at": "2026-01-31T15:19:07.978193+08:00",
+    "exam_id": 190,
+    "submission_count": 0,
+    "cet_content_id": 85,
+    "has_draft": false
+  },
+  "created_at": "2026-01-31T14:39:14.035474+08:00",
+  "updated_at": "2026-01-31T15:55:41.095477+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A) It has gone up sharply.",
+              "B) It has been fluctuating.",
+              "C) It has risen because of bird flu.",
+              "D) It has been consumers' concern."
+            ],
+            "question": "What does the news report say about the price of eggs?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A) They don't want to abandon their eggs.",
+              "B) They don't know they will be heavily fined.",
+              "C) They don't know they are forbidden to bring eggs.",
+              "D) They don't declare their eggs during the inspection."
+            ],
+            "question": "Why are some travelers heavily fined?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A) It is no longer critical of younger customers.",
+              "B) It has banned kids under 10 from dining there.",
+              "C) It is no longer as noisy and crowded as before.",
+              "D) It has implemented a decision to expand business."
+            ],
+            "question": "What change has the restaurant made?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A) It is fully aware of frequent customers' feelings.",
+              "B) It caters to the tastes of different customers.",
+              "C) It is entitled to adopt any rules it wants.",
+              "D) It should announce its decisions online."
+            ],
+            "question": "What does the restaurant claim regarding its new policy?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A) A missing pet.",
+              "B) A grown-up snake.",
+              "C) A huge animal skin.",
+              "D) A snake specialist."
+            ],
+            "question": "What was found according to the report?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A) In a government office.",
+              "B) In a deserted house.",
+              "C) At a local zoo.",
+              "D) At a construction site."
+            ],
+            "question": "Where was the snake found?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A) Figuring out where it came from.",
+              "B) Curing it of any possible diseases.",
+              "C) Protecting its babies against harm.",
+              "D) Determining how to catch it safely."
+            ],
+            "question": "What are the authorities trying to do now?"
+          }
+        ],
+        "description": "News Reports",
+        "question_groups": [
+          {
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A) The man doesn't agree Hannah is poor.",
+              "B) The man doesn't believe what she says.",
+              "C) The man doesn't think she can be a millionaire.",
+              "D) The man doesn't consider her to be trustworthy."
+            ],
+            "question": "What is the man's attitude towards Hannah's story?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A) She no longer has any money left.",
+              "B) She has been betrayed by her family.",
+              "C) She can no longer hold on to her job.",
+              "D) She has been robbed of 5 million Euros."
+            ],
+            "question": "What is Hannah's financial situation according to the conversation?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A) Fortune.",
+              "B) Family.",
+              "C) Harmony.",
+              "D) Happiness."
+            ],
+            "question": "What does the woman value more than fortune?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A) Divorce her.",
+              "B) Leave home.",
+              "C) Buy her a more expensive model.",
+              "D) Let the best thing happen to them."
+            ],
+            "question": "What does the man suggest doing?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A) He is not outstanding in Science and Math.",
+              "B) He does not have a strong academic record.",
+              "C) He is not yet mature enough to live on his own.",
+              "D) He does not like Westwood Elementary School."
+            ],
+            "question": "Why is the woman hesitant about sending Jake to the school?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A) It is too far away.",
+              "B) It is newly opened.",
+              "C) It lacks outdoor sports facilities.",
+              "D) It has too few first-class teachers."
+            ],
+            "question": "What is a characteristic of the school mentioned?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A) It has a beautiful campus.",
+              "B) It is within walking distance.",
+              "C) It has a wonderful arts program.",
+              "D) It is helpful to Jake's breathing problems."
+            ],
+            "question": "What program does the school offer?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A) Asking Jake which school he himself prefers to enroll in.",
+              "B) Thinking twice about what is best for Jake's education next year.",
+              "C) Consulting her mother about which school Jake is to attend.",
+              "D) Sending Jake to the school near the home of the man's mother."
+            ],
+            "question": "What is the final decision regarding Jake's schooling?"
+          }
+        ],
+        "description": "Long Conversations",
+        "question_groups": [
+          {
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A) It is time consuming.",
+              "B) It is unfit for crucial issues.",
+              "C) It relies too much on solid data.",
+              "D) It dulls a leader's sense of urgency."
+            ],
+            "question": "What is a disadvantage of the decision-making process discussed?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A) Depend on digital technology.",
+              "B) Make assumptions and guesses.",
+              "C) Ignore others' thoughts and ideas.",
+              "D) Lay emphasis on thinking flexibly."
+            ],
+            "question": "What should leaders avoid doing according to the passage?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A) Maximizing the advantage of available resources.",
+              "B) Minimizing the possibility of a wrong decision.",
+              "C) Discovering new potential markets.",
+              "D) Perfecting promotional strategies."
+            ],
+            "question": "What is the goal of the strategy mentioned?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A) She is one of the world's best-known pianists.",
+              "B) She celebrated her 110th birthday this April.",
+              "C) She moved to the U. S. at a young age.",
+              "D) She is the world's oldest individual."
+            ],
+            "question": "What is true about the woman mentioned in the passage?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A) Being always active on social media.",
+              "B) Doing regular and vigorous exercise.",
+              "C) Playing the piano from a young age.",
+              "D) Following a specific diet every day."
+            ],
+            "question": "What has the woman been doing for a long time?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A) Eating as little as one can possibly manage.",
+              "B) Having the ability to forget things selectively.",
+              "C) Figuring out the positive properties of each food item.",
+              "D) Knowing how to remember major events in one's life."
+            ],
+            "question": "What does the woman suggest is key to her longevity?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A) The ability to learn.",
+              "B) The first day of school.",
+              "C) How teachers perceive them.",
+              "D) Where they sit in the classroom."
+            ],
+            "question": "What was the focus of the study mentioned in the passage?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A) They often received close attention from the instructors.",
+              "B) They obtained the highest grade average in their class.",
+              "C) They actually wanted a clear vision of the blackboard.",
+              "D) They scored higher than students sitting behind them."
+            ],
+            "question": "What did the study find about students sitting in the front?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A) A higher grade average among all students of a class.",
+              "B) A better connection between instructors and students.",
+              "C) A stronger support for a student-centered teaching approach.",
+              "D) A more favorable atmosphere for effective classroom learning."
+            ],
+            "question": "What is a benefit of sitting in the front according to the passage?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A) They may experience some unwanted stress.",
+              "B) They may try hard to show their preparedness.",
+              "C) They may receive extra attention from the instructor.",
+              "D) They may feel helpless when called on by the instructor."
+            ],
+            "question": "What is a potential negative effect mentioned?"
+          }
+        ],
+        "description": "Passages",
+        "question_groups": [
+          {
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Earth Day is an annual celebration that honors the achievements of the environmental movement and raises awareness of the need to protect Earth's natural resources for future generations. Earth Day is celebrated on April 22 in the United States and on either April 22 or the day the spring equinox(春分) occurs throughout the __26__ of the world.\nEnvironmental activism during the 1960s __27__ Wisconsin Senator Gaylord Nelson to create a __28__ celebration uniting the environmental movement. With the help of Denis Hayes, a graduate student at Harvard University, Nelson organized the first Earth Day on April 22, 1970, educating participants in the __29__ of environmental protection. Attended by 20 million people across the United States, the event __30__ support for legislation such as the Clean Air Act and the Endangered Species Act.\nIn 1990, Hayes organized a global Earth Day, with more than 200 million participants in 140 countries. Earth Day now brings __31__ citizens and activists from around the world to raise awareness and take action regarding such environmental __32__ as global warming and renewable energy.\nToday, the Earth Day Network, which rallies more than 20,000 __33__ and organizations in 190 countries, supports the Earth Day mission year-round. This mission is founded on the proposition that all people, regardless of race, gender, income, or __34__, have a moral right to a healthy, sustainable environment. The Earth Day Network __35__ this mission through education, public policy, and activism campaigns.",
+        "word_bank": [
+          "concerns",
+          "expansion",
+          "forth",
+          "geography",
+          "importance",
+          "imposed",
+          "inspired",
+          "national",
+          "partners",
+          "potential",
+          "pursues",
+          "rescues",
+          "rest",
+          "strengthened",
+          "together"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Hiring managers believe unemployed workers over 45 lack good skills and are less adaptable."
+          },
+          {
+            "id": 37,
+            "content": "Switching to a new career is difficult and getting reemployed after a layoff is even tougher."
+          },
+          {
+            "id": 38,
+            "content": "People from poor neighborhoods tend to have the least interest in retraining."
+          },
+          {
+            "id": 39,
+            "content": "Hiring managers who are not yet 45 years old seem unwilling to hire people their senior."
+          },
+          {
+            "id": 40,
+            "content": "Some analysts find age 45+ jobless workers are most likely to be unemployed for more than a year."
+          },
+          {
+            "id": 41,
+            "content": "People who had succeeded in career change after 45 told a nonprofit organization they owed a great deal to the education and training they had received."
+          },
+          {
+            "id": 42,
+            "content": "Older workers who actively pursue more education and training have a good chance of being hired."
+          },
+          {
+            "id": 43,
+            "content": "A new study finds that more education and training helps midcareer individuals find a new job."
+          },
+          {
+            "id": 44,
+            "content": "Owing to the internet, it is now more convenient than ever to receive training in new skills."
+          },
+          {
+            "id": 45,
+            "content": "People over 45 stimulated by training suffer shorter periods of unemployment, get more job offers and have greater satisfaction in them."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Ageism and long-term unemployment are most damaging for those in the second half of their careers. Changing careers is hard. Getting back into work after you've been laid off is even harder. Those over 45 make up the bulk of the long-term unemployed, in America and elsewhere. Hiring managers admit they are reluctant to hire those over 40 or 45, arguing they probably won't be a good“fit,” their experience won't be relevant to the workplace, and they'll be unable or unwilling to learn new skills."
+          },
+          {
+            "id": "B",
+            "content": "But the one thing that can really make a difference? More education and training. These are the results from a new study by Generation, a nonprofit founded by former McKinsey consultants. They've just published a global survey on midcareer employment based on surveys of over 5,000 workers and managers in seven countries."
+          },
+          {
+            "id": "C",
+            "content": "“Older midcareer workers… make up the bulk of the long-term unemployed in many countries,” Generation's analysts write in their report. Those over 45 comprise over 40% of the long-term unemployed, for example. And if you're out of work past the age of 45, there's nearly a two in three chance you'll be out of work for over a year, they find.“Midcareer individuals are finding it harder to get jobs,” they write.“People age 45+ face persistent and rising pressure in the global job market. They are unemployed for much longer than the average, and their age is indeed one of the greatest barriers to their finding a job.”"
+          },
+          {
+            "id": "D",
+            "content": "A substantial part of this, they report, is“widespread ageism” on the part of hiring managers. Although such managers admit that post-45 hires turn out on average to be just as good as or better than younger workers, they still don't want to hire them.“Hiring managers have a strong perception bias against 45+ job candidates—they believe that members of this age group have poor skills and low adaptability,” Generation's analysts report."
+          },
+          {
+            "id": "E",
+            "content": "The survey results are remarkable. Hiring managers are three times as likely to rate job applicants age 35-44 as a better“fit” than those over 45. They rate the post-45 job seekers lower on average on all three measures—even experience—than those ages 18 to 34. This is true even though nearly nine managers in 10 also said their post-45 workers were as good as or better than younger employees in the same jobs."
+          },
+          {
+            "id": "F",
+            "content": "Their biggest fears about hiring those over 45? Managers said they worry that older hires will be reluctant to try new technologies, and will be unable to learn new skills. Besides, the majority of hiring managers are under 45—and seem reluctant to hire people older than themselves."
+          },
+          {
+            "id": "G",
+            "content": "But here's the good news. Older workers who've actively engaged in more education and training relevant to their jobs turn this pretty much on its head. Three-quarters of hiring managers said they'd be more likely to hire an over-45 who had relevant education, training or credentials (文凭). Among those over 45 who'd successfully switched careers, 74% said training helped them get their new job."
+          },
+          {
+            "id": "H",
+            "content": "“Midcareer switchers overwhelmingly say that training enabled them to shift to a new career path,” the analysts write. And when they asked over-45 candidates about their attitudes, they found that“those who are excited by training are unemployed for less time, receive more job offers, and are more satisfied by the job offers they receive.”"
+          },
+          {
+            "id": "I",
+            "content": "Hiring managers said training was three times more likely to get them to hire applicants over age 45 than, say, government subsidies (补贴). What training are we talking about? Obviously it depends in the job. And, yes, managers are most likely to be impressed by industry qualifications you get in school. These things cost money, and time. But these aren't the only things helpful. Those who had successfully changed careers after 45 told Generation that education and training had been a big help—and that included in-person, on-the-job training,“informal learning,” and online courses—with or without certification."
+          },
+          {
+            "id": "J",
+            "content": "If they think we're too old to learn new skills after we're 45, just learning some new skills may have an effect on its own. There's a downside to this. The people least interested in retraining are more likely to come from historically disadvantaged communities, more likely to have low incomes, and are more likely to have the least schooling after getting their high-school diploma or earlier. On average, post-45 job switchers with higher incomes participate in 2.5 training programs each. Those with lower incomes: 0.9 programs on average."
+          },
+          {
+            "id": "K",
+            "content": "Many years ago, I wrote about a study which found that employers are much more likely to hire a college graduate who has some work experience in the industry than a college graduate who took the“right” degree. A bank is more likely to hire a literature graduate who spent their summers working in their local bank than a finance or economics graduate who spent their summers surfing or traveling around Italy. They've learned through long experience. The person who worked in the bank is more likely ready, willing and able to be part of the team and do the job from day 1."
+          },
+          {
+            "id": "L",
+            "content": "We can rail against“ageism” all we like. It gets us nowhere. And it's easy to forget that employers, like everyone else, are under time pressure and are just trying to solve problems. Any and all“training” including inexpensive and informal training, is going to help resolve their worries about hiring someone over 45. And it has never been easier or cheaper to gain instruction in new skills, thanks to the internet. Online schools like Udemy and Lynda.com offer sweet deals at sign-up. And courses on YouTube are free."
+          },
+          {
+            "id": "M",
+            "content": "Bottom line? Yes, it really can be difficult getting a new job after age 45, let alone changing careers. One of the best things we can do to help ourselves is to go online and learn new, relevant skills. Sadly, the people who most need the help are least likely to take it—which raises a challenge for society as a whole. Not only do we not want to see lives go to waste, but we all benefit if more people are working and fewer are unemployed."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "New York's Eleven Madison Park has become the first vegan (素食主义的) restaurant to be awarded three Michelin stars.\nThe fine dining establishment received its first three-star Michelin rating in 2011 when the menu was famed for its fancy animal-based dishes.\nHowever, last year, the restaurant's co-owner and famous chef Daniel Humm, made the bold decision to remove meat from the menu, citing our unsustainable food system. While cow milk is still served for tea and coffee, the menu is almost 100 percent vegan.\nAt the time, Humm acknowledged the move was risky, admitting that“it wasn't clear if guests would come”, but called the gamble“a risk worth taking.”\n“In view of the climate crisis, I didn't want to open the same restaurant,” Humm told the Financial Times in an interview.“If we can show the possibilities of eating plant-based food in this setting, it can open a lot of doors” for others to follow.\nNow, this impressive new accomplishment validates Eleven Madison Park's decision to take meat off the menu and embrace plant-based foods, with Michelin's 2022 New York guide branding it a“bold vision of luxury dining”.\n“We took the jump to transform Eleven Madison Park into a plant-based fine dining restaurant knowing in our hearts this is what we believed in,” stated Humm on Instagram.“Last night, we were honored to be awarded three Michelin stars for the 11th year in a row. I am so grateful to the team members who contributed through its nearly 25-year history. We are also grateful to our guests and partners who believed in our vision and encouraged us to push harder.”\nThree Michelin stars is the highest award, given to chefs who are at the peak of their profession.“Their cooking is elevated to an art form and some of their dishes are destined to become classics,” reads Michelin's website, in a clear nod to plant-based foods' growing significance in the culinary (烹饪的) world.\n“I think luxury companies have a real role to play and a responsibility,” says Humm.“The more creative we are, the more beautiful and delicious our future will be.”",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. It is the first vegan restaurant to receive the highest Michelin rating.",
+                  "B. It is the first restaurant in the city to remove meat from its menu.",
+                  "C. It was famed throughout the U. S. for its fancy regional dishes.",
+                  "D. It was established as a three-star Michelin restaurant in 2011."
+                ],
+                "question": "What do we learn about New York's Eleven Madison Park?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. To encourage more customers to be vegan.",
+                  "B. To contribute to a sustainable food system.",
+                  "C. To show the appeal of a plant-based menu.",
+                  "D. To strive for the three-star Michelin rating."
+                ],
+                "question": "Why did Daniel Humm decide to remove meat from the menu of his restaurant?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. It was a worthwhile effort even though he was unsure of its success.",
+                  "B. It would set a model for many more restaurants to follow.",
+                  "C. It was a mad gamble few chefs in the fine dining world would risk taking.",
+                  "D. It would prove a right step to take in today's catering business."
+                ],
+                "question": "What did Daniel Humm think of his move to a meat-free menu?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It elevates the restaurant's cooking to an art form.",
+                  "B. It proves the validity of ratings awarded by Michelin.",
+                  "C. It shows a daring foresight regarding future fine dining.",
+                  "D. It is an effort to transform the restaurant into a luxury one."
+                ],
+                "question": "What does Michelin's 2022 New York guide say about Eleven Madison Park's decision?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. An optimistic vision of vegan foods becoming mainstream.",
+                  "B. A greater responsibility for the culinary world to undertake.",
+                  "C. A strong incentive for more restaurants to offer healthier foods to their customers.",
+                  "D. An explicit recognition of the rising importance of restaurants serving vegan foods."
+                ],
+                "question": "What does the awarding of three Michelin stars to Eleven Madison Park indicate?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "With genetic testing becoming increasingly popular, many people are left wondering exactly how accurate it is. Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn (先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon.\nHow accurate DNA tests are relies greatly upon the kind of test being taken, on the specific question you ask, and on how complex the genetics behind a trait (特征) is. For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present.\nAncestry tests claim to reveal our genetic identities. But saying you are 30 percent East Asian or American hardly reflects your real ancestry.\nWhat about using DNA tests to discover distant family members? There are tools to compare one's DNA with others' to find distant relatives based on their genetic identification. These kinds of applications are generally accurate. It's relatively easy to tell whether two DNA samples belong to close relatives. With distant relatives, results become hazier.\nGenetic health tests claim to be able to detect certain hereditary (遗传的) diseases, or other health conditions. While certain rare diseases can be easily identified, most potential health conditions cannot be identified by genetic testing alone. The large majority of our traits and diseases also depend upon non-genetic factors, such as lifestyle, the environment, and many others.\nGenetic tests for multi-factorial traits are often very tricky to interpret. Height, for example, depends on hundreds of genes, each contributing a little to the outcome, together with a bunch of environmental factors. A test can look at many genes at once, but it's difficult to predict how they will play together. Then you should also account for non-genetic factors that are not written in the DNA.\nTests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense. At the moment, the scientific bases for these applications are non-existent or incredibly weak.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. Knowing their accuracy.",
+                  "B. Evaluating their applicability.",
+                  "C. Utilizing the information they provide.",
+                  "D. Weighing the consequences they have."
+                ],
+                "question": "What does the passage say is of importance regarding genetic tests?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. Those complex enough to reveal the genetics behind a trait.",
+                  "B. Those looking for traits responsible for certain diseases.",
+                  "C. Those focusing on the specific questions being asked.",
+                  "D. Those looking for traits determined by a single gene."
+                ],
+                "question": "What kind of genetic tests tend to be comparatively reliable?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. They are unable to identify certain hereditary diseases by themselves.",
+                  "B. They are generally unable to separate genetic and non-genetic factors.",
+                  "C. They cannot independently identify the majority of potential diseases.",
+                  "D. They cannot tell apart the impact of lifestyle and that of the environment."
+                ],
+                "question": "What do we learn about genetic health tests from the passage?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. The challenge in determining the role of each individual gene.",
+                  "B. The difficulty of foretelling how the various genes will interact.",
+                  "C. The difficulty of telling genetic factors from environmental ones.",
+                  "D. The enormous work to identify the hundreds of genes involved."
+                ],
+                "question": "What makes genetic tests for multi-factorial traits tricky to interpret?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. They are solid scientific bases for application.",
+                  "B. They are helpful in finding a romantic match.",
+                  "C. They do not look promising at the moment.",
+                  "D. They do not make any sense at present."
+                ],
+                "question": "What does the passage say about DNA tests to predict personality or talents?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose your university is organizing a forum on how students can make the best use of on- campus resources for academic development. You are now to write an essay to express your view. You will have 30minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "中国政府十分重视绿色经济的发展。通过加强森林资源保护、加大污染治理力度等一系列措施，许多地区的生态环境得到了显著改善。绿水青山( lucid waters and lush mountains)促进了当地的旅游、健康等产业的发展，创造了可观的经济效益。如今，生态环境与人类社会和谐共存的观念在中国已深入人心。绿色经济的推进不仅能为中国可持续发展做出贡献，也为全球环境保护提供了宝贵经验。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split2_S5HFnvJ.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split11_qfwitKp.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/freecompress-split21_USb0KMN.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\r\n00:00:00,000 --> 00:00:12,140\r\nCollege English Test, and 4, Part 2, Listening Comprehension, Section A, Directions. In this section, you will hear\r\n大学英语考试，第四部分，第二部分，听力理解，A节，说明。在本节中，你将听到\r\n\r\n2\r\n00:00:12,140 --> 00:00:20,100\r\n3 news reports. At the end of each news report, you will hear 2 or 3 questions. Both the news\r\n3篇新闻报道。每篇新闻报道结束后，你将听到2到3个问题。新闻\r\n\r\n3\r\n00:00:20,100 --> 00:00:27,900\r\nreport and the questions will be spoken only once. After you hear a question, you must choose the best answer\r\n报道和问题都只播放一遍。听到问题后，你必须从\r\n\r\n4\r\n00:00:27,900 --> 00:00:35,920\r\nfrom the four choices marked A, B, C and D. Then mark the corresponding letter on\r\n标有A、B、C和D的四个选项中选择最佳答案。然后在\r\n\r\n5\r\n00:00:35,920 --> 00:00:39,160\r\nAnsysheet 1 with a single line through the center.\r\n答题纸1上，用一条直线穿过中心标记相应的字母。\r\n\r\n6\r\n00:00:40,280 --> 00:00:48,160\r\nNews report 1. Customs and border protection officials are seen arise in people illegally bringing\r\n新闻报道1。海关和边境保护官员发现，有人非法将\r\n\r\n7\r\n00:00:48,160 --> 00:00:55,600\r\neggs from Mexico into border states such as Texas. The U.S. average price for a dozen\r\n鸡蛋从墨西哥带入德克萨斯州等边境州的情况有所增加。上个月，美国一打\r\n\r\n8\r\n00:00:55,600 --> 00:01:05,060\r\nlarge eggs last month hit $4.25. That's more than double there are $1.78 price in December\r\n大鸡蛋的平均价格达到了4.25美元。这比2023年12月的1.78美元的价格\r\n\r\n9\r\n00:01:05,060 --> 00:01:16,040\r\n2023. Meanwhile, 30 eggs in Mexico sell for just $3.40. Those bringing eggs into the U.S.\r\n高出了一倍多。与此同时，在墨西哥，30个鸡蛋的售价仅为3.40美元。那些将鸡蛋带入美国的人\r\n\r\n10\r\n00:01:16,220 --> 00:01:23,320\r\nrisk fines of up to $10,000. But officials say they usually see and destroy the eggs.\r\n面临高达10,000美元的罚款风险。但官员表示，他们通常会看到并销毁这些鸡蛋。\r\n\r\n11\r\n00:01:23,320 --> 00:01:27,280\r\nThey also impose a $300 penalty.\r\n他们还会处以300美元的罚款。\r\n\r\n12\r\n00:01:28,280 --> 00:01:32,480\r\nThe Department of Agriculture banned eggs from Mexico in 2012.\r\n美国农业部在2012年禁止从墨西哥进口鸡蛋。\r\n\r\n13\r\n00:01:33,320 --> 00:01:35,700\r\nThis was due to the risk of bird flu.\r\n这是因为存在禽流感风险。\r\n\r\n14\r\n00:01:37,140 --> 00:01:43,320\r\nOfficials said, most people arriving at international borders with eggs are truthful about their purchases.\r\n官员表示，大多数带着鸡蛋抵达国际边境的人都会如实说明他们的购买情况。\r\n\r\n15\r\n00:01:44,280 --> 00:01:47,600\r\nThey simply don't know bringing eggs is not allowed.\r\n他们只是不知道不允许携带鸡蛋。\r\n\r\n16\r\n00:01:48,780 --> 00:01:52,020\r\nGenerally, the items are declared during the first inspection.\r\n一般来说，这些物品会在首次检查时申报。\r\n\r\n17\r\n00:01:52,020 --> 00:01:55,780\r\nThen the person can abandon the eggs without consequence.\r\n然后，这个人可以放弃这些鸡蛋而不会受到任何处罚。\r\n\r\n18\r\n00:01:56,600 --> 00:01:59,740\r\nA customs and border protection spokesperson said.\r\n海关和边境保护发言人说。\r\n\r\n19\r\n00:02:00,740 --> 00:02:04,280\r\nEven so, there have been a very small number of cases recently\r\n即便如此，最近还是发生了极少数的案例\r\n\r\n20\r\n00:02:04,540 --> 00:02:08,720\r\nwhen authorities discovered eggs during further inspections.\r\n当局在进一步检查中发现了鸡蛋。\r\n\r\n21\r\n00:02:10,460 --> 00:02:15,060\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n问题1和问题2基于你刚才听到的新闻报道。\r\n\r\n22\r\n00:02:16,040 --> 00:02:16,960\r\nQuestion 1.\r\n问题1。\r\n\r\n23\r\n00:02:16,960 --> 00:02:22,200\r\nWhat do we learn from the news report about the egg price in the US?\r\n从这篇关于美国鸡蛋价格的新闻报道中，我们了解到什么？\r\n\r\n24\r\n00:02:36,779 --> 00:02:44,200\r\nQuestion 2. What does the news report say about most people arriving at American borders\r\n问题2。关于大多数带着鸡蛋抵达美国边境的人，这篇新闻报道说了什么？\r\n\r\n25\r\n00:02:44,200 --> 00:02:45,140\r\nwith eggs?\r\n新闻报道2。\r\n\r\n26\r\n00:03:00,019 --> 00:03:02,420\r\nNews Report 2.\r\n美国的一家餐厅Netty's House在网站上宣布\r\n\r\n27\r\n00:03:02,900 --> 00:03:08,540\r\nNetty's House, a restaurant in America, has been hit with criticism after announcing on\r\n不再欢迎10岁以下的儿童后，受到了批评。\r\n\r\n28\r\n00:03:08,540 --> 00:03:12,700\r\ntheir website that children under the age of 10 are no longer welcome.\r\n餐厅给出的理由包括噪音水平、高脚椅空间不足、\r\n\r\n29\r\n00:03:14,200 --> 00:03:19,420\r\nAmong the reasons given for the decision, the restaurant cited noise levels lack of space\r\n清理混乱的场面，以及孩子们在餐厅里乱跑带来的责任。\r\n\r\n30\r\n00:03:19,420 --> 00:03:25,020\r\nfor high chairs, cleaning up crazy messes, and the liability of kids running around the\r\n他们决定是时候采取控制措施了。这个决定并非\r\n\r\n31\r\n00:03:25,020 --> 00:03:31,060\r\nrestaurants. They decided that it was time to take control. The decision wasn't made\r\n轻易做出的，但最近发生的一些事件促使他们实施了这项新政策。\r\n\r\n32\r\n00:03:31,060 --> 00:03:36,980\r\nlightly, but some recent events pushed them to implement this new policy. Responding\r\n在帖子下方的评论中，有人说这太离谱了。\r\n\r\n33\r\n00:03:36,980 --> 00:03:42,580\r\nto the post, one person commented that it is messed up beyond another level. Children\r\n孩子们就是孩子们。妈妈们很累，没时间做饭。\r\n\r\n34\r\n00:03:42,580 --> 00:03:48,480\r\nare children. Moms are tired, and don't have time to cook. Not welcoming children\r\n不欢迎10岁以下的孩子是对家庭的彻底侮辱。\r\n\r\n35\r\n00:03:48,480 --> 00:03:54,340\r\non the 10 is a complete slap in the face to families. He felt so disappointed in his\r\n他对这家餐厅感到非常失望。\r\n\r\n36\r\n00:03:54,340 --> 00:03:59,300\r\nestablishment. There are others, however, who showed support for the restaurant's decision.\r\n然而，也有其他人对餐厅的决定表示支持。\r\n\r\n37\r\n00:03:59,900 --> 00:04:03,240\r\nThey said it has the right to implement any rules it wants.\r\n他们说餐厅有权实施任何它想实施的规则。\r\n\r\n38\r\n00:04:04,640 --> 00:04:09,060\r\nQuestions 3 and 4 are based on the news report you have just heard.\r\n问题3和问题4基于你刚才听到的新闻报道。\r\n\r\n39\r\n00:04:10,380 --> 00:04:15,920\r\nQuestion 3. What do we learn from the news report about the restaurant, Netty's House?\r\n问题3。关于Netty's House餐厅，我们从这篇新闻报道中了解到什么？\r\n\r\n40\r\n00:04:30,660 --> 00:04:36,640\r\nQuestion 4. What do supporters say in response to the restaurants new policy?\r\n问题4。支持者对餐厅的新政策作何回应？\r\n\r\n41\r\n00:04:51,500 --> 00:04:59,460\r\nNews Report 3. Security officers were searching a suburb in Australia, where an adult snake\r\n新闻报道3。安全官员正在澳大利亚的一个郊区搜寻一条成年蛇，\r\n\r\n42\r\n00:04:59,460 --> 00:05:06,280\r\nwas believed to be wandering after the discovery of a huge freshly shed snake skin. The\r\n据信，有人发现了一张巨大的、新鲜蜕下的蛇皮后，这条蛇可能正在那里游荡。\r\n\r\n43\r\n00:05:06,280 --> 00:05:11,800\r\nskin was found at a construction site, and the government wrote to residents to warn them.\r\n这张蛇皮是在一个建筑工地上发现的，政府写信给居民警告他们。\r\n\r\n44\r\n00:05:11,800 --> 00:05:16,260\r\nThey were told to observe and if possible photograph the animal.\r\n他们被告知要观察，如果可能的话，给动物拍照。\r\n\r\n45\r\n00:05:16,920 --> 00:05:19,060\r\nIf it was moving, watch where it went.\r\n如果它在移动，注意它去了哪里。\r\n\r\n46\r\n00:05:19,700 --> 00:05:22,940\r\nIt was recommended not to make contact with the animal.\r\n建议不要与动物接触。\r\n\r\n47\r\n00:05:24,300 --> 00:05:28,980\r\nThe type of snake was determined to be one of the world's largest snake species.\r\n经确定，这条蛇是世界上最大的蛇类之一。\r\n\r\n48\r\n00:05:29,860 --> 00:05:33,580\r\nIt is not poisonous, but can still attack and kill its victims.\r\n它没有毒，但仍然可以攻击并杀死受害者。\r\n\r\n49\r\n00:05:34,880 --> 00:05:40,780\r\nThis type of snake is classified as a threat to humans, especially small children, as well\r\n这种蛇被认为是对人类，特别是对小孩和\r\n\r\n50\r\n00:05:40,780 --> 00:05:47,060\r\npets. They may carry viruses that are fatal to native snakes, which do not have resistance.\r\n宠物的一种威胁。它们可能携带对本地蛇来说是致命的病毒，因为本地蛇没有抵抗力。\r\n\r\n51\r\n00:05:48,120 --> 00:05:53,340\r\nIf officers found the snake, they would employ a licensed snake catcher to catch it,\r\n如果官员们找到蛇，他们会请有执照的捕蛇人来抓它，\r\n\r\n52\r\n00:05:53,580 --> 00:05:57,500\r\nand transport it to a specialist animal doctor. The government said,\r\n并把它送到专业的动物医生那里。政府说，\r\n\r\n53\r\n00:05:58,520 --> 00:06:02,600\r\nif caught, the snake would be examined to determine where it came from.\r\n如果抓到蛇，会检查它来自哪里。\r\n\r\n54\r\n00:06:02,880 --> 00:06:06,660\r\nHow long it had been in the area? What it had been eating?\r\n它在这个地区多久了？它吃了什么？\r\n\r\n55\r\n00:06:06,660 --> 00:06:12,800\r\nWhether it was carrying any diseases of concern and whether it had produced babies.\r\n它是否携带任何令人担忧的疾病，以及它是否产下了幼崽。\r\n\r\n56\r\n00:06:14,540 --> 00:06:18,860\r\nQuestions 5-7 are based on the news report you have just heard.\r\n问题 5-7 基于你刚才听到的新闻报道。\r\n\r\n57\r\n00:06:19,580 --> 00:06:24,640\r\nQuestion 5. What does the report say security officers were searching for?\r\n问题 5. 报道说保安人员在寻找什么？\r\n\r\n58\r\n00:06:39,300 --> 00:06:44,460\r\nQuestion 6. Where does the report say the discovery was made?\r\n问题 6. 报道说在哪里发现了这个东西？\r\n\r\n59\r\n00:06:59,059 --> 00:07:05,260\r\nQuestion 7. What did the government say would be done if security officers found\r\n问题 7. 政府说如果保安人员找到\r\n\r\n60\r\n00:07:05,260 --> 00:07:06,720\r\nwhat they were searching for?\r\n他们要找的东西会怎么做？",
+  "conversations_transcript": "1\r\n00:00:01,719 --> 00:00:29,480\r\nSection B, Directions. In this section, you will hear too long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C and D. Then mark the corresponding letter on Answersheet 1 with a single line through the center.\r\n第二部分，说明。\r\n这部分你会听到几段长对话。\r\n每段对话结束后，你会听到四个问题。\r\n对话和问题都只播放一遍。\r\n听完问题后，从A、B、C、D四个选项中选出最佳答案。\r\n然后在答题卡1上用一条线划过中心，标记出相应的字母。\r\n\r\n2\r\n00:00:31,339 --> 00:00:32,239\r\nconversation one.\r\n对话一。\r\n\r\n3\r\n00:00:32,860 --> 00:00:33,560\r\nPoor Hannah.\r\n可怜的汉娜。\r\n\r\n4\r\n00:00:34,260 --> 00:00:35,440\r\nWhy? What happened?\r\n为啥？咋了？\r\n\r\n5\r\n00:00:36,040 --> 00:00:41,140\r\nDidn't you hear? She won a TV competition and became a millionaire overnight.\r\n你没听说吗？她赢了电视比赛，一夜之间成了百万富翁。\r\n\r\n6\r\n00:00:41,800 --> 00:00:44,580\r\nNo way. That's incredible. Are you kidding?\r\n不会吧，太不可思议了，你在开玩笑吗？\r\n\r\n7\r\n00:00:45,100 --> 00:00:51,220\r\nNo, I'm serious. I swear it. She went on a TV show where they quiz on general knowledge.\r\n不，我说真的。我发誓。她去参加了一个电视节目，节目里会问一些常识问题。\r\n\r\n8\r\n00:00:51,660 --> 00:00:53,140\r\nAnd she won first prize.\r\n她得了第一名。\r\n\r\n9\r\n00:00:53,520 --> 00:00:56,940\r\nWow. That's so lucky of her. How much did she win?\r\n哇，她太幸运了，她赢了多少钱？\r\n\r\n10\r\n00:00:56,940 --> 00:01:01,400\r\nI'm not sure of the exact figure, but it's a few million euros.\r\n具体数字我不确定，但大概是几百万欧元。\r\n\r\n11\r\n00:01:01,980 --> 00:01:04,760\r\nMaybe five million euros after tax.\r\n税后大概五百万欧元吧。\r\n\r\n12\r\n00:01:05,360 --> 00:01:06,620\r\nI can't believe it.\r\n真不敢相信。\r\n\r\n13\r\n00:01:06,860 --> 00:01:08,440\r\nYou're really not joking, are you?\r\n你不是在开玩笑吧，真的吗？\r\n\r\n14\r\n00:01:08,760 --> 00:01:10,260\r\nHonestly, look at my face.\r\n说真的，看看我的脸。\r\n\r\n15\r\n00:01:10,600 --> 00:01:12,780\r\nA friend Hannah won a ton of money.\r\n朋友汉娜赢了一大笔钱。\r\n\r\n16\r\n00:01:14,860 --> 00:01:17,200\r\nThen why were you saying poor Hannah?\r\n那你干嘛说可怜的汉娜？\r\n\r\n17\r\n00:01:17,700 --> 00:01:20,900\r\nWell, it turns out that she's spent it all already.\r\n好吧，结果是她已经把钱花光了。\r\n\r\n18\r\n00:01:21,580 --> 00:01:22,800\r\nFive million euros?\r\n五百万欧元？\r\n\r\n19\r\n00:01:23,300 --> 00:01:24,580\r\nHow is that even possible?\r\n这怎么可能？\r\n\r\n20\r\n00:01:24,580 --> 00:01:32,700\r\nShe bought a house for herself and her husband, a house for her parents, and then a house for each of her four brothers and sisters.\r\n她给自己和丈夫买了栋房，给父母买了栋房，然后给她的四个兄弟姐妹每人买了栋房。\r\n\r\n21\r\n00:01:33,660 --> 00:01:37,900\r\nAnd then she bought her husband a ridiculously expensive sports car.\r\n然后她给老公买了辆贵的离谱的跑车。\r\n\r\n22\r\n00:01:39,560 --> 00:01:40,460\r\nAre they all happy?\r\n他们都开心吗？\r\n\r\n23\r\n00:01:40,980 --> 00:01:42,580\r\nBecause that's what matters, isn't it?\r\n因为这才是重要的，不是吗？\r\n\r\n24\r\n00:01:43,040 --> 00:01:45,280\r\nI know for a fact, Hannah isn't.\r\n我确信，汉娜不是。\r\n\r\n25\r\n00:01:45,580 --> 00:01:49,760\r\nYou see, she was planning to quit the job she hates and retire early.\r\n你看，她计划辞掉她讨厌的工作，提前退休。\r\n\r\n26\r\n00:01:50,360 --> 00:01:52,700\r\nBut now that she ran out of money, she can't.\r\n但现在她没钱了，她不行了。\r\n\r\n27\r\n00:01:53,440 --> 00:01:59,660\r\nBasically, she miscalculated how fast she was burning through the money, and she's now full\r\n基本上，她没算准花钱的速度，现在已经没钱了。\r\n\r\n28\r\n00:01:59,660 --> 00:02:00,480\r\nof regret.\r\n感到遗憾。\r\n\r\n29\r\n00:02:01,160 --> 00:02:03,260\r\nWhy don't they sell that flashy new car?\r\n他们为什么不卖那辆花哨的新车呢？\r\n\r\n30\r\n00:02:03,760 --> 00:02:07,160\r\nShe wants to, but her husband refuses to get rid of it.\r\n她是想，但她老公不肯扔掉它。\r\n\r\n31\r\n00:02:07,340 --> 00:02:12,040\r\nHe says the car is the best thing that has ever happened to him, and if she sells it,\r\n他说这车是他遇到过最好的事，要是她卖了\r\n\r\n32\r\n00:02:12,140 --> 00:02:13,440\r\nhe will divorce her.\r\n他会和她离婚。\r\n\r\n33\r\n00:02:14,740 --> 00:02:19,200\r\nQuestions 8 to 11 are based on the conversation you have just heard.\r\n第8到11题基于你刚才听到的对话。\r\n\r\n34\r\n00:02:19,920 --> 00:02:20,960\r\nQuestion 8.\r\n问题 8。\r\n\r\n35\r\n00:02:20,960 --> 00:02:24,800\r\nWhy does the woman say she swears it?\r\n这女的为啥说她发誓？\r\n\r\n36\r\n00:02:39,280 --> 00:02:43,500\r\nQuestion 9. What do we learn about Hannah from the conversation?\r\n问题 9. 从对话中我们能了解到汉娜什么？\r\n\r\n37\r\n00:02:58,340 --> 00:03:03,160\r\nQuestion 10. What does the man think really matters to people?\r\n问题 10. 这个男的觉得对人们来说什么才是最重要的？\r\n\r\n38\r\n00:03:17,620 --> 00:03:20,940\r\nQuestion 11. What does Hannah's husband's husband's husband's husband's husband's\r\n问题 11. 汉娜的丈夫的丈夫的丈夫的丈夫的丈夫的\r\n\r\n39\r\n00:03:20,940 --> 00:03:25,460\r\nsay he'll do if she sells the new car.\r\n就说如果她卖掉新车，他就答应。\r\n\r\n40\r\n00:03:40,220 --> 00:03:41,420\r\nConversation 2\r\n对话 2\r\n\r\n41\r\n00:03:41,420 --> 00:03:46,860\r\nIf you have time right now, I think we need to sit down and discuss what exactly we are\r\n如果你现在有空，我觉得我们需要坐下来好好谈谈我们到底在做什么\r\n\r\n42\r\n00:03:46,860 --> 00:03:49,640\r\ngoing to do for Jake's education next year.\r\n明年杰克的教育要怎么办。\r\n\r\n43\r\n00:03:49,640 --> 00:03:54,260\r\nI've been thinking it over, and I'd like to send him to Westwood Elementary.\r\n我一直在考虑，我想送他去西木小学。\r\n\r\n44\r\n00:03:55,340 --> 00:03:56,740\r\nYou mean that boarding school?\r\n你说的是寄宿学校吗？\r\n\r\n45\r\n00:03:57,060 --> 00:04:00,820\r\nI thought we agreed that we would not be sending him away at such a young age.\r\n我以为我们说好了，不会在他这么小的时候把他送走。\r\n\r\n46\r\n00:04:01,120 --> 00:04:06,100\r\nI admit that their academic record is very strong with many outstanding awards for achievements,\r\n我承认他们的学业记录很强，有很多杰出成就奖\r\n\r\n47\r\n00:04:06,460 --> 00:04:11,040\r\nin science and math, but he is just not mature enough to live on his own at this point.\r\n他在科学和数学方面很厉害，但他现在还不够成熟，不能自己生活。\r\n\r\n48\r\n00:04:11,640 --> 00:04:14,320\r\nWhat about enrolling him in Lakeview school?\r\n要不让他去湖景学校报名？\r\n\r\n49\r\n00:04:14,320 --> 00:04:20,339\r\nThey do have a great outdoor campus where he could finally learn all those outdoor sports\r\n他们的确有个很棒的户外校园，他终于可以在那里学到所有户外运动了\r\n\r\n50\r\n00:04:20,339 --> 00:04:22,000\r\nyou have been wanting him to try.\r\n你一直想让他试试。\r\n\r\n51\r\n00:04:22,680 --> 00:04:28,020\r\nWith so much greenery and fresh air, I think his current breeding problems would probably\r\n有这么多绿色植物和新鲜空气，我想他目前的繁殖问题可能会\r\n\r\n52\r\n00:04:28,020 --> 00:04:28,660\r\ndisappear.\r\n消失。\r\n\r\n53\r\n00:04:29,660 --> 00:04:34,820\r\nThey did just open though, so I don't think I feel comfortable having our son in the first\r\n他们确实刚开业，所以我不觉得把我们的儿子送到第一所学校会很舒服\r\n\r\n54\r\n00:04:34,820 --> 00:04:36,800\r\nclass of a brand new school.\r\n一所全新学校的班级。\r\n\r\n55\r\n00:04:37,300 --> 00:04:37,540\r\nYeah.\r\n是啊。\r\n\r\n56\r\n00:04:38,200 --> 00:04:42,980\r\nThe classrooms would probably smell like paint, making the air in the school all stuffy.\r\n教室里可能都是油漆味，让学校里的空气都变得很闷。\r\n\r\n57\r\n00:04:42,980 --> 00:04:48,260\r\nWhat about our local school then? They have a wonderful arts program that would really\r\n那我们当地的学校怎么样？他们有一个很棒的艺术项目，可以真正地\r\n\r\n58\r\n00:04:48,260 --> 00:04:54,140\r\nchallenge Jake in terms of creativity and imagination. Being practically next door, one\r\n在创造力和想象力方面挑战杰克。实际上就在隔壁，我们中的一个\r\n\r\n59\r\n00:04:54,140 --> 00:04:57,600\r\nof us could take into school every day before going to work.\r\n我们每天上班前都可以带他去学校。\r\n\r\n60\r\n00:04:58,220 --> 00:05:03,720\r\nI don't know. They have a reputation of being overly strict with the students. Not to mention\r\n我不知道。他们给人的印象是对学生过于严格。更别提\r\n\r\n61\r\n00:05:03,720 --> 00:05:09,180\r\nthe overwhelming amount of homework they assign, which would lead to a lot of pressure for\r\n他们布置的家庭作业太多了，这会给我们带来很多压力\r\n\r\n62\r\n00:05:09,180 --> 00:05:13,420\r\nand me. What if we sent him to the place near your mother's house?\r\n和我。如果我们把他送到你母亲家附近的地方怎么样？\r\n\r\n63\r\n00:05:14,860 --> 00:05:19,480\r\nQuestions 12 to 15 are based on the conversation you have just heard.\r\n第 12 至 15 题基于您刚才听到的对话。\r\n\r\n64\r\n00:05:20,040 --> 00:05:23,680\r\nQuestion 12. What does the man say about Jake?\r\n问题 12. 这名男子对杰克说了什么？\r\n\r\n65\r\n00:05:38,460 --> 00:05:45,260\r\nQuestion 13. Why does the woman feel uncomfortable about sending Jake to Lakeview school?\r\n问题 13. 这名女子为什么觉得把杰克送到湖景学校不舒服？\r\n\r\n66\r\n00:06:00,120 --> 00:06:04,880\r\nQuestion 14. What does the man say about their local school?\r\n问题 14. 这名男子对他们当地的学校说了什么？\r\n\r\n67\r\n00:06:19,540 --> 00:06:24,240\r\nQuestion 15. What does the woman suggest at the end of the conversation?\r\n问题 15. 这名女子在谈话结束时提出了什么建议？",
+  "passages_transcript": "1\r\n00:00:01,419 --> 00:00:11,040\r\nSection C, directions, in this section you will hear three passages. At the end of each passage, you will hear three or four questions.\r\nC部分，说明，这部分你将听到三段文章。每段文章结束后，你将听到三到四个问题。\r\n\r\n2\r\n00:00:11,860 --> 00:00:24,040\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.\r\n文章和问题都只播放一遍。听完问题后，你必须从A、B、C和D四个选项中选择最佳答案。\r\n\r\n3\r\n00:00:24,040 --> 00:00:29,780\r\nThen mark the corresponding letter on Answer Sheet 1 with a single line through the center.\r\n然后在答题卡1上用一条直线穿过中心来标记相应的字母。\r\n\r\n4\r\n00:00:31,120 --> 00:00:32,040\r\nPassage 1.\r\n文章1。\r\n\r\n5\r\n00:00:33,300 --> 00:00:41,600\r\nAnolitical decision-making is a decision-making approach where a manager makes important business decisions only with solid data.\r\n分析性决策是一种决策方法，在这种方法中，管理者只根据可靠的数据做出重要的商业决策。\r\n\r\n6\r\n00:00:42,280 --> 00:00:50,100\r\nThis style contrasts with more instinctively the ship styles, where managers make many decisions using instinct or opinion.\r\n这种风格与更凭直觉的风格形成对比，在凭直觉的风格中，管理者使用直觉或意见做出许多决策。\r\n\r\n7\r\n00:00:50,100 --> 00:00:56,780\r\nWhile analytical decision-makers benefit from a deliberate, thoughtful approach, this style\r\n虽然分析性决策者受益于深思熟虑的方法，但这种风格\r\n\r\n8\r\n00:00:56,780 --> 00:00:58,420\r\nalso has some shortcomings.\r\n也有一些缺点。\r\n\r\n9\r\n00:00:59,800 --> 00:01:04,239\r\nA key flaw with analytical decision-making is that it takes time.\r\n分析性决策的一个主要缺陷是它需要时间。\r\n\r\n10\r\n00:01:04,879 --> 00:01:09,540\r\nWhile this approach is beneficial when you have the time and the decision is important,\r\n当你有时间和决策很重要时，这种方法是有益的，\r\n\r\n11\r\n00:01:10,300 --> 00:01:12,440\r\nit is problematic when time is crucial.\r\n但当时间至关重要时，它就成了问题。\r\n\r\n12\r\n00:01:13,400 --> 00:01:18,560\r\nAn analytical decision-makers struggle with deadlines and a sense of urgency with decisions.\r\n分析性决策者在截止日期和决策的紧迫感方面存在困难。\r\n\r\n13\r\n00:01:19,360 --> 00:01:25,220\r\nsituations where you need more timely action, decisions based on some information and\r\n在需要更及时行动的情况下，基于一些信息和\r\n\r\n14\r\n00:01:25,220 --> 00:01:32,000\r\ninstinct may work better. The desire to be right is a major driver of analytical decision\r\n直觉的决策可能更好。力求正确是分析性决策的主要驱动力。\r\n\r\n15\r\n00:01:32,000 --> 00:01:38,460\r\nmaking. Leaders who use this style don't want to make mistakes. This commitment's one\r\n使用这种风格的领导者不想犯错误。这种承诺是\r\n\r\n16\r\n00:01:38,460 --> 00:01:44,840\r\nright way of thinking or doing things hinders the manager's flexibility. Inflexibility\r\n正确的思考或做事方式会阻碍管理者的灵活性。不灵活\r\n\r\n17\r\n00:01:44,840 --> 00:01:49,640\r\ncauses you to ignore or avoid listening to the thoughts and ideas of others.\r\n导致你忽略或避免倾听他人的想法和意见。\r\n\r\n18\r\n00:01:50,240 --> 00:01:53,600\r\nYou only want to utilize hard data or facts.\r\n你只想利用硬数据或事实。\r\n\r\n19\r\n00:01:54,760 --> 00:02:00,600\r\nDespite its restrictions, analytical decision-making does have several key strengths, by relying\r\n尽管存在局限性，但分析性决策确实有几个关键优势，通过依赖\r\n\r\n20\r\n00:02:00,600 --> 00:02:04,700\r\non facts and data, you minimize your potential for a wrong decision.\r\n事实和数据，你可以最大限度地减少做出错误决策的可能性。\r\n\r\n21\r\n00:02:05,260 --> 00:02:09,520\r\nYou also get away from the habit of making guesses or following instincts.\r\n你还可以摆脱猜测或追随直觉的习惯。\r\n\r\n22\r\n00:02:09,520 --> 00:02:15,720\r\nData-based technology enables business leaders to look to hard evidence in analyzing\r\n基于数据的技术使商业领袖能够着眼于确凿的证据来分析\r\n\r\n23\r\n00:02:15,720 --> 00:02:20,900\r\ntarget markets and promotional strategies rather than making assumptions or guesses\r\n目标市场和促销策略，而不是对有效的方法进行假设或猜测。\r\n\r\n24\r\n00:02:20,900 --> 00:02:22,280\r\non what works.\r\n第16至18题基于你刚才听到的文章。\r\n\r\n25\r\n00:02:23,540 --> 00:02:27,600\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n第16题。\r\n\r\n26\r\n00:02:28,440 --> 00:02:29,340\r\nQuestion 16.\r\n文章说分析性决策的主要缺陷是什么？\r\n\r\n27\r\n00:02:30,180 --> 00:02:34,620\r\nWhat does the passage say is a major flaw of analytical decision-making?\r\n第17题。当领导者致力于分析性决策时，他们倾向于做什么？\r\n\r\n28\r\n00:02:49,700 --> 00:02:56,360\r\nQuestion 17. What does a leader tend to do when they are committed to analytical decision-making?\r\n第18题。分析性决策的一个关键优势是什么？\r\n\r\n29\r\n00:03:11,320 --> 00:03:17,020\r\nQuestion 18. What is a key strength of analytical decision making?\r\n文章2。活过100岁的秘诀是什么？\r\n\r\n30\r\n00:03:31,680 --> 00:03:36,380\r\nPassage 2. What is the secret to living past 100?\r\n弹钢琴是世界上最长寿的人认为有助于\r\n\r\n31\r\n00:03:36,380 --> 00:03:42,360\r\nPlain the piano is among the things the world's oldest person believes has contributed\r\n她长寿的因素之一。\r\n\r\n32\r\n00:03:42,360 --> 00:03:43,960\r\nto her long life.\r\nBranya Smurera现在115岁零320天。\r\n\r\n33\r\n00:03:45,000 --> 00:03:50,860\r\nBranya Smurera is now 115 years and 320 days old.\r\n这意味着她比任何其他在世的人都活得更久。\r\n\r\n34\r\n00:03:51,440 --> 00:03:55,280\r\nThat means she's been alive longer than any other living individual.\r\nBranya出生于1907年4月4日的美国，但她的家人搬到了西班牙，\r\n\r\n35\r\n00:03:56,300 --> 00:04:04,040\r\nBranya's was born in the United States on April 4, 1907, but her family moved to Spain,\r\n他们最初来自那里，当时她还是个小孩子。\r\n\r\n36\r\n00:04:04,040 --> 00:04:07,520\r\nWhere they were originally from, when she was a young child.\r\n从那以后她一直住在那里。\r\n\r\n37\r\n00:04:08,340 --> 00:04:10,120\r\nShe has lived there ever since.\r\n这位115岁的老人在社交媒体上很活跃，经常分享她生活中的点滴。\r\n\r\n38\r\n00:04:10,960 --> 00:04:17,519\r\nThe 115-year-old is active on social media, regularly sharing aspects of her life.\r\n她还分享了一些她长寿的秘诀。\r\n\r\n39\r\n00:04:18,420 --> 00:04:21,740\r\nShe also shares some of her secrets to living so long.\r\n这些包括从小就开始弹钢琴。\r\n\r\n40\r\n00:04:22,620 --> 00:04:25,340\r\nThese include playing the piano from a young age.\r\n不幸的是，她不得不在七年前108岁时放弃了这项练习。\r\n\r\n41\r\n00:04:26,000 --> 00:04:31,020\r\nUnfortunately, she had to give up the practice seven years ago at 108.\r\n她长寿的其他秘诀是，她在晚年之前一直过着积极的生活方式，\r\n\r\n42\r\n00:04:31,840 --> 00:04:38,520\r\nher other secrets for living a long life, she led an active lifestyle until her later years,\r\n但从未遵循特定的饮食习惯。很多人问我，我遵循什么饮食习惯才能活这么久，\r\n\r\n43\r\n00:04:38,860 --> 00:04:45,360\r\nbut has never followed a specific diet. Many people ask me what diet I follow to live so\r\nBrunnus写道，我总是吃得很少，但什么都吃，而且我从来没有\r\n\r\n44\r\n00:04:45,360 --> 00:04:51,940\r\nmany years, Brunnus wrote, I have always eaten little, but everything, and I have never\r\n遵循任何计划。但她每天都吃酸奶，她说酸奶对身体有无数的\r\n\r\n45\r\n00:04:51,940 --> 00:04:58,520\r\nfollowed any plan. But she does eat yogurt every day, which she said has an infinite number\r\n积极特性。她还说，长寿的秘诀\r\n\r\n46\r\n00:04:58,520 --> 00:05:04,320\r\nof positive properties for the body. She has also said that the secret to a long life\r\n是知道如何选择忘记什么。如果我们记住一切，生活是不可能的\r\n\r\n47\r\n00:05:04,320 --> 00:05:10,400\r\nis knowing how to choose what to forget. Life would be impossible if we remembered everything\r\n她说。\r\n\r\n48\r\n00:05:10,400 --> 00:05:11,820\r\nshe said.\r\n第19至21题基于你刚才听到的文章。\r\n\r\n49\r\n00:05:13,000 --> 00:05:17,880\r\nQuestions 19 to 21 are based on the passage you have just heard.\r\n第19题。我们从Branya's Marera那里了解到什么？\r\n\r\n50\r\n00:05:18,260 --> 00:05:22,140\r\nQuestion 19. What do we learn about Branya's Marera?\r\n\r\n\r\n51\r\n00:05:36,840 --> 00:05:43,560\r\nQuestion 20. What is one of Branya's Moreras secrets to living a long life?\r\n问题20：布兰雅·莫雷拉长寿的秘诀是什么？\r\n\r\n52\r\n00:05:58,580 --> 00:06:06,040\r\nQuestion 21. What does Branya Smurera think also contributes to a long life?\r\n问题21：布兰雅·斯穆雷拉认为什么也有助于长寿？\r\n\r\n53\r\n00:06:21,140 --> 00:06:22,420\r\nPassage 3\r\n段落3\r\n\r\n54\r\n00:06:22,420 --> 00:06:27,580\r\nIt's the first day of school and your teacher tells you to find a seat in the classroom\r\n今天是开学第一天，你的老师让你在教室里找个座位。\r\n\r\n55\r\n00:06:27,580 --> 00:06:33,780\r\nWhere do you sit? Does it matter? Yes, it does matter where you sit in your classroom,\r\n你坐在哪里？这重要吗？是的，在教室里你坐在哪里很重要，\r\n\r\n56\r\n00:06:34,360 --> 00:06:40,000\r\nso choose and choose carefully. Studies report that where you sit in the classroom can\r\n所以要仔细选择。研究表明，你在教室里的座位会\r\n\r\n57\r\n00:06:40,000 --> 00:06:45,200\r\nimpact your ability to learn and the way your teacher perceives you. Guess what else?\r\n影响你的学习能力和老师对你的看法。猜猜还有什么？\r\n\r\n58\r\n00:06:45,600 --> 00:06:52,180\r\nYou're great. Then what is the best seat in the classroom? In one study, students who\r\n你很棒。那么教室里最好的座位是哪里？在一项研究中，学生\r\n\r\n59\r\n00:06:52,180 --> 00:06:57,300\r\nsat in the front and center of the classroom received a higher grade average and scored\r\n坐在教室的前面和中间，他们的平均成绩更高，考试成绩也更高，而那些坐在教室后面的学生则不然。\r\n\r\n60\r\n00:06:57,300 --> 00:07:01,120\r\nhigher on tests, the most sitting towards the back of the classroom.\r\n明白了吗。\r\n\r\n61\r\n00:07:01,960 --> 00:07:02,640\r\nGet this.\r\n坐在教室中间的学生也比坐在后面的学生得分高。\r\n\r\n62\r\n00:07:03,340 --> 00:07:08,800\r\nStudents sitting in the middle of the classroom also outscored students sitting behind them.\r\n这项研究表明，学生们能更清楚地看到黑板，并且能够\r\n\r\n63\r\n00:07:09,320 --> 00:07:13,660\r\nThis study gathered that students had a clearer vision of the Blackboard and were able\r\n更加专注于老师。\r\n\r\n64\r\n00:07:13,660 --> 00:07:15,700\r\nto focus more attention on the instructor.\r\n通过坐在前排和中间，学生们也能听得更清楚。\r\n\r\n65\r\n00:07:16,640 --> 00:07:20,880\r\nBy sitting front and center, students were able to hear better too.\r\n老师说，他们也和坐在前排的学生建立了更好的联系。\r\n\r\n66\r\n00:07:21,440 --> 00:07:26,220\r\nThe instructor said that they also formed a better connection with the students who sat in\r\n但是当你坐在前排时，你可能会被老师更多地提问，主要是因为\r\n\r\n67\r\n00:07:34,379 --> 00:07:39,940\r\nBut when you sit in the front row, you may be called on more by your teacher, mainly due\r\n你更容易被看到。\r\n\r\n68\r\n00:07:39,940 --> 00:07:42,220\r\nto the fact that you are easier to see.\r\n所以对于那些没有准备好的学生和那些非常害羞的学生来说，这种关注\r\n\r\n69\r\n00:07:42,860 --> 00:07:48,320\r\nSo for students who are not prepared and for those who are extremely shy, the attention\r\n可能会导致一些不必要的压力。\r\n\r\n70\r\n00:07:48,320 --> 00:07:50,640\r\ncould cause some unwanted stress.\r\n问题22-25基于你刚才听到的段落。\r\n\r\n71\r\n00:07:51,620 --> 00:07:56,780\r\nQuestions 22-25 are based on the passage you have just heard.\r\n问题22：根据演讲者所说，什么对学生来说非常重要？\r\n\r\n72\r\n00:07:57,500 --> 00:08:02,860\r\nQuestion 22. What is of great importance to students according to the speaker?\r\n问题23：一项研究发现，坐在教室中间的学生怎么样？\r\n\r\n73\r\n00:08:17,660 --> 00:08:24,540\r\nQuestion 23. What did one study find about students seated in the middle of the classroom?\r\n问题24：接触、可见性和更多的互动可能会带来什么？\r\n\r\n74\r\n00:08:39,299 --> 00:08:47,260\r\nQuestion 24. What can I contact, visibility, and more interaction probably bring about?\r\n问题25：我们从坐在教室前排的非常害羞的学生身上学到了什么？\r\n\r\n75\r\n00:09:02,420 --> 00:09:09,920\r\nQuestion 25. What do we learn about extremely shy students sitting in the front row of the classroom?\r\n听力理解到此结束。\r\n\r\n76\r\n00:09:25,120 --> 00:09:27,520\r\nThat's the end of listening comprehension.",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "",
+  "passages_transcript_zh": ""
+}

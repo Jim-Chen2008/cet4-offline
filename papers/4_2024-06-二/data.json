@@ -1,0 +1,694 @@
+{
+  "id": 4,
+  "exam": 4,
+  "exam_details": {
+    "id": 4,
+    "title": "2024年6月四级真题第2套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2024,
+    "month": 6,
+    "version": "二",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-25T16:31:35.155000+08:00",
+    "updated_at": "2025-04-25T21:17:54.075000+08:00",
+    "exam_id": 4,
+    "submission_count": 0,
+    "cet_content_id": 4,
+    "has_draft": true
+  },
+  "created_at": "2025-04-25T16:39:59.754000+08:00",
+  "updated_at": "2026-06-09T22:27:47.016999+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. It hit a bird shortly after takeoff.",
+              "B. Its crew members went on strike.",
+              "C. It narrowly escaped a plane crash when turning around.",
+              "D. Its captain got slightly injured during the forced landing."
+            ],
+            "question": "What do we learn about the JetBlue Airlines flight from the news report?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Panic.",
+              "B. Nervous.",
+              "C. Relieved.",
+              "D. Contented."
+            ],
+            "question": "How did the passengers feel when the plane came to a stop, according to Brian Healy?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. He is now kept in a secure area.",
+              "B. He has escaped the zoo once again.",
+              "C. He has been caught a second time.",
+              "D. He finally disappeared six days ago."
+            ],
+            "question": "What do we learn about the deadly snake from the news report?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. Squeezed.",
+              "B. Threatened.",
+              "C. Disappointed.",
+              "D. Frustrated."
+            ],
+            "question": "How have the zoo staff been feeling about the snake?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. It is condemned as a crazy idea.",
+              "B. It is enriching the city's night life.",
+              "C. It is questioned by local residents.",
+              "D. It is giving rise to safety concerns."
+            ],
+            "question": "What do we learn about the electric bikes from the news report?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. Avoid entering one-way streets",
+              "B. Ensure the safety of pedestrians.",
+              "C. Follow all the traffic rules drivers do.",
+              "D. Give way to automobiles at all times."
+            ],
+            "question": "What are electric bike riders supposed to do?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. To ease the city's busy traffic.",
+              "B. To bring new life into the city.",
+              "C. To add a new means of transport.",
+              "D. To reduce the city's air pollution."
+            ],
+            "question": "Why did City Council member and a cumber advocate the introduction of electric bikes in Sir Jacksonville."
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. Take it seriously.",
+              "B. Discuss it regularly.",
+              "C. Make it sound scary.",
+              "D. Talk about it openly."
+            ],
+            "question": "What should we do with the topic of money, according to the woman?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. By shopping around for the best deals.",
+              "B. By making abstract sums relevant.",
+              "C. By citing concrete examples.",
+              "D. By visiting discount stores."
+            ],
+            "question": "How does the woman say money can be made real for children?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. Paying their kids to help with housework.",
+              "B. Setting kids a good example by sharing chores.",
+              "C. Giving kids pocket money according to their needs.",
+              "D. Urging kids to deposit some of their gift money."
+            ],
+            "question": "What is the common practice between the man and the woman?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. The importance of cutting down family expenses.",
+              "B. The need to learn important lessons from her elders.",
+              "C. The delight in seeing their savings grow.",
+              "D. The necessity of saving into a pension."
+            ],
+            "question": "What is the woman always talking about to her elder daughter?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. He is a successful businessman.",
+              "B. He reviews books on political affairs.",
+              "C. He has published a new bestseller.",
+              "D. He has worked in several banks."
+            ],
+            "question": "What do we learn about the man?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. The man's ideas about education.",
+              "B. The man's academic background.",
+              "C. The man's attempts at drawing public attention.",
+              "D. The man's proposals to solve economic problems."
+            ],
+            "question": "What does the woman say is the most controversial?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. To reduce students' financial burden.",
+              "B. To motivate all students to be successful.",
+              "C. To give students incentive to excel in economics.",
+              "D. To provide remedies for students' poor performance."
+            ],
+            "question": "What does the man say is his real goal?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. Improving school budgeting.",
+              "B. Increasing tuition fees.",
+              "C. Seeking donations.",
+              "D. Raising taxes."
+            ],
+            "question": "What will be one option for funding that proposed rewards according to the man?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. To show his sympathy towards people always being busy.",
+              "B. To prevent people from complaining about being \"busy\".",
+              "C. To call on busy people to take care of themselves.",
+              "D. To help busy people to sort out their priorities."
+            ],
+            "question": "What is the speaker launching a campaign to do?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. Avoid saying we are busy.",
+              "B. Reflect on their true purpose.",
+              "C. Describe our schedule in detail.",
+              "D. Respond as most busy people do."
+            ],
+            "question": "What does the speaker advise us to do? Next time someone asks us how we are."
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. To show their achievements resulted from great efforts.",
+              "B. To prove they stand out as accomplished professionals.",
+              "C. To cover up their failure to achieve some purpose.",
+              "D. To tell others a complete lie about their inability."
+            ],
+            "question": "Why do many people make the I'm busy response? According to the speaker."
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. They will help one reduce fear.",
+              "B. They should become so popular.",
+              "C. They will be less challenging after a time.",
+              "D. They should cover so many different types"
+            ],
+            "question": "What does the passage say is one thing extreme sports do better than perhaps anything else?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. To break one's ultimate limits.",
+              "B. To stop being extremely afraid.",
+              "C. To avoid dangerous mistakes.",
+              "D. To enjoy the sports to the full."
+            ],
+            "question": "Why should one be highly focused when doing extreme sports?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. By allowing our motivation to be at an all-time high.",
+              "B. By stopping us hurting the same muscles repeatedly.",
+              "C. By burning as many as 300 calories per hour.",
+              "D. By enabling us to get an all-over workout."
+            ],
+            "question": "How can extreme sports benefit us more than standard exercise routines and sports."
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. It is natural.",
+              "B. It is instrumental.",
+              "C. It is personal",
+              "D. It is vital."
+            ],
+            "question": "What does the passage say about conflict in organizations?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. To guard against being perceived negatively.",
+              "B. To prevent themselves from being isolated.",
+              "C. To conceal personality preferences.",
+              "D. To maintain workplace harmony."
+            ],
+            "question": "Why do some people want to avoid conflict at all costs?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. It helps to enhance team spirit.",
+              "B. It stimulates innovative ideas.",
+              "C. It helps to resolve problems.",
+              "D. It facilitates policy-making."
+            ],
+            "question": "Why is productive conflict important for teams and organizations?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. An innovative mind.",
+              "B. Corporate culture.",
+              "C. Mutual trust.",
+              "D. A healthy mentality."
+            ],
+            "question": "What does productive conflict need as a basis?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "A team of researchers led by Priyanka Joshi examined the degree to which men and women relied on “communicative abstraction” to verbally convey their ideas and emotions. Communicative abstraction, according to the researchers, reflects the tendency of people to use “abstract speech that focuses on the broader picture and __26__ purpose of action rather than concrete speech focusing on details and the means of __27__ action.” Interestingly, they found that men were far more likely to speak in the abstract than were women.  \nTo arrive at this __28__, the researchers examined the linguistic (语言的) patterns of men and women in over 600,000 blog posts written on websites. To do this, the researchers computed abstractness ratings for __29__ 40,000 commonly used words in the English language. Words considered to be concrete could be easily visualized such as “table” or “chair”. Words that were more __30__ to visualize, for example, “justice” or “morality” were considered to be more abstract. They found that men used __31__ more abstract language in their blog posts.  \nWhat is the __32__ of this effect? The researchers suggest that power differences between the genders — that is, men having more power in society — might be a key determinant (决定因素) .For instance, in a follow-up study conducted with a sample of 300 students, the researchers __33__ power dynamics in an interpersonal setting to see if this would influence communicative abstraction. They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power interviewee role. This suggests that communicating more abstractly does not reflect a __34__ tendency of men or women but rather __35__ within specific contexts.  ",
+        "word_bank": [
+          "approximately",
+          "attaining",
+          "conclusion",
+          "difficult",
+          "emerges",
+          "fixed",
+          "ignored",
+          "legally",
+          "manipulated",
+          "recommended",
+          "refraining",
+          "signals",
+          "significantly",
+          "source",
+          "ultimate"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Our brains are genetically determined to satisfy immediate desires."
+          },
+          {
+            "id": 37,
+            "content": "Taken in a practical way, saving for post-work years is like giving money away to others."
+          },
+          {
+            "id": 38,
+            "content": "Research found that, as regards achievement of one’s goals, it is important to focus more on enjoying the process than the long-term benefits."
+          },
+          {
+            "id": 39,
+            "content": "Regarding our future selves as still being ourselves will help us make better long-term decisions."
+          },
+          {
+            "id": 40,
+            "content": "Savings rates in America have dropped in recent decades even though people’s life expectancy has increased."
+          },
+          {
+            "id": 41,
+            "content": "Researchers found that enjoyment rather than importance enabled people to persist in their goals."
+          },
+          {
+            "id": 42,
+            "content": "When making decisions, we give priority to our current frame of mind without thinking much of the consequences."
+          },
+          {
+            "id": 43,
+            "content": "People ate more of a healthy food when they focused on its good taste instead of its long-term benefits."
+          },
+          {
+            "id": 44,
+            "content": "As was expected, when people thought of their present selves, their brains were observed to become more active."
+          },
+          {
+            "id": 45,
+            "content": "Researchers found that participants who saw the images of their aged selves would save more for their later years than those who didn't."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Hal Hershfield, a psychologist at the UCLA Anderson School of Management, wanted to know why people weren't saving for retirement. Across the board, people are living longer. Logically, they'll need more money to live comfortably in their post-work years. And yet, savings rates in the U.S. have gone down in recent decades, not up."
+          },
+          {
+            "id": "B",
+            "content": "To help explain this seemingly irrational behavior, Hershfield and his team scanned the brains of study participants while asking them to what degree various traits (特征) — like “honorable” or “funny” — applied to their current self, their future self, a current other, or a future other. As participants answered, Hershfield's team recorded which parts of their brains lit up. Unsurprisingly, people’s brains were most active when thinking about their current selves and least active when thinking about a current other. But the team found that participants' brain activity while considering their future selves more closely resembled their brain activity while thinking about a current other rather than the current self."
+          },
+          {
+            "id": "C",
+            "content": "Put in practical terms, when thinking of yourself in a month or a year or a decade, your brain registers that person in ways similar to how it would register Taylor Swift or the mailman. Understood in that way, saving for retirement is the equivalent of giving money away to someone else entirely."
+          },
+          {
+            "id": "D",
+            "content": "In light of Hershfield’s study, one simple question arises: Is it possible to make our present selves give a damn about our future selves? The answers are anything but simple."
+          },
+          {
+            "id": "E",
+            "content": "Seen through the lens of the present self versus the future self. our self-defeating actions — like choosing to watch television rather than go to the gym — suddenly make perfect sense. We get to enjoy the very concrete, immediate benefits of our actions while someone else (namely: our future selves) suffers the hypothetical (假设的) far-off consequences. As a result, the decisions we make for our present selves often look very different from our decisions for our future selves. We believe that tomorrow will be different. We believe that we will be different tomorrow, but in doing so, we prioritize our current mood over the consequences of our inaction for the future self."
+          },
+          {
+            "id": "F",
+            "content": "Understanding our procrastination (拖延) through the lens of the present and future selves, we're left with three possible solutions: The first is to force your future self to do whatever your present self doesn't want to do. The second is to convince your present self that your future self is, in fact, still you. If the central problem is that we think of our future selves as other people, it follows that trying to identify more closely with our future selves will encourage us to make better long-term decisions."
+          },
+          {
+            "id": "G",
+            "content": "In a follow-up study, Hershfield wanted to explore ways to bridge the disconnect between the present and future selves and encourage people to save more for retirement. He and his team took photos of study participants, and then used image processing to visually age their faces. Participants were then placed in a virtual reality setting where they could look into a mirror and see their aged selves looking back at them. Participants who saw their aged selves said they would save 30% more of their salary for retirement than the control group."
+          },
+          {
+            "id": "H",
+            "content": "Whatever your long-term goals may be—getting in better shape, launching your own business, writing a book — thinking about your deadline in terms of days rather than months or years can help you wrap your mind around how close the future really is."
+          },
+          {
+            "id": "I",
+            "content": "The third solution is to forget about your future self and use your present self’s love of instant gratification (满足感) to your advantage. While the two tactics (手段) above can be effective in making better long-term choices, in the end, you're still struggling against human nature. Our brains are hardwired for instant gratification. Instead of fighting your present self’s need for immediate rewards, why not use it to your advantage? When most of us set goals, we focus on long-term results We want to see — e.g. losing weight, getting a promotion, retiring in comfort, etc. While those visions of our future selves can be inspiring, when it comes to actually doing the day-to-day work, it may be more effective to reframe activities in terms of their immediate, or at least very near-term rewards."
+          },
+          {
+            "id": "J",
+            "content": "Take writing this article, for instance. It’s easy for me to imagine how amazing it will feel at the end of the workday to have this article done. This isn't just my opinion. Research partners Kaitlin Woolley of Cornell University and Ayelet Fishbach of the University of Chicago have made a career out of studying the differences between the goals that people achieve and the ones that fall to the wayside."
+          },
+          {
+            "id": "K",
+            "content": "“In one study, we asked people online about the goals they set at the beginning of the year. Most people set goals to achieve delayed, long-term benefits, such as career advancement, debt repayment, or improved health. We asked these individuals how enjoyable it was to pursue their goal, as well as how important their goal was. We also asked whether they were still working on their goals two months after setting them. We found that enjoyment predicted people’s goal persistence two months after setting the goal far more than how important they rated their goal to be.” Woolley said."
+          },
+          {
+            "id": "L",
+            "content": "This pattern held true across a wide variety of goals from exercising to studying to eating healthier foods. For example, people ate 50% more of a healthy food when directed to focus on the good taste rather than the long-term health benefits. Other studies have shown a greater uptake of exercise in people who were told to think of the enjoyment of doing the exercise now rather than future health gains."
+          },
+          {
+            "id": "M",
+            "content": "These findings suggest that when it comes to achieving your goals, enjoying the process itself is more important than wanting the long-term benefits. In other words, present self trumps (战胜) future self. Who says instant gratification has to be a bad thing? By all means, set ambitious long-term goals for your future self, but when it comes to actually following through day-to-day, make sure your present self knows what's in it for her too."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "People often wonder why some entrepreneurs have greater success than others. Is it habits, connections, luck, work ethic or any other behavior? I believe the key to success is willpower. Willpower is the ability to control yourself. It is a strong determination that allows you to do something difficult. It is a behavior we are born with more than one we learn. However, it is possible to not only learn it, but also strengthen it with constant exercise.  \nWillpower is just like a muscle, to keep it strong you need to constantly exercise it. People with a great amount of willpower have the discipline to develop positive, successful habits. Even with an incredible amount of talent, without the discipline and motivation to create positive habits, it can be difficult to achieve success.  \nWillpower and habits go hand in hand. It is critical to create good habits and take the actions necessary to stick to those habits day in and day out for greater success. Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis.  \nThe best way to create and stick to a habit is to have strong motivation. It's easier to change your habits to lose weight if you have a health issue and you want to be around longer for your kids, or if your business is something you're passionate about. Having a valuable outcome associated with a habit will help you stick to that habit permanently.  \nThe art of self-control is one that most successful individuals have mastered. Self-control enables you to avoid behaviors that don't contribute to your success and adopt those that do.  \nBecause there is a delayed satisfaction associated with self-control, it can be easy to get off track. However, if you work on sticking to those small positive habits one day at a time, it becomes easier to stay strong and achieve that delayed reward. Once a reward is achieved, it is much easier to continue sticking to your habits.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A.Keep it under control.",
+                  "B.Apply it continuously.",
+                  "C.Learn from entrepreneurs.",
+                  "D.Aim at success determinedly."
+                ],
+                "question": "What does the author say we need to do to strengthen our willpower?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A.Out of habit.",
+                  "B.With determination.",
+                  "C.Like muscle building.",
+                  "D.By self-discipline"
+                ],
+                "question": "How are almost half of our daily actions performed according to the passage?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A.Practising it on a day-to-day basis.",
+                  "B.Associating it with improving health.",
+                  "C.Possessing a reasonable amount of talent",
+                  "D.Foreseeing the desired outcome it will yield."
+                ],
+                "question": "What will help people stick to doing something constructive automatically?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A.By allowing us to remain clear-headed permanently.",
+                  "B.By enabling us to alter our behaviors constantly.",
+                  "C.By enabling us to take positive actions",
+                  "D.By allowing us to avoid taking risks."
+                ],
+                "question": "How does the art of self-control help us succeed?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A.Most of us are not in the habit of exercising self-control.",
+                  "B.We may not get immediate rewards from self-control.",
+                  "C.Self-control tends to be associated with pains.",
+                  "D.Self-control only brings about small benefits."
+                ],
+                "question": "Why can it be difficult for us to maintain self-control?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Today, most scientific research is funded by government grants, companies doing research and development and non-profit foundations. As a society, we reap the rewards from this science but we also help pay for it. You indirectly support science through taxes you pay, products and services you purchase, and donations you make.  \nFunding for science has changed with the times. Historically, science has been largely supported through private patronage (资助), church sponsorship or simply paying for the research yourself. Today, researchers are likely to be funded by a mix of grants from various government agencies, institutions, and foundations. Other research is funded by private companies. Such corporate sponsorship is widespread in some fields. Almost 75% of U.S. clinical trials in medicine are paid for by private companies. And, of course, some researchers today still fund small-scale studies out of their own pockets. Most of us can’t afford to do nuclear research as a private hobby, but bird watchers, rock collectors, and others can do real research on a limited budget.  \nIn a perfect world, money wouldn’t matter — all scientific studies would be completely objective. But in the real world, funding may introduce biases. Drug research sponsored by the pharmaceutical (制药的) industry is more likely to end up favoring the drug under consideration than studies sponsored by government grants or charitable organizations. Similarly, nutrition research sponsored by the food industry is more likely to end up favoring the food under consideration than independently funded research.  \nSo what should we make of all this? Should we ignore any research funded by companies or special interest groups? Certainly not. These groups provide invaluable funding for scientific research. Furthermore, science has many safeguards in place to catch instances of bias that affect research outcomes. Ultimately, misleading results will be corrected as science proceeds, however, this process takes time. Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. Are the results consistent with other independently funded studies? What do other scientists have to say about this research? A little examination can go a long way towards identifying bias associated with the funding source.  ",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A.Its foundation.",
+                  "B.Its rewards.",
+                  "C.Its prospect.",
+                  "D.Its funding."
+                ],
+                "question": "What does the passage mainly discuss regarding scientific research?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A.They have little access to government funding.",
+                  "B.They can do research with limited resources.",
+                  "C.They can do amateur work in their own fields",
+                  "D.They have no means for large-scale research."
+                ],
+                "question": "What do we learn from the passage about researchers like birdwatchers and rock collectors?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A.They would be totally unbiased.",
+                  "B.They would be independently funded.",
+                  "C.They would be responsibly conducted.",
+                  "D.They would be strictly supervised."
+                ],
+                "question": "What would scientific studies look like in a perfect world according to the author?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A.They try hard to pull down the safeguards for research.",
+                  "B.They make extra efforts to research their own products.",
+                  "C.They provide valuable resources for scientific research.",
+                  "D.They reap the most benefits from scientific research"
+                ],
+                "question": "What does the author say about companies and special interest groups?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A.Its recommendations should be examined for feasibility.",
+                  "B.Its misleading results should be corrected in time.",
+                  "C.Its validity should be checked with additional care.",
+                  "D.Its hidden biases should be identified independently"
+                ],
+                "question": "What does the author think of research funded by industry or special interest groups?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose your university is seeking students' opinions on whether university sports facilities should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "农历(the lunar calendar)起源于数千年前的中国,根据太阳和月亮的运行规律制定。长期以来,农历在农业生产和人们日常生活中发挥着重要作用。古人依据农历记录日期、安排农活,以便最有效地利用自然资源和气候条件,提高农作物的产量和质量。中国的春节、中秋节等传统节日的日期都基于农历。农历是中国传统文化的重要组成部分,当今依然广为使用。",
+    "directions": "Directions: For this part you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_1_Ok1qmwO.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "1\r\n00:00:00,000 --> 00:00:11,980\r\nCollege English Test Band 4, Part 2, Listening Comprehension, Section A, Directions. In this section, you will hear\r\n大学英语四级考试，第二部分，听力理解，A节，说明。在这一部分，你将听到\r\n\r\n2\r\n00:00:11,980 --> 00:00:18,660\r\nthree news reports. At the end of each news report, you will hear two or three questions, both\r\n三篇新闻报道。在每篇新闻报道结束后，你将听到两到三个问题，\r\n\r\n3\r\n00:00:18,660 --> 00:00:25,160\r\nthe news reports and the questions will be spoken only once. After you hear a question, you must\r\n新闻报道和问题都只朗读一遍。在听到问题后，你必须\r\n\r\n4\r\n00:00:25,160 --> 00:00:32,700\r\nchoose the best answer from the four choices, mark A, B, C and D. Then mark the corresponding\r\n从标有A、B、C和D的四个选项中选出最佳答案。然后在答题卡1上\r\n\r\n5\r\n00:00:32,700 --> 00:00:37,020\r\nletter on Ansysheet 1 with a single line through the center.\r\n在相应的字母中心划一条横线。\r\n\r\n6\r\n00:00:38,480 --> 00:00:47,180\r\nNews report 1. A JetBlue Airlines flight from West Palm Beach to New York City was forced\r\n新闻报道1。捷蓝航空一架从西棕榈滩飞往纽约市的航班被迫\r\n\r\n7\r\n00:00:47,180 --> 00:00:54,080\r\nto turn around and land Sunday morning after the plane struck a bird. The flight from Palm\r\n在周日上午掉头降落，原因是飞机撞到了一只鸟。这架从棕榈滩\r\n\r\n8\r\n00:00:54,080 --> 00:01:00,620\r\neach international airport to LaGuardia airport turned around just minutes after takeoff\r\n国际机场飞往拉瓜迪亚机场的航班，在起飞后仅仅几分钟就发生了撞击\r\n\r\n9\r\n00:01:00,620 --> 00:01:07,720\r\nfollowing the strike. No injuries were reported on the plane, and the flight took off once again\r\n并掉头。飞机上没有人员受伤的报告，该航班在首次尝试起飞的\r\n\r\n10\r\n00:01:07,720 --> 00:01:15,760\r\nseven and a half hours after the first attempt. It was like a split second of panic that resulted\r\n七个半小时后再次起飞。“那就像是一瞬间的恐慌，导致了\r\n\r\n11\r\n00:01:15,760 --> 00:01:22,900\r\nin this nervous reaction on the plane, said passenger Brian Healy. There was total quiet,\r\n飞机上的这种紧张反应，”乘客布莱恩·希利说。当时一片死寂，\r\n\r\n12\r\n00:01:22,900 --> 00:01:27,000\r\nAnd then there was relief when the plane came to a stop.\r\n然后当飞机停下来时，大家都松了一口气。\r\n\r\n13\r\n00:01:28,240 --> 00:01:35,340\r\nAn email from JetBlue Red, our team is working to accommodate customers on later flights.\r\n捷蓝航空的一封电子邮件写道：“我们的团队正在努力为乘客安排后续航班。”\r\n\r\n14\r\n00:01:37,060 --> 00:01:42,500\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n问题1和问题2是基于你刚刚听到的新闻报道。\r\n\r\n15\r\n00:01:43,800 --> 00:01:44,940\r\nQuestion 1.\r\n问题1。\r\n\r\n16\r\n00:01:45,780 --> 00:01:50,300\r\nWhat do we learn about the JetBlue Airlines flight from the news report?\r\n从这篇新闻报道中，我们了解到了关于这架捷蓝航空航班的什么信息？\r\n\r\n17\r\n00:02:06,020 --> 00:02:12,540\r\nQuestion 2. How did the passengers feel when the plane came to a stop according to Brian\r\n问题2。根据布莱恩·希利的说法，当飞机停下来时乘客们感觉如何？\r\n\r\n18\r\n00:02:12,540 --> 00:02:12,980\r\nHealy?\r\n（接上句）\r\n\r\n19\r\n00:02:27,980 --> 00:02:35,460\r\nNews reports too. A deadly snake which had finally been tracked down after escaping a zoo\r\n新闻报道2。一条在逃出动物园后终于被找到的致命毒蛇\r\n\r\n20\r\n00:02:35,460 --> 00:02:42,380\r\nhas slipped away for the second time. The poisonous snake forced the closure of the attraction\r\n第二次溜走了。上周，当工作人员注意到它失踪时，这条毒蛇迫使该景点\r\n\r\n21\r\n00:02:42,380 --> 00:02:49,600\r\nlast week when staff noticed the disappearance. After six days of desperate searching, he\r\n关闭。经过六天的绝望搜寻，它\r\n\r\n22\r\n00:02:49,600 --> 00:02:56,960\r\nwas eventually found and placed in a supposedly secure area. But it seems the animal is\r\n最终被找到并安置在一个据称是安全的区域。但似乎这只动物\r\n\r\n23\r\n00:02:56,960 --> 00:03:03,460\r\nno fan of the zoo because yet again he is out on the loose. The snake is a relative\r\n并不喜欢动物园，因为它又一次逃跑了。这条蛇\r\n\r\n24\r\n00:03:03,460 --> 00:03:08,020\r\nnewcomer to the zoo, but has already been frustrating its stuff.\r\n是动物园的新成员，但已经让工作人员感到头疼。\r\n\r\n25\r\n00:03:09,220 --> 00:03:15,280\r\nThe staff believe he squeezed himself out of a gap located around new energy saving bulbs\r\n工作人员认为它是从蛇馆内新安装的节能灯泡周围的\r\n\r\n26\r\n00:03:15,280 --> 00:03:22,900\r\ninstalled inside the snake house. He was only found the first time around because staff brought in\r\n缝隙中挤出去的。它第一次被找到只是因为工作人员拿来了\r\n\r\n27\r\n00:03:22,900 --> 00:03:30,240\r\na special machine to trace him inside a wall opening. This kind of snake is one of the most deadly\r\n一种特殊的机器在墙洞里追踪它。这种蛇是野外最致命、\r\n\r\n28\r\n00:03:30,240 --> 00:03:36,120\r\nand poisonous in the wild and they can range from three to five meters in length.\r\n最毒的蛇之一，它们的长度从三到五米不等。\r\n\r\n29\r\n00:03:37,280 --> 00:03:41,980\r\nQuestions three and four are based on the news report you have just heard.\r\n问题3和问题4是基于你刚刚听到的新闻报道。\r\n\r\n30\r\n00:03:43,019 --> 00:03:48,380\r\nQuestion 3. What do we learn about the deadly snake from the news report?\r\n问题3。从这篇新闻报道中，我们了解到了关于这条致命毒蛇的什么信息？\r\n\r\n31\r\n00:04:03,180 --> 00:04:08,360\r\nQuestion 4. How have the zoo staff been feeling about the snake?\r\n问题4。动物园的工作人员对这条蛇有什么感觉？\r\n\r\n32\r\n00:04:23,620 --> 00:04:25,880\r\nNews Report 3\r\n新闻报道3。\r\n\r\n33\r\n00:04:25,880 --> 00:04:32,380\r\nElectric bikes have been the craze in downtown Jacksonville since they were first introduced\r\n自本月早些时候作为为期一年的试点项目首次推出以来，电动自行车在杰克逊维尔市中心\r\n\r\n34\r\n00:04:32,380 --> 00:04:38,900\r\nearlier this month as a one-year pilot program. But they're leading to safety concerns,\r\n掀起了一股热潮。但它们也引发了安全担忧，\r\n\r\n35\r\n00:04:39,500 --> 00:04:46,440\r\nmainly at night when some riders don't follow the rules of the road. As the night goes on,\r\n主要是在夜间，一些骑手不遵守交通规则。随着夜幕降临，\r\n\r\n36\r\n00:04:46,440 --> 00:04:51,420\r\nGroups of writers are often seen traveling in just about every direction in the streets\r\n经常可以看到成群的骑手在街道和\r\n\r\n37\r\n00:04:51,420 --> 00:04:53,780\r\nand on pedestrian paths.\r\n人行道上几乎朝各个方向骑行。\r\n\r\n38\r\n00:04:54,700 --> 00:04:57,780\r\nThat is increasing the probability of dangerous accidents.\r\n这增加了发生危险事故的几率。\r\n\r\n39\r\n00:04:59,260 --> 00:05:04,580\r\nElectric bike riders have to follow all the same rules as you would if you were in an automobile.\r\n电动自行车骑手必须遵守与驾驶汽车时完全相同的交通规则。\r\n\r\n40\r\n00:05:05,580 --> 00:05:11,360\r\nThat means no running red lights or traveling in the opposite direction of traffic on one way\r\n这意味着不能闯红灯，也不能在单行道上\r\n\r\n41\r\n00:05:11,360 --> 00:05:12,000\r\nstreets.\r\n逆行。\r\n\r\n42\r\n00:05:12,000 --> 00:05:19,460\r\nCity Council member Anna Comber was instrumental in introducing the electric bikes to Jacksonville\r\n市议会议员安娜·康伯在将电动自行车引入杰克逊维尔市的过程中发挥了重要作用，\r\n\r\n43\r\n00:05:19,460 --> 00:05:22,460\r\nas a way to bring new life into downtown.\r\n以此作为给市中心带来新活力的一种方式。\r\n\r\n44\r\n00:05:23,080 --> 00:05:24,580\r\nAnd she's aware of the concerns.\r\n她也意识到了这些担忧。\r\n\r\n45\r\n00:05:25,920 --> 00:05:31,940\r\nComber said people can have fun, but both drivers and riders are responsible for paying attention\r\n康伯说，人们可以享受乐趣，但司机和骑手都有责任在路上\r\n\r\n46\r\n00:05:31,940 --> 00:05:33,000\r\nwhile on the road.\r\n保持注意力集中。\r\n\r\n47\r\n00:05:33,780 --> 00:05:37,460\r\nAnd never assume the driver is going to stop or see you.\r\n永远不要想当然地认为司机会停下来或者能看到你。\r\n\r\n48\r\n00:05:37,460 --> 00:05:43,640\r\nQuestions 5-7 are based on the news report you have just heard.\r\n问题5到7是基于你刚刚听到的新闻报道。\r\n\r\n49\r\n00:05:44,560 --> 00:05:45,320\r\nQuestion 5.\r\n问题5。\r\n\r\n50\r\n00:05:46,300 --> 00:05:51,840\r\nWhat do we learn from the news report about the introduction of electric bikes into Jacksonville?\r\n关于将电动自行车引入杰克逊维尔市，我们从新闻报道中了解到了什么？\r\n\r\n51\r\n00:06:06,659 --> 00:06:12,140\r\nQuestion 6. What's our electric bike riders supposed to do?\r\n问题6。电动自行车骑手应该怎么做？\r\n\r\n52\r\n00:06:26,760 --> 00:06:33,640\r\nQuestion 7. Why did City Council member and a comber advocate the introduction of electric\r\n问题7。为什么市议会议员安娜·康伯提倡引入\r\n\r\n53\r\n00:06:33,640 --> 00:06:35,340\r\nbikes in Jacksonville?\r\n电动自行车到杰克逊维尔市？",
+  "conversations_transcript": "1\r\n00:00:02,380 --> 00:00:13,280\r\nSection B, directions. In this section you will hear two long conversations. At the end of each conversation, you will hear four questions.\r\nB部分，说明。在这一部分，你将听到两段长对话。在每段对话结束时，你将听到四个问题。\r\n\r\n2\r\n00:00:14,480 --> 00:00:18,860\r\nBoth the conversation and the questions will be spoken only once.\r\n对话和问题都只读一遍。\r\n\r\n3\r\n00:00:19,620 --> 00:00:25,700\r\nAfter you hear a question, you must choose the best answer from the four choices marked\r\n听到问题后，你必须从四个标有\r\n\r\n4\r\n00:00:25,700 --> 00:00:33,560\r\nA, B, C, and D. Then mark the corresponding letter on answer sheet 1 with a single line\r\nA、B、C和D的选项中选出最佳答案。然后在答题卡1上将相应的字母用一条直线\r\n\r\n5\r\n00:00:33,560 --> 00:00:37,560\r\nthrough the center. Conversation 1\r\n划过中心。对话1\r\n\r\n6\r\n00:00:38,319 --> 00:00:48,140\r\nWhat's the best way to teach children how to save and spend their money? You should make\r\n教孩子如何储蓄和花钱的最好方法是什么？你应该\r\n\r\n7\r\n00:00:48,140 --> 00:00:52,540\r\nyoung, so it's instinctive rather than a scary subject.\r\n从小开始，这样它就会成为一种本能，而不是一个可怕的话题。\r\n\r\n8\r\n00:00:53,540 --> 00:00:59,000\r\nIn our family, we talk openly about things like the budget for holidays, how taxes reduce\r\n在我们家，我们会公开讨论一些事情，比如假期的预算，税收如何减少\r\n\r\n9\r\n00:00:59,000 --> 00:01:02,260\r\nyour income, and how to shop around for the best deals.\r\n你的收入，以及如何货比三家买到最划算的东西。\r\n\r\n10\r\n00:01:02,620 --> 00:01:08,660\r\nIndeed, it's also essential to make money real for children through practical examples.\r\n确实，通过实际的例子让钱对孩子们来说变得真实也是必不可少的。\r\n\r\n11\r\n00:01:09,640 --> 00:01:15,640\r\nWorking out how much we save using discount pizza coupons, for example, is much more relevant\r\n例如，计算出我们使用披萨折扣券省了多少钱，比\r\n\r\n12\r\n00:01:15,640 --> 00:01:17,240\r\nand then abstract sums.\r\n抽象的数字金额要贴切得多。\r\n\r\n13\r\n00:01:18,220 --> 00:01:23,120\r\nWe also give our kids pocket money, and the amount they get is linked to chores such as\r\n我们也会给孩子们零花钱，他们得到的金额与家务活挂钩，比如\r\n\r\n14\r\n00:01:23,120 --> 00:01:25,560\r\nputting the bins out, and emptying the dishwasher.\r\n倒垃圾和清空洗碗机。\r\n\r\n15\r\n00:01:26,140 --> 00:01:29,220\r\nWe do that too, and it's paid according to their age.\r\n我们也这样做，而且是根据他们的年龄来支付的。\r\n\r\n16\r\n00:01:29,660 --> 00:01:32,720\r\nTwo pounds for each year, so they can see some progression.\r\n每一岁两英镑，这样他们就能看到一些递增。\r\n\r\n17\r\n00:01:33,940 --> 00:01:35,280\r\nTeaching them to save is important.\r\n教他们存钱很重要。\r\n\r\n18\r\n00:01:36,100 --> 00:01:38,120\r\nWe opened the savings account when they were young.\r\n在他们小的时候，我们就给他们开了储蓄账户。\r\n\r\n19\r\n00:01:38,700 --> 00:01:43,500\r\nAfter birthdays and Christmas, they would go to the branch and deposit their gift money.\r\n生日和圣诞节过后，他们会去银行网点把礼金存起来。\r\n\r\n20\r\n00:01:43,500 --> 00:01:49,800\r\nOh, I hadn't considered doing that. In our house we have transparent many boxes for them\r\n哦，我还没考虑过这样做。在我们家，我们有透明的存钱罐让他们\r\n\r\n21\r\n00:01:49,800 --> 00:01:53,100\r\nto put small change in so they can see their savings grow.\r\n把零钱放进去，这样他们就能看到自己的存款在增加。\r\n\r\n22\r\n00:01:53,840 --> 00:01:58,820\r\nWhen the time is right, I'll start talking to our children about investing and show them\r\n时机成熟时，我会开始和孩子们谈论投资，并向他们展示\r\n\r\n23\r\n00:01:58,820 --> 00:02:01,800\r\nhow the money saved for their third-reducation has grown.\r\n为他们的高等教育攒下的钱是如何增长的。\r\n\r\n24\r\n00:02:02,580 --> 00:02:08,100\r\nI am always talking to my elder daughter about the importance of saving into a pension. She\r\n我总是和大女儿谈论存养老金的重要性。她\r\n\r\n25\r\n00:02:08,100 --> 00:02:13,120\r\nIt's just started a part-time job and was thinking of not contributing to her pension.\r\n刚开始做兼职工作，正想着不缴纳养老金呢。\r\n\r\n26\r\n00:02:13,920 --> 00:02:16,220\r\nLuckily I managed to persuade her otherwise.\r\n幸运的是，我设法说服了她改变主意。\r\n\r\n27\r\n00:02:16,940 --> 00:02:20,000\r\nYes, it's such an important lesson to learn.\r\n是的，这是非常重要的一课。\r\n\r\n28\r\n00:02:21,020 --> 00:02:25,260\r\nQuestions 8-11 are based on the conversation you have just heard.\r\n第8到11题是基于你刚才听到的对话。\r\n\r\n29\r\n00:02:26,220 --> 00:02:27,160\r\nQuestion 8.\r\n问题 8。\r\n\r\n30\r\n00:02:27,720 --> 00:02:30,920\r\nWhat should we do with the topic of money, according to the woman?\r\n根据这位女士的说法，我们应该如何处理金钱这个话题？\r\n\r\n31\r\n00:02:46,160 --> 00:02:51,520\r\nQuestion 9. How does the woman say money can be made real for children?\r\n问题 9。这位女士说怎样才能让金钱对孩子们来说变得真实？\r\n\r\n32\r\n00:03:06,940 --> 00:03:11,280\r\nQuestion 10. What is the common practice between the man and the woman?\r\n问题 10。这位男士和女士共同的做法是什么？\r\n\r\n33\r\n00:03:26,500 --> 00:03:31,720\r\nQuestion 11. What is the woman always talking about to her elder daughter?\r\n问题 11。这位女士总是在和大女儿谈论什么？\r\n\r\n34\r\n00:03:47,560 --> 00:03:51,020\r\nConversation 2 Welcome to Books in Review.\r\n对话 2。欢迎来到《书评》节目。\r\n\r\n35\r\n00:03:51,500 --> 00:03:57,500\r\nOur guest today is John Banks, the author of the bestselling new book, Rewarding Success.\r\n我们今天的嘉宾是约翰·班克斯，他是畅销新书《奖励成功》的作者。\r\n\r\n36\r\n00:03:57,820 --> 00:03:58,900\r\nGlad to be here, Jane.\r\n很高兴来到这里，简。\r\n\r\n37\r\n00:03:58,900 --> 00:04:05,480\r\nYour book has sold 2 million copies, but before we discuss why it's getting so much attention,\r\n你的书已经卖出了200万册，但在我们讨论它为何如此备受关注之前，\r\n\r\n38\r\n00:04:06,040 --> 00:04:11,100\r\nlet's talk about your background. You're an economist and spent two decades teaching\r\n我们先来谈谈你的背景。你是一位经济学家，花了二十年时间\r\n\r\n39\r\n00:04:11,100 --> 00:04:11,820\r\nat universities.\r\n在大学教书。\r\n\r\n40\r\n00:04:12,940 --> 00:04:19,060\r\nI spent 25 years as a professor actually, and then for the last 10 years I've worked as\r\n实际上，我做了25年的教授，然后在过去的10年里，我一直担任\r\n\r\n41\r\n00:04:19,060 --> 00:04:24,940\r\na political consultant, advising politicians at the national level about problems in our country.\r\n政治顾问，在国家层面上就我们国家的问题向政治家们提供建议。\r\n\r\n42\r\n00:04:24,940 --> 00:04:28,000\r\nYou discuss three of those problems in the book.\r\n你在书中讨论了其中的三个问题。\r\n\r\n43\r\n00:04:28,520 --> 00:04:34,580\r\nImproving public education, reducing our nation's health care burden, and increasing personal\r\n改善公共教育，减轻我们国家的医疗保健负担，以及增加个人\r\n\r\n44\r\n00:04:34,580 --> 00:04:35,160\r\nsavings.\r\n储蓄。\r\n\r\n45\r\n00:04:36,060 --> 00:04:39,240\r\nBut your ideas about education are the most controversial.\r\n但你关于教育的想法是最具争议的。\r\n\r\n46\r\n00:04:40,200 --> 00:04:40,800\r\nAbsolutely.\r\n绝对是。\r\n\r\n47\r\n00:04:41,460 --> 00:04:46,360\r\nA lot of people think I'm trying to punish students who aren't doing well, when actually,\r\n很多人认为我试图惩罚那些成绩不好的学生，而实际上，\r\n\r\n48\r\n00:04:46,800 --> 00:04:50,000\r\nmy goal is to give all students more incentive to succeed.\r\n我的目标是给所有学生更多的成功动力。\r\n\r\n49\r\n00:04:50,000 --> 00:04:52,440\r\nI'm not sure I agree with you.\r\n我不确定我是否同意你的观点。\r\n\r\n50\r\n00:04:52,720 --> 00:04:58,500\r\nYour proposal to pay cash rewards to students who get good grades is a particular problem.\r\n你提议给取得好成绩的学生发放现金奖励，这是一个特别的问题。\r\n\r\n51\r\n00:04:59,180 --> 00:05:01,420\r\nWhat about students who don't get good grades?\r\n那些成绩不好的学生怎么办？\r\n\r\n52\r\n00:05:01,920 --> 00:05:07,540\r\nIt seems like you're blaming them for not succeeding when poor performance in school isn't\r\n似乎你是在责怪他们没有成功，而在学校表现不佳并不是\r\n\r\n53\r\n00:05:07,540 --> 00:05:08,620\r\na child's fault.\r\n一个孩子的错。\r\n\r\n54\r\n00:05:09,380 --> 00:05:15,480\r\nBut my proposal is not just to reward students with good grades, but also students who show\r\n但我的提议不仅仅是奖励取得好成绩的学生，还要奖励那些表现出\r\n\r\n55\r\n00:05:15,480 --> 00:05:16,100\r\nimprovement.\r\n进步的学生。\r\n\r\n56\r\n00:05:16,100 --> 00:05:21,300\r\nOK, another criticism of the plan is the cash rewards themselves.\r\n好吧，对该计划的另一个批评是现金奖励本身。\r\n\r\n57\r\n00:05:21,960 --> 00:05:23,460\r\nWhere will the money come from?\r\n钱从哪里来？\r\n\r\n58\r\n00:05:24,080 --> 00:05:29,780\r\nIf students do better, we'll spend less on schooling, so in the end the rewards will pay\r\n如果学生们做得更好，我们在学校教育上的花费就会减少，所以最终这些奖励将会\r\n\r\n59\r\n00:05:29,780 --> 00:05:30,840\r\nfor themselves.\r\n物有所值。\r\n\r\n60\r\n00:05:31,520 --> 00:05:32,360\r\nWhat about now?\r\n那现在呢？\r\n\r\n61\r\n00:05:32,640 --> 00:05:34,780\r\nHow will we fund the rewards in the meantime?\r\n在此期间我们将如何为奖励提供资金？\r\n\r\n62\r\n00:05:35,360 --> 00:05:41,600\r\nWell, by increasing taxes or moving money from other areas of the budget into education.\r\n嗯，通过增加税收或者把资金从预算的其他领域转移到教育上。\r\n\r\n63\r\n00:05:42,420 --> 00:05:47,800\r\nQuestion 12-15 are based on the conversation you have just heard.\r\n第12到15题是基于你刚才听到的对话。\r\n\r\n64\r\n00:05:48,780 --> 00:05:51,840\r\nQuestion 12- What do we learn about the man?\r\n问题 12- 关于这位男士我们了解到了什么？\r\n\r\n65\r\n00:06:06,940 --> 00:06:11,400\r\nQuestion 13. What does the woman say is the most controversial?\r\n问题 13。这位女士说什么是争议最大的？\r\n\r\n66\r\n00:06:26,980 --> 00:06:31,560\r\nQuestion 14. What does the man say is his real goal?\r\n问题 14。这位男士说他的真正目标是什么？\r\n\r\n67\r\n00:06:46,140 --> 00:06:52,500\r\nQuestion 15. What will be one option for funding the proposed rewards according to the\r\n问题 15。根据这位男士的说法，为提议的奖励提供资金的一个选项将是什么？",
+  "passages_transcript": "1\r\n00:00:01,860 --> 00:00:12,320\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions.\r\nC部分，说明。在这一部分，你将听到三篇短文。在每篇短文结束时，你将听到三个或四个问题。\r\n\r\n2\r\n00:00:13,280 --> 00:00:26,040\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.\r\n短文和问题都只读一遍。听到问题后，你必须从标有A、B、C和D的四个选项中选出最佳答案。\r\n\r\n3\r\n00:00:26,040 --> 00:00:32,360\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n然后在答题卡1上相应的字母中心划一条横线。\r\n\r\n4\r\n00:00:34,080 --> 00:00:34,980\r\nPassage 1.\r\n短文 1。\r\n\r\n5\r\n00:00:35,460 --> 00:00:41,420\r\nI met three different people today and each time when I asked how are you, the reply was\r\n我今天遇到了三个不同的人，每次当我问“你好吗”时，回答\r\n\r\n6\r\n00:00:41,420 --> 00:00:42,460\r\nexactly the same.\r\n完全一样。\r\n\r\n7\r\n00:00:42,820 --> 00:00:43,460\r\nI'm busy.\r\n“我很忙。”\r\n\r\n8\r\n00:00:44,120 --> 00:00:48,640\r\nHonestly, I hear the same answer from the vast majority of people I meet.\r\n老实说，我遇到的大多数人都是这样回答的。\r\n\r\n9\r\n00:00:49,220 --> 00:00:51,680\r\nSo I started to think, guess what?\r\n所以我开始思考，你猜怎么着？\r\n\r\n10\r\n00:00:52,060 --> 00:00:53,000\r\nEverybody's busy.\r\n每个人都很忙。\r\n\r\n11\r\n00:00:53,000 --> 00:00:56,820\r\nI'm busy, you're busy, everybody's busy.\r\n我很忙，你很忙，大家都很忙。\r\n\r\n12\r\n00:00:57,780 --> 00:01:04,000\r\nSo you being busy doesn't make me sympathetic at all because busy is the state of the world.\r\n所以你的忙碌根本不会让我产生同情，因为忙碌是这个世界的常态。\r\n\r\n13\r\n00:01:04,959 --> 00:01:09,480\r\nSo I'm launching a campaign to stop people complaining about being busy.\r\n因此，我发起了一项运动，旨在阻止人们抱怨自己很忙。\r\n\r\n14\r\n00:01:09,900 --> 00:01:13,380\r\nIt may sound harsh, but the truth is nobody cares.\r\n这听起来可能很苛刻，但事实是没人在乎。\r\n\r\n15\r\n00:01:13,900 --> 00:01:17,440\r\nIn a busy world, being busy doesn't stand out.\r\n在一个忙碌的世界里，忙碌并不出奇。\r\n\r\n16\r\n00:01:17,440 --> 00:01:22,160\r\nnor does it mean productive, creative, accomplished or professional.\r\n它也不意味着高效、有创造力、有成就或专业。\r\n\r\n17\r\n00:01:23,280 --> 00:01:25,080\r\nSteve Mariboli once said,\r\n史蒂夫·马里博利曾说过，\r\n\r\n18\r\n00:01:25,460 --> 00:01:27,380\r\nwhen someone tells you they are too busy,\r\n当有人告诉你他们太忙时，\r\n\r\n19\r\n00:01:27,700 --> 00:01:29,780\r\nit's not a reflection of their schedule,\r\n这并不能反映他们的日程安排，\r\n\r\n20\r\n00:01:30,220 --> 00:01:33,080\r\nit's a reflection of your spot on their schedule.\r\n而是反映了你在他们日程表上的位置。\r\n\r\n21\r\n00:01:33,940 --> 00:01:36,560\r\nDonna Lynn Hope has also remarked,\r\n唐娜·林恩·霍普也曾评论道，\r\n\r\n22\r\n00:01:36,560 --> 00:01:38,000\r\nbusy doesn't mean better.\r\n忙碌并不意味着更好。\r\n\r\n23\r\n00:01:38,580 --> 00:01:40,820\r\nI've never envied a busy person,\r\n我从未羡慕过一个忙碌的人，\r\n\r\n24\r\n00:01:41,400 --> 00:01:44,200\r\nthe one who likes to point out their busy lives to others.\r\n也就是那种喜欢向别人炫耀自己忙碌生活的人。\r\n\r\n25\r\n00:01:44,200 --> 00:01:51,560\r\nThe reality is, nobody's too busy. It's just about priorities. So the next time someone\r\n现实是，没有谁是太忙的。这只是关于优先事项的问题。所以下次有人\r\n\r\n26\r\n00:01:51,560 --> 00:01:58,120\r\nasks you how you are, maybe respond differently. In my experience, the I'm busy response\r\n问你最近怎么样时，也许可以换种方式回答。根据我的经验，“我很忙”的回答\r\n\r\n27\r\n00:01:58,120 --> 00:02:03,260\r\nis really covering up the fact that they're not actually accomplishing their real purpose.\r\n实际上是在掩盖他们并没有真正实现其真实目标的事实。\r\n\r\n28\r\n00:02:03,920 --> 00:02:08,979\r\nAnd being busy is the lie they tell themselves about why they can't achieve it.\r\n而“忙碌”是他们告诉自己的、关于为什么无法实现目标的谎言。\r\n\r\n29\r\n00:02:10,139 --> 00:02:15,240\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n第16到18题是基于你刚才听到的短文。\r\n\r\n30\r\n00:02:16,060 --> 00:02:20,220\r\nQuestion 16 Why is the speaker launching a campaign?\r\n问题 16 这位说话者为什么要发起一项运动？\r\n\r\n31\r\n00:02:35,579 --> 00:02:39,820\r\nQuestion 17. What does the speaker advise us to do?\r\n问题 17。这位说话者建议我们做什么？\r\n\r\n32\r\n00:02:40,120 --> 00:02:42,560\r\nNext time someone asks us how we are.\r\n下次有人问我们最近怎么样的时候。\r\n\r\n33\r\n00:02:57,299 --> 00:03:04,120\r\nQuestion 18. Why do many people make the I'm busy response according to the speaker?\r\n问题 18。根据说话者的说法，为什么很多人会做出“我很忙”的回答？\r\n\r\n34\r\n00:03:19,420 --> 00:03:26,900\r\nPassage 2 More and more people are taking up extreme sports like snowboarding, skateboarding,\r\n短文 2 越来越多的人开始从事极限运动，比如单板滑雪、滑板、\r\n\r\n35\r\n00:03:27,160 --> 00:03:29,620\r\nmountain biking, and many more.\r\n山地自行车等等。\r\n\r\n36\r\n00:03:29,980 --> 00:03:32,240\r\nWhy are these sports becoming so popular?\r\n为什么这些运动变得如此受欢迎？\r\n\r\n37\r\n00:03:32,980 --> 00:03:38,800\r\nOne thing that extreme sports do better than perhaps anything else is to help you stop\r\n极限运动比其他任何事情都做得更好的一点就是，帮助你停止\r\n\r\n38\r\n00:03:38,800 --> 00:03:45,860\r\nbeing afraid. It may sound strange to say that their main function is to induce fear. But\r\n恐惧。说它们的主要功能是引发恐惧可能听起来很奇怪。但是\r\n\r\n39\r\n00:03:45,860 --> 00:03:51,160\r\nafter its time, your fear response to other things in life will be dramatically reduced.\r\n经历过之后，你对生活中其他事物的恐惧反应将大大降低。\r\n\r\n40\r\n00:03:52,380 --> 00:03:57,200\r\nAfter all, if you can jump out of a plane or offer bridge, then you can face anything\r\n毕竟，如果你能从飞机上或桥上跳下，那你就能轻松面对\r\n\r\n41\r\n00:03:57,200 --> 00:04:04,580\r\neasily. When doing extreme sports, you have to become more focused. You'll be pushed to\r\n任何事情。在做极限运动时，你必须变得更加专注。你会被推向\r\n\r\n42\r\n00:04:04,580 --> 00:04:09,900\r\nyour limits, and if you aren't focused, you'll make dangerous mistakes. Learning to\r\n极限，如果你不专注，就会犯下危险的错误。学会在\r\n\r\n43\r\n00:04:09,900 --> 00:04:14,740\r\nbe this focused when enjoying extreme sports will help you to be focused at work,\r\n享受极限运动时保持这种专注，将有助于你在工作中保持专注，\r\n\r\n44\r\n00:04:15,300 --> 00:04:21,360\r\nkeeping you more productive and ultimately more successful. It's great to stay fit\r\n让你更高效，并最终取得更大的成功。保持健康和健美是很棒的，\r\n\r\n45\r\n00:04:21,360 --> 00:04:26,460\r\nand healthy, but standard exercise routines and sports only work the same\r\n但常规的锻炼习惯和运动通常只能反复锻炼同样的\r\n\r\n46\r\n00:04:26,460 --> 00:04:31,720\r\nmuscles repeatedly. With extreme sports, you'll be working entirely different\r\n肌肉。而在极限运动中，你会锻炼到完全不同的\r\n\r\n47\r\n00:04:31,720 --> 00:04:38,340\r\nmuscles, and that means you get an all over workout. Extreme sports also burn a\r\n肌肉，这意味着你会得到全面的锻炼。极限运动燃烧的\r\n\r\n48\r\n00:04:38,340 --> 00:04:43,800\r\nlot more calories than other sports. Skateboarding, for example, can burn as\r\n卡路里也比其他运动多得多。例如，滑板每小时可以燃烧\r\n\r\n49\r\n00:04:43,800 --> 00:04:50,800\r\nmany as 500 calories per hour. Basketball burns around 300 in the same time.\r\n多达500卡路里。而打篮球在同样的时间内大约燃烧300卡路里。\r\n\r\n50\r\n00:04:51,880 --> 00:04:56,300\r\nWhen you find that you can overcome the physical or mental challenges, involve\r\n当你发现自己能够克服其中包含的生理或心理挑战时，\r\n\r\n51\r\n00:04:56,300 --> 00:05:02,780\r\nIn extreme sports, you'll feel superhuman and your self-confidence will be at an all-time\r\n在极限运动中，你会觉得自己像个超人，你的自信心也会达到前所未有的\r\n\r\n52\r\n00:05:02,780 --> 00:05:03,540\r\nhigh.\r\n高度。\r\n\r\n53\r\n00:05:30,960 --> 00:05:37,380\r\nQuestion 20. Why should one be highly focused when doing extreme sports?\r\n问题 20。为什么在做极限运动时人要高度专注？\r\n\r\n54\r\n00:05:52,920 --> 00:06:00,160\r\nQuestion 21. How can extreme sports benefit us more than standard exercise routines and\r\n问题 21。极限运动如何比常规锻炼习惯和\r\n\r\n55\r\n00:06:00,160 --> 00:06:00,600\r\nsports?\r\n运动对我们更有益？\r\n\r\n56\r\n00:06:16,060 --> 00:06:22,700\r\nPassage 3 Most of us have been in teams or organisations where we've had conflict with the\r\n短文 3 我们中的大多数人都曾处于团队或组织中，在那里我们与共事的人\r\n\r\n57\r\n00:06:22,700 --> 00:06:27,400\r\npeople that we're working with around the ideas or decisions that we're discussing.\r\n在我们正在讨论的想法或决定上发生过冲突。\r\n\r\n58\r\n00:06:28,360 --> 00:06:29,480\r\nConflict is natural.\r\n冲突是很自然的。\r\n\r\n59\r\n00:06:30,420 --> 00:06:34,060\r\nWe all bring different life and work experiences to the table.\r\n我们都把不同的生活和工作经历带到桌面上。\r\n\r\n60\r\n00:06:34,060 --> 00:06:45,300\r\nWe all have different personality preferences and tendencies. We're not all going to have the same ideas on how to approach policies, programs or problems.\r\n我们都有不同的性格偏好和倾向。对于如何处理政策、计划或问题，我们不可能都有相同的想法。\r\n\r\n61\r\n00:06:46,420 --> 00:06:56,460\r\nBut too often we get caught in this place where conflict is perceived to be negative, something we want to avoid, so that we can maintain the harmony of our workplace.\r\n但是，我们常常陷入这样一个境地：冲突被认为是负面的、是我们想要避免的事情，以便我们能够维持工作场所的和谐。\r\n\r\n62\r\n00:06:56,460 --> 00:07:02,940\r\nThis could be because some people want to avoid conflict at all costs, after all, they still\r\n这可能是因为有些人想不惜一切代价避免冲突，毕竟，他们仍然\r\n\r\n63\r\n00:07:02,940 --> 00:07:07,900\r\nhave to work together. But this kind of artificial harmony isn't the answer.\r\n需要在一起工作。但这种人为的和谐并不是解决问题的办法。\r\n\r\n64\r\n00:07:08,740 --> 00:07:14,100\r\nProductive conflict is a vital part of teams and organisations that want to push forward\r\n对于想要向前发展、取得更多成就的团队和组织来说，富有成效的冲突是至关重要的一部分。\r\n\r\n65\r\n00:07:14,100 --> 00:07:20,760\r\nand do more. Without conflict, we're often stuck in this artificial harmony where people\r\n如果没有冲突，我们经常会陷入这种人为的和谐之中，人们\r\n\r\n66\r\n00:07:20,760 --> 00:07:27,160\r\ndon't express potentially innovative ideas for fear that they may start conflict with others.\r\n因为害怕可能引发与他人的冲突，而不去表达潜在的创新想法。\r\n\r\n67\r\n00:07:28,060 --> 00:07:33,660\r\nBut if you're in a place where you have a basis of trust, conflict can be extremely productive.\r\n但如果你处于一个有信任基础的环境中，冲突可能会非常富有成效。\r\n\r\n68\r\n00:07:34,380 --> 00:07:39,080\r\nIt can lead to increased innovation and greater trust on teams.\r\n它可以带来更多的创新和团队中更强的信任。\r\n\r\n69\r\n00:07:39,700 --> 00:07:46,760\r\nIt may be an uncomfortable process, but good leaders and healthy teams recognise that productive\r\n这可能是一个不舒服的过程，但优秀的领导者和健康的团队都认识到，富有成效\r\n\r\n70\r\n00:07:46,760 --> 00:07:51,380\r\nand healthy conflict is an important part of how they function.\r\n且健康的冲突是他们运作方式的重要组成部分。\r\n\r\n71\r\n00:07:52,020 --> 00:07:56,740\r\nQuestions 22 to 25 are based on the passage you have just heard.\r\n第22到25题是基于你刚才听到的短文。\r\n\r\n72\r\n00:07:57,540 --> 00:08:02,660\r\nQuestion 22. What does the passage say about conflict in organizations?\r\n问题 22。这篇短文关于组织中的冲突说了什么？\r\n\r\n73\r\n00:08:18,040 --> 00:08:24,280\r\nQuestion 23 Why do some people want to avoid conflict at all costs?\r\n问题 23。为什么有些人想不惜一切代价避免冲突？\r\n\r\n74\r\n00:08:38,660 --> 00:08:45,240\r\nQuestion 24. Why is productive conflict important for teams and organizations?\r\n问题 24。为什么富有成效的冲突对团队和组织很重要？\r\n\r\n75\r\n00:09:00,180 --> 00:09:06,180\r\nQuestion 25. What does productive conflict need as a basis?\r\n问题 25。富有成效的冲突需要什么作为基础？\r\n\r\n76\r\n00:09:20,920 --> 00:09:23,600\r\nThat's the end of listening comprehension.\r\n听力理解部分到此结束。",
+  "news_transcript_en": "",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,959 --> 00:00:12,380\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:13,280 --> 00:00:26,080\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:26,080 --> 00:00:32,380\r\nThen Mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:34,100 --> 00:00:34,980\r\nPassage 1.\r\n\r\n5\r\n00:00:35,440 --> 00:00:41,440\r\nI met three different people today and each time when I asked how are you, the reply was\r\n\r\n6\r\n00:00:41,440 --> 00:00:42,600\r\nexactly the same.\r\n\r\n7\r\n00:00:42,840 --> 00:00:43,460\r\nI'm busy.\r\n\r\n8\r\n00:00:44,120 --> 00:00:48,660\r\nHonestly, I hear the same answer from the vast majority of people I meet.\r\n\r\n9\r\n00:00:49,240 --> 00:00:51,720\r\nSo I started to think, guess what?\r\n\r\n10\r\n00:00:52,080 --> 00:00:53,040\r\nEverybody's busy.\r\n\r\n11\r\n00:00:53,040 --> 00:00:56,840\r\nI'm busy, you're busy, everybody's busy.\r\n\r\n12\r\n00:00:57,800 --> 00:01:03,960\r\nSo you being busy doesn't make me sympathetic at all because busy is the state of the world.\r\n\r\n13\r\n00:01:04,980 --> 00:01:09,440\r\nSo I'm launching a campaign to stop people complaining about being busy.\r\n\r\n14\r\n00:01:09,900 --> 00:01:13,440\r\nIt may sound harsh, but the truth is nobody cares.\r\n\r\n15\r\n00:01:13,920 --> 00:01:17,540\r\nIn a busy world, being busy doesn't stand out.\r\n\r\n16\r\n00:01:17,540 --> 00:01:22,100\r\nNor does it mean productive, creative, accomplished, or professional.\r\n\r\n17\r\n00:01:23,280 --> 00:01:25,120\r\nSteve Mariboli once said,\r\n\r\n18\r\n00:01:25,420 --> 00:01:29,800\r\nWhen someone tells you they are too busy, it's not a reflection of their schedule,\r\n\r\n19\r\n00:01:30,240 --> 00:01:33,040\r\nit's a reflection of your spot on their schedule.\r\n\r\n20\r\n00:01:33,920 --> 00:01:36,580\r\nDonna Lynn Hope has also remarked,\r\n\r\n21\r\n00:01:36,580 --> 00:01:37,980\r\nbusy doesn't mean better.\r\n\r\n22\r\n00:01:38,600 --> 00:01:40,900\r\nI've never envied a busy person.\r\n\r\n23\r\n00:01:41,400 --> 00:01:44,200\r\nThe one who likes to point out their busy lives to others.\r\n\r\n24\r\n00:01:44,200 --> 00:01:51,580\r\nThe reality is, nobody's too busy. It's just about priorities. So the next time someone\r\n\r\n25\r\n00:01:51,580 --> 00:01:58,160\r\nasks you how you are, maybe respond differently. In my experience, the I'm busy response\r\n\r\n26\r\n00:01:58,160 --> 00:02:03,300\r\nis really covering up the fact that they're not actually accomplishing their real purpose,\r\n\r\n27\r\n00:02:03,800 --> 00:02:09,000\r\nand being busy is the lie they tell themselves about why they can't achieve it.\r\n\r\n28\r\n00:02:10,160 --> 00:02:15,300\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n\r\n29\r\n00:02:16,080 --> 00:02:20,200\r\nQuestion 16 Why is the speaker launching a campaign?\r\n\r\n30\r\n00:02:35,600 --> 00:02:42,580\r\nQuestion 17. What does the speaker advise us to do? Next time someone asks us how we are.\r\n\r\n31\r\n00:02:57,299 --> 00:03:04,120\r\nQuestion 18. Why do many people make the I'm busy response according to the speaker?\r\n\r\n32\r\n00:03:19,320 --> 00:03:26,860\r\nPassage 2 More and more people are taking up extreme sports like snowboarding, skateboarding,\r\n\r\n33\r\n00:03:27,180 --> 00:03:29,340\r\nmountain biking, and many more.\r\n\r\n34\r\n00:03:29,980 --> 00:03:32,240\r\nWhy are these sports becoming so popular?\r\n\r\n35\r\n00:03:32,980 --> 00:03:38,800\r\nOne thing that extremes sports do better than perhaps anything else is to help you stop\r\n\r\n36\r\n00:03:38,800 --> 00:03:45,860\r\nbeing afraid. It may sound strange to say that their main function is to induce fear. But\r\n\r\n37\r\n00:03:45,860 --> 00:03:51,180\r\nafter its time, your fear response to other things in life will be dramatically reduced.\r\n\r\n38\r\n00:03:52,400 --> 00:03:57,600\r\nAfter all, if you can jump out of a plane or offer bridge, then you can face anything else\r\n\r\n39\r\n00:03:57,600 --> 00:04:04,600\r\neasily. When doing extreme sports, you have to become more focused. You'll be pushed to\r\n\r\n40\r\n00:04:04,600 --> 00:04:10,020\r\nyour limits, and if you aren't focused, you'll make dangerous mistakes. Learning to be\r\n\r\n41\r\n00:04:10,020 --> 00:04:15,480\r\nthis focused when enjoying extreme sports will help you to be focused at work, keeping\r\n\r\n42\r\n00:04:15,480 --> 00:04:22,000\r\nyou more productive and ultimately more successful. It's great to stay fit and healthy,\r\n\r\n43\r\n00:04:22,000 --> 00:04:27,440\r\nBut standard exercise routines and sports only work the same muscles repeatedly.\r\n\r\n44\r\n00:04:28,500 --> 00:04:33,860\r\nWith extreme sports, you'll be working entirely different muscles, and that means you get\r\n\r\n45\r\n00:04:33,860 --> 00:04:35,100\r\nan all-over workout.\r\n\r\n46\r\n00:04:36,440 --> 00:04:40,540\r\nExtreme sports also burn a lot more calories than other sports.\r\n\r\n47\r\n00:04:41,480 --> 00:04:46,520\r\nSkateboarding, for example, can burn as many as 500 calories per hour.\r\n\r\n48\r\n00:04:47,380 --> 00:04:50,680\r\nBasketball burns around 300 in the same time.\r\n\r\n49\r\n00:04:50,680 --> 00:04:56,940\r\nWhen you find that you can overcome the physical or mental challenges, involved in extreme\r\n\r\n50\r\n00:04:56,940 --> 00:05:03,360\r\nsports, you'll feel superhuman, and your self-confidence will be at an all-time high.\r\n\r\n51\r\n00:05:04,800 --> 00:05:10,200\r\nQuestions 19-21 are based on the passage you have just heard.\r\n\r\n52\r\n00:05:10,740 --> 00:05:11,620\r\nQuestion 19.\r\n\r\n53\r\n00:05:12,700 --> 00:05:16,200\r\nWhat may sound strange to say about extreme sports?\r\n\r\n54\r\n00:05:31,000 --> 00:05:37,200\r\nQuestion 20. Why should one be highly focused when doing extreme sports?",
+  "passages_transcript_zh": ""
+}

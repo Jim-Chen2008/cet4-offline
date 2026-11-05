@@ -1,0 +1,686 @@
+{
+  "id": 8,
+  "exam": 8,
+  "exam_details": {
+    "id": 8,
+    "title": "2024年12月四级真题第3套",
+    "category": "university",
+    "category_display": "大学考试",
+    "subject": "CET4",
+    "subject_display": "大学英语四级",
+    "province": null,
+    "year": 2024,
+    "month": 12,
+    "version": "三",
+    "duration": 125,
+    "total_score": 710,
+    "pass_score": 425,
+    "difficulty": 2,
+    "is_published": true,
+    "has_content": true,
+    "created_at": "2025-04-25T21:46:21.002000+08:00",
+    "updated_at": "2025-04-25T21:46:21.002000+08:00",
+    "exam_id": 8,
+    "submission_count": 0,
+    "cet_content_id": 8,
+    "has_draft": true
+  },
+  "created_at": "2025-04-25T21:46:41.590000+08:00",
+  "updated_at": "2025-04-25T21:52:58.949000+08:00",
+  "level": "CET4",
+  "listening": {
+    "sections": [
+      {
+        "type": "news",
+        "title": "Section A",
+        "questions": [
+          {
+            "id": 1,
+            "options": [
+              "A. They will see a 27% higher price to buy natural gas.",
+              "B. They will have insufficient heating oil to keep warm.",
+              "C. They will have a costly bill to pay to heat their homes.",
+              "D. They will experience the coldest winter in four decades."
+            ],
+            "question": "Why are families across the US looking to this winter with fear?"
+          },
+          {
+            "id": 2,
+            "options": [
+              "A. Provided additional funding to Low Income Home Energy Assistance Program.",
+              "B. Assured U.S. citizens of an increase in energy supplies by the end of this year.",
+              "C. Predicted a 10% jump in heating bills for most U.S. households this winter.",
+              "D. Decided on this year’s energy assistance package of $8 billion in total."
+            ],
+            "question": "What did the federal government do last month?"
+          },
+          {
+            "id": 3,
+            "options": [
+              "A. They care less about their diet now than before.",
+              "B. They may lack adequate knowledge of healthy food.",
+              "C. They may hold too optimistic a view about their diet.",
+              "D. They pay insufficient attention to their choice of food."
+            ],
+            "question": "What is the main finding of a new study about many Americans?"
+          },
+          {
+            "id": 4,
+            "options": [
+              "A. Those who finished 24-hour food questionnaires.",
+              "B. Those who fully understood the rating scale.",
+              "C. Those who cared about food quality.",
+              "D. Those who rated their diet as poor."
+            ],
+            "question": "Who attended to rate their diet more accurately in the survey?"
+          },
+          {
+            "id": 5,
+            "options": [
+              "A. They experienced a heartbreaking moment.",
+              "B. They gathered together to rescue an elephant.",
+              "C. They heard a noise from the bottom of a well.",
+              "D. They found an elephant wandering around a well."
+            ],
+            "question": "What does report say dozens of Indians did last week?"
+          },
+          {
+            "id": 6,
+            "options": [
+              "A. To borrow their crane.",
+              "B. To ask them for help.",
+              "C. To report the strange noise.",
+              "D. To get food for the elephant."
+            ],
+            "question": "Why did the Army officers call the local forest department?"
+          },
+          {
+            "id": 7,
+            "options": [
+              "A. The elephant was able to return to the jungle.",
+              "B. The army officers were examined for injuries.",
+              "C. The army officers were rewarded for their rescue efforts.",
+              "D. The elephant was given medical treatment for many days."
+            ],
+            "question": "What does the news report say happened finally?"
+          }
+        ],
+        "description": "短新闻",
+        "question_groups": [
+          {
+            "group_id": 1,
+            "description": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "group_id": 2,
+            "description": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "group_id": 3,
+            "description": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_ids": [
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "conversations",
+        "title": "Section B",
+        "questions": [
+          {
+            "id": 8,
+            "options": [
+              "A. He found it had caused him much inconvenience.",
+              "B. It led him to spend more money than necessary.",
+              "C. It was much less secure than paying with cash.",
+              "D. He wanted to be less dependent on his phone."
+            ],
+            "question": "Why has the man stopped paying online for the last three months?"
+          },
+          {
+            "id": 9,
+            "options": [
+              "A. Living beyond her means.",
+              "B. Lack of budgeting strategies.",
+              "C. Fashion addiction.",
+              "D. Impulse purchasing."
+            ],
+            "question": "What problem does the woman say she may also have?"
+          },
+          {
+            "id": 10,
+            "options": [
+              "A. Eat healthier food with less money.",
+              "B. Order food like burgers and chips.",
+              "C. Avoid getting addicted to junk food.",
+              "D. Pay either in cash or with his phone."
+            ],
+            "question": "What does the man say he could do at the canteen?"
+          },
+          {
+            "id": 11,
+            "options": [
+              "A. Making a shopping list.",
+              "B. Sticking to his budget.",
+              "C. Withdrawing cash only once a month.",
+              "D. Thinking twice before buying something."
+            ],
+            "question": "What is now just a habit for the man?"
+          },
+          {
+            "id": 12,
+            "options": [
+              "A. He does not enjoy any ball games.",
+              "B. He has to prepare for the future.",
+              "C. He has breathing problems.",
+              "D. He is not up to anything challenging."
+            ],
+            "question": "Why is the woman opposed to their son joining a sport like soccer?"
+          },
+          {
+            "id": 13,
+            "options": [
+              "A. Soccer",
+              "B. Badminton.",
+              "C. Volleyball.",
+              "D. Basketball."
+            ],
+            "question": "What does the man suggest their son try in order to understand team spirit?"
+          },
+          {
+            "id": 14,
+            "options": [
+              "A. The possibilities of joining the school sports team.",
+              "B. The opportunities of winning some championships.",
+              "C. The chances of getting an athletic scholarship later on.",
+              "D. The odds of becoming a professional sportsman someday."
+            ],
+            "question": "What is one of the woman's considerations in choosing a sport for her son?"
+          },
+          {
+            "id": 15,
+            "options": [
+              "A. It differs entirely from indoor volleyball.",
+              "B. It appeals to both schoolgirls and schoolboys.",
+              "C. It is less popular than indoor sports in the country.",
+              "D. It is completely different from other outdoor games."
+            ],
+            "question": "What does the man say about beach volleyball?"
+          }
+        ],
+        "description": "长对话",
+        "question_groups": [
+          {
+            "group_id": 4,
+            "description": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_ids": [
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "group_id": 5,
+            "description": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_ids": [
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "type": "passages",
+        "title": "Section C",
+        "questions": [
+          {
+            "id": 16,
+            "options": [
+              "A. It usually requires years of preparations.",
+              "B. It does a lot of harm to the environment",
+              "C. It often burns over three hundred tonnes of refined fuel.",
+              "D. It proves to be the most complicated stage of space missions."
+            ],
+            "question": "What do we learn from the passage about the lift off of spacecraft?"
+          },
+          {
+            "id": 17,
+            "options": [
+              "A. They are burnt up in outer space.",
+              "B. They are guided back to Earth.",
+              "C. They are reused up to 100 times.",
+              "D. They are treated as expendable."
+            ],
+            "question": "What happens traditionally to boosters, fuel tanks, and other components in spaceflight?"
+          },
+          {
+            "id": 18,
+            "options": [
+              "A. New technologies for bringing back space vehicles for recycling.",
+              "B. The technology for meeting the needs of commercial space travel.",
+              "C. Many of the technologies to limit the impact of space travel on Earth.",
+              "D. The technology for effectively protecting ozone from being destroyed."
+            ],
+            "question": "What does the passage say we already have regarding spaceflight?"
+          },
+          {
+            "id": 19,
+            "options": [
+              "A. It can help unskilled readers feel more secure.",
+              "B. It can encourage reluctant readers to read aloud.",
+              "C. It can strengthen children’s confidence in others.",
+              "D. It can boost children’s interest in communication."
+            ],
+            "question": "What can reading to a pet do for a child?"
+          },
+          {
+            "id": 20,
+            "options": [
+              "A. By motivating children to find out about their favourite pets.",
+              "B. By taking children to the library to borrow books on animals.",
+              "C. By allowing children to surf the internet about pets by themselves.",
+              "D. By showing children how to acquire knowledge about healthy pets."
+            ],
+            "question": "How can parents make pets a fantastic subject for their children's research and learning?"
+          },
+          {
+            "id": 21,
+            "options": [
+              "A. By learning that raising pets can do much good.",
+              "B. By watching how healthy pets are brought up.",
+              "C. By hearing about their peers’ passion for pets.",
+              "D. By visiting friends who have household pets."
+            ],
+            "question": "How can children still benefit even when they're found?"
+          },
+          {
+            "id": 22,
+            "options": [
+              "A. Send would-be students a packet of information.",
+              "B. Update regularly all information on their websites.",
+              "C. Inform prospective students of their yearly enrollment.",
+              "D. Answer questions raised by applicants and their parents."
+            ],
+            "question": "What would the new bill in the Ohio Legislature require public colleges and universities to do?"
+          },
+          {
+            "id": 23,
+            "options": [
+              "A. Oversee private institutions directly.",
+              "B. Follow other states’ example.",
+              "C. Regulate public institutions in this way.",
+              "D. Provide the best opportunity to realize one’s dream."
+            ],
+            "question": "What can the state only do according to Adam Matthews?"
+          },
+          {
+            "id": 24,
+            "options": [
+              "A. They are resourceful.",
+              "B. They are competitive.",
+              "C. They provide the best opportunity to realize one’s dream.",
+              "D. They appeal most to students from other states in the U.S."
+            ],
+            "question": "What do we learn about Ohio schools from the passage?"
+          },
+          {
+            "id": 25,
+            "options": [
+              "A. Some students waste much time surfing the net.",
+              "B. Students may need to visit too many websites.",
+              "C. Students have to search for the information.",
+              "D. Some students may lack adequate access."
+            ],
+            "question": "What is the problem with schools providing information on their websites?"
+          }
+        ],
+        "description": "听力篇章",
+        "question_groups": [
+          {
+            "group_id": 6,
+            "description": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_ids": [
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "group_id": 7,
+            "description": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_ids": [
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "group_id": 8,
+            "description": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_ids": [
+              22,
+              23,
+              24,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "sections": [
+      {
+        "type": "word_fill",
+        "title": "Section A",
+        "blanks": [
+          {
+            "id": 26
+          },
+          {
+            "id": 27
+          },
+          {
+            "id": 28
+          },
+          {
+            "id": 29
+          },
+          {
+            "id": 30
+          },
+          {
+            "id": 31
+          },
+          {
+            "id": 32
+          },
+          {
+            "id": 33
+          },
+          {
+            "id": 34
+          },
+          {
+            "id": 35
+          }
+        ],
+        "content": "Super realistic masks are made from flexible materials such as silicone and are designed to imitate real human face — down to every last detail.\nIn a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a __26__ face and which showed a person wearing a mask.\nSurprisingly, participants made the wrong call in one-in-five cases.\nThe 20% error rate __27__ in the study likely underestimates the extent to which people would struggle to tell an __28__ face from the real thing outside of the lab.\nThe researchers collected data from participants from both the UK and Japan to __29__ any differences according to race. When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less __30__.\nThere are now dozens of criminal cases in which offenders have __31__ themselves off as people of a different age, race or gender, sending police investigations down the wrong path.\nIn one recent case, an international gang used an __32__ realistic mask to pose as a French minister, __33__ business executives out of millions of pounds.\nDr. Jet Sanders, who worked on the study while a PhD student at the University of York, said: “Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may __34__ the key characteristics of a person’s appearance to be __35__ identified.”",
+        "word_bank": [
+          "accurate",
+          "allow",
+          "artificial",
+          "cheating",
+          "deserted",
+          "establish",
+          "extremely",
+          "immediately",
+          "incorrectly",
+          "normal",
+          "observed",
+          "passed",
+          "reminding",
+          "reparable",
+          "resolve"
+        ],
+        "description": "选词填空"
+      },
+      {
+        "type": "paragraph_matching",
+        "title": "Section B",
+        "options": [
+          {
+            "id": 36,
+            "content": "Acquisition of new knowledge may not guarantee the progress that you aim to make."
+          },
+          {
+            "id": 37,
+            "content": "Your current situation in life is built on the beliefs and habits you have been practicing daily."
+          },
+          {
+            "id": 38,
+            "content": "Knowing the best way to learn a foreign language will not enable you to speak it without actual practice."
+          },
+          {
+            "id": 39,
+            "content": "People may find it demanding to create a goal which will take a long time to achieve."
+          },
+          {
+            "id": 40,
+            "content": "Learning and practicing seem to be very much alike, but the two processes can lead to quite different outcomes."
+          },
+          {
+            "id": 41,
+            "content": "Absorbing new information is helpful in making better decisions prior to action."
+          },
+          {
+            "id": 42,
+            "content": "Sometimes we may feel like we are making progress by doing some research or making preparations, but actually we are staying at the starting point."
+          },
+          {
+            "id": 43,
+            "content": "We are inclined to think that a lack of knowledge prevents us from advancing to a better future."
+          },
+          {
+            "id": 44,
+            "content": "Learning can benefit you by itself but only practice can turn what you learn into meaningful contributions."
+          },
+          {
+            "id": 45,
+            "content": "Practice involves repeating a process intentionally to attain a particular objective."
+          }
+        ],
+        "paragraphs": [
+          {
+            "id": "A",
+            "content": "Most people have a dream in life, a vision of who or what they’d like to be in the future. At a minimum, everyone has interests and values that determine what they want out of their lives. Even so, trying to set achievable goals that you’ll work for over the course of many years can be extremely challenging. It can be hard to know where to even begin, and the things you hope to achieve may seem impossible. But if you're well prepared you may be able to set goals for your life that are just as fulfilling to work toward as to achieve."
+          },
+          {
+            "id": "B",
+            "content": "We all have goals that we want to achieve in our lives. These goals may include learning a new language, eating healthier and losing weight becoming a better parent, saving more money, and so on. It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge. This is why we buy courses on how to start a business or how to lose weight fast or how to learn a new language in three months. We assume that if we knew about a better strategy, then we would get better results. We believe that a new result requires new knowledge."
+          },
+          {
+            "id": "C",
+            "content": "What I’m starting to realize, however, is that new knowledge does not necessarily drive new results. In fact, learning something new can actually be a waste of time if your goal is to make progress and not simply gain additional knowledge."
+          },
+          {
+            "id": "D",
+            "content": "It all comes down to the difference between learning and practicing. Thomas Sterner, in his book The Practicing Mind, explains the key difference between practicing and learning. He says: “When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.” Here the words “deliberate” and “intention” are key, because they define the difference between actively practicing something and passively learning it."
+          },
+          {
+            "id": "E",
+            "content": "Learning something new and practicing something new may seem very similar but these two methods can have profoundly different results. Here are some additional ways to think about the difference. Let’s say your goal is to get stronger and more fit. You can research the best instructions on weight lifting technique, but the only way to build strength is to practice lifting weights. Let’s say your goal is to grow your startup. You can learn about the best way to make a sales pitch, but the only way to actually land customers is to practice making sales calls. Let’s say your goal is to write a book. You can talk to a best-selling author about writing, but the only way to become a better writer is to practice publishing consistently."
+          },
+          {
+            "id": "F",
+            "content": "Passive learning creates knowledge. Active practice creates skill. Let’s consider a couple more reasons to prioritize active practice over passive learning. First, passive learning can be a stick that supports inaction. In many cases, learning is actually a way to avoid taking action on the goals and interests that we say are important to us. For example, let’s say you want to learn a foreign language. Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (“Hey, I'm figuring out the best way to do this!”). Of course, you’re not actually practicing the action that would deliver your desired outcome (speaking the foreign language)."
+          },
+          {
+            "id": "G",
+            "content": "In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels. We make the mistake of being in motion rather than taking action. Learning is valuable until it becomes a form of procrastination (拖延)."
+          },
+          {
+            "id": "H",
+            "content": "Another point to consider is that practice is learning, but learning is not practice. Passive learning is not a form of practice because although you gain new knowledge, you are not discovering how to apply that knowledge. Active practice, meanwhile, is one of the greatest forms of learning because the mistakes you make while practicing reveal important insights."
+          },
+          {
+            "id": "I",
+            "content": "Even more importantly, practice is the only way to make a meaningful contribution with your knowledge. You can watch an online course about how to build a business or read an article about a terrible disaster in a developing nation, but that knowledge is unproductive unless you actually launch your business or donate to those in need. Learning by itself can be valuable for you but if you want to be valuable to others, then you have to express your knowledge in some way."
+          },
+          {
+            "id": "J",
+            "content": "The last important point to consider is that practice focuses your energy on the process. Thomas Sterner once said, “Progress is a natural result of staying focused on the process of doing anything.” The state of your life right now is a result of the habits and beliefs that you have been practicing each day, When you realize this and begin to direct your focus toward practicing better habits day-in and day-out, continual progress will be the logical outcome. It is not the things we learn nor the dreams we visualize that determine our results, but rather the habits that we practice each day. Fall in love with boredom and focus your energy on the process, not the product."
+          },
+          {
+            "id": "K",
+            "content": "What does this all mean? Is passive learning useless? Of course not. In many cases, learning for the sake of learning can be a beautiful thing. Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action. That said, the main point of this article is that learning by itself does not lead to progress. We often hide behind information and use learning as an excuse to delay the more difficult and more important choice of actually doing something. Spend less time passively learning and more time actively practicing. Stop thinking and start doing."
+          }
+        ],
+        "description": "段落匹配"
+      },
+      {
+        "type": "reading_comprehension",
+        "title": "Section C",
+        "passages": [
+          {
+            "id": 1,
+            "title": "Passage One",
+            "content": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. Recent evidence points to drivers’ limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately.\nOne solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don’t read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms.\nThe issue is that, unlike using a smartphone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware.\n“Warning fatigue” and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction. Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won’t fully protect automakers from their legal liability should the system malfunction (发生故障) or an accident occur.\nDriver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this considered, the road forward for self-driving cars is not going to be a smooth ride after all.",
+            "questions": [
+              {
+                "id": 46,
+                "options": [
+                  "A. Automatic driving systems are by no means immune to errors.",
+                  "B. Driverless vehicles are likely to be misused by some people.",
+                  "C. Self-driving car manufacturers are not aware of the legal matters involved.",
+                  "D. There is a long way to go before humans can interact with driverless vehicles."
+                ],
+                "question": "What do we learn from research in human-vehicle interaction?"
+              },
+              {
+                "id": 47,
+                "options": [
+                  "A. End users, young and old alike, find the terms complex to interpret.",
+                  "B. Most end users sign them without bothering to read the terms.",
+                  "C. Many people are often confused by the wording of the terms.",
+                  "D. Most end users do not understand the terms after reading them through."
+                ],
+                "question": "What is the problem with requiring buyers to sign end-user license agreements?"
+              },
+              {
+                "id": 48,
+                "options": [
+                  "A. Waste no time keeping the car moving.",
+                  "B. Rest a while to avoid fatigue driving.",
+                  "C. Take no action despite repeated warnings.",
+                  "D. Take note of the message though fatigued."
+                ],
+                "question": "What would drivers do when they suffer from “warning fatigue”?"
+              },
+              {
+                "id": 49,
+                "options": [
+                  "A. It will probably not guarantee the safety of drivers in case of accidents.",
+                  "B. It likely won’t ensure that the automatic driving system functions properly.",
+                  "C. It likely won’t fully protect automakers against accusations of deliberate cheating.",
+                  "D. It will probably not provide manufacturers adequate protection from legal responsibilities."
+                ],
+                "question": "What does the author think of continuing to ask buyers to sign end-user license agreements?"
+              },
+              {
+                "id": 50,
+                "options": [
+                  "A. Training them to be experts in vehicle automation.",
+                  "B. Familiarizing them with the systems through training,",
+                  "C. Broadening their knowledge of accident-prevention mechanisms.",
+                  "D. Facilitating their access to the information provided by the seller."
+                ],
+                "question": "What should be done to help drivers fully understand system capabilities and limitations?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Passage Two",
+            "content": "Do you ever blend up a protein drink for breakfast or grab a protein bar following an afternoon workout? If so, you are likely among the millions of people in search of more protein-rich diets.\nProtein-enriched products are found everywhere. But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need.\nMany of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. Global retail sales of protein supplement products reached an astonishing US$18.9 billion in 2020.\nBut are we really in need of more protein? Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein.\nIn fact, Americans currently consume almost twice the National Academy of Medicine’s recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level.\nFor example, if you’re a dedicated athlete you might need to consume higher quantities of protein. Generally, though, a 140-pound person should not exceed 120 grams of protein per day, particularly because a high protein diet can strain kidney and liver function and increase risks of developing heart disease and cancer.\nWhile fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite.\nIn the 1970s through the 1990s, protein products remained visible but moved back somewhat with the dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods and beverages following the publication of studies linking sugar and saturated (饱和的) fat consumption to heart disease.\nLater research in 2003, however, suggested high-protein diets could aid in weight loss, and protein quickly regained its former nutrient-superstar status.\nNow most people living in high-income nations are consuming enough protein. When we replace meals with a protein bar or drink, we also risk missing out on the rich sources of antioxidants (抗氧化剂), vitamins and many other benefits of real food.",
+            "questions": [
+              {
+                "id": 51,
+                "options": [
+                  "A. It has helped to create the myth of protein deficiency.",
+                  "B. It has helped Americans in search of protein-rich diets.",
+                  "C. It has raised a lot of health concerns among the public.",
+                  "D. It has been funded by food companies and health experts."
+                ],
+                "question": "What do we learn about publicity over protein in America?"
+              },
+              {
+                "id": 52,
+                "options": [
+                  "A. Americans can purchase many kinds of protein-rich foods everywhere.",
+                  "B. Americans can absorb the number of calories recommended by food experts.",
+                  "C. Americans can get sufficient protein just by eating adequate foods daily.",
+                  "D. Americans can rely on food supplements to prevent protein deficiency."
+                ],
+                "question": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?"
+              },
+              {
+                "id": 53,
+                "options": [
+                  "A. How healthy they are and what food they eat.",
+                  "B. How old they are and what activities they do.",
+                  "C. How much protein they consume and what their body weight is.",
+                  "D. How serious their protein deficiency is and what remedies they use."
+                ],
+                "question": "What should people take into consideration in deciding on the most preferable protein intake?"
+              },
+              {
+                "id": 54,
+                "options": [
+                  "A. Sugar-free snacks.",
+                  "B. Protein-rich foods.",
+                  "C. Both red and white meats.",
+                  "D. Sugary and fatty foods."
+                ],
+                "question": "What foods have been largely out of favor for more than a century?"
+              },
+              {
+                "id": 55,
+                "options": [
+                  "A. Enjoy natural food.",
+                  "B. Eat vegetarian diets.",
+                  "C. Consume enough protein daily.",
+                  "D. Replace meals with protein bars."
+                ],
+                "question": "What does the author imply people in developed countries should do to keep healthy?"
+              }
+            ]
+          }
+        ],
+        "description": "阅读理解"
+      }
+    ]
+  },
+  "writing": {
+    "score": 15,
+    "directions": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on how the students can contribute to a green campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "time_limit": 30,
+    "word_limit_max": 180,
+    "word_limit_min": 120
+  },
+  "translation": {
+    "score": 15,
+    "content": "敦煌莫高窟(Mogao Grottoes)数字展示中心于2014年开放启用,是莫高窟保护利用工程的重要组成部分。展示中心采用数字技术和多媒体展示手段,使游客进入洞窟参观之前就能了解莫高窟的历史文化,鉴赏莫高窟的艺术经典。这将减少开放洞窟的数量,缩短游客在洞窟内的逗留时间,减轻参观对莫高窟造成的影响,以使这一世界文化遗产得到妥善保护、长久利用。",
+    "directions": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English.",
+    "time_limit": 30
+  },
+  "audio_urls": {
+    "Section A": "https://admin.examcrafts.com/media/exams/cet/audio/split_bY6Yzcc_wSpgVXD.mp3",
+    "Section B": "https://admin.examcrafts.com/media/exams/cet/audio/split_1_r3icvcD_R3eNLxY.mp3",
+    "Section C": "https://admin.examcrafts.com/media/exams/cet/audio/split_2_vLNytYJ_8MhjsaA.mp3"
+  },
+  "writing_image_url": null,
+  "news_transcript": "",
+  "conversations_transcript": "",
+  "passages_transcript": "",
+  "news_transcript_en": "1\r\n00:00:00,820 --> 00:00:11,760\r\nCollege English Test Band 4. Part 2. Listening Comprehension. Section A. Directions. In this section, you'll hear three\r\n\r\n2\r\n00:00:11,760 --> 00:00:18,620\r\nnews reports. At the end of each news report, you'll hear two or three questions. Both the news\r\n\r\n3\r\n00:00:18,620 --> 00:00:25,160\r\nreports and the questions will be spoken only once. After you hear a question, you must choose\r\n\r\n4\r\n00:00:25,160 --> 00:00:32,060\r\nthe best answer from the four choices marked a, b, c, and d. Then mark the corresponding\r\n\r\n5\r\n00:00:32,060 --> 00:00:36,640\r\nletter on answer sheet 1 with a single line through the center.\r\n\r\n6\r\n00:00:38,160 --> 00:00:46,220\r\nNews report 1. Across the US, families are looking to the winter with fear as energy costs\r\n\r\n7\r\n00:00:46,220 --> 00:00:52,380\r\nsore. A number of factors are creating a bad situation. Global energy consumption is\r\n\r\n8\r\n00:00:52,380 --> 00:00:54,780\r\nup, but supplies have been reduced.\r\n\r\n9\r\n00:00:55,480 --> 00:01:01,380\r\nThe energy department projects heating bills will jump 28% this winter, for those who\r\n\r\n10\r\n00:01:01,380 --> 00:01:02,800\r\nrely on natural gas.\r\n\r\n11\r\n00:01:03,540 --> 00:01:07,740\r\nNatural gas is used by nearly half of US households for heat.\r\n\r\n12\r\n00:01:08,320 --> 00:01:13,940\r\nheating oil is projected to be 27% higher and electricity 10% higher.\r\n\r\n13\r\n00:01:14,480 --> 00:01:20,120\r\nThat comes against inflation rates that accelerated last month, with consumer prices growing\r\n\r\n14\r\n00:01:20,120 --> 00:01:27,640\r\n6.6%. That's the fastest pace in four decades. The pain will be especially acute in\r\n\r\n15\r\n00:01:27,640 --> 00:01:33,460\r\nparts of the country that heavily rely on heating oil to keep homes warm. It's projected\r\n\r\n16\r\n00:01:33,460 --> 00:01:40,160\r\nto cost more than $2,300 to heat a typical home with heating oil this winter.\r\n\r\n17\r\n00:01:40,880 --> 00:01:47,160\r\nLast month, the federal government added $1 billion in funding to low-income home energy\r\n\r\n18\r\n00:01:47,160 --> 00:01:53,920\r\nassistance program, bringing the total to $4.8 billion. But that represents a reduction\r\n\r\n19\r\n00:01:53,920 --> 00:01:58,360\r\nfrom last year's energy assistance package of over $8 billion.\r\n\r\n20\r\n00:01:59,980 --> 00:02:04,680\r\nQuestions 1 and 2 are based on the news report you have just heard.\r\n\r\n21\r\n00:02:05,860 --> 00:02:11,120\r\nQuestion 1. Why a family is across the US looking to this winter with fear?\r\n\r\n22\r\n00:02:25,960 --> 00:02:31,640\r\nQuestion 2. What did the federal government do last month?\r\n\r\n23\r\n00:02:46,400 --> 00:02:54,640\r\nNews Report 2 Many Americans think they make healthy food choices, but they may be viewing\r\n\r\n24\r\n00:02:54,640 --> 00:02:56,620\r\ntheir diet too optimistically.\r\n\r\n25\r\n00:02:56,620 --> 00:03:04,480\r\nThat's the main finding of a new study by researchers at the U.S. Department of Agriculture in Stonville, Mississippi.\r\n\r\n26\r\n00:03:05,040 --> 00:03:12,980\r\nThe study aimed to identify disconnects between hell-healthily Americans think they eat and how they actually do.\r\n\r\n27\r\n00:03:13,740 --> 00:03:22,080\r\nFor the study, the researchers asked participants to rate their diet as excellent, very good, good, fair, or poor.\r\n\r\n28\r\n00:03:22,080 --> 00:03:26,580\r\nFolks also completed 24-hour food questionnaires.\r\n\r\n29\r\n00:03:27,060 --> 00:03:33,940\r\nThen the researchers compared answers to see how well responses to the two exercises matched up.\r\n\r\n30\r\n00:03:34,440 --> 00:03:43,340\r\nOf more than 9,700 people, roughly 85% will off-base when asked to rate the quality of their diet.\r\n\r\n31\r\n00:03:44,080 --> 00:03:47,660\r\nAnd almost all over estimated how healthy it was.\r\n\r\n32\r\n00:03:47,660 --> 00:03:52,960\r\nThose who rated their diet as poor tend to be far more accurate.\r\n\r\n33\r\n00:03:53,640 --> 00:03:59,000\r\nThey're rating match that to the researchers more than nine times out of ten.\r\n\r\n34\r\n00:03:59,940 --> 00:04:04,180\r\nQuestions three and four are based on the news report you have just heard.\r\n\r\n35\r\n00:04:04,780 --> 00:04:09,800\r\nQuestion three. What is the main finding of a new study about many Americans?\r\n\r\n36\r\n00:04:25,080 --> 00:04:30,760\r\nQuestion 4. Who attended to rate their diet more accurately in the survey?\r\n\r\n37\r\n00:04:45,680 --> 00:04:51,720\r\nNews Report 3 It was a heartwarming moment that dozens of Indian\r\n\r\n38\r\n00:04:51,720 --> 00:05:00,720\r\nrescuers rallied together to use a crane in order to save an elephant trapped at the\r\n\r\n39\r\n00:05:00,720 --> 00:05:07,660\r\nrescue effort took place last week close to an army camp. The elephant wandered out of the jungle\r\n\r\n40\r\n00:05:07,660 --> 00:05:13,860\r\nand fell into the well. The army officers heard a noise coming from the well and realized\r\n\r\n41\r\n00:05:13,860 --> 00:05:20,340\r\nan elephant was trapped deep inside. The officers then threw in some food for the creature\r\n\r\n42\r\n00:05:20,340 --> 00:05:30,700\r\nand called the local forest department for help. Video of the rescue operation shows how the\r\n\r\n43\r\n00:05:30,700 --> 00:05:37,300\r\nwell, and on to the back of a truck. It was then taken to an examining room for evaluation\r\n\r\n44\r\n00:05:37,300 --> 00:05:44,500\r\nof any injuries. The elephant was kept under close supervision for a few days before it was\r\n\r\n45\r\n00:05:44,500 --> 00:05:47,160\r\nsuccessfully released back into the wild.\r\n\r\n46\r\n00:05:48,280 --> 00:05:55,860\r\nQuestions 5-7 are based on the news report you have just heard. Question 5. What does\r\n\r\n47\r\n00:05:55,860 --> 00:05:59,740\r\nreport say dozens of Indians did last week?\r\n\r\n48\r\n00:06:14,800 --> 00:06:15,780\r\nQuestion 6.\r\n\r\n49\r\n00:06:16,380 --> 00:06:20,020\r\nWhy did the Army officers call the local forest department?\r\n\r\n50\r\n00:06:35,140 --> 00:06:40,120\r\nQuestion 7. What does the news report say happened finally?",
+  "news_transcript_zh": "",
+  "conversations_transcript_en": "1\r\n00:00:02,579 --> 00:00:12,480\r\nSection B, Directions. In this section you'll hear two long conversations. At the end of each conversation, you'll hear four questions.\r\n\r\n2\r\n00:00:13,280 --> 00:00:25,160\r\nBoth the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.\r\n\r\n3\r\n00:00:25,160 --> 00:00:30,920\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:33,020 --> 00:00:34,260\r\nConversation 1\r\n\r\n5\r\n00:00:34,260 --> 00:00:37,240\r\nI need to stop at the bank to withdraw some cash.\r\n\r\n6\r\n00:00:37,800 --> 00:00:39,460\r\nWhy not just pay with your phone?\r\n\r\n7\r\n00:00:40,000 --> 00:00:44,460\r\nWell actually I've stopped using online payments for the past three months now.\r\n\r\n8\r\n00:00:44,800 --> 00:00:46,040\r\nStop paying online.\r\n\r\n9\r\n00:00:46,780 --> 00:00:50,240\r\nOh, you must be worried that online payments aren't secure.\r\n\r\n10\r\n00:00:51,000 --> 00:00:52,640\r\nNo, they are safe.\r\n\r\n11\r\n00:00:52,640 --> 00:00:58,640\r\nBut paying online is too convenient and I spent too much money on things I didn't need.\r\n\r\n12\r\n00:00:59,200 --> 00:01:03,020\r\nOh, impulse purchases can be an issue for me too.\r\n\r\n13\r\n00:01:03,240 --> 00:01:08,660\r\nI've definitely bought clothes and shoes I didn't need because they were on sale, and paying\r\n\r\n14\r\n00:01:08,660 --> 00:01:10,640\r\nwith my phone was so easy.\r\n\r\n15\r\n00:01:11,080 --> 00:01:16,620\r\nBut I found that if I review my spending every night, that keeps me from spending too much.\r\n\r\n16\r\n00:01:16,620 --> 00:01:22,780\r\nI tried that strategy, but it just didn't work, because I'd be busy studying all day,\r\n\r\n17\r\n00:01:22,960 --> 00:01:28,380\r\nthen when I was tired and hungry, I'd use my phone to order food like burgers and other\r\n\r\n18\r\n00:01:28,380 --> 00:01:28,840\r\njunk.\r\n\r\n19\r\n00:01:29,060 --> 00:01:33,340\r\nInstead of going to the canteen, where I could get a healthier meal for half the price.\r\n\r\n20\r\n00:01:33,880 --> 00:01:35,840\r\nWell, what do you do now then?\r\n\r\n21\r\n00:01:36,040 --> 00:01:38,720\r\nIt seems like you'd have the same problems with cash.\r\n\r\n22\r\n00:01:39,360 --> 00:01:44,340\r\nI'd go to the bank once a week, and the rest of the time I keep my bank card at home,\r\n\r\n23\r\n00:01:44,340 --> 00:01:50,140\r\nso I can't get more cash out. And I also have a notebook where I record my expenses.\r\n\r\n24\r\n00:01:50,860 --> 00:01:55,880\r\nBut what prevents you from just going to the bank and getting more money if you want to buy something?\r\n\r\n25\r\n00:01:56,640 --> 00:02:07,980\r\nThe first month I did withdraw extra cash twice, but I felt guilty about it, and after that I refused to spend more than what I had budgeted. And by now, it's just a habit.\r\n\r\n26\r\n00:02:08,759 --> 00:02:13,420\r\nQuestion 8-11, or based on the conversation you have just heard.\r\n\r\n27\r\n00:02:13,960 --> 00:02:19,420\r\nQuestion 8. Why has the man stopped paying online for the last three months?\r\n\r\n28\r\n00:02:34,720 --> 00:02:39,780\r\nQuestion 9. What problem does the woman say she may also have?\r\n\r\n29\r\n00:02:55,420 --> 00:03:00,740\r\nQuestion 10. What does the man say he could do at the canteen?\r\n\r\n30\r\n00:03:15,580 --> 00:03:19,400\r\nQuestion 11. What is now just a habit for the\r\n\r\n31\r\n00:03:20,780 --> 00:03:21,380\r\nman.\r\n\r\n32\r\n00:03:36,460 --> 00:03:37,660\r\nConversation 2.\r\n\r\n33\r\n00:03:38,080 --> 00:03:38,980\r\nPlease hear me out.\r\n\r\n34\r\n00:03:39,440 --> 00:03:44,900\r\nI don't want our son to spend his afternoon doing something he hates, even if it might\r\n\r\n35\r\n00:03:44,900 --> 00:03:46,240\r\nprepare him for the future.\r\n\r\n36\r\n00:03:46,240 --> 00:03:49,660\r\nWhat about getting him to join a sport like soccer?\r\n\r\n37\r\n00:03:50,360 --> 00:03:55,460\r\nFrom all the running and training, he could become quite athletic, not to mention the great\r\n\r\n38\r\n00:03:55,460 --> 00:03:59,140\r\nphysical benefits from exercising outside every day.\r\n\r\n39\r\n00:03:59,960 --> 00:04:04,200\r\nHmm, I don't think he should be doing something so challenging with all his breathing\r\n\r\n40\r\n00:04:04,200 --> 00:04:04,960\r\nissues.\r\n\r\n41\r\n00:04:05,600 --> 00:04:08,580\r\nWhat about playing an indoor sport, like badminton?\r\n\r\n42\r\n00:04:09,180 --> 00:04:13,240\r\nThe environment is easier to control, and he can still get a good workout.\r\n\r\n43\r\n00:04:13,240 --> 00:04:19,500\r\nIn addition to improving his hand-eye coordination, besides, I could teach him some of the basics\r\n\r\n44\r\n00:04:19,500 --> 00:04:22,000\r\nfrom my time as a bad-mitten player.\r\n\r\n45\r\n00:04:23,020 --> 00:04:26,640\r\nHmm, I'm thinking team sports should be the way to go.\r\n\r\n46\r\n00:04:26,920 --> 00:04:31,580\r\nThere's nothing like playing as part of a unit to accomplish a goal like winning a game\r\n\r\n47\r\n00:04:31,580 --> 00:04:32,840\r\nor even a championship.\r\n\r\n48\r\n00:04:33,680 --> 00:04:38,720\r\nHe could try basketball since many of the courts are indoors now, and it's a sport that\r\n\r\n49\r\n00:04:38,720 --> 00:04:42,820\r\ncould help him understand Team Spirit while cooperating with others.\r\n\r\n50\r\n00:04:43,740 --> 00:04:47,440\r\nMaybe he could even join the school basketball team when he's ready.\r\n\r\n51\r\n00:04:48,040 --> 00:04:49,760\r\nOh, oh, what about volleyball?\r\n\r\n52\r\n00:04:50,420 --> 00:04:56,760\r\nIt's a team sport, and they often have mixed gender teams, so he could socialize with both girls and boys.\r\n\r\n53\r\n00:04:57,400 --> 00:05:04,560\r\nIt's not as popular as some sports, which means he has better odds of possibly getting an athletic scholarship in the future.\r\n\r\n54\r\n00:05:04,560 --> 00:05:09,960\r\nI also believe you were a beach volleyball athlete yourself not so long ago.\r\n\r\n55\r\n00:05:10,440 --> 00:05:17,580\r\nAs I've said many times before, beach volleyball and indoor volleyball are completely different.\r\n\r\n56\r\n00:05:18,740 --> 00:05:23,200\r\nQuestions 12-15 are based on the conversation you have just heard.\r\n\r\n57\r\n00:05:23,960 --> 00:05:24,800\r\nQuestion 12.\r\n\r\n58\r\n00:05:25,400 --> 00:05:29,480\r\nWhy is the woman opposed to their son joining a sport like soccer?\r\n\r\n59\r\n00:05:44,700 --> 00:05:51,740\r\nQuestion 13. What does the man suggest their son try in order to understand team spirit?\r\n\r\n60\r\n00:06:07,260 --> 00:06:14,280\r\nQuestion 14. What is one of the woman's considerations in choosing a sport for her son?\r\n\r\n61\r\n00:06:28,720 --> 00:06:33,040\r\nQuestion 15. What does the man say about Beach volleyball?",
+  "conversations_transcript_zh": "",
+  "passages_transcript_en": "1\r\n00:00:01,840 --> 00:00:11,640\r\nSection C, directions. In this section you will hear three passages. At the end of each passage, you will hear three or four questions.\r\n\r\n2\r\n00:00:12,400 --> 00:00:24,340\r\nBoth the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.\r\n\r\n3\r\n00:00:24,340 --> 00:00:30,340\r\nThen mark the corresponding letter on answer sheet 1 with a single line through the center.\r\n\r\n4\r\n00:00:32,060 --> 00:00:33,580\r\nPassage 1.\r\n\r\n5\r\n00:00:33,640 --> 00:00:39,500\r\nLift off is usually the most environmentally harmful stage of any space mission.\r\n\r\n6\r\n00:00:40,120 --> 00:00:43,720\r\nWith vast quantities of fuel burnt up in a matter of minutes.\r\n\r\n7\r\n00:00:44,160 --> 00:00:50,520\r\nFor instance, space X's Falcon 9 gets through 112 tons of refined fuel,\r\n\r\n8\r\n00:00:50,520 --> 00:00:54,720\r\nAll, emitting about 336 tons of CO2.\r\n\r\n9\r\n00:00:55,120 --> 00:01:01,420\r\nThis is the equivalent produced by your average car driving almost 70 times around the world.\r\n\r\n10\r\n00:01:02,340 --> 00:01:07,500\r\nAs well as greenhouse gases, rocket engines emit particles that destroy ozone.\r\n\r\n11\r\n00:01:08,120 --> 00:01:12,820\r\nThese issues are growing more pressing with the emergence of commercial spaceflight.\r\n\r\n12\r\n00:01:13,460 --> 00:01:20,500\r\nThere were 114 space launches in 2020, but there may be up to 1000 per year in the\r\n\r\n13\r\n00:01:20,500 --> 00:01:28,700\r\nin future. Sustainable fuels are the top priority to enable greener space travel. Current\r\n\r\n14\r\n00:01:28,700 --> 00:01:35,740\r\nspace craft use a variety of fuels, but most are based on fossil fuels. One potentially\r\n\r\n15\r\n00:01:35,740 --> 00:01:42,640\r\ngreener option is liquid hydrogen and oxygen. Hydrogen can be obtained sustainably by\r\n\r\n16\r\n00:01:42,640 --> 00:01:50,220\r\nusing solar power to break water down into oxygen and hydrogen. Reusable rockets can cut\r\n\r\n17\r\n00:01:50,220 --> 00:01:56,600\r\ndown on some of the waste associated with spaceflight. Traditionally, boosters, fuel tanks,\r\n\r\n18\r\n00:01:56,880 --> 00:02:02,740\r\nand other components are treaters as expendable. But guiding them back to Earth in a controlled\r\n\r\n19\r\n00:02:02,740 --> 00:02:11,280\r\nmanner opens new possibilities. Most components from the Falcon 9 can be reused up to 100 times.\r\n\r\n20\r\n00:02:12,300 --> 00:02:19,480\r\nTruly environmentally friendly space travel is still some way off. But we already have many of\r\n\r\n21\r\n00:02:19,480 --> 00:02:24,520\r\ntechnologies needed to start limiting its impact on our planet.\r\n\r\n22\r\n00:02:25,740 --> 00:02:30,000\r\nQuestions 16 to 18 are based on the passage you have just heard.\r\n\r\n23\r\n00:02:30,480 --> 00:02:31,440\r\nQuestion 16.\r\n\r\n24\r\n00:02:32,380 --> 00:02:36,120\r\nWhat do we learn from the passage about the lift off of spacecraft?\r\n\r\n25\r\n00:02:51,180 --> 00:03:00,420\r\nQuestion 17 What happens traditionally to boosters, fuel tanks, and other components in spaceflight?\r\n\r\n26\r\n00:03:15,280 --> 00:03:21,980\r\nQuestion 18. What does the passage say? We already have regarding spaceflight.\r\n\r\n27\r\n00:03:37,680 --> 00:03:41,400\r\nPassage 2 Helping to look after a pet,\r\n\r\n28\r\n00:03:41,780 --> 00:03:45,900\r\nConficility, numerous aspects of a child's emotional development.\r\n\r\n29\r\n00:03:46,640 --> 00:03:52,720\r\nResearch shows that reading to a loyal and non-judgmental companion, such as a dog or cat,\r\n\r\n30\r\n00:03:53,000 --> 00:03:59,060\r\ncan encourage reluctant readers to read aloud, which will in turn boost their self-confidence.\r\n\r\n31\r\n00:03:59,060 --> 00:04:05,540\r\nHaving a companion to talk to you about their feelings can also help children feel secure,\r\n\r\n32\r\n00:04:06,160 --> 00:04:08,240\r\nand develop communication skills.\r\n\r\n33\r\n00:04:09,580 --> 00:04:15,800\r\nA household pet can also cultivate a child's sense of responsibility, as their parent explains\r\n\r\n34\r\n00:04:15,800 --> 00:04:20,320\r\nthe necessary processes of keeping their pet happy and healthy.\r\n\r\n35\r\n00:04:21,220 --> 00:04:27,920\r\nAs a child matures, they can then take on more of the daily responsibilities, boosting their sense of independence.\r\n\r\n36\r\n00:04:29,060 --> 00:04:33,400\r\nPets also provide a fantastic subject for research and learning.\r\n\r\n37\r\n00:04:34,120 --> 00:04:38,420\r\nParents can encourage their child to research their favorite pets at the library,\r\n\r\n38\r\n00:04:39,060 --> 00:04:41,500\r\nor during a supervised internet search.\r\n\r\n39\r\n00:04:42,760 --> 00:04:46,120\r\nTaking children along to the pet shop to buy food and supplies\r\n\r\n40\r\n00:04:46,120 --> 00:04:51,120\r\nwill support their cognitive development as their passion for learning flourishes.\r\n\r\n41\r\n00:04:52,320 --> 00:04:57,880\r\nA child's physical development can benefit greatly from taking pets for walks in the fresh air,\r\n\r\n42\r\n00:04:57,880 --> 00:05:03,300\r\nEven their fine motor skills can be utilized in taking care of a beloved animal.\r\n\r\n43\r\n00:05:04,560 --> 00:05:09,720\r\nWhen responsibilities are well-paced and communicated, a child can benefit greatly from\r\n\r\n44\r\n00:05:09,720 --> 00:05:12,840\r\ninvolvement in bringing up a happy and healthy pet.\r\n\r\n45\r\n00:05:13,940 --> 00:05:19,180\r\nAnd of course, if a child doesn't have a pet in their own household, they can still benefit\r\n\r\n46\r\n00:05:19,180 --> 00:05:22,780\r\nfrom all of the above when visiting a friend who does.\r\n\r\n47\r\n00:05:22,780 --> 00:05:25,020\r\nQuestion 19.\r\n\r\n48\r\n00:05:26,100 --> 00:05:28,500\r\nA based on the passage you have just heard.\r\n\r\n49\r\n00:05:29,080 --> 00:05:30,080\r\nQuestion 19.\r\n\r\n50\r\n00:05:30,800 --> 00:05:36,060\r\nWhat does research show about reading to a loyal and non-judgmental companion?\r\n\r\n51\r\n00:05:51,220 --> 00:05:52,620\r\nQuestion 20.\r\n\r\n52\r\n00:05:52,620 --> 00:05:59,540\r\nHow can parents make pets a fantastic subject for their children's research and learning?\r\n\r\n53\r\n00:06:14,200 --> 00:06:15,900\r\nQuestion 21.\r\n\r\n54\r\n00:06:15,900 --> 00:06:22,160\r\nHow can children still benefit even when their family doesn't have a pet?\r\n\r\n55\r\n00:06:37,420 --> 00:06:39,100\r\nPassage 3\r\n\r\n56\r\n00:06:39,100 --> 00:06:45,660\r\nA new bill in their higher legislature would require state public colleges and universities to send\r\n\r\n57\r\n00:06:45,660 --> 00:06:52,200\r\nrespective students a packet of information. This would include costs of college, grants,\r\n\r\n58\r\n00:06:52,660 --> 00:06:59,560\r\nand scholarships. It would also include expected monthly loan payments and projected salarate\r\n\r\n59\r\n00:06:59,560 --> 00:07:06,720\r\nafter college. State representative Adam Matthews is one of the two legislators who proposed\r\n\r\n60\r\n00:07:06,720 --> 00:07:13,180\r\nthe bill. He said it would give prospective students more information about what to expect\r\n\r\n61\r\n00:07:13,180 --> 00:07:19,580\r\nonce they graduate. Putting that information in front of them will give them the best opportunity\r\n\r\n62\r\n00:07:19,580 --> 00:07:25,100\r\nto match their skills and their dreams to what our schools can provide, said Matthews.\r\n\r\n63\r\n00:07:26,720 --> 00:07:32,820\r\nHe notes that the state can only regulate public institutions in this way, but he hopes\r\n\r\n64\r\n00:07:32,820 --> 00:07:38,920\r\nprivate institutions in Ohio follow the lead of the state and post similar information.\r\n\r\n65\r\n00:07:38,920 --> 00:07:46,380\r\nHe believes giving out that information will help Ohio's colleges and universities to be more competitive.\r\n\r\n66\r\n00:07:47,200 --> 00:07:52,860\r\nThe information will highlight what a great value they have for their very reasonable cost.\r\n\r\n67\r\n00:07:53,880 --> 00:07:56,600\r\nOhio's schools are already competitive.\r\n\r\n68\r\n00:07:57,200 --> 00:08:02,680\r\nThe state attracts more undergraduate students than it sends to colleges out of state.\r\n\r\n69\r\n00:08:02,680 --> 00:08:09,260\r\nMany colleges and universities currently provide similar information on their websites.\r\n\r\n70\r\n00:08:09,940 --> 00:08:15,300\r\nThis includes tuition, fees, graduation rates and more.\r\n\r\n71\r\n00:08:15,840 --> 00:08:18,320\r\nBut students need to search for the information.\r\n\r\n72\r\n00:08:18,920 --> 00:08:25,040\r\nThis bill would require the universities and colleges to send a packet directly to students.\r\n\r\n73\r\n00:08:26,340 --> 00:08:30,800\r\nQuestions 22-25 are based on the passage you have just heard.\r\n\r\n74\r\n00:08:30,800 --> 00:08:39,800\r\nQuestion 22 What would the new bill in the Ohio legislature require public colleges and universities to do?\r\n\r\n75\r\n00:08:54,720 --> 00:09:01,140\r\nQuestion 23. What can the state only do according to Adam Matthews?\r\n\r\n76\r\n00:09:16,100 --> 00:09:22,420\r\nQuestion 24. What do we learn about Ohio schools from the passage?\r\n\r\n77\r\n00:09:37,340 --> 00:09:44,340\r\nQuestion 25. What is the problem with schools providing information on their websites?\r\n\r\n78\r\n00:10:00,000 --> 00:10:02,200\r\nThat's the end of listening comprehension.",
+  "passages_transcript_zh": ""
+}
